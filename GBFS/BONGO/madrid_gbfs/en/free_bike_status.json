@@ -1,0 +1,5479 @@
+{
+    "last_updated": 1732208528,
+    "data": {"bikes": [
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.6709577453529243,
+            "bike_id": "bongo_MADRID001",
+            "lat": 40.369205275769936,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.6193072171807827,
+            "bike_id": "bongo_MADRID002",
+            "lat": 40.45771389098652,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.646483220890778,
+            "bike_id": "bongo_MADRID003",
+            "lat": 40.492037987525194,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.7555327559935896,
+            "bike_id": "bongo_MADRID004",
+            "lat": 40.37958273668465,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.63736900008781,
+            "bike_id": "bongo_MADRID005",
+            "lat": 40.3014992382657,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.6885342859870627,
+            "bike_id": "bongo_MADRID006",
+            "lat": 40.37817968249479,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.7857469572558538,
+            "bike_id": "bongo_MADRID007",
+            "lat": 40.330866383068866,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.7023334181541894,
+            "bike_id": "bongo_MADRID008",
+            "lat": 40.39270092555616,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.7389513549105047,
+            "bike_id": "bongo_MADRID009",
+            "lat": 40.427422793841,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.6720648521229675,
+            "bike_id": "bongo_MADRID010",
+            "lat": 40.42505941605376,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.6984367880773763,
+            "bike_id": "bongo_MADRID011",
+            "lat": 40.461332561172235,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.6724585433516697,
+            "bike_id": "bongo_MADRID012",
+            "lat": 40.43113870296252,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.7954417876594544,
+            "bike_id": "bongo_MADRID013",
+            "lat": 40.396343828964504,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.6220518519226346,
+            "bike_id": "bongo_MADRID014",
+            "lat": 40.42426603298362,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.7988667016771127,
+            "bike_id": "bongo_MADRID015",
+            "lat": 40.33560194101695,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.743600435914888,
+            "bike_id": "bongo_MADRID016",
+            "lat": 40.42918592246299,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.7108347496089027,
+            "bike_id": "bongo_MADRID017",
+            "lat": 40.40585377321372,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.7711565949664365,
+            "bike_id": "bongo_MADRID018",
+            "lat": 40.37481547945187,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.7554048939766704,
+            "bike_id": "bongo_MADRID019",
+            "lat": 40.39332435152239,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.784283882140835,
+            "bike_id": "bongo_MADRID020",
+            "lat": 40.46406271209075,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.6159053335060283,
+            "bike_id": "bongo_MADRID021",
+            "lat": 40.49454714583899,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.6998766494757325,
+            "bike_id": "bongo_MADRID022",
+            "lat": 40.4089890602434,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.7263563469423473,
+            "bike_id": "bongo_MADRID023",
+            "lat": 40.39542918906206,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.602053385561137,
+            "bike_id": "bongo_MADRID024",
+            "lat": 40.36959744467696,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.77245123671901,
+            "bike_id": "bongo_MADRID025",
+            "lat": 40.34183233543557,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.6405924673117314,
+            "bike_id": "bongo_MADRID026",
+            "lat": 40.48452702452102,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.7075641417912175,
+            "bike_id": "bongo_MADRID027",
+            "lat": 40.31495184777621,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.7783791887513325,
+            "bike_id": "bongo_MADRID028",
+            "lat": 40.33193596475233,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.7392534345594197,
+            "bike_id": "bongo_MADRID029",
+            "lat": 40.474773644016395,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.6183327619895147,
+            "bike_id": "bongo_MADRID030",
+            "lat": 40.30885343275039,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.6917295173892697,
+            "bike_id": "bongo_MADRID031",
+            "lat": 40.4848913643661,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.6902820265486196,
+            "bike_id": "bongo_MADRID032",
+            "lat": 40.367282079476695,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.699755651695777,
+            "bike_id": "bongo_MADRID033",
+            "lat": 40.38196458803477,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.7282586590787212,
+            "bike_id": "bongo_MADRID034",
+            "lat": 40.39533226455624,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.7394507140747195,
+            "bike_id": "bongo_MADRID035",
+            "lat": 40.30309936528686,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.618676621108887,
+            "bike_id": "bongo_MADRID036",
+            "lat": 40.381669273363485,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.6514625228797994,
+            "bike_id": "bongo_MADRID037",
+            "lat": 40.434432425064614,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.64986655491591,
+            "bike_id": "bongo_MADRID038",
+            "lat": 40.3515547600592,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.661980520950125,
+            "bike_id": "bongo_MADRID039",
+            "lat": 40.39420019861967,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.643433953075709,
+            "bike_id": "bongo_MADRID040",
+            "lat": 40.31276369299281,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.757056566664985,
+            "bike_id": "bongo_MADRID041",
+            "lat": 40.313573961272596,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.697909759624513,
+            "bike_id": "bongo_MADRID042",
+            "lat": 40.499658028966,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.6157025907182874,
+            "bike_id": "bongo_MADRID043",
+            "lat": 40.328542371322726,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.625162253726991,
+            "bike_id": "bongo_MADRID044",
+            "lat": 40.45369837638094,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.757233851418118,
+            "bike_id": "bongo_MADRID045",
+            "lat": 40.446122575607085,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.7100388722883264,
+            "bike_id": "bongo_MADRID046",
+            "lat": 40.32867491102172,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.7083265295125214,
+            "bike_id": "bongo_MADRID047",
+            "lat": 40.3981812128848,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.7737067732335796,
+            "bike_id": "bongo_MADRID048",
+            "lat": 40.45893874041749,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.745258462402175,
+            "bike_id": "bongo_MADRID049",
+            "lat": 40.34614651881852,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.6711609106302663,
+            "bike_id": "bongo_MADRID050",
+            "lat": 40.478915065472364,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.7168016976463036,
+            "bike_id": "bongo_MADRID051",
+            "lat": 40.34989278475298,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.70336828181646,
+            "bike_id": "bongo_MADRID052",
+            "lat": 40.33217927719624,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.6032356820137847,
+            "bike_id": "bongo_MADRID053",
+            "lat": 40.36407845601873,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.774517202646985,
+            "bike_id": "bongo_MADRID054",
+            "lat": 40.35837733275109,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.6169497823770587,
+            "bike_id": "bongo_MADRID055",
+            "lat": 40.37521905490595,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.6748403082728878,
+            "bike_id": "bongo_MADRID056",
+            "lat": 40.496271576959025,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.600103932349068,
+            "bike_id": "bongo_MADRID057",
+            "lat": 40.34277625426931,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.6194800059266656,
+            "bike_id": "bongo_MADRID058",
+            "lat": 40.49119334305619,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.624816117352105,
+            "bike_id": "bongo_MADRID059",
+            "lat": 40.457544297339865,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.723865185906917,
+            "bike_id": "bongo_MADRID060",
+            "lat": 40.44518352119018,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.6513454786077464,
+            "bike_id": "bongo_MADRID061",
+            "lat": 40.480615028610075,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.64606789786337,
+            "bike_id": "bongo_MADRID062",
+            "lat": 40.49810235840973,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.649739753207116,
+            "bike_id": "bongo_MADRID063",
+            "lat": 40.3762027835219,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.776608767283529,
+            "bike_id": "bongo_MADRID064",
+            "lat": 40.477989775501975,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.740415859062844,
+            "bike_id": "bongo_MADRID065",
+            "lat": 40.30161042417596,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.706179887594102,
+            "bike_id": "bongo_MADRID066",
+            "lat": 40.40895738544973,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.659142271866513,
+            "bike_id": "bongo_MADRID067",
+            "lat": 40.467617680874866,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.6517539523476175,
+            "bike_id": "bongo_MADRID068",
+            "lat": 40.41489352121601,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.6018920848093536,
+            "bike_id": "bongo_MADRID069",
+            "lat": 40.43257316271443,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.6715483286347466,
+            "bike_id": "bongo_MADRID070",
+            "lat": 40.40726251872281,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.6550353579568298,
+            "bike_id": "bongo_MADRID071",
+            "lat": 40.44347121044711,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.649312936030512,
+            "bike_id": "bongo_MADRID072",
+            "lat": 40.39527943309135,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.766339595880822,
+            "bike_id": "bongo_MADRID073",
+            "lat": 40.48729484307267,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.778410523436403,
+            "bike_id": "bongo_MADRID074",
+            "lat": 40.306741557690586,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.7622471079615463,
+            "bike_id": "bongo_MADRID075",
+            "lat": 40.36590609207966,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.626158227498122,
+            "bike_id": "bongo_MADRID076",
+            "lat": 40.457797889788196,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.6668979305204843,
+            "bike_id": "bongo_MADRID077",
+            "lat": 40.35776495542141,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.6088991018185004,
+            "bike_id": "bongo_MADRID078",
+            "lat": 40.45993785125636,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.728367120330761,
+            "bike_id": "bongo_MADRID079",
+            "lat": 40.47975818319353,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.658272376965686,
+            "bike_id": "bongo_MADRID080",
+            "lat": 40.40248048412243,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.7075851806226394,
+            "bike_id": "bongo_MADRID081",
+            "lat": 40.41241920309271,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.609151183709508,
+            "bike_id": "bongo_MADRID082",
+            "lat": 40.398845404084604,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.7354102905497637,
+            "bike_id": "bongo_MADRID083",
+            "lat": 40.401820408054554,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.7897165218378492,
+            "bike_id": "bongo_MADRID084",
+            "lat": 40.434886721352264,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.7933211871506667,
+            "bike_id": "bongo_MADRID085",
+            "lat": 40.301419029213605,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.6441362203969994,
+            "bike_id": "bongo_MADRID086",
+            "lat": 40.30757122236157,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.6231993871624573,
+            "bike_id": "bongo_MADRID087",
+            "lat": 40.36713791940136,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.7683176076328015,
+            "bike_id": "bongo_MADRID088",
+            "lat": 40.49228201725575,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.621669488942728,
+            "bike_id": "bongo_MADRID089",
+            "lat": 40.46896240327009,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.689202658828328,
+            "bike_id": "bongo_MADRID090",
+            "lat": 40.42702893624998,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.62446637745716,
+            "bike_id": "bongo_MADRID091",
+            "lat": 40.43233451776835,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.668074407370112,
+            "bike_id": "bongo_MADRID092",
+            "lat": 40.351846920003176,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.6362979936127156,
+            "bike_id": "bongo_MADRID093",
+            "lat": 40.47262586611108,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.7583432963415846,
+            "bike_id": "bongo_MADRID094",
+            "lat": 40.491663631982526,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.7116724834433072,
+            "bike_id": "bongo_MADRID095",
+            "lat": 40.335970315092766,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.6982822813077347,
+            "bike_id": "bongo_MADRID096",
+            "lat": 40.420917587116804,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.742158443562142,
+            "bike_id": "bongo_MADRID097",
+            "lat": 40.409737822961816,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.7691794197041473,
+            "bike_id": "bongo_MADRID098",
+            "lat": 40.49820797257027,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.6555470172928612,
+            "bike_id": "bongo_MADRID099",
+            "lat": 40.315930641115514,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.699376675538069,
+            "bike_id": "bongo_MADRID100",
+            "lat": 40.309257516027884,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.6823846070675037,
+            "bike_id": "bongo_MADRID101",
+            "lat": 40.350783088916785,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.6446637090873204,
+            "bike_id": "bongo_MADRID102",
+            "lat": 40.30646953411039,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.6953449291912177,
+            "bike_id": "bongo_MADRID103",
+            "lat": 40.38384623578938,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.62549538775528,
+            "bike_id": "bongo_MADRID104",
+            "lat": 40.48336051780003,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.7769092048739403,
+            "bike_id": "bongo_MADRID105",
+            "lat": 40.47983867052108,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.7515018220404386,
+            "bike_id": "bongo_MADRID106",
+            "lat": 40.372149424748365,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.720823143593528,
+            "bike_id": "bongo_MADRID107",
+            "lat": 40.3565446427578,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.7137595569805053,
+            "bike_id": "bongo_MADRID108",
+            "lat": 40.30278496233127,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.7227996155085545,
+            "bike_id": "bongo_MADRID109",
+            "lat": 40.44204081175234,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.7752928169068642,
+            "bike_id": "bongo_MADRID110",
+            "lat": 40.31169213116039,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.665935610870744,
+            "bike_id": "bongo_MADRID111",
+            "lat": 40.34453287692002,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.6402734353594957,
+            "bike_id": "bongo_MADRID112",
+            "lat": 40.33851923095971,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.756312331001183,
+            "bike_id": "bongo_MADRID113",
+            "lat": 40.39808328205149,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.7323882741208427,
+            "bike_id": "bongo_MADRID114",
+            "lat": 40.399166623848465,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.6142471414006136,
+            "bike_id": "bongo_MADRID115",
+            "lat": 40.3975113437308,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.7628428868983654,
+            "bike_id": "bongo_MADRID116",
+            "lat": 40.47337847035016,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.6766661227794857,
+            "bike_id": "bongo_MADRID117",
+            "lat": 40.485746922793574,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.6184701526381224,
+            "bike_id": "bongo_MADRID118",
+            "lat": 40.4951787108172,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.716065969949563,
+            "bike_id": "bongo_MADRID119",
+            "lat": 40.40691901470505,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.750412638469455,
+            "bike_id": "bongo_MADRID120",
+            "lat": 40.48443254782391,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.6315340056552103,
+            "bike_id": "bongo_MADRID121",
+            "lat": 40.388460429847065,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.793847448555566,
+            "bike_id": "bongo_MADRID122",
+            "lat": 40.30781463516225,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.6172950577960443,
+            "bike_id": "bongo_MADRID123",
+            "lat": 40.3655098337955,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.6992222964983252,
+            "bike_id": "bongo_MADRID124",
+            "lat": 40.40746529902873,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.764253920925463,
+            "bike_id": "bongo_MADRID125",
+            "lat": 40.31089240351384,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.6054715680028946,
+            "bike_id": "bongo_MADRID126",
+            "lat": 40.485615938921846,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.7000021877296487,
+            "bike_id": "bongo_MADRID127",
+            "lat": 40.483960376994965,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.635681101019702,
+            "bike_id": "bongo_MADRID128",
+            "lat": 40.383464997913805,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.622758190743066,
+            "bike_id": "bongo_MADRID129",
+            "lat": 40.46157464349832,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.745670454539708,
+            "bike_id": "bongo_MADRID130",
+            "lat": 40.44258556487938,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.6347087699695924,
+            "bike_id": "bongo_MADRID131",
+            "lat": 40.46450878155469,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.7059614156122294,
+            "bike_id": "bongo_MADRID132",
+            "lat": 40.4871460803017,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.6302216945821564,
+            "bike_id": "bongo_MADRID133",
+            "lat": 40.3425566605934,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.647601472547895,
+            "bike_id": "bongo_MADRID134",
+            "lat": 40.415225191846716,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.744397393275253,
+            "bike_id": "bongo_MADRID135",
+            "lat": 40.43162490756572,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.752311011326584,
+            "bike_id": "bongo_MADRID136",
+            "lat": 40.437502137448966,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.7174288288937998,
+            "bike_id": "bongo_MADRID137",
+            "lat": 40.34609151088159,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.6174230302281507,
+            "bike_id": "bongo_MADRID138",
+            "lat": 40.45160386750304,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.680238182343513,
+            "bike_id": "bongo_MADRID139",
+            "lat": 40.4197117542551,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.7760840388086874,
+            "bike_id": "bongo_MADRID140",
+            "lat": 40.490390133401675,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.6168591918370776,
+            "bike_id": "bongo_MADRID141",
+            "lat": 40.358352801949394,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.603184979453515,
+            "bike_id": "bongo_MADRID142",
+            "lat": 40.432457838951706,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.709033825892342,
+            "bike_id": "bongo_MADRID143",
+            "lat": 40.31783811758586,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.787490821238363,
+            "bike_id": "bongo_MADRID144",
+            "lat": 40.41314587445796,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.7184920333187916,
+            "bike_id": "bongo_MADRID145",
+            "lat": 40.47018300671573,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.700437722444463,
+            "bike_id": "bongo_MADRID146",
+            "lat": 40.42432167189195,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.712383416991657,
+            "bike_id": "bongo_MADRID147",
+            "lat": 40.37150252343344,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.7420663295026313,
+            "bike_id": "bongo_MADRID148",
+            "lat": 40.44123076203021,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.7873294360691143,
+            "bike_id": "bongo_MADRID149",
+            "lat": 40.494872988016695,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.6945601191428703,
+            "bike_id": "bongo_MADRID150",
+            "lat": 40.46469058837022,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.7975650236850638,
+            "bike_id": "bongo_MADRID151",
+            "lat": 40.341428375243815,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.663857448382125,
+            "bike_id": "bongo_MADRID152",
+            "lat": 40.31690975589109,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.6426382709665477,
+            "bike_id": "bongo_MADRID153",
+            "lat": 40.39297279504155,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.7398060894866068,
+            "bike_id": "bongo_MADRID154",
+            "lat": 40.479214084205616,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.6201369943728334,
+            "bike_id": "bongo_MADRID155",
+            "lat": 40.419390377268016,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.6553289935174873,
+            "bike_id": "bongo_MADRID156",
+            "lat": 40.309960596977284,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.6989108863790587,
+            "bike_id": "bongo_MADRID157",
+            "lat": 40.30413371224825,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.675070022343466,
+            "bike_id": "bongo_MADRID158",
+            "lat": 40.43092077393569,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.718258035209019,
+            "bike_id": "bongo_MADRID159",
+            "lat": 40.40107221102142,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.6939884448830793,
+            "bike_id": "bongo_MADRID160",
+            "lat": 40.320414297201474,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.6685445508929044,
+            "bike_id": "bongo_MADRID161",
+            "lat": 40.485981541387225,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.6763708793457246,
+            "bike_id": "bongo_MADRID162",
+            "lat": 40.40147450351547,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.758726025240036,
+            "bike_id": "bongo_MADRID163",
+            "lat": 40.415955436655516,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.7157294757441557,
+            "bike_id": "bongo_MADRID164",
+            "lat": 40.36332686796042,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.72623964495879,
+            "bike_id": "bongo_MADRID165",
+            "lat": 40.46002113898491,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.746055093463108,
+            "bike_id": "bongo_MADRID166",
+            "lat": 40.30446169053676,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.79473558865622,
+            "bike_id": "bongo_MADRID167",
+            "lat": 40.314239665435736,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.6848941951411205,
+            "bike_id": "bongo_MADRID168",
+            "lat": 40.33558229180947,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.635116605925714,
+            "bike_id": "bongo_MADRID169",
+            "lat": 40.464572222698344,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.7387182071798692,
+            "bike_id": "bongo_MADRID170",
+            "lat": 40.33070993220072,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.6353543988243864,
+            "bike_id": "bongo_MADRID171",
+            "lat": 40.41079396905277,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.7510541500944603,
+            "bike_id": "bongo_MADRID172",
+            "lat": 40.364726750714524,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.7345516249723847,
+            "bike_id": "bongo_MADRID173",
+            "lat": 40.31473639438652,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.6238452249440063,
+            "bike_id": "bongo_MADRID174",
+            "lat": 40.425637876573454,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.626718269235688,
+            "bike_id": "bongo_MADRID175",
+            "lat": 40.486139560039916,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.7925101039216367,
+            "bike_id": "bongo_MADRID176",
+            "lat": 40.43983411237155,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.689731088485625,
+            "bike_id": "bongo_MADRID177",
+            "lat": 40.36939544993409,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.685169764825232,
+            "bike_id": "bongo_MADRID178",
+            "lat": 40.49863629602986,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.744944958353084,
+            "bike_id": "bongo_MADRID179",
+            "lat": 40.34446369412275,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.646510502749081,
+            "bike_id": "bongo_MADRID180",
+            "lat": 40.42440265820246,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.7029247683561137,
+            "bike_id": "bongo_MADRID181",
+            "lat": 40.30524089983146,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.7567519453067133,
+            "bike_id": "bongo_MADRID182",
+            "lat": 40.46448045676294,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.7007667345520137,
+            "bike_id": "bongo_MADRID183",
+            "lat": 40.42866484069466,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.726188777740795,
+            "bike_id": "bongo_MADRID184",
+            "lat": 40.35128305153715,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.686477762681581,
+            "bike_id": "bongo_MADRID185",
+            "lat": 40.39783477352699,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.7957749908192913,
+            "bike_id": "bongo_MADRID186",
+            "lat": 40.416773735184954,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.7558817086048597,
+            "bike_id": "bongo_MADRID187",
+            "lat": 40.39242910204665,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.7242193116801934,
+            "bike_id": "bongo_MADRID188",
+            "lat": 40.499637571313684,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.697521203268736,
+            "bike_id": "bongo_MADRID189",
+            "lat": 40.40970166135762,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.692060643935042,
+            "bike_id": "bongo_MADRID190",
+            "lat": 40.43342244396722,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.751023881555141,
+            "bike_id": "bongo_MADRID191",
+            "lat": 40.329337873901046,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.703192223387161,
+            "bike_id": "bongo_MADRID192",
+            "lat": 40.35393060086584,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.7344016747996283,
+            "bike_id": "bongo_MADRID193",
+            "lat": 40.385451998528445,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.614303269481229,
+            "bike_id": "bongo_MADRID194",
+            "lat": 40.31414195265544,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.6457519839773447,
+            "bike_id": "bongo_MADRID195",
+            "lat": 40.3590067636402,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.6727068492709063,
+            "bike_id": "bongo_MADRID196",
+            "lat": 40.34495033454512,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.794829439539757,
+            "bike_id": "bongo_MADRID197",
+            "lat": 40.45393660455201,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.793022744451973,
+            "bike_id": "bongo_MADRID198",
+            "lat": 40.34999403580526,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.669957033606722,
+            "bike_id": "bongo_MADRID199",
+            "lat": 40.470255761759844,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.7531840218564034,
+            "bike_id": "bongo_MADRID200",
+            "lat": 40.47286178413358,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.695745352848994,
+            "bike_id": "bongo_MADRID201",
+            "lat": 40.33743248857844,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.6402361024251917,
+            "bike_id": "bongo_MADRID202",
+            "lat": 40.42495548589083,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.7870886545524045,
+            "bike_id": "bongo_MADRID203",
+            "lat": 40.32131064419547,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.62639706034779,
+            "bike_id": "bongo_MADRID204",
+            "lat": 40.31229097626898,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.7549065723133226,
+            "bike_id": "bongo_MADRID205",
+            "lat": 40.46785987144235,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.7058478892714417,
+            "bike_id": "bongo_MADRID206",
+            "lat": 40.349517953733624,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.7691001446828025,
+            "bike_id": "bongo_MADRID207",
+            "lat": 40.49703565767576,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.772721528363033,
+            "bike_id": "bongo_MADRID208",
+            "lat": 40.499440458601576,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.6341909934421746,
+            "bike_id": "bongo_MADRID209",
+            "lat": 40.410030494462085,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.7707593180715238,
+            "bike_id": "bongo_MADRID210",
+            "lat": 40.326319059664854,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.7831123016140937,
+            "bike_id": "bongo_MADRID211",
+            "lat": 40.3231974180675,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.7951037454288037,
+            "bike_id": "bongo_MADRID212",
+            "lat": 40.40123601782473,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.644620446204035,
+            "bike_id": "bongo_MADRID213",
+            "lat": 40.49192714197562,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.776696129365523,
+            "bike_id": "bongo_MADRID214",
+            "lat": 40.44780473816849,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.7897959730291335,
+            "bike_id": "bongo_MADRID215",
+            "lat": 40.33776007982668,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.7297480447849893,
+            "bike_id": "bongo_MADRID216",
+            "lat": 40.46650464981276,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.6131026449497305,
+            "bike_id": "bongo_MADRID217",
+            "lat": 40.342014450628724,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.6927552386896814,
+            "bike_id": "bongo_MADRID218",
+            "lat": 40.325922859218366,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.6534733983820145,
+            "bike_id": "bongo_MADRID219",
+            "lat": 40.319211766124795,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.643522767068026,
+            "bike_id": "bongo_MADRID220",
+            "lat": 40.359183795276955,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.6108918663914302,
+            "bike_id": "bongo_MADRID221",
+            "lat": 40.43358093836026,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.6186701103063315,
+            "bike_id": "bongo_MADRID222",
+            "lat": 40.35384806223426,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.6639382630121142,
+            "bike_id": "bongo_MADRID223",
+            "lat": 40.37192222239761,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.6180850271259564,
+            "bike_id": "bongo_MADRID224",
+            "lat": 40.37356182454836,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.643768401830959,
+            "bike_id": "bongo_MADRID225",
+            "lat": 40.336112302258385,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.624794888419342,
+            "bike_id": "bongo_MADRID226",
+            "lat": 40.49973787567282,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.7699945198019384,
+            "bike_id": "bongo_MADRID227",
+            "lat": 40.36853172460869,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.620724216712308,
+            "bike_id": "bongo_MADRID228",
+            "lat": 40.43154975509633,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.603936755325215,
+            "bike_id": "bongo_MADRID229",
+            "lat": 40.37369595101502,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.6288072665035553,
+            "bike_id": "bongo_MADRID230",
+            "lat": 40.33252005519784,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.6247139530467725,
+            "bike_id": "bongo_MADRID231",
+            "lat": 40.44937126159926,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.7619242564698387,
+            "bike_id": "bongo_MADRID232",
+            "lat": 40.36198423903542,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.7836425803381104,
+            "bike_id": "bongo_MADRID233",
+            "lat": 40.39045680029077,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.609130149882514,
+            "bike_id": "bongo_MADRID234",
+            "lat": 40.37971120152494,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.7424125068878924,
+            "bike_id": "bongo_MADRID235",
+            "lat": 40.47891394533086,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.639644613595425,
+            "bike_id": "bongo_MADRID236",
+            "lat": 40.3619617863483,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.6505083712703206,
+            "bike_id": "bongo_MADRID237",
+            "lat": 40.32302432950017,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.6550719997957777,
+            "bike_id": "bongo_MADRID238",
+            "lat": 40.31726659982591,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.667345341056433,
+            "bike_id": "bongo_MADRID239",
+            "lat": 40.35925767733284,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.6703200360122636,
+            "bike_id": "bongo_MADRID240",
+            "lat": 40.34020424319586,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.7845879202976374,
+            "bike_id": "bongo_MADRID241",
+            "lat": 40.48003083296207,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.753685988595919,
+            "bike_id": "bongo_MADRID242",
+            "lat": 40.49146134178756,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.6541206660819667,
+            "bike_id": "bongo_MADRID243",
+            "lat": 40.300639060924055,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.7065790820255384,
+            "bike_id": "bongo_MADRID244",
+            "lat": 40.4424555208444,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.6771394873638843,
+            "bike_id": "bongo_MADRID245",
+            "lat": 40.42864101293665,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.613347869217662,
+            "bike_id": "bongo_MADRID246",
+            "lat": 40.47280265432915,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.759832293890814,
+            "bike_id": "bongo_MADRID247",
+            "lat": 40.34897856665923,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.641681363505169,
+            "bike_id": "bongo_MADRID248",
+            "lat": 40.4589095766999,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.6911177652847607,
+            "bike_id": "bongo_MADRID249",
+            "lat": 40.388112725304254,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.62405261405345,
+            "bike_id": "bongo_MADRID250",
+            "lat": 40.341973531835976,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.647910961908604,
+            "bike_id": "bongo_MADRID251",
+            "lat": 40.47045695249014,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.700673554749698,
+            "bike_id": "bongo_MADRID252",
+            "lat": 40.41366964297914,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.6833845639667047,
+            "bike_id": "bongo_MADRID253",
+            "lat": 40.430389049249484,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.6544297889627813,
+            "bike_id": "bongo_MADRID254",
+            "lat": 40.407807569091005,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.6036944142758105,
+            "bike_id": "bongo_MADRID255",
+            "lat": 40.49312293715154,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.718264141699355,
+            "bike_id": "bongo_MADRID256",
+            "lat": 40.43623870152733,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.788638248013442,
+            "bike_id": "bongo_MADRID257",
+            "lat": 40.38772155429064,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.7854776817868143,
+            "bike_id": "bongo_MADRID258",
+            "lat": 40.45729506195989,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.6617161939826683,
+            "bike_id": "bongo_MADRID259",
+            "lat": 40.405532095479295,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.703416948751188,
+            "bike_id": "bongo_MADRID260",
+            "lat": 40.41504121223311,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.6650619470917287,
+            "bike_id": "bongo_MADRID261",
+            "lat": 40.36732487641318,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.681016195799062,
+            "bike_id": "bongo_MADRID262",
+            "lat": 40.43762038327989,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.744713239800776,
+            "bike_id": "bongo_MADRID263",
+            "lat": 40.31241704867651,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.790663358239652,
+            "bike_id": "bongo_MADRID264",
+            "lat": 40.33297610249128,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.70169047796153,
+            "bike_id": "bongo_MADRID265",
+            "lat": 40.37306246472649,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.6948584678590333,
+            "bike_id": "bongo_MADRID266",
+            "lat": 40.470230560937054,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.7143521822131533,
+            "bike_id": "bongo_MADRID267",
+            "lat": 40.34738885863053,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.6781333522227513,
+            "bike_id": "bongo_MADRID268",
+            "lat": 40.38500097151979,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.687496063107251,
+            "bike_id": "bongo_MADRID269",
+            "lat": 40.33416366702701,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.6147012574624275,
+            "bike_id": "bongo_MADRID270",
+            "lat": 40.49693515200884,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.63367442923982,
+            "bike_id": "bongo_MADRID271",
+            "lat": 40.44266970823719,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.6523052499138706,
+            "bike_id": "bongo_MADRID272",
+            "lat": 40.377747600427995,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.6421927371915457,
+            "bike_id": "bongo_MADRID273",
+            "lat": 40.44097197992417,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.742734069434973,
+            "bike_id": "bongo_MADRID274",
+            "lat": 40.45803733101603,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.741259966162994,
+            "bike_id": "bongo_MADRID275",
+            "lat": 40.45585680961777,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.699474219735445,
+            "bike_id": "bongo_MADRID276",
+            "lat": 40.311168656277516,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.7087595888531957,
+            "bike_id": "bongo_MADRID277",
+            "lat": 40.48772462595174,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.612967044542589,
+            "bike_id": "bongo_MADRID278",
+            "lat": 40.302496253378465,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.63710994514781,
+            "bike_id": "bongo_MADRID279",
+            "lat": 40.353717577481646,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.603939528741569,
+            "bike_id": "bongo_MADRID280",
+            "lat": 40.442215681032785,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.607682660525248,
+            "bike_id": "bongo_MADRID281",
+            "lat": 40.3223633101432,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.6452775807649567,
+            "bike_id": "bongo_MADRID282",
+            "lat": 40.330120653841604,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.7802479857824234,
+            "bike_id": "bongo_MADRID283",
+            "lat": 40.353016042302535,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.732910554741516,
+            "bike_id": "bongo_MADRID284",
+            "lat": 40.33054831324717,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.752915665715825,
+            "bike_id": "bongo_MADRID285",
+            "lat": 40.30337629763203,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.636175725465644,
+            "bike_id": "bongo_MADRID286",
+            "lat": 40.36579370222559,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.7980402506124786,
+            "bike_id": "bongo_MADRID287",
+            "lat": 40.318370504798565,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.608131538772426,
+            "bike_id": "bongo_MADRID288",
+            "lat": 40.36627477675739,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.7295594268940713,
+            "bike_id": "bongo_MADRID289",
+            "lat": 40.46367167369624,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.786288295245413,
+            "bike_id": "bongo_MADRID290",
+            "lat": 40.46572910606601,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.70723426437751,
+            "bike_id": "bongo_MADRID291",
+            "lat": 40.31714247194922,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.764225094312445,
+            "bike_id": "bongo_MADRID292",
+            "lat": 40.47972360509379,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.6332600593132054,
+            "bike_id": "bongo_MADRID293",
+            "lat": 40.481481898005775,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.764561757751379,
+            "bike_id": "bongo_MADRID294",
+            "lat": 40.455758461636556,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.746716487380084,
+            "bike_id": "bongo_MADRID295",
+            "lat": 40.43135681345445,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.793754459823263,
+            "bike_id": "bongo_MADRID296",
+            "lat": 40.33324660905698,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.7713259320631103,
+            "bike_id": "bongo_MADRID297",
+            "lat": 40.358299600918755,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.709183873951909,
+            "bike_id": "bongo_MADRID298",
+            "lat": 40.40164986676445,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.7219886146754866,
+            "bike_id": "bongo_MADRID299",
+            "lat": 40.3266531729086,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.6790045080330986,
+            "bike_id": "bongo_MADRID300",
+            "lat": 40.49505312769411,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.6255633512181777,
+            "bike_id": "bongo_MADRID301",
+            "lat": 40.3038446084155,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.665224060644122,
+            "bike_id": "bongo_MADRID302",
+            "lat": 40.31145775818595,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.761362668137164,
+            "bike_id": "bongo_MADRID303",
+            "lat": 40.47826864113976,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.7104814896083917,
+            "bike_id": "bongo_MADRID304",
+            "lat": 40.4950754836985,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.7768310023332976,
+            "bike_id": "bongo_MADRID305",
+            "lat": 40.32806225378491,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.7589925462096803,
+            "bike_id": "bongo_MADRID306",
+            "lat": 40.36990403155624,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.783874796461314,
+            "bike_id": "bongo_MADRID307",
+            "lat": 40.35405166340228,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.692131563368264,
+            "bike_id": "bongo_MADRID308",
+            "lat": 40.462865728169255,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.6913131448374217,
+            "bike_id": "bongo_MADRID309",
+            "lat": 40.440152894106674,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.609118222761326,
+            "bike_id": "bongo_MADRID310",
+            "lat": 40.40479038301915,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.7789178591065435,
+            "bike_id": "bongo_MADRID311",
+            "lat": 40.45450722065561,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.7332780281051297,
+            "bike_id": "bongo_MADRID312",
+            "lat": 40.447523610656,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.6685115657752743,
+            "bike_id": "bongo_MADRID313",
+            "lat": 40.3546327283871,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.6743452945179413,
+            "bike_id": "bongo_MADRID314",
+            "lat": 40.48544192449064,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.7975927300935943,
+            "bike_id": "bongo_MADRID315",
+            "lat": 40.309873229795194,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.727277343928309,
+            "bike_id": "bongo_MADRID316",
+            "lat": 40.319655808761226,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.6509562437233813,
+            "bike_id": "bongo_MADRID317",
+            "lat": 40.40442581751056,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.638048667273839,
+            "bike_id": "bongo_MADRID318",
+            "lat": 40.35318202348225,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.7557783767994435,
+            "bike_id": "bongo_MADRID319",
+            "lat": 40.33422822393019,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.6168938701149553,
+            "bike_id": "bongo_MADRID320",
+            "lat": 40.35536640984979,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.795634834639129,
+            "bike_id": "bongo_MADRID321",
+            "lat": 40.36098738200248,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.729468047669837,
+            "bike_id": "bongo_MADRID322",
+            "lat": 40.38383841663836,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.748920673512637,
+            "bike_id": "bongo_MADRID323",
+            "lat": 40.436630254593375,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.7463934044049068,
+            "bike_id": "bongo_MADRID324",
+            "lat": 40.40227863741498,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.7071408291411223,
+            "bike_id": "bongo_MADRID325",
+            "lat": 40.46145834631173,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.6816608610446053,
+            "bike_id": "bongo_MADRID326",
+            "lat": 40.382280559734326,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.7785399721015978,
+            "bike_id": "bongo_MADRID327",
+            "lat": 40.48928705909675,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.60035540005984,
+            "bike_id": "bongo_MADRID328",
+            "lat": 40.32758782955161,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.6325405108609394,
+            "bike_id": "bongo_MADRID329",
+            "lat": 40.342851134082295,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.6261738552459395,
+            "bike_id": "bongo_MADRID330",
+            "lat": 40.30898823052684,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.790457410424402,
+            "bike_id": "bongo_MADRID331",
+            "lat": 40.352757494522876,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.62920399032681,
+            "bike_id": "bongo_MADRID332",
+            "lat": 40.448145668046244,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.7179586517913026,
+            "bike_id": "bongo_MADRID333",
+            "lat": 40.38326668610248,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.6244334962002127,
+            "bike_id": "bongo_MADRID334",
+            "lat": 40.438651382966306,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.724740004673622,
+            "bike_id": "bongo_MADRID335",
+            "lat": 40.35818417725718,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.6614577502707335,
+            "bike_id": "bongo_MADRID336",
+            "lat": 40.44257565957439,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.6268829550614647,
+            "bike_id": "bongo_MADRID337",
+            "lat": 40.350142782887644,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.735855082224313,
+            "bike_id": "bongo_MADRID338",
+            "lat": 40.45080125426138,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.677364440719614,
+            "bike_id": "bongo_MADRID339",
+            "lat": 40.34655742491882,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.6026981974659242,
+            "bike_id": "bongo_MADRID340",
+            "lat": 40.445419852613675,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.6201872347090065,
+            "bike_id": "bongo_MADRID341",
+            "lat": 40.45553356013809,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.7226706560562226,
+            "bike_id": "bongo_MADRID342",
+            "lat": 40.3524727113847,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.6735996523691075,
+            "bike_id": "bongo_MADRID343",
+            "lat": 40.36501040085232,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.721257036017028,
+            "bike_id": "bongo_MADRID344",
+            "lat": 40.423316839246596,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.797873381621874,
+            "bike_id": "bongo_MADRID345",
+            "lat": 40.31842031392941,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.6914755998652926,
+            "bike_id": "bongo_MADRID346",
+            "lat": 40.33289786235167,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.7531081552466543,
+            "bike_id": "bongo_MADRID347",
+            "lat": 40.32014553717582,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.620622175201805,
+            "bike_id": "bongo_MADRID348",
+            "lat": 40.33321095095589,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.6025320426349685,
+            "bike_id": "bongo_MADRID349",
+            "lat": 40.33405353752088,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.7714940339416256,
+            "bike_id": "bongo_MADRID350",
+            "lat": 40.450230897999695,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.6667660871251035,
+            "bike_id": "bongo_MADRID351",
+            "lat": 40.488392214034356,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.798562485482839,
+            "bike_id": "bongo_MADRID352",
+            "lat": 40.36259276613167,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.6845220589748813,
+            "bike_id": "bongo_MADRID353",
+            "lat": 40.35032622107431,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.729562960950036,
+            "bike_id": "bongo_MADRID354",
+            "lat": 40.450304213441676,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.685202045602189,
+            "bike_id": "bongo_MADRID355",
+            "lat": 40.38339565482484,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.692971308279473,
+            "bike_id": "bongo_MADRID356",
+            "lat": 40.35177083541301,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.628868674483599,
+            "bike_id": "bongo_MADRID357",
+            "lat": 40.351178365109554,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.6218351125352144,
+            "bike_id": "bongo_MADRID358",
+            "lat": 40.41741574213855,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.6190546560680046,
+            "bike_id": "bongo_MADRID359",
+            "lat": 40.480437104448164,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.714428688207513,
+            "bike_id": "bongo_MADRID360",
+            "lat": 40.49817463231455,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.6438804674275667,
+            "bike_id": "bongo_MADRID361",
+            "lat": 40.44703280753434,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.7822006070565806,
+            "bike_id": "bongo_MADRID362",
+            "lat": 40.357147575606554,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.750948874433711,
+            "bike_id": "bongo_MADRID363",
+            "lat": 40.49788524439464,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.765482409743099,
+            "bike_id": "bongo_MADRID364",
+            "lat": 40.442688817054986,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.7114850550659484,
+            "bike_id": "bongo_MADRID365",
+            "lat": 40.4722622435492,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.647427324575508,
+            "bike_id": "bongo_MADRID366",
+            "lat": 40.41121580468424,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.7791910767755437,
+            "bike_id": "bongo_MADRID367",
+            "lat": 40.33567884913331,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.7466477295322598,
+            "bike_id": "bongo_MADRID368",
+            "lat": 40.43801869884846,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.699283518824021,
+            "bike_id": "bongo_MADRID369",
+            "lat": 40.489687514423295,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.719020039328048,
+            "bike_id": "bongo_MADRID370",
+            "lat": 40.40435163153303,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.673182868838891,
+            "bike_id": "bongo_MADRID371",
+            "lat": 40.37084072105783,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.7491258952432376,
+            "bike_id": "bongo_MADRID372",
+            "lat": 40.49908695775373,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.734323617126919,
+            "bike_id": "bongo_MADRID373",
+            "lat": 40.30210716663121,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.7617982873314246,
+            "bike_id": "bongo_MADRID374",
+            "lat": 40.42321372107896,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.7405536407344218,
+            "bike_id": "bongo_MADRID375",
+            "lat": 40.410022839914156,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.6342414077482186,
+            "bike_id": "bongo_MADRID376",
+            "lat": 40.435461639492004,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.738591715858286,
+            "bike_id": "bongo_MADRID377",
+            "lat": 40.470858217275925,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.7391930153178863,
+            "bike_id": "bongo_MADRID378",
+            "lat": 40.32733179934604,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.6060119040791645,
+            "bike_id": "bongo_MADRID379",
+            "lat": 40.39908278482431,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.6995979983222527,
+            "bike_id": "bongo_MADRID380",
+            "lat": 40.46581536809924,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.6262234945583467,
+            "bike_id": "bongo_MADRID381",
+            "lat": 40.34140821967501,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.785261943940698,
+            "bike_id": "bongo_MADRID382",
+            "lat": 40.492081512092476,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.6019153594284674,
+            "bike_id": "bongo_MADRID383",
+            "lat": 40.389691397614065,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.7319534177169227,
+            "bike_id": "bongo_MADRID384",
+            "lat": 40.31441583750768,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.6624333702468816,
+            "bike_id": "bongo_MADRID385",
+            "lat": 40.37597854119344,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.7134237242284254,
+            "bike_id": "bongo_MADRID386",
+            "lat": 40.48369053033851,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.670559695488966,
+            "bike_id": "bongo_MADRID387",
+            "lat": 40.46297170383555,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.7468129193895794,
+            "bike_id": "bongo_MADRID388",
+            "lat": 40.48964752990252,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.684162705926327,
+            "bike_id": "bongo_MADRID389",
+            "lat": 40.4931989024967,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.761910784469499,
+            "bike_id": "bongo_MADRID390",
+            "lat": 40.366275898315685,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.6781861901480073,
+            "bike_id": "bongo_MADRID391",
+            "lat": 40.31016907509374,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.7147415337456975,
+            "bike_id": "bongo_MADRID392",
+            "lat": 40.44456470406704,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.682446751610932,
+            "bike_id": "bongo_MADRID393",
+            "lat": 40.31479317971434,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.675940994186929,
+            "bike_id": "bongo_MADRID394",
+            "lat": 40.34091263724852,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.640707992620131,
+            "bike_id": "bongo_MADRID395",
+            "lat": 40.370352646087696,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.7743950484577296,
+            "bike_id": "bongo_MADRID396",
+            "lat": 40.319475616463436,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.646500337253487,
+            "bike_id": "bongo_MADRID397",
+            "lat": 40.41929643524138,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.626608015563063,
+            "bike_id": "bongo_MADRID398",
+            "lat": 40.41673360943887,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.761155213370469,
+            "bike_id": "bongo_MADRID399",
+            "lat": 40.425147978916044,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.6322697917180062,
+            "bike_id": "bongo_MADRID400",
+            "lat": 40.3665579974009,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.7695223130992734,
+            "bike_id": "bongo_MADRID401",
+            "lat": 40.30280321443031,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.6664904600335713,
+            "bike_id": "bongo_MADRID402",
+            "lat": 40.414060602419994,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.778838742838922,
+            "bike_id": "bongo_MADRID403",
+            "lat": 40.35050098507759,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.6491711245483667,
+            "bike_id": "bongo_MADRID404",
+            "lat": 40.356505783781266,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.7162187478980506,
+            "bike_id": "bongo_MADRID405",
+            "lat": 40.34674707390122,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.6219797502128714,
+            "bike_id": "bongo_MADRID406",
+            "lat": 40.3995667002354,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.730232812376147,
+            "bike_id": "bongo_MADRID407",
+            "lat": 40.32547307685466,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.7134006973008216,
+            "bike_id": "bongo_MADRID408",
+            "lat": 40.46720710991211,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.6520448566618615,
+            "bike_id": "bongo_MADRID409",
+            "lat": 40.49271139958437,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.72232676314691,
+            "bike_id": "bongo_MADRID410",
+            "lat": 40.4534698777676,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.6215763078221728,
+            "bike_id": "bongo_MADRID411",
+            "lat": 40.398067606193905,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.6006624509777296,
+            "bike_id": "bongo_MADRID412",
+            "lat": 40.354453504233526,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.734165730984369,
+            "bike_id": "bongo_MADRID413",
+            "lat": 40.32427141763787,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.6654071997590205,
+            "bike_id": "bongo_MADRID414",
+            "lat": 40.468757858349825,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.713192858079386,
+            "bike_id": "bongo_MADRID415",
+            "lat": 40.30808751508855,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.7206873827430003,
+            "bike_id": "bongo_MADRID416",
+            "lat": 40.304680412657696,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.7641357273804354,
+            "bike_id": "bongo_MADRID417",
+            "lat": 40.45586750701874,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.6202057326429045,
+            "bike_id": "bongo_MADRID418",
+            "lat": 40.482444215289185,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.7155296346048945,
+            "bike_id": "bongo_MADRID419",
+            "lat": 40.4670242406754,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.7505770532725906,
+            "bike_id": "bongo_MADRID420",
+            "lat": 40.369738871197605,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.702296717791872,
+            "bike_id": "bongo_MADRID421",
+            "lat": 40.32870972579067,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.6660188651475223,
+            "bike_id": "bongo_MADRID422",
+            "lat": 40.43885572475196,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.7969149199367913,
+            "bike_id": "bongo_MADRID423",
+            "lat": 40.394977918260096,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.654865822533234,
+            "bike_id": "bongo_MADRID424",
+            "lat": 40.383698543951745,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.743894995133205,
+            "bike_id": "bongo_MADRID425",
+            "lat": 40.31371361822357,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.7683765777498097,
+            "bike_id": "bongo_MADRID426",
+            "lat": 40.48495097150102,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.7030344378037507,
+            "bike_id": "bongo_MADRID427",
+            "lat": 40.31460875263047,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.7923018899853362,
+            "bike_id": "bongo_MADRID428",
+            "lat": 40.36168191037784,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.6569169754384987,
+            "bike_id": "bongo_MADRID429",
+            "lat": 40.42146723562984,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.7916827095611585,
+            "bike_id": "bongo_MADRID430",
+            "lat": 40.497670200034854,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.6881264194859664,
+            "bike_id": "bongo_MADRID431",
+            "lat": 40.40211971710032,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.6093470125501637,
+            "bike_id": "bongo_MADRID432",
+            "lat": 40.380729749377245,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.681643647435399,
+            "bike_id": "bongo_MADRID433",
+            "lat": 40.31922944395284,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.648574073477544,
+            "bike_id": "bongo_MADRID434",
+            "lat": 40.3433164155985,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.757895410897797,
+            "bike_id": "bongo_MADRID435",
+            "lat": 40.39527045958441,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.620395029981428,
+            "bike_id": "bongo_MADRID436",
+            "lat": 40.442697879956775,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.691923765076049,
+            "bike_id": "bongo_MADRID437",
+            "lat": 40.35495945701301,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.6859983601075976,
+            "bike_id": "bongo_MADRID438",
+            "lat": 40.36896775145781,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.7241448516845397,
+            "bike_id": "bongo_MADRID439",
+            "lat": 40.45842245891784,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.7747091365465018,
+            "bike_id": "bongo_MADRID440",
+            "lat": 40.41918514803719,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.7181657845149947,
+            "bike_id": "bongo_MADRID441",
+            "lat": 40.48837763564461,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.6080107455420016,
+            "bike_id": "bongo_MADRID442",
+            "lat": 40.42592105028271,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.7711283890804475,
+            "bike_id": "bongo_MADRID443",
+            "lat": 40.40461545675189,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.710077846863208,
+            "bike_id": "bongo_MADRID444",
+            "lat": 40.3784926191752,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.7320485559648935,
+            "bike_id": "bongo_MADRID445",
+            "lat": 40.429057509509875,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.6352892908810617,
+            "bike_id": "bongo_MADRID446",
+            "lat": 40.32516674159614,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.6336199458994836,
+            "bike_id": "bongo_MADRID447",
+            "lat": 40.374675112872346,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.7931897885125117,
+            "bike_id": "bongo_MADRID448",
+            "lat": 40.39461409491817,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.792950783841066,
+            "bike_id": "bongo_MADRID449",
+            "lat": 40.481549094606066,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.601369060504767,
+            "bike_id": "bongo_MADRID450",
+            "lat": 40.42489492439139,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.6867025411687058,
+            "bike_id": "bongo_MADRID451",
+            "lat": 40.4733519211929,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.6467271917870154,
+            "bike_id": "bongo_MADRID452",
+            "lat": 40.33825782017116,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.6560992000606043,
+            "bike_id": "bongo_MADRID453",
+            "lat": 40.397533415568574,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.6855950082591646,
+            "bike_id": "bongo_MADRID454",
+            "lat": 40.4500327309138,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.647275864894396,
+            "bike_id": "bongo_MADRID455",
+            "lat": 40.462491378973475,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.663178140650248,
+            "bike_id": "bongo_MADRID456",
+            "lat": 40.34989946651298,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.7424355145710173,
+            "bike_id": "bongo_MADRID457",
+            "lat": 40.33500829684485,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.6827936092073137,
+            "bike_id": "bongo_MADRID458",
+            "lat": 40.44381293137379,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.787282575668495,
+            "bike_id": "bongo_MADRID459",
+            "lat": 40.41123541075323,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.6053675953375666,
+            "bike_id": "bongo_MADRID460",
+            "lat": 40.49486636016872,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.770202117776453,
+            "bike_id": "bongo_MADRID461",
+            "lat": 40.424505418268936,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.7096632384349286,
+            "bike_id": "bongo_MADRID462",
+            "lat": 40.35137378406138,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.75865339413103,
+            "bike_id": "bongo_MADRID463",
+            "lat": 40.403255018686245,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.793707131464363,
+            "bike_id": "bongo_MADRID464",
+            "lat": 40.300452971030154,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.7482465065492776,
+            "bike_id": "bongo_MADRID465",
+            "lat": 40.442338585862814,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.647883304361299,
+            "bike_id": "bongo_MADRID466",
+            "lat": 40.335390141293196,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.7299709043716875,
+            "bike_id": "bongo_MADRID467",
+            "lat": 40.40101420845361,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.7801634507758872,
+            "bike_id": "bongo_MADRID468",
+            "lat": 40.47506761951058,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.6310444979020176,
+            "bike_id": "bongo_MADRID469",
+            "lat": 40.490883296840515,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.6239421231444346,
+            "bike_id": "bongo_MADRID470",
+            "lat": 40.323735791820326,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.734852130325759,
+            "bike_id": "bongo_MADRID471",
+            "lat": 40.367065147538625,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.608945647147394,
+            "bike_id": "bongo_MADRID472",
+            "lat": 40.30941047722996,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.7354421513434968,
+            "bike_id": "bongo_MADRID473",
+            "lat": 40.38588750791818,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.6256835565321808,
+            "bike_id": "bongo_MADRID474",
+            "lat": 40.48917709185117,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.732049843951084,
+            "bike_id": "bongo_MADRID475",
+            "lat": 40.3423745960982,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.76391120250265,
+            "bike_id": "bongo_MADRID476",
+            "lat": 40.459682779574166,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.619116475915104,
+            "bike_id": "bongo_MADRID477",
+            "lat": 40.45081368292574,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.7555723908075618,
+            "bike_id": "bongo_MADRID478",
+            "lat": 40.361097787831675,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.6772726543598306,
+            "bike_id": "bongo_MADRID479",
+            "lat": 40.38168155827642,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.7026907350025424,
+            "bike_id": "bongo_MADRID480",
+            "lat": 40.41282731420308,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.7207548667728867,
+            "bike_id": "bongo_MADRID481",
+            "lat": 40.4182120973687,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.6206784672591654,
+            "bike_id": "bongo_MADRID482",
+            "lat": 40.46925513082083,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.706723801909185,
+            "bike_id": "bongo_MADRID483",
+            "lat": 40.445886203134044,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.677531524835754,
+            "bike_id": "bongo_MADRID484",
+            "lat": 40.3338001452746,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.6619533145288385,
+            "bike_id": "bongo_MADRID485",
+            "lat": 40.338125359706694,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.759379562686451,
+            "bike_id": "bongo_MADRID486",
+            "lat": 40.41956724222809,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.7323587392073425,
+            "bike_id": "bongo_MADRID487",
+            "lat": 40.35147003284232,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.742859753536523,
+            "bike_id": "bongo_MADRID488",
+            "lat": 40.394873586795555,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.7108333173159265,
+            "bike_id": "bongo_MADRID489",
+            "lat": 40.39352421342394,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.6047830184498673,
+            "bike_id": "bongo_MADRID490",
+            "lat": 40.30193169664035,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.748861455821429,
+            "bike_id": "bongo_MADRID491",
+            "lat": 40.47694729665087,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.6495615209044754,
+            "bike_id": "bongo_MADRID492",
+            "lat": 40.48697045043138,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.7073776073355647,
+            "bike_id": "bongo_MADRID493",
+            "lat": 40.3227745826386,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.6848661255163586,
+            "bike_id": "bongo_MADRID494",
+            "lat": 40.330075391773654,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.7523395243356092,
+            "bike_id": "bongo_MADRID495",
+            "lat": 40.32634765211979,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.7259825933329256,
+            "bike_id": "bongo_MADRID496",
+            "lat": 40.41302949475905,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.7504845711881267,
+            "bike_id": "bongo_MADRID497",
+            "lat": 40.349135847840145,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.7593352550694465,
+            "bike_id": "bongo_MADRID498",
+            "lat": 40.41343564743523,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.770737946735542,
+            "bike_id": "bongo_MADRID499",
+            "lat": 40.44973009596785,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.645646911857863,
+            "bike_id": "bongo_MADRID500",
+            "lat": 40.463402178781195,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.746741460844052,
+            "bike_id": "bongo_MADRID501",
+            "lat": 40.31729039794809,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.7932037272333097,
+            "bike_id": "bongo_MADRID502",
+            "lat": 40.3610725528674,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.7059717042616303,
+            "bike_id": "bongo_MADRID503",
+            "lat": 40.42072811238244,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.781693846516569,
+            "bike_id": "bongo_MADRID504",
+            "lat": 40.473280625824,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.720916310318917,
+            "bike_id": "bongo_MADRID505",
+            "lat": 40.336904421439435,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.66708847006492,
+            "bike_id": "bongo_MADRID506",
+            "lat": 40.41761257886458,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.6877770777862904,
+            "bike_id": "bongo_MADRID507",
+            "lat": 40.37112609690611,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.6480342074466816,
+            "bike_id": "bongo_MADRID508",
+            "lat": 40.46215686785453,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.7881686698111876,
+            "bike_id": "bongo_MADRID509",
+            "lat": 40.43321994101499,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.724225368976461,
+            "bike_id": "bongo_MADRID510",
+            "lat": 40.431223420390666,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.639281722323968,
+            "bike_id": "bongo_MADRID511",
+            "lat": 40.38246702758728,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.727224999314662,
+            "bike_id": "bongo_MADRID512",
+            "lat": 40.355313300181834,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.687979003820691,
+            "bike_id": "bongo_MADRID513",
+            "lat": 40.30467811415643,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.6542034064258067,
+            "bike_id": "bongo_MADRID514",
+            "lat": 40.35362011589054,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.7542934792826195,
+            "bike_id": "bongo_MADRID515",
+            "lat": 40.434691369984165,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.7850629146033152,
+            "bike_id": "bongo_MADRID516",
+            "lat": 40.4873444314786,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.779796924611159,
+            "bike_id": "bongo_MADRID517",
+            "lat": 40.48757376232114,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.6134175665430823,
+            "bike_id": "bongo_MADRID518",
+            "lat": 40.37210238816122,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.786307951788633,
+            "bike_id": "bongo_MADRID519",
+            "lat": 40.411807256254995,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.771896611951967,
+            "bike_id": "bongo_MADRID520",
+            "lat": 40.38770984716687,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.600408098594185,
+            "bike_id": "bongo_MADRID521",
+            "lat": 40.4277411749684,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.6822404316776263,
+            "bike_id": "bongo_MADRID522",
+            "lat": 40.373623249996164,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.6492348117927556,
+            "bike_id": "bongo_MADRID523",
+            "lat": 40.46459188618057,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.610657706533596,
+            "bike_id": "bongo_MADRID524",
+            "lat": 40.348318456203316,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.683019979116562,
+            "bike_id": "bongo_MADRID525",
+            "lat": 40.359271133282746,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.7589125766635885,
+            "bike_id": "bongo_MADRID526",
+            "lat": 40.440888861191645,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.629842882170382,
+            "bike_id": "bongo_MADRID527",
+            "lat": 40.4303242052533,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.7716105246230045,
+            "bike_id": "bongo_MADRID528",
+            "lat": 40.47314395122864,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.7380662121690285,
+            "bike_id": "bongo_MADRID529",
+            "lat": 40.49025922362977,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.790151717590804,
+            "bike_id": "bongo_MADRID530",
+            "lat": 40.480489635425045,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.7119239476226236,
+            "bike_id": "bongo_MADRID531",
+            "lat": 40.40954881363925,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.7338206208658926,
+            "bike_id": "bongo_MADRID532",
+            "lat": 40.309871540195566,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.6957298535972374,
+            "bike_id": "bongo_MADRID533",
+            "lat": 40.3955853587882,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.6384805599466414,
+            "bike_id": "bongo_MADRID534",
+            "lat": 40.483062571673116,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.712175319710113,
+            "bike_id": "bongo_MADRID535",
+            "lat": 40.399871140285846,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.6333420269564094,
+            "bike_id": "bongo_MADRID536",
+            "lat": 40.36357593308419,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.7101853098980806,
+            "bike_id": "bongo_MADRID537",
+            "lat": 40.316724579973744,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.6862734578875367,
+            "bike_id": "bongo_MADRID538",
+            "lat": 40.31548490106729,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.727801163470136,
+            "bike_id": "bongo_MADRID539",
+            "lat": 40.48678384790247,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.798123251094684,
+            "bike_id": "bongo_MADRID540",
+            "lat": 40.392430573273884,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.625559018992659,
+            "bike_id": "bongo_MADRID541",
+            "lat": 40.46858909048099,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.6765217699012753,
+            "bike_id": "bongo_MADRID542",
+            "lat": 40.34509888676344,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.7958325602851164,
+            "bike_id": "bongo_MADRID543",
+            "lat": 40.491524506066966,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.6696320475958535,
+            "bike_id": "bongo_MADRID544",
+            "lat": 40.385448094200214,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.6036089082287948,
+            "bike_id": "bongo_MADRID545",
+            "lat": 40.453401558196234,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.6903180166582574,
+            "bike_id": "bongo_MADRID546",
+            "lat": 40.39596797799162,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.664166326373957,
+            "bike_id": "bongo_MADRID547",
+            "lat": 40.37596451308652,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.611198919397674,
+            "bike_id": "bongo_MADRID548",
+            "lat": 40.32225207133234,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.6131225744787914,
+            "bike_id": "bongo_MADRID549",
+            "lat": 40.48159964078762,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.761058744194207,
+            "bike_id": "bongo_MADRID550",
+            "lat": 40.33716411712026,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.7743225824358935,
+            "bike_id": "bongo_MADRID551",
+            "lat": 40.30452923830066,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.703079357937073,
+            "bike_id": "bongo_MADRID552",
+            "lat": 40.41487999347502,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.681034241466738,
+            "bike_id": "bongo_MADRID553",
+            "lat": 40.49977179168714,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.6253661535190833,
+            "bike_id": "bongo_MADRID554",
+            "lat": 40.40308639195976,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.755921069976514,
+            "bike_id": "bongo_MADRID555",
+            "lat": 40.463149475723455,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.624234875529939,
+            "bike_id": "bongo_MADRID556",
+            "lat": 40.33161748766772,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.605260445151525,
+            "bike_id": "bongo_MADRID557",
+            "lat": 40.32562429173018,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.7107284921818446,
+            "bike_id": "bongo_MADRID558",
+            "lat": 40.345810841080386,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.732876230707217,
+            "bike_id": "bongo_MADRID559",
+            "lat": 40.33524406746401,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.720832736376819,
+            "bike_id": "bongo_MADRID560",
+            "lat": 40.30286379619105,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.6292544754777736,
+            "bike_id": "bongo_MADRID561",
+            "lat": 40.489979543705545,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.6598591794788606,
+            "bike_id": "bongo_MADRID562",
+            "lat": 40.31947159542894,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.7413110028245082,
+            "bike_id": "bongo_MADRID563",
+            "lat": 40.334733853387284,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.7614644830520954,
+            "bike_id": "bongo_MADRID564",
+            "lat": 40.40902851313068,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.778279570024347,
+            "bike_id": "bongo_MADRID565",
+            "lat": 40.48580561044441,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.69177468467748,
+            "bike_id": "bongo_MADRID566",
+            "lat": 40.39667320574235,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.759189413145298,
+            "bike_id": "bongo_MADRID567",
+            "lat": 40.49608683227636,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.6790831735399996,
+            "bike_id": "bongo_MADRID568",
+            "lat": 40.35045955814739,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.7574008670009964,
+            "bike_id": "bongo_MADRID569",
+            "lat": 40.3242770128395,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.699591165705336,
+            "bike_id": "bongo_MADRID570",
+            "lat": 40.41693426453664,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.64766787718134,
+            "bike_id": "bongo_MADRID571",
+            "lat": 40.321394547907246,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.799659401833169,
+            "bike_id": "bongo_MADRID572",
+            "lat": 40.39940240384422,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.7111960803402666,
+            "bike_id": "bongo_MADRID573",
+            "lat": 40.49786676246258,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.785039837012952,
+            "bike_id": "bongo_MADRID574",
+            "lat": 40.46716224667548,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.7041652771882685,
+            "bike_id": "bongo_MADRID575",
+            "lat": 40.48447979987397,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.6575560499396755,
+            "bike_id": "bongo_MADRID576",
+            "lat": 40.43399055822105,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.7451849699003334,
+            "bike_id": "bongo_MADRID577",
+            "lat": 40.45046965709228,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.729701121743942,
+            "bike_id": "bongo_MADRID578",
+            "lat": 40.494159620672235,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.7271517868968074,
+            "bike_id": "bongo_MADRID579",
+            "lat": 40.49203553164233,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.697621781729338,
+            "bike_id": "bongo_MADRID580",
+            "lat": 40.354267282844994,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.7089775009805335,
+            "bike_id": "bongo_MADRID581",
+            "lat": 40.454556822761226,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.7029575032761857,
+            "bike_id": "bongo_MADRID582",
+            "lat": 40.349161196452975,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.6926564116336937,
+            "bike_id": "bongo_MADRID583",
+            "lat": 40.40179498970998,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.7640033248129248,
+            "bike_id": "bongo_MADRID584",
+            "lat": 40.380238586969774,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.741140816829226,
+            "bike_id": "bongo_MADRID585",
+            "lat": 40.39536150083221,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.706665184912459,
+            "bike_id": "bongo_MADRID586",
+            "lat": 40.36440273491232,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.7424933466503485,
+            "bike_id": "bongo_MADRID587",
+            "lat": 40.49773316430316,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.6756764495571543,
+            "bike_id": "bongo_MADRID588",
+            "lat": 40.33195745141046,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.6757849183457436,
+            "bike_id": "bongo_MADRID589",
+            "lat": 40.362096084573686,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.656544448942042,
+            "bike_id": "bongo_MADRID590",
+            "lat": 40.361720799890634,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.7842070150784757,
+            "bike_id": "bongo_MADRID591",
+            "lat": 40.42229944753554,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.78869573315235,
+            "bike_id": "bongo_MADRID592",
+            "lat": 40.3916392926044,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.61086710909095,
+            "bike_id": "bongo_MADRID593",
+            "lat": 40.34620043354702,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.6002888029901507,
+            "bike_id": "bongo_MADRID594",
+            "lat": 40.393183854062755,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.602735897271317,
+            "bike_id": "bongo_MADRID595",
+            "lat": 40.4656815284004,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.645163080420546,
+            "bike_id": "bongo_MADRID596",
+            "lat": 40.447808713051955,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.738215186234912,
+            "bike_id": "bongo_MADRID597",
+            "lat": 40.346621383848856,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.772392855540671,
+            "bike_id": "bongo_MADRID598",
+            "lat": 40.31375462108987,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.7837950993764817,
+            "bike_id": "bongo_MADRID599",
+            "lat": 40.31210059165148,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.608914964111129,
+            "bike_id": "bongo_MADRID600",
+            "lat": 40.32147746512132,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.7352693968131803,
+            "bike_id": "bongo_MADRID601",
+            "lat": 40.382123554046586,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.7856989400037007,
+            "bike_id": "bongo_MADRID602",
+            "lat": 40.48598369168294,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.7489776685909466,
+            "bike_id": "bongo_MADRID603",
+            "lat": 40.343137711794,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.787928421936938,
+            "bike_id": "bongo_MADRID604",
+            "lat": 40.374353680371485,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.618543110117856,
+            "bike_id": "bongo_MADRID605",
+            "lat": 40.31063139167247,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.659662500738943,
+            "bike_id": "bongo_MADRID606",
+            "lat": 40.31673436910718,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.602574665529027,
+            "bike_id": "bongo_MADRID607",
+            "lat": 40.39809152414228,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.743445838663008,
+            "bike_id": "bongo_MADRID608",
+            "lat": 40.399082356942834,
+            "pricing_plan_id": "plan3"
+        }
+    ]},
+    "ttl": 180,
+    "version": "2.3"
+}

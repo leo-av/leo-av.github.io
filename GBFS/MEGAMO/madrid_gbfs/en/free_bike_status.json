@@ -1,0 +1,1852 @@
+{
+    "last_updated": 1732208549,
+    "data": {"bikes": [
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.658002885616657,
+            "bike_id": "megamo_MADRID001",
+            "lat": 40.481596341722735,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.6697622020227967,
+            "bike_id": "megamo_MADRID002",
+            "lat": 40.40259621299924,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.63381262426926,
+            "bike_id": "megamo_MADRID003",
+            "lat": 40.37863200113897,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.739868442453936,
+            "bike_id": "megamo_MADRID004",
+            "lat": 40.39456220124671,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.665996660504184,
+            "bike_id": "megamo_MADRID005",
+            "lat": 40.34375827176206,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.6998262089294203,
+            "bike_id": "megamo_MADRID006",
+            "lat": 40.44378616404853,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.709626510046843,
+            "bike_id": "megamo_MADRID007",
+            "lat": 40.44298846961474,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.630459218983652,
+            "bike_id": "megamo_MADRID008",
+            "lat": 40.45779262237734,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.674943000092832,
+            "bike_id": "megamo_MADRID009",
+            "lat": 40.409672155458615,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.6912570185932814,
+            "bike_id": "megamo_MADRID010",
+            "lat": 40.441039542151586,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.772844818689038,
+            "bike_id": "megamo_MADRID011",
+            "lat": 40.38095085451638,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.774866237362097,
+            "bike_id": "megamo_MADRID012",
+            "lat": 40.30435376646881,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.6117808542201186,
+            "bike_id": "megamo_MADRID013",
+            "lat": 40.48271232446464,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.698532482355896,
+            "bike_id": "megamo_MADRID014",
+            "lat": 40.35919315329257,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.6546401217410813,
+            "bike_id": "megamo_MADRID015",
+            "lat": 40.39819959386239,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.6160867086788016,
+            "bike_id": "megamo_MADRID016",
+            "lat": 40.356891605367814,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.794232991685405,
+            "bike_id": "megamo_MADRID017",
+            "lat": 40.30543104756957,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.684069740224683,
+            "bike_id": "megamo_MADRID018",
+            "lat": 40.38304327823227,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.7559574655353827,
+            "bike_id": "megamo_MADRID019",
+            "lat": 40.418587809632996,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.7655887474026977,
+            "bike_id": "megamo_MADRID020",
+            "lat": 40.3671821545889,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.786244260177706,
+            "bike_id": "megamo_MADRID021",
+            "lat": 40.41852461227712,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.7054993955037485,
+            "bike_id": "megamo_MADRID022",
+            "lat": 40.41791333498179,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.63537448278389,
+            "bike_id": "megamo_MADRID023",
+            "lat": 40.30756051621581,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.66050742431328,
+            "bike_id": "megamo_MADRID024",
+            "lat": 40.44365219578772,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.7932635551205394,
+            "bike_id": "megamo_MADRID025",
+            "lat": 40.47370561578851,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.7177834307517283,
+            "bike_id": "megamo_MADRID026",
+            "lat": 40.36912773615362,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.6868052630063723,
+            "bike_id": "megamo_MADRID027",
+            "lat": 40.399480047943186,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.78568455703353,
+            "bike_id": "megamo_MADRID028",
+            "lat": 40.30780631108567,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.6973695495878687,
+            "bike_id": "megamo_MADRID029",
+            "lat": 40.30048154436772,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.690176881457965,
+            "bike_id": "megamo_MADRID030",
+            "lat": 40.30039203506736,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.6070479385812644,
+            "bike_id": "megamo_MADRID031",
+            "lat": 40.428857748934696,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.760552245615191,
+            "bike_id": "megamo_MADRID032",
+            "lat": 40.479560105566414,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.632240186781262,
+            "bike_id": "megamo_MADRID033",
+            "lat": 40.426839585954646,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.7380332510457444,
+            "bike_id": "megamo_MADRID034",
+            "lat": 40.371079272693244,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.753176062414982,
+            "bike_id": "megamo_MADRID035",
+            "lat": 40.36549191183371,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.790860196389762,
+            "bike_id": "megamo_MADRID036",
+            "lat": 40.49147972672267,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.797965897815359,
+            "bike_id": "megamo_MADRID037",
+            "lat": 40.353837695397544,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.7694536865741015,
+            "bike_id": "megamo_MADRID038",
+            "lat": 40.45242263421194,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.6897737042140326,
+            "bike_id": "megamo_MADRID039",
+            "lat": 40.453511975868736,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.7852467223264954,
+            "bike_id": "megamo_MADRID040",
+            "lat": 40.43192761081789,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.615706602926179,
+            "bike_id": "megamo_MADRID041",
+            "lat": 40.48410189591358,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.7467798957666845,
+            "bike_id": "megamo_MADRID042",
+            "lat": 40.32261431237267,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.6260143085732732,
+            "bike_id": "megamo_MADRID043",
+            "lat": 40.35432895592752,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.636653588280522,
+            "bike_id": "megamo_MADRID044",
+            "lat": 40.317114487455115,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.722192426066805,
+            "bike_id": "megamo_MADRID045",
+            "lat": 40.404229865951265,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.6629308128182543,
+            "bike_id": "megamo_MADRID046",
+            "lat": 40.340810635764086,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.642583301469285,
+            "bike_id": "megamo_MADRID047",
+            "lat": 40.493492139896674,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.7685845118863646,
+            "bike_id": "megamo_MADRID048",
+            "lat": 40.39205762596196,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.704068183985219,
+            "bike_id": "megamo_MADRID049",
+            "lat": 40.42110074141934,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.7325830234096413,
+            "bike_id": "megamo_MADRID050",
+            "lat": 40.30004343964621,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.608444455589667,
+            "bike_id": "megamo_MADRID051",
+            "lat": 40.3114520140337,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.646207488479949,
+            "bike_id": "megamo_MADRID052",
+            "lat": 40.46044534296305,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.672081633392993,
+            "bike_id": "megamo_MADRID053",
+            "lat": 40.452091164574526,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.698194938500339,
+            "bike_id": "megamo_MADRID054",
+            "lat": 40.359037707655666,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.6874499891662795,
+            "bike_id": "megamo_MADRID055",
+            "lat": 40.31822948342674,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.752300819349711,
+            "bike_id": "megamo_MADRID056",
+            "lat": 40.343407751768396,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.7751154240707856,
+            "bike_id": "megamo_MADRID057",
+            "lat": 40.36919763768271,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.750874700507458,
+            "bike_id": "megamo_MADRID058",
+            "lat": 40.352935435210355,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.7347944266246436,
+            "bike_id": "megamo_MADRID059",
+            "lat": 40.451991266842505,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.728042910372036,
+            "bike_id": "megamo_MADRID060",
+            "lat": 40.36719376698898,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.754062848807723,
+            "bike_id": "megamo_MADRID061",
+            "lat": 40.4970650518134,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.7660918710448748,
+            "bike_id": "megamo_MADRID062",
+            "lat": 40.38292576676757,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.68331220763845,
+            "bike_id": "megamo_MADRID063",
+            "lat": 40.44153162540492,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.7786458306001927,
+            "bike_id": "megamo_MADRID064",
+            "lat": 40.37975435096817,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.6355473320601317,
+            "bike_id": "megamo_MADRID065",
+            "lat": 40.364921508486695,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.7542328331673516,
+            "bike_id": "megamo_MADRID066",
+            "lat": 40.38478136074208,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.6196190430990614,
+            "bike_id": "megamo_MADRID067",
+            "lat": 40.47266028950384,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.643832581632963,
+            "bike_id": "megamo_MADRID068",
+            "lat": 40.396232021400756,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.6654856528592825,
+            "bike_id": "megamo_MADRID069",
+            "lat": 40.412419399900045,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.6259999841155417,
+            "bike_id": "megamo_MADRID070",
+            "lat": 40.37630103423814,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.6500970165098936,
+            "bike_id": "megamo_MADRID071",
+            "lat": 40.458496636088,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.6331581597193208,
+            "bike_id": "megamo_MADRID072",
+            "lat": 40.373356600767956,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.782494915379183,
+            "bike_id": "megamo_MADRID073",
+            "lat": 40.34938271048191,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.7726546217043406,
+            "bike_id": "megamo_MADRID074",
+            "lat": 40.48365861457977,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.656723459117881,
+            "bike_id": "megamo_MADRID075",
+            "lat": 40.413670135713566,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.62617435546489,
+            "bike_id": "megamo_MADRID076",
+            "lat": 40.412747218019234,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.7311433193184884,
+            "bike_id": "megamo_MADRID077",
+            "lat": 40.4694605800055,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.7611036450539865,
+            "bike_id": "megamo_MADRID078",
+            "lat": 40.44665808853644,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.642743528746567,
+            "bike_id": "megamo_MADRID079",
+            "lat": 40.43242705891759,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.7374382807093514,
+            "bike_id": "megamo_MADRID080",
+            "lat": 40.49312056101081,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.715044585555263,
+            "bike_id": "megamo_MADRID081",
+            "lat": 40.41768712677238,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.643829966845894,
+            "bike_id": "megamo_MADRID082",
+            "lat": 40.30289497622834,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.768186601109298,
+            "bike_id": "megamo_MADRID083",
+            "lat": 40.37064338380183,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.7463646747288726,
+            "bike_id": "megamo_MADRID084",
+            "lat": 40.43140538119105,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.6897962561216677,
+            "bike_id": "megamo_MADRID085",
+            "lat": 40.31194749957361,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.783666668395664,
+            "bike_id": "megamo_MADRID086",
+            "lat": 40.35082394312245,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.775226346942654,
+            "bike_id": "megamo_MADRID087",
+            "lat": 40.33174401360534,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.7919219525106524,
+            "bike_id": "megamo_MADRID088",
+            "lat": 40.37276323712148,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.795761607728243,
+            "bike_id": "megamo_MADRID089",
+            "lat": 40.31835020760221,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.6934149377764034,
+            "bike_id": "megamo_MADRID090",
+            "lat": 40.4917326992931,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.703384609699048,
+            "bike_id": "megamo_MADRID091",
+            "lat": 40.45652820442813,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.632171993609468,
+            "bike_id": "megamo_MADRID092",
+            "lat": 40.30951550812622,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.630695442588353,
+            "bike_id": "megamo_MADRID093",
+            "lat": 40.3805056672221,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.7903057298975935,
+            "bike_id": "megamo_MADRID094",
+            "lat": 40.450622103990696,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.7945790018421155,
+            "bike_id": "megamo_MADRID095",
+            "lat": 40.316901243338954,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.768653679036799,
+            "bike_id": "megamo_MADRID096",
+            "lat": 40.32897663485603,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.662213531535243,
+            "bike_id": "megamo_MADRID097",
+            "lat": 40.40271104158966,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.765305188772644,
+            "bike_id": "megamo_MADRID098",
+            "lat": 40.375992557474994,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.6880142689187254,
+            "bike_id": "megamo_MADRID099",
+            "lat": 40.41351241710046,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.735610213435442,
+            "bike_id": "megamo_MADRID100",
+            "lat": 40.490193635941246,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.680105868874148,
+            "bike_id": "megamo_MADRID101",
+            "lat": 40.387041276270075,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.667263824524548,
+            "bike_id": "megamo_MADRID102",
+            "lat": 40.318536621998426,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.604917396075634,
+            "bike_id": "megamo_MADRID103",
+            "lat": 40.47729917167383,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.6540601356820552,
+            "bike_id": "megamo_MADRID104",
+            "lat": 40.42959183963843,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.788493639131664,
+            "bike_id": "megamo_MADRID105",
+            "lat": 40.4243464306865,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.6019094168174353,
+            "bike_id": "megamo_MADRID106",
+            "lat": 40.488737903231794,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.623116458510902,
+            "bike_id": "megamo_MADRID107",
+            "lat": 40.47493756830117,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.750712135636816,
+            "bike_id": "megamo_MADRID108",
+            "lat": 40.39552690050656,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.6378299627576083,
+            "bike_id": "megamo_MADRID109",
+            "lat": 40.43915524132689,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.74568369686809,
+            "bike_id": "megamo_MADRID110",
+            "lat": 40.393376169780765,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.7414632352315818,
+            "bike_id": "megamo_MADRID111",
+            "lat": 40.41819896911051,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.741723598064034,
+            "bike_id": "megamo_MADRID112",
+            "lat": 40.41174304895842,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.7967443716055413,
+            "bike_id": "megamo_MADRID113",
+            "lat": 40.38848492713937,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.774422773764754,
+            "bike_id": "megamo_MADRID114",
+            "lat": 40.35093873910526,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.6340995697264007,
+            "bike_id": "megamo_MADRID115",
+            "lat": 40.477212977575284,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.7813028871347627,
+            "bike_id": "megamo_MADRID116",
+            "lat": 40.46973759901932,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.76373103952392,
+            "bike_id": "megamo_MADRID117",
+            "lat": 40.41455727436908,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.606881282741483,
+            "bike_id": "megamo_MADRID118",
+            "lat": 40.485938098549276,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.7945674671226217,
+            "bike_id": "megamo_MADRID119",
+            "lat": 40.497636626377705,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.675155399823619,
+            "bike_id": "megamo_MADRID120",
+            "lat": 40.45003167704013,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.7186807725282307,
+            "bike_id": "megamo_MADRID121",
+            "lat": 40.45142091887999,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.7631003284237408,
+            "bike_id": "megamo_MADRID122",
+            "lat": 40.30213577489229,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.769762959119529,
+            "bike_id": "megamo_MADRID123",
+            "lat": 40.42172981118604,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.658773353927139,
+            "bike_id": "megamo_MADRID124",
+            "lat": 40.472347256301425,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.714256736202363,
+            "bike_id": "megamo_MADRID125",
+            "lat": 40.38547994964146,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.6376191351283795,
+            "bike_id": "megamo_MADRID126",
+            "lat": 40.334672492655315,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.7837337143467873,
+            "bike_id": "megamo_MADRID127",
+            "lat": 40.313336995677666,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.6405693479565735,
+            "bike_id": "megamo_MADRID128",
+            "lat": 40.37469037978933,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.6071139277798023,
+            "bike_id": "megamo_MADRID129",
+            "lat": 40.46992867989753,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.7875304861743966,
+            "bike_id": "megamo_MADRID130",
+            "lat": 40.38110449748195,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.651320383716866,
+            "bike_id": "megamo_MADRID131",
+            "lat": 40.486775135653794,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.6098536318103585,
+            "bike_id": "megamo_MADRID132",
+            "lat": 40.421340682901956,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.6289624390982445,
+            "bike_id": "megamo_MADRID133",
+            "lat": 40.49309275738226,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.7353798762085426,
+            "bike_id": "megamo_MADRID134",
+            "lat": 40.41134624277991,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.681641723984899,
+            "bike_id": "megamo_MADRID135",
+            "lat": 40.43962787141984,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.70965517912335,
+            "bike_id": "megamo_MADRID136",
+            "lat": 40.33974712816955,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.697474395688684,
+            "bike_id": "megamo_MADRID137",
+            "lat": 40.40067643625732,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.7869084406207745,
+            "bike_id": "megamo_MADRID138",
+            "lat": 40.456519220575984,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.6714234324607498,
+            "bike_id": "megamo_MADRID139",
+            "lat": 40.48944598396095,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.6743864584748076,
+            "bike_id": "megamo_MADRID140",
+            "lat": 40.386330033944624,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.7670347344216424,
+            "bike_id": "megamo_MADRID141",
+            "lat": 40.47191617021435,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.7636396188361885,
+            "bike_id": "megamo_MADRID142",
+            "lat": 40.376707110927924,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.6881707897308305,
+            "bike_id": "megamo_MADRID143",
+            "lat": 40.41435405083778,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.7323519883917453,
+            "bike_id": "megamo_MADRID144",
+            "lat": 40.34118929126398,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.719335651327406,
+            "bike_id": "megamo_MADRID145",
+            "lat": 40.349640420943615,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.750309591716561,
+            "bike_id": "megamo_MADRID146",
+            "lat": 40.40761715601604,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.7431849747891097,
+            "bike_id": "megamo_MADRID147",
+            "lat": 40.39756342250191,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.6731006359145133,
+            "bike_id": "megamo_MADRID148",
+            "lat": 40.331718889581936,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.693814846250152,
+            "bike_id": "megamo_MADRID149",
+            "lat": 40.42423571326171,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.757141423036055,
+            "bike_id": "megamo_MADRID150",
+            "lat": 40.38614778424641,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.654423203079039,
+            "bike_id": "megamo_MADRID151",
+            "lat": 40.37579138343029,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.7796216631949653,
+            "bike_id": "megamo_MADRID152",
+            "lat": 40.38512766643815,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.7579375121818908,
+            "bike_id": "megamo_MADRID153",
+            "lat": 40.47151895328927,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.7969630048688487,
+            "bike_id": "megamo_MADRID154",
+            "lat": 40.35486247989541,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.799202575687681,
+            "bike_id": "megamo_MADRID155",
+            "lat": 40.49158660983747,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.7253844997754606,
+            "bike_id": "megamo_MADRID156",
+            "lat": 40.409866291490914,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.6173220618256514,
+            "bike_id": "megamo_MADRID157",
+            "lat": 40.44451600520862,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.677168715991629,
+            "bike_id": "megamo_MADRID158",
+            "lat": 40.4453699325682,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.656747682905416,
+            "bike_id": "megamo_MADRID159",
+            "lat": 40.34956084498944,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.736222325485327,
+            "bike_id": "megamo_MADRID160",
+            "lat": 40.30596055793147,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.6657096047989444,
+            "bike_id": "megamo_MADRID161",
+            "lat": 40.319146489348206,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.606524842474761,
+            "bike_id": "megamo_MADRID162",
+            "lat": 40.34061038749498,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.640581963641341,
+            "bike_id": "megamo_MADRID163",
+            "lat": 40.376526853213896,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.717059328354214,
+            "bike_id": "megamo_MADRID164",
+            "lat": 40.304250830777825,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.674777182928098,
+            "bike_id": "megamo_MADRID165",
+            "lat": 40.493814847787654,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.716818744070866,
+            "bike_id": "megamo_MADRID166",
+            "lat": 40.41604829054246,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.7207628132437716,
+            "bike_id": "megamo_MADRID167",
+            "lat": 40.385542597472494,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.643481770162671,
+            "bike_id": "megamo_MADRID168",
+            "lat": 40.43453784725307,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.6237947561828734,
+            "bike_id": "megamo_MADRID169",
+            "lat": 40.442907681953585,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.799351785772322,
+            "bike_id": "megamo_MADRID170",
+            "lat": 40.45977115492466,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.7359604501566754,
+            "bike_id": "megamo_MADRID171",
+            "lat": 40.44386168370863,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.718152786614264,
+            "bike_id": "megamo_MADRID172",
+            "lat": 40.42263468894428,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.769125940741479,
+            "bike_id": "megamo_MADRID173",
+            "lat": 40.324197274289475,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.756275997284766,
+            "bike_id": "megamo_MADRID174",
+            "lat": 40.47149469580681,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.6953804922381908,
+            "bike_id": "megamo_MADRID175",
+            "lat": 40.34479005259912,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.7920709087181796,
+            "bike_id": "megamo_MADRID176",
+            "lat": 40.316325043461134,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.6535724768342512,
+            "bike_id": "megamo_MADRID177",
+            "lat": 40.440151447481504,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.666774494689291,
+            "bike_id": "megamo_MADRID178",
+            "lat": 40.44047420747031,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.770530360460412,
+            "bike_id": "megamo_MADRID179",
+            "lat": 40.383448905298806,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.750672378398014,
+            "bike_id": "megamo_MADRID180",
+            "lat": 40.34022770940066,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.755562466599117,
+            "bike_id": "megamo_MADRID181",
+            "lat": 40.453149604778126,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.7680856568427434,
+            "bike_id": "megamo_MADRID182",
+            "lat": 40.40232218154862,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.676829341607317,
+            "bike_id": "megamo_MADRID183",
+            "lat": 40.33644392725298,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.7647771853110488,
+            "bike_id": "megamo_MADRID184",
+            "lat": 40.479567346108176,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.678182368537817,
+            "bike_id": "megamo_MADRID185",
+            "lat": 40.45460503932028,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.651371034164378,
+            "bike_id": "megamo_MADRID186",
+            "lat": 40.474732185705584,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.7450624872946556,
+            "bike_id": "megamo_MADRID187",
+            "lat": 40.34544067447723,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.7063788651111547,
+            "bike_id": "megamo_MADRID188",
+            "lat": 40.49285146972465,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.778052708339736,
+            "bike_id": "megamo_MADRID189",
+            "lat": 40.38799351695258,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.7724270240815527,
+            "bike_id": "megamo_MADRID190",
+            "lat": 40.37210900126613,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.782678183908912,
+            "bike_id": "megamo_MADRID191",
+            "lat": 40.40464631750973,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.629278039783814,
+            "bike_id": "megamo_MADRID192",
+            "lat": 40.453453714891836,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.7340475790890344,
+            "bike_id": "megamo_MADRID193",
+            "lat": 40.32578808632187,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.777240302703637,
+            "bike_id": "megamo_MADRID194",
+            "lat": 40.499104991487094,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.62492952608567,
+            "bike_id": "megamo_MADRID195",
+            "lat": 40.35219754187041,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.614559710484067,
+            "bike_id": "megamo_MADRID196",
+            "lat": 40.32010332784271,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.755857863799866,
+            "bike_id": "megamo_MADRID197",
+            "lat": 40.30030012371377,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.7423869695107768,
+            "bike_id": "megamo_MADRID198",
+            "lat": 40.323062722819884,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.6758594356128604,
+            "bike_id": "megamo_MADRID199",
+            "lat": 40.46545475552875,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.680914322248905,
+            "bike_id": "megamo_MADRID200",
+            "lat": 40.436280925149624,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.732398223493033,
+            "bike_id": "megamo_MADRID201",
+            "lat": 40.3884266737218,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.630275492974358,
+            "bike_id": "megamo_MADRID202",
+            "lat": 40.32536386151681,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.7391295004269085,
+            "bike_id": "megamo_MADRID203",
+            "lat": 40.36020252738413,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.6598025275684045,
+            "bike_id": "megamo_MADRID204",
+            "lat": 40.45852049279849,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.6200578284623486,
+            "bike_id": "megamo_MADRID205",
+            "lat": 40.35030400379303,
+            "pricing_plan_id": "plan1"
+        }
+    ]},
+    "ttl": 180,
+    "version": "2.3"
+}

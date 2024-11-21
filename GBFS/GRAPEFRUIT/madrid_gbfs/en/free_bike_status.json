@@ -1,0 +1,2878 @@
+{
+    "last_updated": 1732208506,
+    "data": {"bikes": [
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.628373309353821,
+            "bike_id": "grapefruit_MADRID001",
+            "lat": 40.46365082905153,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.6668239001953067,
+            "bike_id": "grapefruit_MADRID002",
+            "lat": 40.439083054338035,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.612379640524976,
+            "bike_id": "grapefruit_MADRID003",
+            "lat": 40.34695940699442,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.7255103015304325,
+            "bike_id": "grapefruit_MADRID004",
+            "lat": 40.3416004017923,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.7415882800687092,
+            "bike_id": "grapefruit_MADRID005",
+            "lat": 40.3265610144949,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.66884500798657,
+            "bike_id": "grapefruit_MADRID006",
+            "lat": 40.448144588639735,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.6249066824731813,
+            "bike_id": "grapefruit_MADRID007",
+            "lat": 40.36841446919286,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.7685683461831325,
+            "bike_id": "grapefruit_MADRID008",
+            "lat": 40.34927679707572,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.6418636234102264,
+            "bike_id": "grapefruit_MADRID009",
+            "lat": 40.35674712276937,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.614635945636193,
+            "bike_id": "grapefruit_MADRID010",
+            "lat": 40.403302310225655,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.6197155127352536,
+            "bike_id": "grapefruit_MADRID011",
+            "lat": 40.386258557835355,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.7814546750560694,
+            "bike_id": "grapefruit_MADRID012",
+            "lat": 40.35140513171085,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.6737728626853174,
+            "bike_id": "grapefruit_MADRID013",
+            "lat": 40.41366269966253,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.796010634402067,
+            "bike_id": "grapefruit_MADRID014",
+            "lat": 40.30032411665726,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.6257907867128822,
+            "bike_id": "grapefruit_MADRID015",
+            "lat": 40.447474522732975,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.6977330360361136,
+            "bike_id": "grapefruit_MADRID016",
+            "lat": 40.37647684814,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.765267132446586,
+            "bike_id": "grapefruit_MADRID017",
+            "lat": 40.3049476520378,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.6299376257777887,
+            "bike_id": "grapefruit_MADRID018",
+            "lat": 40.40543751764345,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.668492179350819,
+            "bike_id": "grapefruit_MADRID019",
+            "lat": 40.4150690942354,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.6526934786925938,
+            "bike_id": "grapefruit_MADRID020",
+            "lat": 40.42067506588151,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.7401934643422927,
+            "bike_id": "grapefruit_MADRID021",
+            "lat": 40.396517337505024,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.716956863629333,
+            "bike_id": "grapefruit_MADRID022",
+            "lat": 40.45545780530504,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.692619607820878,
+            "bike_id": "grapefruit_MADRID023",
+            "lat": 40.389490098419614,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.689815965144854,
+            "bike_id": "grapefruit_MADRID024",
+            "lat": 40.32183084769619,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.7269068687757874,
+            "bike_id": "grapefruit_MADRID025",
+            "lat": 40.37030793530203,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.67069017322329,
+            "bike_id": "grapefruit_MADRID026",
+            "lat": 40.33057246727964,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.7315721330412486,
+            "bike_id": "grapefruit_MADRID027",
+            "lat": 40.32769997807642,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.7883277458193345,
+            "bike_id": "grapefruit_MADRID028",
+            "lat": 40.35603577490441,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.7629761393586763,
+            "bike_id": "grapefruit_MADRID029",
+            "lat": 40.429678067094656,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.6184455143995584,
+            "bike_id": "grapefruit_MADRID030",
+            "lat": 40.49978186203857,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.622600660730527,
+            "bike_id": "grapefruit_MADRID031",
+            "lat": 40.359905492834905,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.71185448370489,
+            "bike_id": "grapefruit_MADRID032",
+            "lat": 40.45691072903574,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.6959834054897076,
+            "bike_id": "grapefruit_MADRID033",
+            "lat": 40.45246663640291,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.6729149735565327,
+            "bike_id": "grapefruit_MADRID034",
+            "lat": 40.33899616386623,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.768154377921476,
+            "bike_id": "grapefruit_MADRID035",
+            "lat": 40.30394372508485,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.778165134556934,
+            "bike_id": "grapefruit_MADRID036",
+            "lat": 40.35753094984674,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.6804174583913403,
+            "bike_id": "grapefruit_MADRID037",
+            "lat": 40.391706965629325,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.6749665197807455,
+            "bike_id": "grapefruit_MADRID038",
+            "lat": 40.42178851044691,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.643320938345556,
+            "bike_id": "grapefruit_MADRID039",
+            "lat": 40.4773243216615,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.6500105487777357,
+            "bike_id": "grapefruit_MADRID040",
+            "lat": 40.35500733543408,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.7706607895092397,
+            "bike_id": "grapefruit_MADRID041",
+            "lat": 40.423997145752885,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.7075294997890023,
+            "bike_id": "grapefruit_MADRID042",
+            "lat": 40.48280442905474,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.7493603832771796,
+            "bike_id": "grapefruit_MADRID043",
+            "lat": 40.30692796384215,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.64705587394902,
+            "bike_id": "grapefruit_MADRID044",
+            "lat": 40.397723974012315,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.71007042323109,
+            "bike_id": "grapefruit_MADRID045",
+            "lat": 40.345526629981066,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.6805738731731172,
+            "bike_id": "grapefruit_MADRID046",
+            "lat": 40.35382753091611,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.713332852971992,
+            "bike_id": "grapefruit_MADRID047",
+            "lat": 40.43636111184817,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.6789066581790983,
+            "bike_id": "grapefruit_MADRID048",
+            "lat": 40.395231968450915,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.6161524709090247,
+            "bike_id": "grapefruit_MADRID049",
+            "lat": 40.31575913543486,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.6871832401013176,
+            "bike_id": "grapefruit_MADRID050",
+            "lat": 40.37250141861026,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.6338200007823223,
+            "bike_id": "grapefruit_MADRID051",
+            "lat": 40.43096699554028,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.6992287213197486,
+            "bike_id": "grapefruit_MADRID052",
+            "lat": 40.45079946863413,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.6618304195967277,
+            "bike_id": "grapefruit_MADRID053",
+            "lat": 40.44877171428606,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.6307215646187694,
+            "bike_id": "grapefruit_MADRID054",
+            "lat": 40.363707861642254,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.772740188925958,
+            "bike_id": "grapefruit_MADRID055",
+            "lat": 40.380492843856395,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.780961786602266,
+            "bike_id": "grapefruit_MADRID056",
+            "lat": 40.31661796975803,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.6528072374575915,
+            "bike_id": "grapefruit_MADRID057",
+            "lat": 40.3522501359078,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.623093669543143,
+            "bike_id": "grapefruit_MADRID058",
+            "lat": 40.49360122677736,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.69325741673442,
+            "bike_id": "grapefruit_MADRID059",
+            "lat": 40.49941336640323,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.7126268563014126,
+            "bike_id": "grapefruit_MADRID060",
+            "lat": 40.371664866134026,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.6010211423619656,
+            "bike_id": "grapefruit_MADRID061",
+            "lat": 40.31414050106225,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.6540995074255713,
+            "bike_id": "grapefruit_MADRID062",
+            "lat": 40.496299131844346,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.743784018633627,
+            "bike_id": "grapefruit_MADRID063",
+            "lat": 40.4249105125335,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.61572732099644,
+            "bike_id": "grapefruit_MADRID064",
+            "lat": 40.42222225304827,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.794195178214765,
+            "bike_id": "grapefruit_MADRID065",
+            "lat": 40.436957080674794,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.6318821375415395,
+            "bike_id": "grapefruit_MADRID066",
+            "lat": 40.37322940794443,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.788077085663362,
+            "bike_id": "grapefruit_MADRID067",
+            "lat": 40.31250941999195,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.6832438575634963,
+            "bike_id": "grapefruit_MADRID068",
+            "lat": 40.42505196624606,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.661480534938445,
+            "bike_id": "grapefruit_MADRID069",
+            "lat": 40.41974646115117,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.6944694878878623,
+            "bike_id": "grapefruit_MADRID070",
+            "lat": 40.46513322850466,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.6814286567291363,
+            "bike_id": "grapefruit_MADRID071",
+            "lat": 40.429370694691244,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.7392230130813977,
+            "bike_id": "grapefruit_MADRID072",
+            "lat": 40.43322689331399,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.7351935897595974,
+            "bike_id": "grapefruit_MADRID073",
+            "lat": 40.487707872557856,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.692409844071222,
+            "bike_id": "grapefruit_MADRID074",
+            "lat": 40.39672456759856,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.7929496602149366,
+            "bike_id": "grapefruit_MADRID075",
+            "lat": 40.34523885919499,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.719459622172257,
+            "bike_id": "grapefruit_MADRID076",
+            "lat": 40.46461850778604,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.6086467368543937,
+            "bike_id": "grapefruit_MADRID077",
+            "lat": 40.369469826325656,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.742501105321396,
+            "bike_id": "grapefruit_MADRID078",
+            "lat": 40.3940058638543,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.6739475895655875,
+            "bike_id": "grapefruit_MADRID079",
+            "lat": 40.4210471174295,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.7732728953543186,
+            "bike_id": "grapefruit_MADRID080",
+            "lat": 40.39304068408798,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.7900729323371922,
+            "bike_id": "grapefruit_MADRID081",
+            "lat": 40.42202295667816,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.7526137673960474,
+            "bike_id": "grapefruit_MADRID082",
+            "lat": 40.47423993316377,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.7723979441311584,
+            "bike_id": "grapefruit_MADRID083",
+            "lat": 40.49517832088522,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.6863763110273373,
+            "bike_id": "grapefruit_MADRID084",
+            "lat": 40.36204972924528,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.7526440097265956,
+            "bike_id": "grapefruit_MADRID085",
+            "lat": 40.40330914774153,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.6176076904916004,
+            "bike_id": "grapefruit_MADRID086",
+            "lat": 40.40857814658392,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.6935094129216814,
+            "bike_id": "grapefruit_MADRID087",
+            "lat": 40.4673822152841,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.724841229134099,
+            "bike_id": "grapefruit_MADRID088",
+            "lat": 40.42140069542944,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.680582752477919,
+            "bike_id": "grapefruit_MADRID089",
+            "lat": 40.39246687630006,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.786342585104977,
+            "bike_id": "grapefruit_MADRID090",
+            "lat": 40.35734486895988,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.7063828146832165,
+            "bike_id": "grapefruit_MADRID091",
+            "lat": 40.480348924499445,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.600154272691701,
+            "bike_id": "grapefruit_MADRID092",
+            "lat": 40.48615991820838,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.611368680368702,
+            "bike_id": "grapefruit_MADRID093",
+            "lat": 40.357732846193606,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.6997822650200307,
+            "bike_id": "grapefruit_MADRID094",
+            "lat": 40.477978121017046,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.7967637749237633,
+            "bike_id": "grapefruit_MADRID095",
+            "lat": 40.39893868811963,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.6553684429199134,
+            "bike_id": "grapefruit_MADRID096",
+            "lat": 40.31847382967484,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.674037640634348,
+            "bike_id": "grapefruit_MADRID097",
+            "lat": 40.47199982942006,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.600192639106464,
+            "bike_id": "grapefruit_MADRID098",
+            "lat": 40.40562650217507,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.765889171181452,
+            "bike_id": "grapefruit_MADRID099",
+            "lat": 40.48706784520495,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.772347999259055,
+            "bike_id": "grapefruit_MADRID100",
+            "lat": 40.43199398833822,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.7235750831544796,
+            "bike_id": "grapefruit_MADRID101",
+            "lat": 40.47603078695865,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.6114334672632102,
+            "bike_id": "grapefruit_MADRID102",
+            "lat": 40.30640235769233,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.6754273092821115,
+            "bike_id": "grapefruit_MADRID103",
+            "lat": 40.382251071688344,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.700107072984956,
+            "bike_id": "grapefruit_MADRID104",
+            "lat": 40.418958398795425,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.671403152310352,
+            "bike_id": "grapefruit_MADRID105",
+            "lat": 40.38932923504155,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.7903438492138366,
+            "bike_id": "grapefruit_MADRID106",
+            "lat": 40.40329122441373,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.7385118648588875,
+            "bike_id": "grapefruit_MADRID107",
+            "lat": 40.467799863969276,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.7042420486936676,
+            "bike_id": "grapefruit_MADRID108",
+            "lat": 40.39992904220483,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.611961480774379,
+            "bike_id": "grapefruit_MADRID109",
+            "lat": 40.468665846442626,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.6492214834068766,
+            "bike_id": "grapefruit_MADRID110",
+            "lat": 40.47471748806648,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.7568695707624,
+            "bike_id": "grapefruit_MADRID111",
+            "lat": 40.34267729105264,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.6374576883239556,
+            "bike_id": "grapefruit_MADRID112",
+            "lat": 40.496185681638096,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.645381752286997,
+            "bike_id": "grapefruit_MADRID113",
+            "lat": 40.31426131211566,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.649395664728644,
+            "bike_id": "grapefruit_MADRID114",
+            "lat": 40.4257663072382,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.6040416399306245,
+            "bike_id": "grapefruit_MADRID115",
+            "lat": 40.48900895115757,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.731186993247215,
+            "bike_id": "grapefruit_MADRID116",
+            "lat": 40.42477591995818,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.6962560200098267,
+            "bike_id": "grapefruit_MADRID117",
+            "lat": 40.42362545871148,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.765894016558191,
+            "bike_id": "grapefruit_MADRID118",
+            "lat": 40.432061793606486,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.6546989728923354,
+            "bike_id": "grapefruit_MADRID119",
+            "lat": 40.437250235614286,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.608304841677726,
+            "bike_id": "grapefruit_MADRID120",
+            "lat": 40.316221478931226,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.6284987521429164,
+            "bike_id": "grapefruit_MADRID121",
+            "lat": 40.493052611543256,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.6232030003777753,
+            "bike_id": "grapefruit_MADRID122",
+            "lat": 40.356301426068335,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.6600510709279503,
+            "bike_id": "grapefruit_MADRID123",
+            "lat": 40.329009800211075,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.616935349249174,
+            "bike_id": "grapefruit_MADRID124",
+            "lat": 40.45488077556806,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.756302656960143,
+            "bike_id": "grapefruit_MADRID125",
+            "lat": 40.36677319256919,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.7021221686661527,
+            "bike_id": "grapefruit_MADRID126",
+            "lat": 40.33744673900235,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.7693487368441656,
+            "bike_id": "grapefruit_MADRID127",
+            "lat": 40.377529311046786,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.7853530049114985,
+            "bike_id": "grapefruit_MADRID128",
+            "lat": 40.4419676869169,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.6511882410691614,
+            "bike_id": "grapefruit_MADRID129",
+            "lat": 40.33376160256632,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.717712159584602,
+            "bike_id": "grapefruit_MADRID130",
+            "lat": 40.45257024145059,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.7974804992873903,
+            "bike_id": "grapefruit_MADRID131",
+            "lat": 40.325819415714825,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.6979775210533234,
+            "bike_id": "grapefruit_MADRID132",
+            "lat": 40.481226629967225,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.7451471083464867,
+            "bike_id": "grapefruit_MADRID133",
+            "lat": 40.47220030851938,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.668336437926011,
+            "bike_id": "grapefruit_MADRID134",
+            "lat": 40.35135856870991,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.6386628067895757,
+            "bike_id": "grapefruit_MADRID135",
+            "lat": 40.4024520038938,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.7924624917272634,
+            "bike_id": "grapefruit_MADRID136",
+            "lat": 40.487263847886226,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.629879033820385,
+            "bike_id": "grapefruit_MADRID137",
+            "lat": 40.34160022414156,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.6557968016985396,
+            "bike_id": "grapefruit_MADRID138",
+            "lat": 40.36327195126978,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.7262239691947,
+            "bike_id": "grapefruit_MADRID139",
+            "lat": 40.47500866346742,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.7778777293380226,
+            "bike_id": "grapefruit_MADRID140",
+            "lat": 40.316534945801195,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.7521227692881904,
+            "bike_id": "grapefruit_MADRID141",
+            "lat": 40.32257731349162,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.7765626170909616,
+            "bike_id": "grapefruit_MADRID142",
+            "lat": 40.37735984165373,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.6384818151734724,
+            "bike_id": "grapefruit_MADRID143",
+            "lat": 40.30118544691258,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.673985415393843,
+            "bike_id": "grapefruit_MADRID144",
+            "lat": 40.42098872232156,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.605080603019811,
+            "bike_id": "grapefruit_MADRID145",
+            "lat": 40.304285451960205,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.784093839934208,
+            "bike_id": "grapefruit_MADRID146",
+            "lat": 40.394732870528095,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.7507151686442612,
+            "bike_id": "grapefruit_MADRID147",
+            "lat": 40.37755383321676,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.771609953562593,
+            "bike_id": "grapefruit_MADRID148",
+            "lat": 40.424367176101036,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.7159366720572873,
+            "bike_id": "grapefruit_MADRID149",
+            "lat": 40.41950554015475,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.622257744682958,
+            "bike_id": "grapefruit_MADRID150",
+            "lat": 40.45369100541811,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.63322899359853,
+            "bike_id": "grapefruit_MADRID151",
+            "lat": 40.48597798218221,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.6141016129493533,
+            "bike_id": "grapefruit_MADRID152",
+            "lat": 40.32116184986265,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.7294690166796047,
+            "bike_id": "grapefruit_MADRID153",
+            "lat": 40.327390863232694,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.729839422012042,
+            "bike_id": "grapefruit_MADRID154",
+            "lat": 40.42750797610623,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.6955133667731923,
+            "bike_id": "grapefruit_MADRID155",
+            "lat": 40.43768820512106,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.699893882619339,
+            "bike_id": "grapefruit_MADRID156",
+            "lat": 40.39822633456277,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.687755402364728,
+            "bike_id": "grapefruit_MADRID157",
+            "lat": 40.343868700153095,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.616146037577075,
+            "bike_id": "grapefruit_MADRID158",
+            "lat": 40.39487195330178,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.776496130648399,
+            "bike_id": "grapefruit_MADRID159",
+            "lat": 40.31501071899652,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.6061545954806924,
+            "bike_id": "grapefruit_MADRID160",
+            "lat": 40.379045108037715,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.605972869015723,
+            "bike_id": "grapefruit_MADRID161",
+            "lat": 40.319698190297416,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.6077048266073395,
+            "bike_id": "grapefruit_MADRID162",
+            "lat": 40.48298247313132,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.780889350450397,
+            "bike_id": "grapefruit_MADRID163",
+            "lat": 40.31075361099452,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.633530820037027,
+            "bike_id": "grapefruit_MADRID164",
+            "lat": 40.49065855465101,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.6442910536445625,
+            "bike_id": "grapefruit_MADRID165",
+            "lat": 40.36618444106805,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.6660548377419766,
+            "bike_id": "grapefruit_MADRID166",
+            "lat": 40.48330360297926,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.6616294961832945,
+            "bike_id": "grapefruit_MADRID167",
+            "lat": 40.46524909846242,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.671987470835889,
+            "bike_id": "grapefruit_MADRID168",
+            "lat": 40.35324428366049,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.7758592373397963,
+            "bike_id": "grapefruit_MADRID169",
+            "lat": 40.328548889875755,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.7766324335600525,
+            "bike_id": "grapefruit_MADRID170",
+            "lat": 40.33997336507017,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.6484113660810227,
+            "bike_id": "grapefruit_MADRID171",
+            "lat": 40.40105199629794,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.787739665925348,
+            "bike_id": "grapefruit_MADRID172",
+            "lat": 40.39235465540804,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.6508871627116655,
+            "bike_id": "grapefruit_MADRID173",
+            "lat": 40.306955913065345,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.6087505343934643,
+            "bike_id": "grapefruit_MADRID174",
+            "lat": 40.41086942822352,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.6223157797916925,
+            "bike_id": "grapefruit_MADRID175",
+            "lat": 40.35529446182363,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.6312788834727776,
+            "bike_id": "grapefruit_MADRID176",
+            "lat": 40.47381061516999,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.7568195964827047,
+            "bike_id": "grapefruit_MADRID177",
+            "lat": 40.32519570115117,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.7466716367151163,
+            "bike_id": "grapefruit_MADRID178",
+            "lat": 40.40133100668604,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.7365310338437667,
+            "bike_id": "grapefruit_MADRID179",
+            "lat": 40.40969697989429,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.766492805787115,
+            "bike_id": "grapefruit_MADRID180",
+            "lat": 40.46125170204751,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.7746046327534764,
+            "bike_id": "grapefruit_MADRID181",
+            "lat": 40.4470233452281,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.791774524145989,
+            "bike_id": "grapefruit_MADRID182",
+            "lat": 40.470537053958665,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.783168046378361,
+            "bike_id": "grapefruit_MADRID183",
+            "lat": 40.41823559866775,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.6208789625033173,
+            "bike_id": "grapefruit_MADRID184",
+            "lat": 40.396342380418844,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.6310557652556423,
+            "bike_id": "grapefruit_MADRID185",
+            "lat": 40.44015421949457,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.63581480668166,
+            "bike_id": "grapefruit_MADRID186",
+            "lat": 40.41054067264177,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.606169323768005,
+            "bike_id": "grapefruit_MADRID187",
+            "lat": 40.33246542050972,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.756852087992378,
+            "bike_id": "grapefruit_MADRID188",
+            "lat": 40.40163456729321,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.7473076883592387,
+            "bike_id": "grapefruit_MADRID189",
+            "lat": 40.48791558389191,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.605279125715622,
+            "bike_id": "grapefruit_MADRID190",
+            "lat": 40.39795980139363,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.660311640343385,
+            "bike_id": "grapefruit_MADRID191",
+            "lat": 40.42450032568075,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.764145254091691,
+            "bike_id": "grapefruit_MADRID192",
+            "lat": 40.40608644050319,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.7833658581265963,
+            "bike_id": "grapefruit_MADRID193",
+            "lat": 40.44855444411264,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.776833196222753,
+            "bike_id": "grapefruit_MADRID194",
+            "lat": 40.4183241208874,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.6163024655007505,
+            "bike_id": "grapefruit_MADRID195",
+            "lat": 40.30764897499894,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.6733047379225976,
+            "bike_id": "grapefruit_MADRID196",
+            "lat": 40.39323749346286,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.7787498029820874,
+            "bike_id": "grapefruit_MADRID197",
+            "lat": 40.36220166748782,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.7638635236802847,
+            "bike_id": "grapefruit_MADRID198",
+            "lat": 40.463078245821954,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.711970157561473,
+            "bike_id": "grapefruit_MADRID199",
+            "lat": 40.45470703932444,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.7902786531073462,
+            "bike_id": "grapefruit_MADRID200",
+            "lat": 40.472039817120155,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.789230197408746,
+            "bike_id": "grapefruit_MADRID201",
+            "lat": 40.305492347302796,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.674112910465199,
+            "bike_id": "grapefruit_MADRID202",
+            "lat": 40.39924114785225,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.749547893091344,
+            "bike_id": "grapefruit_MADRID203",
+            "lat": 40.31390567523707,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.6520993101127823,
+            "bike_id": "grapefruit_MADRID204",
+            "lat": 40.47034566423772,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.7196596465177048,
+            "bike_id": "grapefruit_MADRID205",
+            "lat": 40.49384239915001,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.738409714475163,
+            "bike_id": "grapefruit_MADRID206",
+            "lat": 40.411721801988634,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.6390513599917957,
+            "bike_id": "grapefruit_MADRID207",
+            "lat": 40.32251627819969,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.6036593489341375,
+            "bike_id": "grapefruit_MADRID208",
+            "lat": 40.35105124086811,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.6528972694072843,
+            "bike_id": "grapefruit_MADRID209",
+            "lat": 40.331381438492826,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.7104908316607887,
+            "bike_id": "grapefruit_MADRID210",
+            "lat": 40.3182911563029,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.787750186050852,
+            "bike_id": "grapefruit_MADRID211",
+            "lat": 40.318111464033315,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.6955816068660154,
+            "bike_id": "grapefruit_MADRID212",
+            "lat": 40.35089675333532,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.774827002335598,
+            "bike_id": "grapefruit_MADRID213",
+            "lat": 40.30854188728614,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.737918439722122,
+            "bike_id": "grapefruit_MADRID214",
+            "lat": 40.45721026251836,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.6357331253055505,
+            "bike_id": "grapefruit_MADRID215",
+            "lat": 40.44748229509539,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.603182752653018,
+            "bike_id": "grapefruit_MADRID216",
+            "lat": 40.34192271817339,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.795469655979328,
+            "bike_id": "grapefruit_MADRID217",
+            "lat": 40.447304326045284,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.6040905342618,
+            "bike_id": "grapefruit_MADRID218",
+            "lat": 40.4475147269265,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.637567000725709,
+            "bike_id": "grapefruit_MADRID219",
+            "lat": 40.47321178245359,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.6665306408264016,
+            "bike_id": "grapefruit_MADRID220",
+            "lat": 40.31558249478893,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.7661887282688,
+            "bike_id": "grapefruit_MADRID221",
+            "lat": 40.39409911967517,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.641345124774539,
+            "bike_id": "grapefruit_MADRID222",
+            "lat": 40.3219553668911,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.790049374906846,
+            "bike_id": "grapefruit_MADRID223",
+            "lat": 40.37790460296037,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.751595447321534,
+            "bike_id": "grapefruit_MADRID224",
+            "lat": 40.489511098962,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.792989968329,
+            "bike_id": "grapefruit_MADRID225",
+            "lat": 40.46036427384651,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.6151582648165466,
+            "bike_id": "grapefruit_MADRID226",
+            "lat": 40.33259515191614,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.606055003906537,
+            "bike_id": "grapefruit_MADRID227",
+            "lat": 40.36607311616498,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.632494546143013,
+            "bike_id": "grapefruit_MADRID228",
+            "lat": 40.336950242051145,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.745914678115494,
+            "bike_id": "grapefruit_MADRID229",
+            "lat": 40.31075954129053,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.6794357986356747,
+            "bike_id": "grapefruit_MADRID230",
+            "lat": 40.3290623711628,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.6344760161096863,
+            "bike_id": "grapefruit_MADRID231",
+            "lat": 40.363679557383186,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.794831119626863,
+            "bike_id": "grapefruit_MADRID232",
+            "lat": 40.438829636135736,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.66452678899815,
+            "bike_id": "grapefruit_MADRID233",
+            "lat": 40.39903677950231,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.7028988466140644,
+            "bike_id": "grapefruit_MADRID234",
+            "lat": 40.40946004082679,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.6262558354942254,
+            "bike_id": "grapefruit_MADRID235",
+            "lat": 40.3153345693474,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.7601265425329538,
+            "bike_id": "grapefruit_MADRID236",
+            "lat": 40.458504533803,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.7594936492176694,
+            "bike_id": "grapefruit_MADRID237",
+            "lat": 40.45156657922421,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.666563066776176,
+            "bike_id": "grapefruit_MADRID238",
+            "lat": 40.34393160054964,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.6465168865501303,
+            "bike_id": "grapefruit_MADRID239",
+            "lat": 40.37915190107395,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.6313464967542615,
+            "bike_id": "grapefruit_MADRID240",
+            "lat": 40.33914954579338,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.710260613112016,
+            "bike_id": "grapefruit_MADRID241",
+            "lat": 40.498521108575254,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.6323116342476873,
+            "bike_id": "grapefruit_MADRID242",
+            "lat": 40.470882834789144,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.6327820137965463,
+            "bike_id": "grapefruit_MADRID243",
+            "lat": 40.31925941848859,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.759520847935422,
+            "bike_id": "grapefruit_MADRID244",
+            "lat": 40.4238086605081,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.758819317373792,
+            "bike_id": "grapefruit_MADRID245",
+            "lat": 40.35271323690117,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.7825620116809384,
+            "bike_id": "grapefruit_MADRID246",
+            "lat": 40.36586002957958,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.6992896769917696,
+            "bike_id": "grapefruit_MADRID247",
+            "lat": 40.39596633591331,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.6314572765499893,
+            "bike_id": "grapefruit_MADRID248",
+            "lat": 40.3981015741574,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.699569773978672,
+            "bike_id": "grapefruit_MADRID249",
+            "lat": 40.43609189215185,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.631026437631242,
+            "bike_id": "grapefruit_MADRID250",
+            "lat": 40.38308440789527,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.6874028877634215,
+            "bike_id": "grapefruit_MADRID251",
+            "lat": 40.453586687785865,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.6785486351241934,
+            "bike_id": "grapefruit_MADRID252",
+            "lat": 40.35558621085025,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.6652761650459507,
+            "bike_id": "grapefruit_MADRID253",
+            "lat": 40.453893656256255,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.7045661611962593,
+            "bike_id": "grapefruit_MADRID254",
+            "lat": 40.36964281232489,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.6621118831884663,
+            "bike_id": "grapefruit_MADRID255",
+            "lat": 40.305919086805716,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.7066740837612655,
+            "bike_id": "grapefruit_MADRID256",
+            "lat": 40.4857775533247,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.6091163977457317,
+            "bike_id": "grapefruit_MADRID257",
+            "lat": 40.41645065958973,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.7961394691120445,
+            "bike_id": "grapefruit_MADRID258",
+            "lat": 40.452334612704874,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.6546305765562037,
+            "bike_id": "grapefruit_MADRID259",
+            "lat": 40.3193826895301,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.647193954792494,
+            "bike_id": "grapefruit_MADRID260",
+            "lat": 40.484822654678894,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.7828254296835717,
+            "bike_id": "grapefruit_MADRID261",
+            "lat": 40.308654659794655,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.6888434024877466,
+            "bike_id": "grapefruit_MADRID262",
+            "lat": 40.397174890865884,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.7510867301799466,
+            "bike_id": "grapefruit_MADRID263",
+            "lat": 40.493809451376734,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.7290383897683808,
+            "bike_id": "grapefruit_MADRID264",
+            "lat": 40.38883197266375,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.710932321549214,
+            "bike_id": "grapefruit_MADRID265",
+            "lat": 40.30707742267378,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.651049280898138,
+            "bike_id": "grapefruit_MADRID266",
+            "lat": 40.44155384735823,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.6273059024114396,
+            "bike_id": "grapefruit_MADRID267",
+            "lat": 40.340892606958064,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.7718896876951384,
+            "bike_id": "grapefruit_MADRID268",
+            "lat": 40.329866887956555,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.7610910423613793,
+            "bike_id": "grapefruit_MADRID269",
+            "lat": 40.44474732021937,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.602631933996194,
+            "bike_id": "grapefruit_MADRID270",
+            "lat": 40.49905250615192,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.6296891256446586,
+            "bike_id": "grapefruit_MADRID271",
+            "lat": 40.46029138915826,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.7004584524333763,
+            "bike_id": "grapefruit_MADRID272",
+            "lat": 40.31458353009501,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.610505043699902,
+            "bike_id": "grapefruit_MADRID273",
+            "lat": 40.42358221879413,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.6522927047207108,
+            "bike_id": "grapefruit_MADRID274",
+            "lat": 40.43691460555283,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.7021843346804975,
+            "bike_id": "grapefruit_MADRID275",
+            "lat": 40.313392045067204,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.7798534602828227,
+            "bike_id": "grapefruit_MADRID276",
+            "lat": 40.32553280825377,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.7084455567315993,
+            "bike_id": "grapefruit_MADRID277",
+            "lat": 40.47447854570497,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.705976195786767,
+            "bike_id": "grapefruit_MADRID278",
+            "lat": 40.32617479901455,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.6593515767447804,
+            "bike_id": "grapefruit_MADRID279",
+            "lat": 40.49472504893406,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.672045273085058,
+            "bike_id": "grapefruit_MADRID280",
+            "lat": 40.44511671093855,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.6348636582234843,
+            "bike_id": "grapefruit_MADRID281",
+            "lat": 40.365056687651716,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.646380775850289,
+            "bike_id": "grapefruit_MADRID282",
+            "lat": 40.364443060047634,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.705521921203213,
+            "bike_id": "grapefruit_MADRID283",
+            "lat": 40.40103860303715,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.613423616215768,
+            "bike_id": "grapefruit_MADRID284",
+            "lat": 40.30220087012729,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.6550960861718043,
+            "bike_id": "grapefruit_MADRID285",
+            "lat": 40.455062597371075,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.7835628080938335,
+            "bike_id": "grapefruit_MADRID286",
+            "lat": 40.37134536126175,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.700050153909892,
+            "bike_id": "grapefruit_MADRID287",
+            "lat": 40.39802836239542,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.6134485050752363,
+            "bike_id": "grapefruit_MADRID288",
+            "lat": 40.341383337704436,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.7706647916358675,
+            "bike_id": "grapefruit_MADRID289",
+            "lat": 40.49942563678801,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.676634680209732,
+            "bike_id": "grapefruit_MADRID290",
+            "lat": 40.35662060518906,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.66866121595624,
+            "bike_id": "grapefruit_MADRID291",
+            "lat": 40.3847234295149,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.774395115606737,
+            "bike_id": "grapefruit_MADRID292",
+            "lat": 40.41491965018421,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.7661702550888587,
+            "bike_id": "grapefruit_MADRID293",
+            "lat": 40.498972699888064,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.6265565150811954,
+            "bike_id": "grapefruit_MADRID294",
+            "lat": 40.46087379347758,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.660890397251173,
+            "bike_id": "grapefruit_MADRID295",
+            "lat": 40.45552858489764,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.6321924092736264,
+            "bike_id": "grapefruit_MADRID296",
+            "lat": 40.39730412658859,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.7522785449339007,
+            "bike_id": "grapefruit_MADRID297",
+            "lat": 40.49879858103768,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.7400216977619403,
+            "bike_id": "grapefruit_MADRID298",
+            "lat": 40.368985438925144,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.653617247679602,
+            "bike_id": "grapefruit_MADRID299",
+            "lat": 40.35992278162523,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.6183554990841023,
+            "bike_id": "grapefruit_MADRID300",
+            "lat": 40.322507406930555,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.704802125635952,
+            "bike_id": "grapefruit_MADRID301",
+            "lat": 40.43429257236158,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.6644361099758718,
+            "bike_id": "grapefruit_MADRID302",
+            "lat": 40.49617726654727,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.6006932848154216,
+            "bike_id": "grapefruit_MADRID303",
+            "lat": 40.459813872724446,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.743011784975829,
+            "bike_id": "grapefruit_MADRID304",
+            "lat": 40.34387026557533,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 1,
+            "lon": -3.699874419939874,
+            "bike_id": "grapefruit_MADRID305",
+            "lat": 40.32482133339026,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.693991133231569,
+            "bike_id": "grapefruit_MADRID306",
+            "lat": 40.44673410682168,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.728663416232601,
+            "bike_id": "grapefruit_MADRID307",
+            "lat": 40.484549602607615,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.7990208153470637,
+            "bike_id": "grapefruit_MADRID308",
+            "lat": 40.416653647325475,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.7452181266648004,
+            "bike_id": "grapefruit_MADRID309",
+            "lat": 40.31506800168537,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.7468303862789134,
+            "bike_id": "grapefruit_MADRID310",
+            "lat": 40.44538209584818,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.7785811434695984,
+            "bike_id": "grapefruit_MADRID311",
+            "lat": 40.38358483427528,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.7871879179476493,
+            "bike_id": "grapefruit_MADRID312",
+            "lat": 40.403244972423444,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.707507268742821,
+            "bike_id": "grapefruit_MADRID313",
+            "lat": 40.46402755189345,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.71331024608169,
+            "bike_id": "grapefruit_MADRID314",
+            "lat": 40.44132307662577,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.693917468670949,
+            "bike_id": "grapefruit_MADRID315",
+            "lat": 40.376805055494714,
+            "pricing_plan_id": "plan1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 0,
+            "lon": -3.662571562876975,
+            "bike_id": "grapefruit_MADRID316",
+            "lat": 40.301020685139754,
+            "pricing_plan_id": "plan3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "motorbike",
+            "is_disabled": 0,
+            "lon": -3.6358230147153527,
+            "bike_id": "grapefruit_MADRID317",
+            "lat": 40.38165840769844,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.675354067369535,
+            "bike_id": "grapefruit_MADRID318",
+            "lat": 40.38492528936382,
+            "pricing_plan_id": "plan2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "scooter",
+            "is_disabled": 1,
+            "lon": -3.654563609704268,
+            "bike_id": "grapefruit_MADRID319",
+            "lat": 40.30250609987915,
+            "pricing_plan_id": "plan1"
+        }
+    ]},
+    "ttl": 180,
+    "version": "2.3"
+}
