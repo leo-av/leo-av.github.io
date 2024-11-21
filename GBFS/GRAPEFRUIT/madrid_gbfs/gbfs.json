@@ -1,0 +1,39 @@
+{
+    "last_updated": 1699905600,
+    "ttl": 60,
+    "version": "2.3",
+    "data": {
+        "en": {
+            "feeds": [
+                {
+                    "name": "system_information",
+                    "url": "https://yourserver.com/madrid_gbfs/en/system_information.json"
+                },
+                {
+                    "name": "station_information",
+                    "url": "https://yourserver.com/madrid_gbfs/en/station_information.json"
+                },
+                {
+                    "name": "station_status",
+                    "url": "https://yourserver.com/madrid_gbfs/en/station_status.json"
+                },
+                {
+                    "name": "free_bike_status",
+                    "url": "https://yourserver.com/madrid_gbfs/en/free_bike_status.json"
+                },
+                {
+                    "name": "system_pricing_plans",
+                    "url": "https://yourserver.com/madrid_gbfs/en/system_pricing_plans.json"
+                },
+                {
+                    "name": "system_hours",
+                    "url": "https://yourserver.com/madrid_gbfs/en/system_hours.json"
+                },
+                {
+                    "name": "system_alerts",
+                    "url": "https://yourserver.com/madrid_gbfs/en/system_alerts.json"
+                }
+            ]
+        }
+    }
+}
