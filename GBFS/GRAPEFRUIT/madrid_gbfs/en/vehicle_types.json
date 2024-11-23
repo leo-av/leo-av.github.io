@@ -1,29 +1,16 @@
 {
-    "last_updated": 1732386311,
-    "data": {"vehicle_types": [
-        {
-            "pricing_plans": [
-                "grapefruit_plan_1",
-                "grapefruit_plan_2"
-            ],
-            "vehicle_type_id": "grapefruit_motorbike",
-            "propulsion_type": "electric",
-            "default_pricing_plan_id": "grapefruit_plan_1",
-            "max_range_meters": 200000,
-            "form_factor": "moped"
-        },
-        {
-            "pricing_plans": [
-                "grapefruit_plan_1",
-                "grapefruit_plan_3"
-            ],
-            "vehicle_type_id": "grapefruit_scooter",
-            "propulsion_type": "electric",
-            "default_pricing_plan_id": "grapefruit_plan_1",
-            "max_range_meters": 20000,
-            "form_factor": "scooter"
-        }
-    ]},
+    "last_updated": 1732386553,
+    "data": {"vehicle_types": [{
+        "pricing_plans": [
+            "grapefruit_plan_1",
+            "grapefruit_plan_2"
+        ],
+        "vehicle_type_id": "grapefruit_car",
+        "propulsion_type": "combustion",
+        "default_pricing_plan_id": "grapefruit_plan_1",
+        "max_range_meters": 500000,
+        "form_factor": "car"
+    }]},
     "ttl": 86400,
     "version": "2.2"
 }

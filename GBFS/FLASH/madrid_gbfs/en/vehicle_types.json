@@ -1,16 +1,29 @@
 {
-    "last_updated": 1732386261,
-    "data": {"vehicle_types": [{
-        "pricing_plans": [
-            "flash_plan_1",
-            "flash_plan_2"
-        ],
-        "vehicle_type_id": "flash_car",
-        "propulsion_type": "electric",
-        "default_pricing_plan_id": "flash_plan_1",
-        "max_range_meters": 290000,
-        "form_factor": "car"
-    }]},
+    "last_updated": 1732386540,
+    "data": {"vehicle_types": [
+        {
+            "pricing_plans": [
+                "flash_plan_1",
+                "flash_plan_2"
+            ],
+            "vehicle_type_id": "flash_motorbike",
+            "propulsion_type": "electric",
+            "default_pricing_plan_id": "flash_plan_1",
+            "max_range_meters": 200000,
+            "form_factor": "moped"
+        },
+        {
+            "pricing_plans": [
+                "flash_plan_1",
+                "flash_plan_3"
+            ],
+            "vehicle_type_id": "flash_scooter",
+            "propulsion_type": "electric",
+            "default_pricing_plan_id": "flash_plan_1",
+            "max_range_meters": 20000,
+            "form_factor": "scooter"
+        }
+    ]},
     "ttl": 86400,
     "version": "2.2"
 }
