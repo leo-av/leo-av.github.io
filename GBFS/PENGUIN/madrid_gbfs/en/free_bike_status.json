@@ -1,0 +1,5439 @@
+{
+    "last_updated": 1732383876,
+    "data": {"bikes": [
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 1,
+            "lon": -3.7634046211619196,
+            "bike_id": "penguin_MADRID001",
+            "lat": 40.356457408451874,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.7823436056374375,
+            "bike_id": "penguin_MADRID002",
+            "lat": 40.39718120112555,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 1,
+            "lon": -3.69659320136915,
+            "bike_id": "penguin_MADRID003",
+            "lat": 40.417411285347534,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.687830163817923,
+            "bike_id": "penguin_MADRID004",
+            "lat": 40.461912516197444,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.795719380082687,
+            "bike_id": "penguin_MADRID005",
+            "lat": 40.40295923060344,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.6449550034738714,
+            "bike_id": "penguin_MADRID006",
+            "lat": 40.31025470534983,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.73203948251791,
+            "bike_id": "penguin_MADRID007",
+            "lat": 40.394674425281735,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.6951831766452785,
+            "bike_id": "penguin_MADRID008",
+            "lat": 40.37212819220493,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.703011749683883,
+            "bike_id": "penguin_MADRID009",
+            "lat": 40.37371917686605,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.653823292943731,
+            "bike_id": "penguin_MADRID010",
+            "lat": 40.314510590308764,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.676941833252866,
+            "bike_id": "penguin_MADRID011",
+            "lat": 40.32559366262566,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.6712685039466635,
+            "bike_id": "penguin_MADRID012",
+            "lat": 40.452783321606645,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.703436416079708,
+            "bike_id": "penguin_MADRID013",
+            "lat": 40.33015076037385,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.619029921622839,
+            "bike_id": "penguin_MADRID014",
+            "lat": 40.34773499563133,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.7951336442379353,
+            "bike_id": "penguin_MADRID015",
+            "lat": 40.35015824266274,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.7810313097652855,
+            "bike_id": "penguin_MADRID016",
+            "lat": 40.32650274684198,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 0,
+            "lon": -3.6361792196070453,
+            "bike_id": "penguin_MADRID017",
+            "lat": 40.48168961120162,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.680633713809386,
+            "bike_id": "penguin_MADRID018",
+            "lat": 40.31573284154657,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.7229168105655956,
+            "bike_id": "penguin_MADRID019",
+            "lat": 40.47962476558466,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 0,
+            "lon": -3.623858848640852,
+            "bike_id": "penguin_MADRID020",
+            "lat": 40.42524173545475,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.6922615836310104,
+            "bike_id": "penguin_MADRID021",
+            "lat": 40.42154179056562,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.6892799768264943,
+            "bike_id": "penguin_MADRID022",
+            "lat": 40.37045890968489,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 0,
+            "lon": -3.7432255746954475,
+            "bike_id": "penguin_MADRID023",
+            "lat": 40.423281120040315,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.6450489731928917,
+            "bike_id": "penguin_MADRID024",
+            "lat": 40.47193267968365,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.6070637041887683,
+            "bike_id": "penguin_MADRID025",
+            "lat": 40.36946330386005,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.62352841994458,
+            "bike_id": "penguin_MADRID026",
+            "lat": 40.420180219944825,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.671509081802265,
+            "bike_id": "penguin_MADRID027",
+            "lat": 40.472241643087365,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.7339973909939457,
+            "bike_id": "penguin_MADRID028",
+            "lat": 40.44416311670526,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 1,
+            "lon": -3.61456650196173,
+            "bike_id": "penguin_MADRID029",
+            "lat": 40.321570921307305,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 0,
+            "lon": -3.7438997503229565,
+            "bike_id": "penguin_MADRID030",
+            "lat": 40.371669621469046,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.6533327026678384,
+            "bike_id": "penguin_MADRID031",
+            "lat": 40.34027353783884,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.7091036573215743,
+            "bike_id": "penguin_MADRID032",
+            "lat": 40.319884922008,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.6633123112441632,
+            "bike_id": "penguin_MADRID033",
+            "lat": 40.40718420042405,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 0,
+            "lon": -3.7836410696503053,
+            "bike_id": "penguin_MADRID034",
+            "lat": 40.404430637962605,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 1,
+            "lon": -3.7736980958044004,
+            "bike_id": "penguin_MADRID035",
+            "lat": 40.46165453241359,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.789395955943256,
+            "bike_id": "penguin_MADRID036",
+            "lat": 40.305154805537065,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 1,
+            "lon": -3.79408433124018,
+            "bike_id": "penguin_MADRID037",
+            "lat": 40.35269876841743,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 1,
+            "lon": -3.6762100074090265,
+            "bike_id": "penguin_MADRID038",
+            "lat": 40.37695359566569,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.7780820341416046,
+            "bike_id": "penguin_MADRID039",
+            "lat": 40.446061808502606,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.752874582997548,
+            "bike_id": "penguin_MADRID040",
+            "lat": 40.44390603163438,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 1,
+            "lon": -3.7793047994559745,
+            "bike_id": "penguin_MADRID041",
+            "lat": 40.35249089580406,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 0,
+            "lon": -3.7194776011942836,
+            "bike_id": "penguin_MADRID042",
+            "lat": 40.465002946064025,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.6051939739253247,
+            "bike_id": "penguin_MADRID043",
+            "lat": 40.39049215335782,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 0,
+            "lon": -3.681574212947671,
+            "bike_id": "penguin_MADRID044",
+            "lat": 40.30975140598675,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.724151960202999,
+            "bike_id": "penguin_MADRID045",
+            "lat": 40.446853249492804,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 0,
+            "lon": -3.676649907696466,
+            "bike_id": "penguin_MADRID046",
+            "lat": 40.33193589807585,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.631452364338146,
+            "bike_id": "penguin_MADRID047",
+            "lat": 40.34821338735729,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.7933448944534502,
+            "bike_id": "penguin_MADRID048",
+            "lat": 40.47981749530972,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.7293957402952214,
+            "bike_id": "penguin_MADRID049",
+            "lat": 40.30696196093224,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 0,
+            "lon": -3.7139084203429786,
+            "bike_id": "penguin_MADRID050",
+            "lat": 40.331052256897536,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.727179717213073,
+            "bike_id": "penguin_MADRID051",
+            "lat": 40.454747026913736,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.6603518342761423,
+            "bike_id": "penguin_MADRID052",
+            "lat": 40.490610114039555,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 1,
+            "lon": -3.7159521989957023,
+            "bike_id": "penguin_MADRID053",
+            "lat": 40.32687490948481,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.6747691609790487,
+            "bike_id": "penguin_MADRID054",
+            "lat": 40.439975521661715,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.6245164383305553,
+            "bike_id": "penguin_MADRID055",
+            "lat": 40.41088219017694,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 0,
+            "lon": -3.7142938634179,
+            "bike_id": "penguin_MADRID056",
+            "lat": 40.3759110527017,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.711156717939803,
+            "bike_id": "penguin_MADRID057",
+            "lat": 40.32256125828053,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.7911605931090167,
+            "bike_id": "penguin_MADRID058",
+            "lat": 40.427065258299486,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 0,
+            "lon": -3.6970533770854717,
+            "bike_id": "penguin_MADRID059",
+            "lat": 40.422720782782946,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 0,
+            "lon": -3.7383407151359873,
+            "bike_id": "penguin_MADRID060",
+            "lat": 40.4867060345444,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.6967559533867846,
+            "bike_id": "penguin_MADRID061",
+            "lat": 40.337962250001105,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 0,
+            "lon": -3.7312202359987294,
+            "bike_id": "penguin_MADRID062",
+            "lat": 40.349860683531375,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.651183161579301,
+            "bike_id": "penguin_MADRID063",
+            "lat": 40.49875389659484,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 0,
+            "lon": -3.6457890388358103,
+            "bike_id": "penguin_MADRID064",
+            "lat": 40.493143985374154,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.718618513546883,
+            "bike_id": "penguin_MADRID065",
+            "lat": 40.45808324322259,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.683810040733782,
+            "bike_id": "penguin_MADRID066",
+            "lat": 40.48555552704263,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.6291702550624763,
+            "bike_id": "penguin_MADRID067",
+            "lat": 40.40396948252986,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.6454371304712616,
+            "bike_id": "penguin_MADRID068",
+            "lat": 40.46852747503216,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 0,
+            "lon": -3.7581644250588537,
+            "bike_id": "penguin_MADRID069",
+            "lat": 40.32911700868837,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 0,
+            "lon": -3.7797505386644286,
+            "bike_id": "penguin_MADRID070",
+            "lat": 40.39350413756979,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.6239397769402983,
+            "bike_id": "penguin_MADRID071",
+            "lat": 40.370991269160605,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.693678470349459,
+            "bike_id": "penguin_MADRID072",
+            "lat": 40.355334466112055,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 1,
+            "lon": -3.6655132977209144,
+            "bike_id": "penguin_MADRID073",
+            "lat": 40.48559826912108,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 0,
+            "lon": -3.749773707102862,
+            "bike_id": "penguin_MADRID074",
+            "lat": 40.40975883140882,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.7055850779115955,
+            "bike_id": "penguin_MADRID075",
+            "lat": 40.468248922620056,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.733313947640479,
+            "bike_id": "penguin_MADRID076",
+            "lat": 40.31327127902201,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 0,
+            "lon": -3.654351296253543,
+            "bike_id": "penguin_MADRID077",
+            "lat": 40.384589498964715,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.71919460740716,
+            "bike_id": "penguin_MADRID078",
+            "lat": 40.47363849973574,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 0,
+            "lon": -3.759594052848846,
+            "bike_id": "penguin_MADRID079",
+            "lat": 40.325179464201625,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 1,
+            "lon": -3.6190828803705464,
+            "bike_id": "penguin_MADRID080",
+            "lat": 40.44935683448594,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 1,
+            "lon": -3.6585168103156755,
+            "bike_id": "penguin_MADRID081",
+            "lat": 40.44689793190297,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.6393017611792255,
+            "bike_id": "penguin_MADRID082",
+            "lat": 40.38632846132889,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 0,
+            "lon": -3.6367941988703496,
+            "bike_id": "penguin_MADRID083",
+            "lat": 40.31445994416415,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.6299127847051,
+            "bike_id": "penguin_MADRID084",
+            "lat": 40.43003812132973,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.650304913671369,
+            "bike_id": "penguin_MADRID085",
+            "lat": 40.405323902813514,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.655466289908701,
+            "bike_id": "penguin_MADRID086",
+            "lat": 40.40151155324222,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.6150164647980456,
+            "bike_id": "penguin_MADRID087",
+            "lat": 40.49127134640983,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.6678878592490514,
+            "bike_id": "penguin_MADRID088",
+            "lat": 40.475336929785634,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 0,
+            "lon": -3.6204905514121792,
+            "bike_id": "penguin_MADRID089",
+            "lat": 40.45994034683461,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 0,
+            "lon": -3.711969783790176,
+            "bike_id": "penguin_MADRID090",
+            "lat": 40.44803051158372,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.672477780242271,
+            "bike_id": "penguin_MADRID091",
+            "lat": 40.3895937612881,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 1,
+            "lon": -3.6439362394985317,
+            "bike_id": "penguin_MADRID092",
+            "lat": 40.435027830943284,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.720070483547458,
+            "bike_id": "penguin_MADRID093",
+            "lat": 40.34040360604551,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.6935509429270663,
+            "bike_id": "penguin_MADRID094",
+            "lat": 40.48458155448189,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.6728823999140188,
+            "bike_id": "penguin_MADRID095",
+            "lat": 40.375532795232786,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 1,
+            "lon": -3.750236029894716,
+            "bike_id": "penguin_MADRID096",
+            "lat": 40.446847400857294,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 1,
+            "lon": -3.6637239745317527,
+            "bike_id": "penguin_MADRID097",
+            "lat": 40.375295476705766,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 1,
+            "lon": -3.603670947708787,
+            "bike_id": "penguin_MADRID098",
+            "lat": 40.48643923727615,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.7622419692873903,
+            "bike_id": "penguin_MADRID099",
+            "lat": 40.457677248525336,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.7193400345035665,
+            "bike_id": "penguin_MADRID100",
+            "lat": 40.47673470570265,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.69499224512059,
+            "bike_id": "penguin_MADRID101",
+            "lat": 40.46849648662225,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.6794976045548298,
+            "bike_id": "penguin_MADRID102",
+            "lat": 40.36421256353941,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.6774143309837437,
+            "bike_id": "penguin_MADRID103",
+            "lat": 40.454488023930786,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.7700192712581075,
+            "bike_id": "penguin_MADRID104",
+            "lat": 40.44110301966569,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.613176661222669,
+            "bike_id": "penguin_MADRID105",
+            "lat": 40.482590451818055,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.74360821487167,
+            "bike_id": "penguin_MADRID106",
+            "lat": 40.314632323621055,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.666361106150213,
+            "bike_id": "penguin_MADRID107",
+            "lat": 40.41871828557838,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.739825226549877,
+            "bike_id": "penguin_MADRID108",
+            "lat": 40.41114281580387,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.761955673159505,
+            "bike_id": "penguin_MADRID109",
+            "lat": 40.329300248428076,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.69241120149518,
+            "bike_id": "penguin_MADRID110",
+            "lat": 40.303369724784936,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.720124004638996,
+            "bike_id": "penguin_MADRID111",
+            "lat": 40.41886489043829,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 1,
+            "lon": -3.7043708695410524,
+            "bike_id": "penguin_MADRID112",
+            "lat": 40.399155980700385,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.679720518743577,
+            "bike_id": "penguin_MADRID113",
+            "lat": 40.46695486687655,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.6212865090098276,
+            "bike_id": "penguin_MADRID114",
+            "lat": 40.37988622204565,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 1,
+            "lon": -3.6165198922996202,
+            "bike_id": "penguin_MADRID115",
+            "lat": 40.37765104024057,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.7833303978850528,
+            "bike_id": "penguin_MADRID116",
+            "lat": 40.42692131698877,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 1,
+            "lon": -3.7116296588825293,
+            "bike_id": "penguin_MADRID117",
+            "lat": 40.30498770810347,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.686444719830125,
+            "bike_id": "penguin_MADRID118",
+            "lat": 40.32431462867891,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.6755546287952288,
+            "bike_id": "penguin_MADRID119",
+            "lat": 40.46754020599025,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.6331577401875865,
+            "bike_id": "penguin_MADRID120",
+            "lat": 40.37609123987,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.683381971041411,
+            "bike_id": "penguin_MADRID121",
+            "lat": 40.41546610842875,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.6035049262774694,
+            "bike_id": "penguin_MADRID122",
+            "lat": 40.326371463192984,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.726555599946965,
+            "bike_id": "penguin_MADRID123",
+            "lat": 40.36328129378622,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.7265238256389583,
+            "bike_id": "penguin_MADRID124",
+            "lat": 40.32061977938097,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.73670869311237,
+            "bike_id": "penguin_MADRID125",
+            "lat": 40.45165214222807,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 1,
+            "lon": -3.682791395905271,
+            "bike_id": "penguin_MADRID126",
+            "lat": 40.396300567033556,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.787023065305863,
+            "bike_id": "penguin_MADRID127",
+            "lat": 40.451485053434084,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.7184725835647368,
+            "bike_id": "penguin_MADRID128",
+            "lat": 40.441221794536894,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.626584125142379,
+            "bike_id": "penguin_MADRID129",
+            "lat": 40.47359465324638,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 0,
+            "lon": -3.701348903412513,
+            "bike_id": "penguin_MADRID130",
+            "lat": 40.40784795278912,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.7532002211144633,
+            "bike_id": "penguin_MADRID131",
+            "lat": 40.49723175816499,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.799295695246515,
+            "bike_id": "penguin_MADRID132",
+            "lat": 40.42186347236342,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.7801550635870207,
+            "bike_id": "penguin_MADRID133",
+            "lat": 40.38075255776273,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.71167690944977,
+            "bike_id": "penguin_MADRID134",
+            "lat": 40.473267896307796,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 0,
+            "lon": -3.602362015911053,
+            "bike_id": "penguin_MADRID135",
+            "lat": 40.467710100326364,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.734126099502891,
+            "bike_id": "penguin_MADRID136",
+            "lat": 40.42828402390154,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.617388996402544,
+            "bike_id": "penguin_MADRID137",
+            "lat": 40.35164938831372,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.6871824030334284,
+            "bike_id": "penguin_MADRID138",
+            "lat": 40.3503603040181,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.606822711325959,
+            "bike_id": "penguin_MADRID139",
+            "lat": 40.41288737606006,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.6892502565010106,
+            "bike_id": "penguin_MADRID140",
+            "lat": 40.368548697884734,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.633441039604672,
+            "bike_id": "penguin_MADRID141",
+            "lat": 40.39055905562387,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.704351567010514,
+            "bike_id": "penguin_MADRID142",
+            "lat": 40.38153930926003,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.659662213401857,
+            "bike_id": "penguin_MADRID143",
+            "lat": 40.30321089489306,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 0,
+            "lon": -3.74513915042716,
+            "bike_id": "penguin_MADRID144",
+            "lat": 40.33563298542848,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.7427396495668406,
+            "bike_id": "penguin_MADRID145",
+            "lat": 40.48122292262044,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.761640125013106,
+            "bike_id": "penguin_MADRID146",
+            "lat": 40.46493313785952,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.6121711252642728,
+            "bike_id": "penguin_MADRID147",
+            "lat": 40.32434064553311,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.796198038466999,
+            "bike_id": "penguin_MADRID148",
+            "lat": 40.332038103648955,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.7847910469828716,
+            "bike_id": "penguin_MADRID149",
+            "lat": 40.4475980877144,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.7350824935819706,
+            "bike_id": "penguin_MADRID150",
+            "lat": 40.357515184831975,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.7230145852172636,
+            "bike_id": "penguin_MADRID151",
+            "lat": 40.328913207438426,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 1,
+            "lon": -3.737234968447165,
+            "bike_id": "penguin_MADRID152",
+            "lat": 40.37643772691852,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 0,
+            "lon": -3.6917024195493053,
+            "bike_id": "penguin_MADRID153",
+            "lat": 40.42163690864014,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.770619660483262,
+            "bike_id": "penguin_MADRID154",
+            "lat": 40.41026639907216,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.7191148261892937,
+            "bike_id": "penguin_MADRID155",
+            "lat": 40.34533692455284,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.6366480249051203,
+            "bike_id": "penguin_MADRID156",
+            "lat": 40.49235597320852,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.617423872074952,
+            "bike_id": "penguin_MADRID157",
+            "lat": 40.418097813047545,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 0,
+            "lon": -3.6131458115700297,
+            "bike_id": "penguin_MADRID158",
+            "lat": 40.43536886427185,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.7682524848414976,
+            "bike_id": "penguin_MADRID159",
+            "lat": 40.44361831587441,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.796331334879679,
+            "bike_id": "penguin_MADRID160",
+            "lat": 40.4788766172073,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.7287091016659266,
+            "bike_id": "penguin_MADRID161",
+            "lat": 40.3163873287911,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 1,
+            "lon": -3.772273710658887,
+            "bike_id": "penguin_MADRID162",
+            "lat": 40.40543066696241,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 1,
+            "lon": -3.6633866826900894,
+            "bike_id": "penguin_MADRID163",
+            "lat": 40.45821974818934,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.798299834912328,
+            "bike_id": "penguin_MADRID164",
+            "lat": 40.36338357044643,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 0,
+            "lon": -3.7577948471599956,
+            "bike_id": "penguin_MADRID165",
+            "lat": 40.34943338905045,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.624818836892182,
+            "bike_id": "penguin_MADRID166",
+            "lat": 40.48474199058737,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.718693836029535,
+            "bike_id": "penguin_MADRID167",
+            "lat": 40.46794833669874,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 1,
+            "lon": -3.6380327649866735,
+            "bike_id": "penguin_MADRID168",
+            "lat": 40.43633262992533,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.6167990993991848,
+            "bike_id": "penguin_MADRID169",
+            "lat": 40.39958984522707,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.754002257233929,
+            "bike_id": "penguin_MADRID170",
+            "lat": 40.49256246987783,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.6773252348896333,
+            "bike_id": "penguin_MADRID171",
+            "lat": 40.33287613165251,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 1,
+            "lon": -3.6445359266589157,
+            "bike_id": "penguin_MADRID172",
+            "lat": 40.368054431159365,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.773838026147059,
+            "bike_id": "penguin_MADRID173",
+            "lat": 40.401572284474625,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 0,
+            "lon": -3.6253722624117177,
+            "bike_id": "penguin_MADRID174",
+            "lat": 40.49843980404042,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.7308833507933654,
+            "bike_id": "penguin_MADRID175",
+            "lat": 40.38829152393543,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.687122700909002,
+            "bike_id": "penguin_MADRID176",
+            "lat": 40.30758868462739,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.690861666784965,
+            "bike_id": "penguin_MADRID177",
+            "lat": 40.35242506990675,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.699444749913305,
+            "bike_id": "penguin_MADRID178",
+            "lat": 40.449559603426046,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.7506169016277227,
+            "bike_id": "penguin_MADRID179",
+            "lat": 40.39568190387775,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 1,
+            "lon": -3.76891377951886,
+            "bike_id": "penguin_MADRID180",
+            "lat": 40.4635496732672,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.6232083833761872,
+            "bike_id": "penguin_MADRID181",
+            "lat": 40.428519607952424,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.6810623465873262,
+            "bike_id": "penguin_MADRID182",
+            "lat": 40.33012647712974,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 0,
+            "lon": -3.630334690018784,
+            "bike_id": "penguin_MADRID183",
+            "lat": 40.4507475926622,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.7070556949143314,
+            "bike_id": "penguin_MADRID184",
+            "lat": 40.4670229409833,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.680878051706751,
+            "bike_id": "penguin_MADRID185",
+            "lat": 40.30958391885493,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.605472296180089,
+            "bike_id": "penguin_MADRID186",
+            "lat": 40.35277642559687,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.6410381511360574,
+            "bike_id": "penguin_MADRID187",
+            "lat": 40.34844699715323,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 1,
+            "lon": -3.7996580635341792,
+            "bike_id": "penguin_MADRID188",
+            "lat": 40.416493319688506,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.6515239967732116,
+            "bike_id": "penguin_MADRID189",
+            "lat": 40.409763401536,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.661123095417175,
+            "bike_id": "penguin_MADRID190",
+            "lat": 40.482020396674514,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.697272679961537,
+            "bike_id": "penguin_MADRID191",
+            "lat": 40.30507302540162,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.779449600840712,
+            "bike_id": "penguin_MADRID192",
+            "lat": 40.30480411457541,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.685163701029636,
+            "bike_id": "penguin_MADRID193",
+            "lat": 40.315712889682544,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.6491798592583415,
+            "bike_id": "penguin_MADRID194",
+            "lat": 40.389719185412034,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 0,
+            "lon": -3.635197700770578,
+            "bike_id": "penguin_MADRID195",
+            "lat": 40.33736076431442,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 1,
+            "lon": -3.7541528617784086,
+            "bike_id": "penguin_MADRID196",
+            "lat": 40.32814761600068,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.7406082362199546,
+            "bike_id": "penguin_MADRID197",
+            "lat": 40.331719946902076,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.7797584644995545,
+            "bike_id": "penguin_MADRID198",
+            "lat": 40.342589500287204,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.6023754803146963,
+            "bike_id": "penguin_MADRID199",
+            "lat": 40.3986263852177,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 0,
+            "lon": -3.6335777588346216,
+            "bike_id": "penguin_MADRID200",
+            "lat": 40.377086796421345,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 1,
+            "lon": -3.69361046200904,
+            "bike_id": "penguin_MADRID201",
+            "lat": 40.43185940243674,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 0,
+            "lon": -3.7048784285087857,
+            "bike_id": "penguin_MADRID202",
+            "lat": 40.32174133443851,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.6592787010975862,
+            "bike_id": "penguin_MADRID203",
+            "lat": 40.37193730860443,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 0,
+            "lon": -3.7434338204494484,
+            "bike_id": "penguin_MADRID204",
+            "lat": 40.409608322023004,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.606731954159611,
+            "bike_id": "penguin_MADRID205",
+            "lat": 40.319179122965835,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.6881345305461486,
+            "bike_id": "penguin_MADRID206",
+            "lat": 40.4742465718682,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 1,
+            "lon": -3.692516775372828,
+            "bike_id": "penguin_MADRID207",
+            "lat": 40.420313629557604,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.7258611853044212,
+            "bike_id": "penguin_MADRID208",
+            "lat": 40.40620675238019,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.6609287293101955,
+            "bike_id": "penguin_MADRID209",
+            "lat": 40.491917087551805,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 1,
+            "lon": -3.6110872129212885,
+            "bike_id": "penguin_MADRID210",
+            "lat": 40.396738833086545,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.7397809222150413,
+            "bike_id": "penguin_MADRID211",
+            "lat": 40.39396077553655,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.626680366762695,
+            "bike_id": "penguin_MADRID212",
+            "lat": 40.40700004288781,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.6488556605559013,
+            "bike_id": "penguin_MADRID213",
+            "lat": 40.416749656951446,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.716371688972326,
+            "bike_id": "penguin_MADRID214",
+            "lat": 40.351044573608235,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.626507970411575,
+            "bike_id": "penguin_MADRID215",
+            "lat": 40.394533424838386,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.6693607561682824,
+            "bike_id": "penguin_MADRID216",
+            "lat": 40.330876250125826,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.7298896836697706,
+            "bike_id": "penguin_MADRID217",
+            "lat": 40.30907112222881,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.787525839822744,
+            "bike_id": "penguin_MADRID218",
+            "lat": 40.31184545467243,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.614262936348564,
+            "bike_id": "penguin_MADRID219",
+            "lat": 40.39643066934362,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.615707875435163,
+            "bike_id": "penguin_MADRID220",
+            "lat": 40.4766715340346,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.746871729889736,
+            "bike_id": "penguin_MADRID221",
+            "lat": 40.42030448349602,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 0,
+            "lon": -3.6655368358412255,
+            "bike_id": "penguin_MADRID222",
+            "lat": 40.34637193701274,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.76084035453962,
+            "bike_id": "penguin_MADRID223",
+            "lat": 40.42512244687762,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.613269392337295,
+            "bike_id": "penguin_MADRID224",
+            "lat": 40.40637936302346,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.604567437425234,
+            "bike_id": "penguin_MADRID225",
+            "lat": 40.33224351689649,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.6021065260178107,
+            "bike_id": "penguin_MADRID226",
+            "lat": 40.4261281289694,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 0,
+            "lon": -3.6920843205640077,
+            "bike_id": "penguin_MADRID227",
+            "lat": 40.39250717911317,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.629459867207108,
+            "bike_id": "penguin_MADRID228",
+            "lat": 40.310391018870156,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.6098465716480197,
+            "bike_id": "penguin_MADRID229",
+            "lat": 40.358426032973085,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.749635558003468,
+            "bike_id": "penguin_MADRID230",
+            "lat": 40.3706478963944,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 1,
+            "lon": -3.6854273283707046,
+            "bike_id": "penguin_MADRID231",
+            "lat": 40.48930071485169,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 0,
+            "lon": -3.772404268295368,
+            "bike_id": "penguin_MADRID232",
+            "lat": 40.35476729263262,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.6735812448642715,
+            "bike_id": "penguin_MADRID233",
+            "lat": 40.35253845010075,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 0,
+            "lon": -3.687926266065984,
+            "bike_id": "penguin_MADRID234",
+            "lat": 40.42328221795818,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 1,
+            "lon": -3.7651478259524183,
+            "bike_id": "penguin_MADRID235",
+            "lat": 40.4344564758653,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.798500200658123,
+            "bike_id": "penguin_MADRID236",
+            "lat": 40.31054149227255,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.67426282986973,
+            "bike_id": "penguin_MADRID237",
+            "lat": 40.423851556323854,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.6876043165313566,
+            "bike_id": "penguin_MADRID238",
+            "lat": 40.35901778138756,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.7093465475040848,
+            "bike_id": "penguin_MADRID239",
+            "lat": 40.48161688427577,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.7066989573492033,
+            "bike_id": "penguin_MADRID240",
+            "lat": 40.365053656192416,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.683337682026826,
+            "bike_id": "penguin_MADRID241",
+            "lat": 40.4596875713568,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.6102590466357016,
+            "bike_id": "penguin_MADRID242",
+            "lat": 40.42432684894712,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.668641572892027,
+            "bike_id": "penguin_MADRID243",
+            "lat": 40.48259602527678,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.7195052394363213,
+            "bike_id": "penguin_MADRID244",
+            "lat": 40.41531603676111,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 1,
+            "lon": -3.752261558105076,
+            "bike_id": "penguin_MADRID245",
+            "lat": 40.35491842679173,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.7453026413289368,
+            "bike_id": "penguin_MADRID246",
+            "lat": 40.409048342990225,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.6965821457262003,
+            "bike_id": "penguin_MADRID247",
+            "lat": 40.3078935705314,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.7506956744808666,
+            "bike_id": "penguin_MADRID248",
+            "lat": 40.343409828496014,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 1,
+            "lon": -3.761272831722537,
+            "bike_id": "penguin_MADRID249",
+            "lat": 40.448495313686934,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.6835479856075812,
+            "bike_id": "penguin_MADRID250",
+            "lat": 40.35030022459537,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.691781248545416,
+            "bike_id": "penguin_MADRID251",
+            "lat": 40.32423991903161,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.6597560634459434,
+            "bike_id": "penguin_MADRID252",
+            "lat": 40.37391314537199,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 0,
+            "lon": -3.62988442045169,
+            "bike_id": "penguin_MADRID253",
+            "lat": 40.46700946922394,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.7275053160563125,
+            "bike_id": "penguin_MADRID254",
+            "lat": 40.368423065449996,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 0,
+            "lon": -3.651766903823104,
+            "bike_id": "penguin_MADRID255",
+            "lat": 40.42917265525744,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.7930374081867133,
+            "bike_id": "penguin_MADRID256",
+            "lat": 40.41336024576719,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.7890944856845223,
+            "bike_id": "penguin_MADRID257",
+            "lat": 40.47528420690348,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.738397571760501,
+            "bike_id": "penguin_MADRID258",
+            "lat": 40.334954930701066,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 1,
+            "lon": -3.738552270829069,
+            "bike_id": "penguin_MADRID259",
+            "lat": 40.34264416519338,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.711630640546888,
+            "bike_id": "penguin_MADRID260",
+            "lat": 40.47173201547636,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.6153158739643674,
+            "bike_id": "penguin_MADRID261",
+            "lat": 40.33399824243453,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.7198945623088955,
+            "bike_id": "penguin_MADRID262",
+            "lat": 40.472637463993856,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 1,
+            "lon": -3.655924441489694,
+            "bike_id": "penguin_MADRID263",
+            "lat": 40.45566060242705,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 0,
+            "lon": -3.6059601499189204,
+            "bike_id": "penguin_MADRID264",
+            "lat": 40.46597770432146,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 1,
+            "lon": -3.72602431021531,
+            "bike_id": "penguin_MADRID265",
+            "lat": 40.364340194616936,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.6385658172858864,
+            "bike_id": "penguin_MADRID266",
+            "lat": 40.387453253675105,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.638452008262282,
+            "bike_id": "penguin_MADRID267",
+            "lat": 40.335952006144744,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.6970960213510424,
+            "bike_id": "penguin_MADRID268",
+            "lat": 40.30556787910655,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 0,
+            "lon": -3.6371253443592844,
+            "bike_id": "penguin_MADRID269",
+            "lat": 40.31969439383797,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.781052229012067,
+            "bike_id": "penguin_MADRID270",
+            "lat": 40.43269442502629,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.7522113965729544,
+            "bike_id": "penguin_MADRID271",
+            "lat": 40.39067376622886,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.724785060197077,
+            "bike_id": "penguin_MADRID272",
+            "lat": 40.36007868381412,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.682040046850502,
+            "bike_id": "penguin_MADRID273",
+            "lat": 40.3643579281474,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.747956448299951,
+            "bike_id": "penguin_MADRID274",
+            "lat": 40.30506249279961,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.6072319275454365,
+            "bike_id": "penguin_MADRID275",
+            "lat": 40.38613924323249,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.62220052731309,
+            "bike_id": "penguin_MADRID276",
+            "lat": 40.408807301244615,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.692509439716177,
+            "bike_id": "penguin_MADRID277",
+            "lat": 40.3592889284011,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.784451987031242,
+            "bike_id": "penguin_MADRID278",
+            "lat": 40.37279948448757,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 0,
+            "lon": -3.7816596333724664,
+            "bike_id": "penguin_MADRID279",
+            "lat": 40.32458371757461,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.677410660796817,
+            "bike_id": "penguin_MADRID280",
+            "lat": 40.37241867123334,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.741117703336679,
+            "bike_id": "penguin_MADRID281",
+            "lat": 40.35488610886466,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.7476111154725174,
+            "bike_id": "penguin_MADRID282",
+            "lat": 40.43585026727094,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.657639823839722,
+            "bike_id": "penguin_MADRID283",
+            "lat": 40.377959532355284,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.6815659291355627,
+            "bike_id": "penguin_MADRID284",
+            "lat": 40.326623496737405,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.64553410979128,
+            "bike_id": "penguin_MADRID285",
+            "lat": 40.390799558806386,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.6104514932345557,
+            "bike_id": "penguin_MADRID286",
+            "lat": 40.418056169542034,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.768918408472603,
+            "bike_id": "penguin_MADRID287",
+            "lat": 40.37876253260897,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.7638050261933835,
+            "bike_id": "penguin_MADRID288",
+            "lat": 40.49788744987556,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.734473725982862,
+            "bike_id": "penguin_MADRID289",
+            "lat": 40.30277278358979,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.6027015562270535,
+            "bike_id": "penguin_MADRID290",
+            "lat": 40.49137983292853,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.7601619698355266,
+            "bike_id": "penguin_MADRID291",
+            "lat": 40.367889710098815,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.6128796482706953,
+            "bike_id": "penguin_MADRID292",
+            "lat": 40.34117165391715,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.7753768492886937,
+            "bike_id": "penguin_MADRID293",
+            "lat": 40.436515990795144,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.6882846193755983,
+            "bike_id": "penguin_MADRID294",
+            "lat": 40.332161302268275,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.6579965745726906,
+            "bike_id": "penguin_MADRID295",
+            "lat": 40.49952813262813,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.785497968299678,
+            "bike_id": "penguin_MADRID296",
+            "lat": 40.39970442482868,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.7638072070296933,
+            "bike_id": "penguin_MADRID297",
+            "lat": 40.368610646702066,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.679521791958441,
+            "bike_id": "penguin_MADRID298",
+            "lat": 40.4094053937682,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.7537653385815775,
+            "bike_id": "penguin_MADRID299",
+            "lat": 40.40307509677414,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.6013869278748962,
+            "bike_id": "penguin_MADRID300",
+            "lat": 40.44678423214497,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 1,
+            "lon": -3.674568888465763,
+            "bike_id": "penguin_MADRID301",
+            "lat": 40.33444524799883,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 0,
+            "lon": -3.6880535878438967,
+            "bike_id": "penguin_MADRID302",
+            "lat": 40.40510029515386,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 1,
+            "lon": -3.7980047507895547,
+            "bike_id": "penguin_MADRID303",
+            "lat": 40.30208956811924,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.7250732174790153,
+            "bike_id": "penguin_MADRID304",
+            "lat": 40.40961393727942,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.6745420495503116,
+            "bike_id": "penguin_MADRID305",
+            "lat": 40.463182375773684,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.6124803215254575,
+            "bike_id": "penguin_MADRID306",
+            "lat": 40.4665674171809,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.606639751063216,
+            "bike_id": "penguin_MADRID307",
+            "lat": 40.39027481808247,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.7343830387809493,
+            "bike_id": "penguin_MADRID308",
+            "lat": 40.37516627798089,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 1,
+            "lon": -3.6972373621317702,
+            "bike_id": "penguin_MADRID309",
+            "lat": 40.319756982614244,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.7627212079982293,
+            "bike_id": "penguin_MADRID310",
+            "lat": 40.39084249203842,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.778897524997563,
+            "bike_id": "penguin_MADRID311",
+            "lat": 40.36449235718903,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.7756606206942154,
+            "bike_id": "penguin_MADRID312",
+            "lat": 40.37808057956574,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.6790691822701205,
+            "bike_id": "penguin_MADRID313",
+            "lat": 40.453905929206385,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.7210922901563346,
+            "bike_id": "penguin_MADRID314",
+            "lat": 40.44108794099565,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.6269401005216526,
+            "bike_id": "penguin_MADRID315",
+            "lat": 40.4148071036832,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.6057054579030683,
+            "bike_id": "penguin_MADRID316",
+            "lat": 40.470590742098885,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.7573475196248265,
+            "bike_id": "penguin_MADRID317",
+            "lat": 40.456228783843514,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.740103031288616,
+            "bike_id": "penguin_MADRID318",
+            "lat": 40.49503646211826,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.61721564052245,
+            "bike_id": "penguin_MADRID319",
+            "lat": 40.371563785994375,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.720428324010476,
+            "bike_id": "penguin_MADRID320",
+            "lat": 40.374484484152205,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.7299887199973147,
+            "bike_id": "penguin_MADRID321",
+            "lat": 40.421279862494615,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.776971711253448,
+            "bike_id": "penguin_MADRID322",
+            "lat": 40.42546589318866,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.6235285223839884,
+            "bike_id": "penguin_MADRID323",
+            "lat": 40.30949461630925,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.670226042916656,
+            "bike_id": "penguin_MADRID324",
+            "lat": 40.41509379098652,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 0,
+            "lon": -3.6769449012611446,
+            "bike_id": "penguin_MADRID325",
+            "lat": 40.3176915049606,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.6648595533169637,
+            "bike_id": "penguin_MADRID326",
+            "lat": 40.41270531257723,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.691828170169152,
+            "bike_id": "penguin_MADRID327",
+            "lat": 40.30885820991807,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.6620749632938825,
+            "bike_id": "penguin_MADRID328",
+            "lat": 40.43731666997481,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.6433521650316005,
+            "bike_id": "penguin_MADRID329",
+            "lat": 40.3653286392732,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.7208236069866696,
+            "bike_id": "penguin_MADRID330",
+            "lat": 40.48917239445593,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.6167165902702596,
+            "bike_id": "penguin_MADRID331",
+            "lat": 40.473609751825194,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.7483432449360317,
+            "bike_id": "penguin_MADRID332",
+            "lat": 40.40367011342921,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.684397519999723,
+            "bike_id": "penguin_MADRID333",
+            "lat": 40.31947455237977,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.6904883883305653,
+            "bike_id": "penguin_MADRID334",
+            "lat": 40.415942010903514,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.629674719306912,
+            "bike_id": "penguin_MADRID335",
+            "lat": 40.30660240019302,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 1,
+            "lon": -3.702321845224167,
+            "bike_id": "penguin_MADRID336",
+            "lat": 40.3743743329065,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.7719045959069275,
+            "bike_id": "penguin_MADRID337",
+            "lat": 40.36204794609041,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.729436240528867,
+            "bike_id": "penguin_MADRID338",
+            "lat": 40.39134608239268,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.69900748145311,
+            "bike_id": "penguin_MADRID339",
+            "lat": 40.341819957911824,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 0,
+            "lon": -3.680474278723844,
+            "bike_id": "penguin_MADRID340",
+            "lat": 40.36946823668017,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.6626380632235938,
+            "bike_id": "penguin_MADRID341",
+            "lat": 40.49985121719244,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 0,
+            "lon": -3.7213164817135573,
+            "bike_id": "penguin_MADRID342",
+            "lat": 40.49160468708976,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.7415076073476916,
+            "bike_id": "penguin_MADRID343",
+            "lat": 40.33364080782507,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.7714051394833312,
+            "bike_id": "penguin_MADRID344",
+            "lat": 40.41295616378979,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 1,
+            "lon": -3.628326849428704,
+            "bike_id": "penguin_MADRID345",
+            "lat": 40.36985000494575,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.6326732730405378,
+            "bike_id": "penguin_MADRID346",
+            "lat": 40.343488415556095,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.645838195216583,
+            "bike_id": "penguin_MADRID347",
+            "lat": 40.30313304455506,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.7315473189775155,
+            "bike_id": "penguin_MADRID348",
+            "lat": 40.45898584933599,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.7474060669539244,
+            "bike_id": "penguin_MADRID349",
+            "lat": 40.351483980626924,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.6044922651089113,
+            "bike_id": "penguin_MADRID350",
+            "lat": 40.32901195743991,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.6076340514597693,
+            "bike_id": "penguin_MADRID351",
+            "lat": 40.34138092362826,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 0,
+            "lon": -3.6075680612585224,
+            "bike_id": "penguin_MADRID352",
+            "lat": 40.30005766721446,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 1,
+            "lon": -3.658477713886874,
+            "bike_id": "penguin_MADRID353",
+            "lat": 40.486008883592625,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.6804659675931006,
+            "bike_id": "penguin_MADRID354",
+            "lat": 40.42215898125347,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.6763217227861347,
+            "bike_id": "penguin_MADRID355",
+            "lat": 40.4698424982602,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.7454936750090084,
+            "bike_id": "penguin_MADRID356",
+            "lat": 40.357265092174586,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.675490110180689,
+            "bike_id": "penguin_MADRID357",
+            "lat": 40.30286982621379,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 0,
+            "lon": -3.671977876360471,
+            "bike_id": "penguin_MADRID358",
+            "lat": 40.35763821931879,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.6136583554967325,
+            "bike_id": "penguin_MADRID359",
+            "lat": 40.45773855853894,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.6865530679010066,
+            "bike_id": "penguin_MADRID360",
+            "lat": 40.45256645421824,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.764636106622783,
+            "bike_id": "penguin_MADRID361",
+            "lat": 40.45310581254656,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.659805365525038,
+            "bike_id": "penguin_MADRID362",
+            "lat": 40.431670830897396,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.763989231414761,
+            "bike_id": "penguin_MADRID363",
+            "lat": 40.49647278509022,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 1,
+            "lon": -3.649739994481851,
+            "bike_id": "penguin_MADRID364",
+            "lat": 40.4630878914616,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 1,
+            "lon": -3.6829700024878105,
+            "bike_id": "penguin_MADRID365",
+            "lat": 40.44978554971593,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.6325413161250575,
+            "bike_id": "penguin_MADRID366",
+            "lat": 40.43480899135022,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.6362241071221186,
+            "bike_id": "penguin_MADRID367",
+            "lat": 40.431083175338806,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.7010940488796225,
+            "bike_id": "penguin_MADRID368",
+            "lat": 40.357457589376686,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 1,
+            "lon": -3.7787432717126075,
+            "bike_id": "penguin_MADRID369",
+            "lat": 40.415474484957,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.761734482914608,
+            "bike_id": "penguin_MADRID370",
+            "lat": 40.416785765442135,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.697532265605448,
+            "bike_id": "penguin_MADRID371",
+            "lat": 40.44872468425154,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 0,
+            "lon": -3.7097004366007815,
+            "bike_id": "penguin_MADRID372",
+            "lat": 40.314171257238925,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 0,
+            "lon": -3.753458973913485,
+            "bike_id": "penguin_MADRID373",
+            "lat": 40.33673308470498,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.6137486573836983,
+            "bike_id": "penguin_MADRID374",
+            "lat": 40.383396194755555,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 1,
+            "lon": -3.6787563503471334,
+            "bike_id": "penguin_MADRID375",
+            "lat": 40.324183182380054,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 1,
+            "lon": -3.790408485186854,
+            "bike_id": "penguin_MADRID376",
+            "lat": 40.42198886115211,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.685644967965031,
+            "bike_id": "penguin_MADRID377",
+            "lat": 40.32564638702658,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.798340500347032,
+            "bike_id": "penguin_MADRID378",
+            "lat": 40.425409660308055,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.6915449237467155,
+            "bike_id": "penguin_MADRID379",
+            "lat": 40.32242057772129,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.733268880319127,
+            "bike_id": "penguin_MADRID380",
+            "lat": 40.46236259725959,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.616345852144515,
+            "bike_id": "penguin_MADRID381",
+            "lat": 40.38838479311989,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.7539562273857037,
+            "bike_id": "penguin_MADRID382",
+            "lat": 40.37951348312095,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.6572037871256367,
+            "bike_id": "penguin_MADRID383",
+            "lat": 40.45815126679855,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.7196896765451855,
+            "bike_id": "penguin_MADRID384",
+            "lat": 40.47389613047362,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 0,
+            "lon": -3.7963336442529303,
+            "bike_id": "penguin_MADRID385",
+            "lat": 40.40079610235328,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.7697469370354644,
+            "bike_id": "penguin_MADRID386",
+            "lat": 40.32128777913016,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.7472660459240266,
+            "bike_id": "penguin_MADRID387",
+            "lat": 40.41244977936271,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.6253110751767066,
+            "bike_id": "penguin_MADRID388",
+            "lat": 40.39883504656876,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 0,
+            "lon": -3.6950372538667433,
+            "bike_id": "penguin_MADRID389",
+            "lat": 40.39102880127408,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 0,
+            "lon": -3.7443027888476883,
+            "bike_id": "penguin_MADRID390",
+            "lat": 40.390211560988824,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 1,
+            "lon": -3.735780945421515,
+            "bike_id": "penguin_MADRID391",
+            "lat": 40.40638969270932,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.6095988993230588,
+            "bike_id": "penguin_MADRID392",
+            "lat": 40.311588620457506,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 0,
+            "lon": -3.671190637941867,
+            "bike_id": "penguin_MADRID393",
+            "lat": 40.42918661701773,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.7811058480387616,
+            "bike_id": "penguin_MADRID394",
+            "lat": 40.44670008527148,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 1,
+            "lon": -3.7633214158873014,
+            "bike_id": "penguin_MADRID395",
+            "lat": 40.331713829022796,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.6921568748391795,
+            "bike_id": "penguin_MADRID396",
+            "lat": 40.3292827561066,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.6051997813309,
+            "bike_id": "penguin_MADRID397",
+            "lat": 40.42401429190425,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 0,
+            "lon": -3.720701738288927,
+            "bike_id": "penguin_MADRID398",
+            "lat": 40.46117347637227,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 1,
+            "lon": -3.6127103971949444,
+            "bike_id": "penguin_MADRID399",
+            "lat": 40.43853562398891,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 0,
+            "lon": -3.615757614369719,
+            "bike_id": "penguin_MADRID400",
+            "lat": 40.304344245615816,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.7932283666130506,
+            "bike_id": "penguin_MADRID401",
+            "lat": 40.32661464329686,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 0,
+            "lon": -3.7095900117934955,
+            "bike_id": "penguin_MADRID402",
+            "lat": 40.33515655110128,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.796465923530356,
+            "bike_id": "penguin_MADRID403",
+            "lat": 40.48007182909825,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 0,
+            "lon": -3.6960923864458364,
+            "bike_id": "penguin_MADRID404",
+            "lat": 40.39911622079917,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.6030022122129193,
+            "bike_id": "penguin_MADRID405",
+            "lat": 40.4411968357071,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.705833279779796,
+            "bike_id": "penguin_MADRID406",
+            "lat": 40.45440995275748,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.755964916038948,
+            "bike_id": "penguin_MADRID407",
+            "lat": 40.41440641800053,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.758239629401519,
+            "bike_id": "penguin_MADRID408",
+            "lat": 40.44250490604706,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 0,
+            "lon": -3.7913324922191585,
+            "bike_id": "penguin_MADRID409",
+            "lat": 40.34285593220176,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 1,
+            "lon": -3.6213851079602133,
+            "bike_id": "penguin_MADRID410",
+            "lat": 40.47409247397879,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.672325774308995,
+            "bike_id": "penguin_MADRID411",
+            "lat": 40.363285740123224,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 0,
+            "lon": -3.6598521817972056,
+            "bike_id": "penguin_MADRID412",
+            "lat": 40.36865757859211,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.783357658926884,
+            "bike_id": "penguin_MADRID413",
+            "lat": 40.30238368785851,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 1,
+            "lon": -3.601136627747476,
+            "bike_id": "penguin_MADRID414",
+            "lat": 40.435954689068794,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.789009675794152,
+            "bike_id": "penguin_MADRID415",
+            "lat": 40.32794495880723,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 0,
+            "lon": -3.701063311307115,
+            "bike_id": "penguin_MADRID416",
+            "lat": 40.43767181515467,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 1,
+            "lon": -3.6135041411195052,
+            "bike_id": "penguin_MADRID417",
+            "lat": 40.31811057483968,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.738681927307194,
+            "bike_id": "penguin_MADRID418",
+            "lat": 40.3175637840413,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.7461406621512623,
+            "bike_id": "penguin_MADRID419",
+            "lat": 40.361965697963825,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.62111146607435,
+            "bike_id": "penguin_MADRID420",
+            "lat": 40.338335948972365,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.628165786797549,
+            "bike_id": "penguin_MADRID421",
+            "lat": 40.45477910017876,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.7288021792342763,
+            "bike_id": "penguin_MADRID422",
+            "lat": 40.31355967229961,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 0,
+            "lon": -3.6265444484184775,
+            "bike_id": "penguin_MADRID423",
+            "lat": 40.301164964308064,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.681683764925049,
+            "bike_id": "penguin_MADRID424",
+            "lat": 40.472900810229014,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.6501020637655146,
+            "bike_id": "penguin_MADRID425",
+            "lat": 40.38944831942215,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 0,
+            "lon": -3.756668530185198,
+            "bike_id": "penguin_MADRID426",
+            "lat": 40.34894235869773,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.6135059773854197,
+            "bike_id": "penguin_MADRID427",
+            "lat": 40.35051532281686,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.736978281575897,
+            "bike_id": "penguin_MADRID428",
+            "lat": 40.32388270666987,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 0,
+            "lon": -3.704554992744792,
+            "bike_id": "penguin_MADRID429",
+            "lat": 40.46442965192436,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.723763718193456,
+            "bike_id": "penguin_MADRID430",
+            "lat": 40.324390511750074,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 0,
+            "lon": -3.7602457683292245,
+            "bike_id": "penguin_MADRID431",
+            "lat": 40.42809629411934,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.790485020016967,
+            "bike_id": "penguin_MADRID432",
+            "lat": 40.40289764887335,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.607084838344612,
+            "bike_id": "penguin_MADRID433",
+            "lat": 40.34725389795896,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.7105224608815712,
+            "bike_id": "penguin_MADRID434",
+            "lat": 40.39361134680807,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 1,
+            "lon": -3.7711149632589187,
+            "bike_id": "penguin_MADRID435",
+            "lat": 40.36607703789445,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.7384856928286117,
+            "bike_id": "penguin_MADRID436",
+            "lat": 40.48152683359033,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.7131245772625414,
+            "bike_id": "penguin_MADRID437",
+            "lat": 40.397669548542254,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 1,
+            "lon": -3.7756905832772008,
+            "bike_id": "penguin_MADRID438",
+            "lat": 40.37272171142487,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.694509146664044,
+            "bike_id": "penguin_MADRID439",
+            "lat": 40.468730258200864,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 0,
+            "lon": -3.6002722115353194,
+            "bike_id": "penguin_MADRID440",
+            "lat": 40.40421335087837,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.729253061758134,
+            "bike_id": "penguin_MADRID441",
+            "lat": 40.44167231495411,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.7924029075851107,
+            "bike_id": "penguin_MADRID442",
+            "lat": 40.381660457844966,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.627500928336729,
+            "bike_id": "penguin_MADRID443",
+            "lat": 40.32747737991292,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.735083962012219,
+            "bike_id": "penguin_MADRID444",
+            "lat": 40.38319019698724,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.6861869663165927,
+            "bike_id": "penguin_MADRID445",
+            "lat": 40.452565930109884,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.620979873622556,
+            "bike_id": "penguin_MADRID446",
+            "lat": 40.41763202066221,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.7321912430735984,
+            "bike_id": "penguin_MADRID447",
+            "lat": 40.39296494708891,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.7457637829878583,
+            "bike_id": "penguin_MADRID448",
+            "lat": 40.47543948123705,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 0,
+            "lon": -3.773491510051855,
+            "bike_id": "penguin_MADRID449",
+            "lat": 40.43905417857014,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 1,
+            "lon": -3.7184429212105186,
+            "bike_id": "penguin_MADRID450",
+            "lat": 40.3605812965039,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.6637794283522833,
+            "bike_id": "penguin_MADRID451",
+            "lat": 40.404172304366334,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 1,
+            "lon": -3.769132750461255,
+            "bike_id": "penguin_MADRID452",
+            "lat": 40.34168289990459,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.7360098579915624,
+            "bike_id": "penguin_MADRID453",
+            "lat": 40.440364195421374,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.684748624089986,
+            "bike_id": "penguin_MADRID454",
+            "lat": 40.31069972292286,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 0,
+            "lon": -3.7103520427296335,
+            "bike_id": "penguin_MADRID455",
+            "lat": 40.374550521151036,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.653083656274523,
+            "bike_id": "penguin_MADRID456",
+            "lat": 40.38740348158838,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.7320113577061003,
+            "bike_id": "penguin_MADRID457",
+            "lat": 40.32840100273509,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.645741573873151,
+            "bike_id": "penguin_MADRID458",
+            "lat": 40.35796265931545,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.7443904443331344,
+            "bike_id": "penguin_MADRID459",
+            "lat": 40.43519251836717,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 1,
+            "lon": -3.720393295580005,
+            "bike_id": "penguin_MADRID460",
+            "lat": 40.38589854891801,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.7530584428985887,
+            "bike_id": "penguin_MADRID461",
+            "lat": 40.31693330595725,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.7728260035987287,
+            "bike_id": "penguin_MADRID462",
+            "lat": 40.48369796108719,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.685997080271704,
+            "bike_id": "penguin_MADRID463",
+            "lat": 40.43503453932886,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.619253436542053,
+            "bike_id": "penguin_MADRID464",
+            "lat": 40.4833639696235,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.7055923544575524,
+            "bike_id": "penguin_MADRID465",
+            "lat": 40.477810527876045,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.639356167282658,
+            "bike_id": "penguin_MADRID466",
+            "lat": 40.49418586180482,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.7778405838234113,
+            "bike_id": "penguin_MADRID467",
+            "lat": 40.39808876356807,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 1,
+            "lon": -3.7605206048937756,
+            "bike_id": "penguin_MADRID468",
+            "lat": 40.48600960606762,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.654237567213562,
+            "bike_id": "penguin_MADRID469",
+            "lat": 40.36421110252005,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.713745485895006,
+            "bike_id": "penguin_MADRID470",
+            "lat": 40.48629004263547,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 1,
+            "lon": -3.771819582542572,
+            "bike_id": "penguin_MADRID471",
+            "lat": 40.337707267764394,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.641684580530759,
+            "bike_id": "penguin_MADRID472",
+            "lat": 40.32920606605909,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 0,
+            "lon": -3.7268250013759965,
+            "bike_id": "penguin_MADRID473",
+            "lat": 40.440922021535954,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 1,
+            "lon": -3.6892944076090117,
+            "bike_id": "penguin_MADRID474",
+            "lat": 40.3451200306338,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.7274452604995907,
+            "bike_id": "penguin_MADRID475",
+            "lat": 40.32787715347289,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.7575556463748767,
+            "bike_id": "penguin_MADRID476",
+            "lat": 40.42866267299049,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 0,
+            "lon": -3.78113393967378,
+            "bike_id": "penguin_MADRID477",
+            "lat": 40.42164961665462,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.750737055337956,
+            "bike_id": "penguin_MADRID478",
+            "lat": 40.37372475749431,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.721942685084354,
+            "bike_id": "penguin_MADRID479",
+            "lat": 40.33154698917135,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.797670602919252,
+            "bike_id": "penguin_MADRID480",
+            "lat": 40.413636695533654,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.733352753018098,
+            "bike_id": "penguin_MADRID481",
+            "lat": 40.41336160059731,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 1,
+            "lon": -3.6775065974848675,
+            "bike_id": "penguin_MADRID482",
+            "lat": 40.354817438210866,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.772070879001677,
+            "bike_id": "penguin_MADRID483",
+            "lat": 40.4859844697695,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 1,
+            "lon": -3.6304175231223836,
+            "bike_id": "penguin_MADRID484",
+            "lat": 40.342173826462165,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.648258308027226,
+            "bike_id": "penguin_MADRID485",
+            "lat": 40.36766037685288,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.683719385118426,
+            "bike_id": "penguin_MADRID486",
+            "lat": 40.344531681726906,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.6676616210675164,
+            "bike_id": "penguin_MADRID487",
+            "lat": 40.345165321892274,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.7738792551020253,
+            "bike_id": "penguin_MADRID488",
+            "lat": 40.498379906130246,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.691114194994269,
+            "bike_id": "penguin_MADRID489",
+            "lat": 40.33918755127052,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 0,
+            "lon": -3.694877827262869,
+            "bike_id": "penguin_MADRID490",
+            "lat": 40.49820881122437,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.616877030940251,
+            "bike_id": "penguin_MADRID491",
+            "lat": 40.37919348920998,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.6533956770991645,
+            "bike_id": "penguin_MADRID492",
+            "lat": 40.47172390997973,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.6412876496379445,
+            "bike_id": "penguin_MADRID493",
+            "lat": 40.45105974530614,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.7612920266536283,
+            "bike_id": "penguin_MADRID494",
+            "lat": 40.42821649984975,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.60318588265273,
+            "bike_id": "penguin_MADRID495",
+            "lat": 40.43075252479948,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.7458447121626754,
+            "bike_id": "penguin_MADRID496",
+            "lat": 40.41837217474314,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.667585247612558,
+            "bike_id": "penguin_MADRID497",
+            "lat": 40.46733562300527,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.7082201565871986,
+            "bike_id": "penguin_MADRID498",
+            "lat": 40.39379861905911,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 0,
+            "lon": -3.7540586752573004,
+            "bike_id": "penguin_MADRID499",
+            "lat": 40.42858828143359,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.710642065301758,
+            "bike_id": "penguin_MADRID500",
+            "lat": 40.40455386781317,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.665307355385899,
+            "bike_id": "penguin_MADRID501",
+            "lat": 40.47251418983719,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.722727592276279,
+            "bike_id": "penguin_MADRID502",
+            "lat": 40.42295631895374,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.621381438232069,
+            "bike_id": "penguin_MADRID503",
+            "lat": 40.45802281188183,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.6074597531416006,
+            "bike_id": "penguin_MADRID504",
+            "lat": 40.3319577251105,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.6550213270542393,
+            "bike_id": "penguin_MADRID505",
+            "lat": 40.35806434400863,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.777264798200301,
+            "bike_id": "penguin_MADRID506",
+            "lat": 40.46636041660216,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.6735883267826894,
+            "bike_id": "penguin_MADRID507",
+            "lat": 40.48849953435682,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 0,
+            "lon": -3.7006633441258945,
+            "bike_id": "penguin_MADRID508",
+            "lat": 40.34516003211815,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.743053427722931,
+            "bike_id": "penguin_MADRID509",
+            "lat": 40.415985637043846,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 0,
+            "lon": -3.7899639520798383,
+            "bike_id": "penguin_MADRID510",
+            "lat": 40.48329496866912,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 1,
+            "lon": -3.6995129072019095,
+            "bike_id": "penguin_MADRID511",
+            "lat": 40.45815966459632,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.750467970360961,
+            "bike_id": "penguin_MADRID512",
+            "lat": 40.42108384063157,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.743699553488054,
+            "bike_id": "penguin_MADRID513",
+            "lat": 40.339400346448876,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 1,
+            "lon": -3.621654324846406,
+            "bike_id": "penguin_MADRID514",
+            "lat": 40.35963214905069,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 0,
+            "lon": -3.623958250006034,
+            "bike_id": "penguin_MADRID515",
+            "lat": 40.41544986242716,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 0,
+            "lon": -3.690813070868344,
+            "bike_id": "penguin_MADRID516",
+            "lat": 40.440489458477494,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.7631546541418035,
+            "bike_id": "penguin_MADRID517",
+            "lat": 40.33017675168169,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 1,
+            "lon": -3.6095964121372974,
+            "bike_id": "penguin_MADRID518",
+            "lat": 40.357838325717424,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.6349857369709997,
+            "bike_id": "penguin_MADRID519",
+            "lat": 40.41776115390537,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.793955930320872,
+            "bike_id": "penguin_MADRID520",
+            "lat": 40.44149617196849,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.645160934597538,
+            "bike_id": "penguin_MADRID521",
+            "lat": 40.413583677503155,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 0,
+            "lon": -3.737934827746279,
+            "bike_id": "penguin_MADRID522",
+            "lat": 40.39901144256377,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.7229226401825892,
+            "bike_id": "penguin_MADRID523",
+            "lat": 40.48709910966145,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 1,
+            "lon": -3.621783889582552,
+            "bike_id": "penguin_MADRID524",
+            "lat": 40.355135226424935,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.778374803742045,
+            "bike_id": "penguin_MADRID525",
+            "lat": 40.459976279376754,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.7448699128365353,
+            "bike_id": "penguin_MADRID526",
+            "lat": 40.47694961238632,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.731088414986252,
+            "bike_id": "penguin_MADRID527",
+            "lat": 40.32278523623711,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.6638453845144774,
+            "bike_id": "penguin_MADRID528",
+            "lat": 40.32293405731416,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 1,
+            "lon": -3.7654525513435226,
+            "bike_id": "penguin_MADRID529",
+            "lat": 40.413513093268946,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 0,
+            "lon": -3.666548130951327,
+            "bike_id": "penguin_MADRID530",
+            "lat": 40.304250958244026,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.618239806674314,
+            "bike_id": "penguin_MADRID531",
+            "lat": 40.4711896742909,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.7620996923473577,
+            "bike_id": "penguin_MADRID532",
+            "lat": 40.49653175561515,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.6538548141100344,
+            "bike_id": "penguin_MADRID533",
+            "lat": 40.42790432749837,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 1,
+            "lon": -3.717671199648527,
+            "bike_id": "penguin_MADRID534",
+            "lat": 40.49044473151231,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.632734632329775,
+            "bike_id": "penguin_MADRID535",
+            "lat": 40.452495079993106,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.6223854407549547,
+            "bike_id": "penguin_MADRID536",
+            "lat": 40.41932582254344,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.6283697400013475,
+            "bike_id": "penguin_MADRID537",
+            "lat": 40.409191392163464,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 1,
+            "lon": -3.60882396322939,
+            "bike_id": "penguin_MADRID538",
+            "lat": 40.35215366043768,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.698414370447035,
+            "bike_id": "penguin_MADRID539",
+            "lat": 40.34449181626977,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.712607854296459,
+            "bike_id": "penguin_MADRID540",
+            "lat": 40.490150116778324,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.66535496851334,
+            "bike_id": "penguin_MADRID541",
+            "lat": 40.46555770638178,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.6005210289132807,
+            "bike_id": "penguin_MADRID542",
+            "lat": 40.45528755750501,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 1,
+            "lon": -3.712205482333619,
+            "bike_id": "penguin_MADRID543",
+            "lat": 40.323404360018486,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.647644760579547,
+            "bike_id": "penguin_MADRID544",
+            "lat": 40.40898410893158,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.6486982883541708,
+            "bike_id": "penguin_MADRID545",
+            "lat": 40.36417072224611,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 1,
+            "lon": -3.7939721470868744,
+            "bike_id": "penguin_MADRID546",
+            "lat": 40.38926816028539,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.653439457842323,
+            "bike_id": "penguin_MADRID547",
+            "lat": 40.461748974469856,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.760971366574924,
+            "bike_id": "penguin_MADRID548",
+            "lat": 40.304693343419785,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 1,
+            "lon": -3.6474971081127774,
+            "bike_id": "penguin_MADRID549",
+            "lat": 40.49505522957248,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.758566346058623,
+            "bike_id": "penguin_MADRID550",
+            "lat": 40.473285251958366,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.6048916524890102,
+            "bike_id": "penguin_MADRID551",
+            "lat": 40.483222606461396,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.763003735046912,
+            "bike_id": "penguin_MADRID552",
+            "lat": 40.44480117479552,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 1,
+            "lon": -3.6554566251807654,
+            "bike_id": "penguin_MADRID553",
+            "lat": 40.441997886305714,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.796074795986522,
+            "bike_id": "penguin_MADRID554",
+            "lat": 40.49458400935427,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 0,
+            "lon": -3.7855388578415226,
+            "bike_id": "penguin_MADRID555",
+            "lat": 40.37462306971878,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 1,
+            "lon": -3.7861610668983063,
+            "bike_id": "penguin_MADRID556",
+            "lat": 40.427291747244965,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 0,
+            "lon": -3.692006786805003,
+            "bike_id": "penguin_MADRID557",
+            "lat": 40.4604830177959,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.7415724690344,
+            "bike_id": "penguin_MADRID558",
+            "lat": 40.378783600868545,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 0,
+            "lon": -3.6950356007093625,
+            "bike_id": "penguin_MADRID559",
+            "lat": 40.35480046795068,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 0,
+            "lon": -3.7166466866115067,
+            "bike_id": "penguin_MADRID560",
+            "lat": 40.35444420980132,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.765137988136624,
+            "bike_id": "penguin_MADRID561",
+            "lat": 40.36265965663357,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.6010784899584927,
+            "bike_id": "penguin_MADRID562",
+            "lat": 40.49222703573815,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 1,
+            "lon": -3.6699092411696035,
+            "bike_id": "penguin_MADRID563",
+            "lat": 40.300639829445075,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.712947809762063,
+            "bike_id": "penguin_MADRID564",
+            "lat": 40.488698225388674,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 1,
+            "lon": -3.7959554879049264,
+            "bike_id": "penguin_MADRID565",
+            "lat": 40.30933982751398,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 0,
+            "lon": -3.725915288883,
+            "bike_id": "penguin_MADRID566",
+            "lat": 40.476362281071275,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 0,
+            "lon": -3.7514737517098538,
+            "bike_id": "penguin_MADRID567",
+            "lat": 40.330075061945486,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.6110540493912824,
+            "bike_id": "penguin_MADRID568",
+            "lat": 40.49055065597696,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.604952635593493,
+            "bike_id": "penguin_MADRID569",
+            "lat": 40.409028096501935,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.623786465367554,
+            "bike_id": "penguin_MADRID570",
+            "lat": 40.31415461831812,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 1,
+            "lon": -3.765462330970234,
+            "bike_id": "penguin_MADRID571",
+            "lat": 40.44213408624614,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.716394656767533,
+            "bike_id": "penguin_MADRID572",
+            "lat": 40.33848358329063,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.6600027864388798,
+            "bike_id": "penguin_MADRID573",
+            "lat": 40.42398235042452,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 0,
+            "lon": -3.7065734397625096,
+            "bike_id": "penguin_MADRID574",
+            "lat": 40.328530219811476,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.7133786837012503,
+            "bike_id": "penguin_MADRID575",
+            "lat": 40.31401527814609,
+            "pricing_plan_id": "penguin_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.682494551670558,
+            "bike_id": "penguin_MADRID576",
+            "lat": 40.43092350562845,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.6860700249512943,
+            "bike_id": "penguin_MADRID577",
+            "lat": 40.48330585854578,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_cargo_bike",
+            "is_disabled": 1,
+            "lon": -3.6748508128759108,
+            "bike_id": "penguin_MADRID578",
+            "lat": 40.41285103627379,
+            "pricing_plan_id": "penguin_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.7755671025381226,
+            "bike_id": "penguin_MADRID579",
+            "lat": 40.35519510402341,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_bike",
+            "is_disabled": 1,
+            "lon": -3.7763490572621654,
+            "bike_id": "penguin_MADRID580",
+            "lat": 40.37023183447416,
+            "pricing_plan_id": "penguin_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "penguin_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.636638564336915,
+            "bike_id": "penguin_MADRID581",
+            "lat": 40.303070537547335,
+            "pricing_plan_id": "penguin_plan_2"
+        }
+    ]},
+    "ttl": 180,
+    "version": "2.3"
+}

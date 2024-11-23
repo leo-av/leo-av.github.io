@@ -1,0 +1,38 @@
+{
+    "last_updated": 1732383876,
+    "data": {"vehicle_types": [
+        {
+            "pricing_plans": [
+                "penguin_plan_1",
+                "penguin_plan_3"
+            ],
+            "vehicle_type_id": "penguin_bike",
+            "propulsion_type": "human",
+            "default_pricing_plan_id": "penguin_plan_1",
+            "form_factor": "bicycle"
+        },
+        {
+            "pricing_plans": [
+                "penguin_plan_1",
+                "penguin_plan_3"
+            ],
+            "vehicle_type_id": "penguin_electric_bike",
+            "propulsion_type": "electric",
+            "default_pricing_plan_id": "penguin_plan_1",
+            "max_range_meters": 75000,
+            "form_factor": "bicycle"
+        },
+        {
+            "pricing_plans": [
+                "penguin_plan_1",
+                "penguin_plan_3"
+            ],
+            "vehicle_type_id": "penguin_cargo_bike",
+            "propulsion_type": "human",
+            "default_pricing_plan_id": "penguin_plan_1",
+            "form_factor": "cargo_bicycle"
+        }
+    ]},
+    "ttl": 86400,
+    "version": "2.3"
+}

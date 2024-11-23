@@ -1,0 +1,29 @@
+{
+    "last_updated": 1732383808,
+    "data": {"vehicle_types": [
+        {
+            "pricing_plans": [
+                "free_streets_plan_1",
+                "free_streets_plan_2"
+            ],
+            "vehicle_type_id": "free_streets_motorbike",
+            "propulsion_type": "combustion",
+            "default_pricing_plan_id": "free_streets_plan_1",
+            "max_range_meters": 250000,
+            "form_factor": "moped"
+        },
+        {
+            "pricing_plans": [
+                "free_streets_plan_1",
+                "free_streets_plan_3"
+            ],
+            "vehicle_type_id": "free_streets_scooter",
+            "propulsion_type": "electric",
+            "default_pricing_plan_id": "free_streets_plan_1",
+            "max_range_meters": 20000,
+            "form_factor": "scooter_standing"
+        }
+    ]},
+    "ttl": 86400,
+    "version": "2.3"
+}
