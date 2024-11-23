@@ -1,5 +1,5 @@
 {
-    "last_updated": 1732383876,
+    "last_updated": 1732386268,
     "data": [{"en": [
         {
             "name": "free_bike_status.json",
@@ -27,5 +27,5 @@
         }
     ]}],
     "ttl": 180,
-    "version": "2.3"
+    "version": "2.2"
 }

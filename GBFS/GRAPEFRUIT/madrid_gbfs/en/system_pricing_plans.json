@@ -1,13 +1,13 @@
 {
-    "last_updated": 1732383798,
+    "last_updated": 1732386311,
     "data": [
         {
-            "price": 2.3,
+            "price": 1.9,
             "name": "Simple rate",
-            "description": "2.15 \u20ac per kilometer",
+            "description": "2.50 \u20ac per kilometer",
             "currency": "EUR",
             "per_km_pricing": [{
-                "rate": 2.15,
+                "rate": 2.5,
                 "start": 0,
                 "interval": 1
             }],
@@ -15,28 +15,28 @@
             "is_taxable": false
         },
         {
-            "price": 2.2,
+            "price": 3.7,
             "name": "One-Way",
             "description": "Includes 26km, overage fees apply after 26km",
             "currency": "EUR",
             "per_km_pricing": [
                 {
-                    "rate": 2.3,
+                    "rate": 1.95,
                     "start": 26,
                     "interval": 1,
-                    "end": 53
+                    "end": 54
                 },
                 {
-                    "rate": 0.7,
-                    "start": 53,
+                    "rate": 0.75,
+                    "start": 54,
                     "interval": 1,
-                    "end": 78
+                    "end": 83
                 },
                 {
-                    "rate": 7.15,
-                    "start": 78,
+                    "rate": 3.95,
+                    "start": 83,
                     "interval": 5,
-                    "end": 106
+                    "end": 112
                 }
             ],
             "plan_id": "grapefruit_plan_2",
@@ -44,16 +44,16 @@
         },
         {
             "per_min_pricing": [{
-                "rate": 0.75,
+                "rate": 0.85,
                 "start": 0,
                 "interval": 1
             }],
-            "price": 2.85,
+            "price": 2.6,
             "name": "Simple rate",
-            "description": "2.85 \u20ac unlock fee, 1.15 \u20ac per kilometer and 0.75 \u20ac per minute.",
+            "description": "2.60 \u20ac unlock fee, 1.40 \u20ac per kilometer and 0.85 \u20ac per minute.",
             "currency": "EUR",
             "per_km_pricing": [{
-                "rate": 1.15,
+                "rate": 1.4,
                 "start": 0,
                 "interval": 1
             }],
@@ -62,5 +62,5 @@
         }
     ],
     "ttl": 180,
-    "version": "2.3"
+    "version": "2.2"
 }

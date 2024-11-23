@@ -1,38 +1,16 @@
 {
-    "last_updated": 1732383790,
-    "data": {"vehicle_types": [
-        {
-            "pricing_plans": [
-                "flash_plan_1",
-                "flash_plan_3"
-            ],
-            "vehicle_type_id": "flash_bike",
-            "propulsion_type": "human",
-            "default_pricing_plan_id": "flash_plan_1",
-            "form_factor": "bicycle"
-        },
-        {
-            "pricing_plans": [
-                "flash_plan_1",
-                "flash_plan_3"
-            ],
-            "vehicle_type_id": "flash_electric_bike",
-            "propulsion_type": "electric",
-            "default_pricing_plan_id": "flash_plan_1",
-            "max_range_meters": 75000,
-            "form_factor": "bicycle"
-        },
-        {
-            "pricing_plans": [
-                "flash_plan_1",
-                "flash_plan_3"
-            ],
-            "vehicle_type_id": "flash_cargo_bike",
-            "propulsion_type": "human",
-            "default_pricing_plan_id": "flash_plan_1",
-            "form_factor": "cargo_bicycle"
-        }
-    ]},
+    "last_updated": 1732386261,
+    "data": {"vehicle_types": [{
+        "pricing_plans": [
+            "flash_plan_1",
+            "flash_plan_2"
+        ],
+        "vehicle_type_id": "flash_car",
+        "propulsion_type": "electric",
+        "default_pricing_plan_id": "flash_plan_1",
+        "max_range_meters": 290000,
+        "form_factor": "car"
+    }]},
     "ttl": 86400,
-    "version": "2.3"
+    "version": "2.2"
 }

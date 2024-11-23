@@ -1,1201 +1,1487 @@
 {
-    "last_updated": 1732383876,
+    "last_updated": 1732386268,
     "data": {"stations": [
         {
-            "vehicle_type_ids": ["bike"],
+            "vehicle_type_ids": [
+                "penguin_bike",
+                "penguin_electric_bike"
+            ],
             "station_id": "penguin_MADRID001",
             "name": "Station 1",
-            "lon": -3.715173259630594,
-            "lat": 40.45880525057663,
-            "capacity": 41
+            "lon": -3.662525086950888,
+            "lat": 40.46054163451697,
+            "capacity": 47
         },
         {
-            "vehicle_type_ids": [
-                "bike",
-                "cargo_bike"
-            ],
+            "vehicle_type_ids": ["penguin_bike"],
             "station_id": "penguin_MADRID002",
             "name": "Station 2",
-            "lon": -3.6987426854995937,
-            "lat": 40.43146710141779,
-            "capacity": 29
+            "lon": -3.7071209738371684,
+            "lat": 40.43986314127851,
+            "capacity": 35
         },
         {
             "vehicle_type_ids": [
-                "bike",
-                "electric_bike",
-                "cargo_bike"
+                "penguin_bike",
+                "penguin_electric_bike"
             ],
             "station_id": "penguin_MADRID003",
             "name": "Station 3",
-            "lon": -3.6328016548787514,
-            "lat": 40.43058367524311,
-            "capacity": 14
-        },
-        {
-            "vehicle_type_ids": [
-                "bike",
-                "electric_bike",
-                "cargo_bike"
-            ],
-            "station_id": "penguin_MADRID004",
-            "name": "Station 4",
-            "lon": -3.731230352072659,
-            "lat": 40.38192213449029,
-            "capacity": 12
-        },
-        {
-            "vehicle_type_ids": [
-                "bike",
-                "cargo_bike"
-            ],
-            "station_id": "penguin_MADRID005",
-            "name": "Station 5",
-            "lon": -3.667685007955268,
-            "lat": 40.44001426193131,
-            "capacity": 42
-        },
-        {
-            "vehicle_type_ids": ["bike"],
-            "station_id": "penguin_MADRID006",
-            "name": "Station 6",
-            "lon": -3.751901636081072,
-            "lat": 40.481695629202974,
-            "capacity": 23
-        },
-        {
-            "vehicle_type_ids": ["bike"],
-            "station_id": "penguin_MADRID007",
-            "name": "Station 7",
-            "lon": -3.781734017708815,
-            "lat": 40.301976661564034,
-            "capacity": 35
-        },
-        {
-            "vehicle_type_ids": [
-                "bike",
-                "electric_bike"
-            ],
-            "station_id": "penguin_MADRID008",
-            "name": "Station 8",
-            "lon": -3.7964477075466245,
-            "lat": 40.306539790688284,
-            "capacity": 30
-        },
-        {
-            "vehicle_type_ids": [
-                "bike",
-                "cargo_bike"
-            ],
-            "station_id": "penguin_MADRID009",
-            "name": "Station 9",
-            "lon": -3.796658504250028,
-            "lat": 40.42730175733581,
+            "lon": -3.7597608638001447,
+            "lat": 40.47610365835239,
             "capacity": 36
         },
         {
-            "vehicle_type_ids": ["bike"],
-            "station_id": "penguin_MADRID010",
-            "name": "Station 10",
-            "lon": -3.7117116175272034,
-            "lat": 40.442840692659466,
-            "capacity": 40
-        },
-        {
-            "vehicle_type_ids": [
-                "bike",
-                "cargo_bike"
-            ],
-            "station_id": "penguin_MADRID011",
-            "name": "Station 11",
-            "lon": -3.7477619858666293,
-            "lat": 40.33250325332977,
-            "capacity": 42
-        },
-        {
-            "vehicle_type_ids": [
-                "bike",
-                "electric_bike"
-            ],
-            "station_id": "penguin_MADRID012",
-            "name": "Station 12",
-            "lon": -3.7428124193168384,
-            "lat": 40.31883149665283,
+            "vehicle_type_ids": ["penguin_bike"],
+            "station_id": "penguin_MADRID004",
+            "name": "Station 4",
+            "lon": -3.7760290230227094,
+            "lat": 40.385847110278704,
             "capacity": 13
         },
         {
-            "vehicle_type_ids": [
-                "bike",
-                "cargo_bike"
-            ],
-            "station_id": "penguin_MADRID013",
-            "name": "Station 13",
-            "lon": -3.6826790326173784,
-            "lat": 40.45666054979596,
-            "capacity": 29
+            "vehicle_type_ids": ["penguin_bike"],
+            "station_id": "penguin_MADRID005",
+            "name": "Station 5",
+            "lon": -3.7086974816001543,
+            "lat": 40.34419675592002,
+            "capacity": 24
         },
         {
-            "vehicle_type_ids": ["bike"],
-            "station_id": "penguin_MADRID014",
-            "name": "Station 14",
-            "lon": -3.6888867095547164,
-            "lat": 40.38534494960856,
-            "capacity": 48
-        },
-        {
-            "vehicle_type_ids": ["bike"],
-            "station_id": "penguin_MADRID015",
-            "name": "Station 15",
-            "lon": -3.6310517650734235,
-            "lat": 40.443389661748995,
-            "capacity": 20
-        },
-        {
-            "vehicle_type_ids": ["bike"],
-            "station_id": "penguin_MADRID016",
-            "name": "Station 16",
-            "lon": -3.6764895390208787,
-            "lat": 40.45056607983268,
-            "capacity": 28
-        },
-        {
-            "vehicle_type_ids": ["bike"],
-            "station_id": "penguin_MADRID017",
-            "name": "Station 17",
-            "lon": -3.705992618674159,
-            "lat": 40.339730644451066,
-            "capacity": 34
-        },
-        {
-            "vehicle_type_ids": [
-                "bike",
-                "electric_bike"
-            ],
-            "station_id": "penguin_MADRID018",
-            "name": "Station 18",
-            "lon": -3.603510216628257,
-            "lat": 40.335000617038126,
-            "capacity": 23
-        },
-        {
-            "vehicle_type_ids": [
-                "bike",
-                "electric_bike",
-                "cargo_bike"
-            ],
-            "station_id": "penguin_MADRID019",
-            "name": "Station 19",
-            "lon": -3.640634141480233,
-            "lat": 40.38189007981201,
-            "capacity": 41
-        },
-        {
-            "vehicle_type_ids": [
-                "bike",
-                "cargo_bike"
-            ],
-            "station_id": "penguin_MADRID020",
-            "name": "Station 20",
-            "lon": -3.7635889273973513,
-            "lat": 40.439357065477765,
-            "capacity": 44
-        },
-        {
-            "vehicle_type_ids": [
-                "bike",
-                "cargo_bike"
-            ],
-            "station_id": "penguin_MADRID021",
-            "name": "Station 21",
-            "lon": -3.762675544654591,
-            "lat": 40.44612887578583,
-            "capacity": 49
-        },
-        {
-            "vehicle_type_ids": [
-                "bike",
-                "cargo_bike"
-            ],
-            "station_id": "penguin_MADRID022",
-            "name": "Station 22",
-            "lon": -3.6270887241672174,
-            "lat": 40.370953590601644,
-            "capacity": 43
-        },
-        {
-            "vehicle_type_ids": [
-                "bike",
-                "electric_bike"
-            ],
-            "station_id": "penguin_MADRID023",
-            "name": "Station 23",
-            "lon": -3.72151200665483,
-            "lat": 40.37066310833607,
-            "capacity": 48
-        },
-        {
-            "vehicle_type_ids": [
-                "bike",
-                "electric_bike",
-                "cargo_bike"
-            ],
-            "station_id": "penguin_MADRID024",
-            "name": "Station 24",
-            "lon": -3.7757793389217773,
-            "lat": 40.4133270509473,
-            "capacity": 27
-        },
-        {
-            "vehicle_type_ids": [
-                "bike",
-                "electric_bike"
-            ],
-            "station_id": "penguin_MADRID025",
-            "name": "Station 25",
-            "lon": -3.73191769749843,
-            "lat": 40.43632452984414,
-            "capacity": 37
-        },
-        {
-            "vehicle_type_ids": ["bike"],
-            "station_id": "penguin_MADRID026",
-            "name": "Station 26",
-            "lon": -3.756061588977018,
-            "lat": 40.419185928097434,
-            "capacity": 13
-        },
-        {
-            "vehicle_type_ids": [
-                "bike",
-                "electric_bike",
-                "cargo_bike"
-            ],
-            "station_id": "penguin_MADRID027",
-            "name": "Station 27",
-            "lon": -3.797184650700383,
-            "lat": 40.318007743012906,
-            "capacity": 48
-        },
-        {
-            "vehicle_type_ids": [
-                "bike",
-                "electric_bike",
-                "cargo_bike"
-            ],
-            "station_id": "penguin_MADRID028",
-            "name": "Station 28",
-            "lon": -3.747240078338092,
-            "lat": 40.39604221590333,
-            "capacity": 42
-        },
-        {
-            "vehicle_type_ids": ["bike"],
-            "station_id": "penguin_MADRID029",
-            "name": "Station 29",
-            "lon": -3.7390356955693136,
-            "lat": 40.318890410630694,
-            "capacity": 37
-        },
-        {
-            "vehicle_type_ids": ["bike"],
-            "station_id": "penguin_MADRID030",
-            "name": "Station 30",
-            "lon": -3.748035711010196,
-            "lat": 40.44881952142699,
-            "capacity": 43
-        },
-        {
-            "vehicle_type_ids": ["bike"],
-            "station_id": "penguin_MADRID031",
-            "name": "Station 31",
-            "lon": -3.740517852626255,
-            "lat": 40.426027325755946,
-            "capacity": 45
-        },
-        {
-            "vehicle_type_ids": [
-                "bike",
-                "cargo_bike"
-            ],
-            "station_id": "penguin_MADRID032",
-            "name": "Station 32",
-            "lon": -3.668618216361212,
-            "lat": 40.46570358003902,
-            "capacity": 29
-        },
-        {
-            "vehicle_type_ids": [
-                "bike",
-                "electric_bike"
-            ],
-            "station_id": "penguin_MADRID033",
-            "name": "Station 33",
-            "lon": -3.738295443570738,
-            "lat": 40.37966252526238,
+            "vehicle_type_ids": ["penguin_bike"],
+            "station_id": "penguin_MADRID006",
+            "name": "Station 6",
+            "lon": -3.7394911662729533,
+            "lat": 40.34790341613008,
             "capacity": 33
         },
         {
             "vehicle_type_ids": [
-                "bike",
-                "electric_bike",
-                "cargo_bike"
+                "penguin_bike",
+                "penguin_electric_bike"
             ],
-            "station_id": "penguin_MADRID034",
-            "name": "Station 34",
-            "lon": -3.7729680646977384,
-            "lat": 40.368782373184885,
-            "capacity": 32
+            "station_id": "penguin_MADRID007",
+            "name": "Station 7",
+            "lon": -3.7894512935925833,
+            "lat": 40.48282707431091,
+            "capacity": 35
         },
         {
-            "vehicle_type_ids": [
-                "bike",
-                "electric_bike",
-                "cargo_bike"
-            ],
-            "station_id": "penguin_MADRID035",
-            "name": "Station 35",
-            "lon": -3.75881584285866,
-            "lat": 40.44318071202773,
-            "capacity": 16
-        },
-        {
-            "vehicle_type_ids": ["bike"],
-            "station_id": "penguin_MADRID036",
-            "name": "Station 36",
-            "lon": -3.799115159884603,
-            "lat": 40.39152893717505,
-            "capacity": 43
-        },
-        {
-            "vehicle_type_ids": [
-                "bike",
-                "electric_bike"
-            ],
-            "station_id": "penguin_MADRID037",
-            "name": "Station 37",
-            "lon": -3.721004431305885,
-            "lat": 40.43503896270302,
-            "capacity": 17
-        },
-        {
-            "vehicle_type_ids": [
-                "bike",
-                "electric_bike"
-            ],
-            "station_id": "penguin_MADRID038",
-            "name": "Station 38",
-            "lon": -3.7089286123889917,
-            "lat": 40.49567060567239,
-            "capacity": 38
-        },
-        {
-            "vehicle_type_ids": [
-                "bike",
-                "electric_bike"
-            ],
-            "station_id": "penguin_MADRID039",
-            "name": "Station 39",
-            "lon": -3.6685409412876386,
-            "lat": 40.3731623976369,
-            "capacity": 23
-        },
-        {
-            "vehicle_type_ids": ["bike"],
-            "station_id": "penguin_MADRID040",
-            "name": "Station 40",
-            "lon": -3.7884700966061446,
-            "lat": 40.34278818156926,
-            "capacity": 14
-        },
-        {
-            "vehicle_type_ids": [
-                "bike",
-                "electric_bike"
-            ],
-            "station_id": "penguin_MADRID041",
-            "name": "Station 41",
-            "lon": -3.7710292507844962,
-            "lat": 40.49987870313826,
-            "capacity": 11
-        },
-        {
-            "vehicle_type_ids": ["bike"],
-            "station_id": "penguin_MADRID042",
-            "name": "Station 42",
-            "lon": -3.6629360547651615,
-            "lat": 40.382719763837,
-            "capacity": 37
-        },
-        {
-            "vehicle_type_ids": [
-                "bike",
-                "electric_bike"
-            ],
-            "station_id": "penguin_MADRID043",
-            "name": "Station 43",
-            "lon": -3.67633995163158,
-            "lat": 40.33710343705374,
-            "capacity": 13
-        },
-        {
-            "vehicle_type_ids": ["bike"],
-            "station_id": "penguin_MADRID044",
-            "name": "Station 44",
-            "lon": -3.6912443548660514,
-            "lat": 40.389448043260465,
+            "vehicle_type_ids": ["penguin_bike"],
+            "station_id": "penguin_MADRID008",
+            "name": "Station 8",
+            "lon": -3.6812481048422505,
+            "lat": 40.44046366021222,
             "capacity": 45
         },
         {
             "vehicle_type_ids": [
-                "bike",
-                "cargo_bike"
+                "penguin_bike",
+                "penguin_electric_bike"
             ],
-            "station_id": "penguin_MADRID045",
-            "name": "Station 45",
-            "lon": -3.7159278962045437,
-            "lat": 40.31913801725345,
-            "capacity": 41
-        },
-        {
-            "vehicle_type_ids": [
-                "bike",
-                "electric_bike",
-                "cargo_bike"
-            ],
-            "station_id": "penguin_MADRID046",
-            "name": "Station 46",
-            "lon": -3.6417855972305215,
-            "lat": 40.34923808009437,
-            "capacity": 12
-        },
-        {
-            "vehicle_type_ids": [
-                "bike",
-                "cargo_bike"
-            ],
-            "station_id": "penguin_MADRID047",
-            "name": "Station 47",
-            "lon": -3.7264589229196448,
-            "lat": 40.463554679256454,
-            "capacity": 31
-        },
-        {
-            "vehicle_type_ids": [
-                "bike",
-                "electric_bike"
-            ],
-            "station_id": "penguin_MADRID048",
-            "name": "Station 48",
-            "lon": -3.7293694353777957,
-            "lat": 40.4020974334565,
-            "capacity": 38
-        },
-        {
-            "vehicle_type_ids": [
-                "bike",
-                "electric_bike"
-            ],
-            "station_id": "penguin_MADRID049",
-            "name": "Station 49",
-            "lon": -3.7219067218447046,
-            "lat": 40.3127948060279,
-            "capacity": 45
-        },
-        {
-            "vehicle_type_ids": [
-                "bike",
-                "electric_bike",
-                "cargo_bike"
-            ],
-            "station_id": "penguin_MADRID050",
-            "name": "Station 50",
-            "lon": -3.709023699588416,
-            "lat": 40.48609798897021,
-            "capacity": 38
-        },
-        {
-            "vehicle_type_ids": [
-                "bike",
-                "electric_bike"
-            ],
-            "station_id": "penguin_MADRID051",
-            "name": "Station 51",
-            "lon": -3.7364711747982287,
-            "lat": 40.38282945287634,
-            "capacity": 35
-        },
-        {
-            "vehicle_type_ids": [
-                "bike",
-                "electric_bike",
-                "cargo_bike"
-            ],
-            "station_id": "penguin_MADRID052",
-            "name": "Station 52",
-            "lon": -3.746457396038236,
-            "lat": 40.323895151634304,
-            "capacity": 39
-        },
-        {
-            "vehicle_type_ids": [
-                "bike",
-                "electric_bike"
-            ],
-            "station_id": "penguin_MADRID053",
-            "name": "Station 53",
-            "lon": -3.6600929753938676,
-            "lat": 40.43142397843054,
-            "capacity": 42
-        },
-        {
-            "vehicle_type_ids": ["bike"],
-            "station_id": "penguin_MADRID054",
-            "name": "Station 54",
-            "lon": -3.7186369090211384,
-            "lat": 40.31424993464535,
-            "capacity": 24
-        },
-        {
-            "vehicle_type_ids": [
-                "bike",
-                "electric_bike"
-            ],
-            "station_id": "penguin_MADRID055",
-            "name": "Station 55",
-            "lon": -3.755342907891557,
-            "lat": 40.47064603963429,
-            "capacity": 29
-        },
-        {
-            "vehicle_type_ids": ["bike"],
-            "station_id": "penguin_MADRID056",
-            "name": "Station 56",
-            "lon": -3.708064836825301,
-            "lat": 40.486714696887276,
-            "capacity": 35
-        },
-        {
-            "vehicle_type_ids": [
-                "bike",
-                "electric_bike"
-            ],
-            "station_id": "penguin_MADRID057",
-            "name": "Station 57",
-            "lon": -3.7260532964170436,
-            "lat": 40.4550384605035,
-            "capacity": 33
-        },
-        {
-            "vehicle_type_ids": [
-                "bike",
-                "electric_bike"
-            ],
-            "station_id": "penguin_MADRID058",
-            "name": "Station 58",
-            "lon": -3.7431023057937454,
-            "lat": 40.3899104693769,
-            "capacity": 22
-        },
-        {
-            "vehicle_type_ids": [
-                "bike",
-                "electric_bike",
-                "cargo_bike"
-            ],
-            "station_id": "penguin_MADRID059",
-            "name": "Station 59",
-            "lon": -3.7376773302134487,
-            "lat": 40.321597537570035,
-            "capacity": 40
-        },
-        {
-            "vehicle_type_ids": [
-                "bike",
-                "cargo_bike"
-            ],
-            "station_id": "penguin_MADRID060",
-            "name": "Station 60",
-            "lon": -3.673255797290569,
-            "lat": 40.33233971028086,
-            "capacity": 18
-        },
-        {
-            "vehicle_type_ids": [
-                "bike",
-                "electric_bike",
-                "cargo_bike"
-            ],
-            "station_id": "penguin_MADRID061",
-            "name": "Station 61",
-            "lon": -3.76061022463552,
-            "lat": 40.414915210528754,
-            "capacity": 44
-        },
-        {
-            "vehicle_type_ids": [
-                "bike",
-                "electric_bike"
-            ],
-            "station_id": "penguin_MADRID062",
-            "name": "Station 62",
-            "lon": -3.745813457020626,
-            "lat": 40.45415442178846,
-            "capacity": 44
-        },
-        {
-            "vehicle_type_ids": [
-                "bike",
-                "cargo_bike"
-            ],
-            "station_id": "penguin_MADRID063",
-            "name": "Station 63",
-            "lon": -3.7485983748021563,
-            "lat": 40.346139824270615,
-            "capacity": 14
-        },
-        {
-            "vehicle_type_ids": [
-                "bike",
-                "electric_bike"
-            ],
-            "station_id": "penguin_MADRID064",
-            "name": "Station 64",
-            "lon": -3.6098538901603128,
-            "lat": 40.47924573545777,
-            "capacity": 26
-        },
-        {
-            "vehicle_type_ids": [
-                "bike",
-                "electric_bike",
-                "cargo_bike"
-            ],
-            "station_id": "penguin_MADRID065",
-            "name": "Station 65",
-            "lon": -3.724961079097767,
-            "lat": 40.335872235778986,
-            "capacity": 10
-        },
-        {
-            "vehicle_type_ids": [
-                "bike",
-                "cargo_bike"
-            ],
-            "station_id": "penguin_MADRID066",
-            "name": "Station 66",
-            "lon": -3.77128954323796,
-            "lat": 40.46005431483272,
-            "capacity": 25
-        },
-        {
-            "vehicle_type_ids": [
-                "bike",
-                "electric_bike"
-            ],
-            "station_id": "penguin_MADRID067",
-            "name": "Station 67",
-            "lon": -3.6738690841094277,
-            "lat": 40.44525338279062,
-            "capacity": 13
-        },
-        {
-            "vehicle_type_ids": [
-                "bike",
-                "electric_bike",
-                "cargo_bike"
-            ],
-            "station_id": "penguin_MADRID068",
-            "name": "Station 68",
-            "lon": -3.6922651429386493,
-            "lat": 40.34482240178396,
-            "capacity": 34
-        },
-        {
-            "vehicle_type_ids": [
-                "bike",
-                "electric_bike",
-                "cargo_bike"
-            ],
-            "station_id": "penguin_MADRID069",
-            "name": "Station 69",
-            "lon": -3.694659726657299,
-            "lat": 40.328015524210564,
-            "capacity": 23
-        },
-        {
-            "vehicle_type_ids": [
-                "bike",
-                "cargo_bike"
-            ],
-            "station_id": "penguin_MADRID070",
-            "name": "Station 70",
-            "lon": -3.72986457231352,
-            "lat": 40.44307939246567,
-            "capacity": 24
-        },
-        {
-            "vehicle_type_ids": ["bike"],
-            "station_id": "penguin_MADRID071",
-            "name": "Station 71",
-            "lon": -3.7038240326287153,
-            "lat": 40.303804067543425,
-            "capacity": 48
-        },
-        {
-            "vehicle_type_ids": ["bike"],
-            "station_id": "penguin_MADRID072",
-            "name": "Station 72",
-            "lon": -3.728369218739911,
-            "lat": 40.43735252746829,
+            "station_id": "penguin_MADRID009",
+            "name": "Station 9",
+            "lon": -3.661754644187642,
+            "lat": 40.45104415618748,
             "capacity": 30
         },
         {
-            "vehicle_type_ids": ["bike"],
-            "station_id": "penguin_MADRID073",
-            "name": "Station 73",
-            "lon": -3.7135804735810547,
-            "lat": 40.47987299471841,
-            "capacity": 39
+            "vehicle_type_ids": ["penguin_bike"],
+            "station_id": "penguin_MADRID010",
+            "name": "Station 10",
+            "lon": -3.7633790852422004,
+            "lat": 40.36968540309634,
+            "capacity": 19
+        },
+        {
+            "vehicle_type_ids": ["penguin_bike"],
+            "station_id": "penguin_MADRID011",
+            "name": "Station 11",
+            "lon": -3.7744770452139838,
+            "lat": 40.48296865153787,
+            "capacity": 24
         },
         {
             "vehicle_type_ids": [
-                "bike",
-                "electric_bike",
-                "cargo_bike"
+                "penguin_bike",
+                "penguin_electric_bike"
             ],
-            "station_id": "penguin_MADRID074",
-            "name": "Station 74",
-            "lon": -3.778729715345021,
-            "lat": 40.46788669214024,
-            "capacity": 16
+            "station_id": "penguin_MADRID012",
+            "name": "Station 12",
+            "lon": -3.752030830931934,
+            "lat": 40.40362883763344,
+            "capacity": 33
+        },
+        {
+            "vehicle_type_ids": ["penguin_bike"],
+            "station_id": "penguin_MADRID013",
+            "name": "Station 13",
+            "lon": -3.7177892243487154,
+            "lat": 40.3153054320325,
+            "capacity": 33
         },
         {
             "vehicle_type_ids": [
-                "bike",
-                "electric_bike",
-                "cargo_bike"
+                "penguin_bike",
+                "penguin_electric_bike"
             ],
-            "station_id": "penguin_MADRID075",
-            "name": "Station 75",
-            "lon": -3.6474903401410943,
-            "lat": 40.395376961104645,
-            "capacity": 14
+            "station_id": "penguin_MADRID014",
+            "name": "Station 14",
+            "lon": -3.6740590009465803,
+            "lat": 40.407011379510294,
+            "capacity": 34
         },
         {
-            "vehicle_type_ids": ["bike"],
-            "station_id": "penguin_MADRID076",
-            "name": "Station 76",
-            "lon": -3.660523448336243,
-            "lat": 40.31405390556235,
-            "capacity": 13
+            "vehicle_type_ids": ["penguin_bike"],
+            "station_id": "penguin_MADRID015",
+            "name": "Station 15",
+            "lon": -3.740549549168188,
+            "lat": 40.44247997792563,
+            "capacity": 28
         },
         {
-            "vehicle_type_ids": [
-                "bike",
-                "electric_bike"
-            ],
-            "station_id": "penguin_MADRID077",
-            "name": "Station 77",
-            "lon": -3.6895679326036492,
-            "lat": 40.48098974975714,
-            "capacity": 31
+            "vehicle_type_ids": ["penguin_bike"],
+            "station_id": "penguin_MADRID016",
+            "name": "Station 16",
+            "lon": -3.633342622576849,
+            "lat": 40.33741509119852,
+            "capacity": 20
         },
         {
             "vehicle_type_ids": [
-                "bike",
-                "electric_bike"
+                "penguin_bike",
+                "penguin_electric_bike"
             ],
-            "station_id": "penguin_MADRID078",
-            "name": "Station 78",
-            "lon": -3.7933824512711265,
-            "lat": 40.44647831569965,
+            "station_id": "penguin_MADRID017",
+            "name": "Station 17",
+            "lon": -3.7238751782596764,
+            "lat": 40.47039580464516,
+            "capacity": 26
+        },
+        {
+            "vehicle_type_ids": ["penguin_bike"],
+            "station_id": "penguin_MADRID018",
+            "name": "Station 18",
+            "lon": -3.7040380939554187,
+            "lat": 40.36211478743556,
+            "capacity": 25
+        },
+        {
+            "vehicle_type_ids": ["penguin_bike"],
+            "station_id": "penguin_MADRID019",
+            "name": "Station 19",
+            "lon": -3.712003817357554,
+            "lat": 40.46157047132539,
+            "capacity": 40
+        },
+        {
+            "vehicle_type_ids": [
+                "penguin_bike",
+                "penguin_electric_bike"
+            ],
+            "station_id": "penguin_MADRID020",
+            "name": "Station 20",
+            "lon": -3.739224088222813,
+            "lat": 40.497688875565146,
+            "capacity": 19
+        },
+        {
+            "vehicle_type_ids": ["penguin_bike"],
+            "station_id": "penguin_MADRID021",
+            "name": "Station 21",
+            "lon": -3.707947374089746,
+            "lat": 40.49626279001777,
+            "capacity": 41
+        },
+        {
+            "vehicle_type_ids": [
+                "penguin_bike",
+                "penguin_electric_bike"
+            ],
+            "station_id": "penguin_MADRID022",
+            "name": "Station 22",
+            "lon": -3.705806020688282,
+            "lat": 40.421902202975026,
+            "capacity": 46
+        },
+        {
+            "vehicle_type_ids": ["penguin_bike"],
+            "station_id": "penguin_MADRID023",
+            "name": "Station 23",
+            "lon": -3.7142044973219357,
+            "lat": 40.35072426851878,
+            "capacity": 32
+        },
+        {
+            "vehicle_type_ids": ["penguin_bike"],
+            "station_id": "penguin_MADRID024",
+            "name": "Station 24",
+            "lon": -3.689378801593687,
+            "lat": 40.417019053377246,
+            "capacity": 42
+        },
+        {
+            "vehicle_type_ids": [
+                "penguin_bike",
+                "penguin_electric_bike"
+            ],
+            "station_id": "penguin_MADRID025",
+            "name": "Station 25",
+            "lon": -3.7736758085630555,
+            "lat": 40.30883935416453,
+            "capacity": 22
+        },
+        {
+            "vehicle_type_ids": ["penguin_bike"],
+            "station_id": "penguin_MADRID026",
+            "name": "Station 26",
+            "lon": -3.755793976330461,
+            "lat": 40.41809721225168,
+            "capacity": 41
+        },
+        {
+            "vehicle_type_ids": [
+                "penguin_bike",
+                "penguin_electric_bike"
+            ],
+            "station_id": "penguin_MADRID027",
+            "name": "Station 27",
+            "lon": -3.794282117996463,
+            "lat": 40.48048140899419,
+            "capacity": 33
+        },
+        {
+            "vehicle_type_ids": [
+                "penguin_bike",
+                "penguin_electric_bike"
+            ],
+            "station_id": "penguin_MADRID028",
+            "name": "Station 28",
+            "lon": -3.7498716146834825,
+            "lat": 40.4356888134817,
+            "capacity": 42
+        },
+        {
+            "vehicle_type_ids": [
+                "penguin_bike",
+                "penguin_electric_bike"
+            ],
+            "station_id": "penguin_MADRID029",
+            "name": "Station 29",
+            "lon": -3.639613019397606,
+            "lat": 40.3616005189545,
+            "capacity": 45
+        },
+        {
+            "vehicle_type_ids": [
+                "penguin_bike",
+                "penguin_electric_bike"
+            ],
+            "station_id": "penguin_MADRID030",
+            "name": "Station 30",
+            "lon": -3.7370933132456714,
+            "lat": 40.460863248323854,
+            "capacity": 41
+        },
+        {
+            "vehicle_type_ids": [
+                "penguin_bike",
+                "penguin_electric_bike"
+            ],
+            "station_id": "penguin_MADRID031",
+            "name": "Station 31",
+            "lon": -3.76984919299481,
+            "lat": 40.30944485514206,
+            "capacity": 12
+        },
+        {
+            "vehicle_type_ids": ["penguin_bike"],
+            "station_id": "penguin_MADRID032",
+            "name": "Station 32",
+            "lon": -3.7228899175235086,
+            "lat": 40.337079466757295,
+            "capacity": 22
+        },
+        {
+            "vehicle_type_ids": ["penguin_bike"],
+            "station_id": "penguin_MADRID033",
+            "name": "Station 33",
+            "lon": -3.620447921519375,
+            "lat": 40.35284525304288,
+            "capacity": 48
+        },
+        {
+            "vehicle_type_ids": [
+                "penguin_bike",
+                "penguin_electric_bike"
+            ],
+            "station_id": "penguin_MADRID034",
+            "name": "Station 34",
+            "lon": -3.72860102665277,
+            "lat": 40.37805250200306,
+            "capacity": 43
+        },
+        {
+            "vehicle_type_ids": [
+                "penguin_bike",
+                "penguin_electric_bike"
+            ],
+            "station_id": "penguin_MADRID035",
+            "name": "Station 35",
+            "lon": -3.6245254947002143,
+            "lat": 40.452982938763085,
+            "capacity": 17
+        },
+        {
+            "vehicle_type_ids": ["penguin_bike"],
+            "station_id": "penguin_MADRID036",
+            "name": "Station 36",
+            "lon": -3.666262350186367,
+            "lat": 40.3376396509816,
+            "capacity": 34
+        },
+        {
+            "vehicle_type_ids": [
+                "penguin_bike",
+                "penguin_electric_bike"
+            ],
+            "station_id": "penguin_MADRID037",
+            "name": "Station 37",
+            "lon": -3.698004038011862,
+            "lat": 40.47470828474939,
             "capacity": 26
         },
         {
             "vehicle_type_ids": [
-                "bike",
-                "cargo_bike"
+                "penguin_bike",
+                "penguin_electric_bike"
             ],
-            "station_id": "penguin_MADRID079",
-            "name": "Station 79",
-            "lon": -3.790464149264968,
-            "lat": 40.355839204978324,
-            "capacity": 25
+            "station_id": "penguin_MADRID038",
+            "name": "Station 38",
+            "lon": -3.6796264116135284,
+            "lat": 40.39554845366457,
+            "capacity": 35
+        },
+        {
+            "vehicle_type_ids": ["penguin_bike"],
+            "station_id": "penguin_MADRID039",
+            "name": "Station 39",
+            "lon": -3.70953160882688,
+            "lat": 40.431854461441105,
+            "capacity": 45
+        },
+        {
+            "vehicle_type_ids": ["penguin_bike"],
+            "station_id": "penguin_MADRID040",
+            "name": "Station 40",
+            "lon": -3.740421839579628,
+            "lat": 40.34434894860753,
+            "capacity": 35
         },
         {
             "vehicle_type_ids": [
-                "bike",
-                "cargo_bike"
+                "penguin_bike",
+                "penguin_electric_bike"
             ],
-            "station_id": "penguin_MADRID080",
-            "name": "Station 80",
-            "lon": -3.703130482451964,
-            "lat": 40.45026360420532,
+            "station_id": "penguin_MADRID041",
+            "name": "Station 41",
+            "lon": -3.7106747162369844,
+            "lat": 40.40103931101973,
+            "capacity": 15
+        },
+        {
+            "vehicle_type_ids": ["penguin_bike"],
+            "station_id": "penguin_MADRID042",
+            "name": "Station 42",
+            "lon": -3.7816106206305906,
+            "lat": 40.366239911802246,
+            "capacity": 24
+        },
+        {
+            "vehicle_type_ids": [
+                "penguin_bike",
+                "penguin_electric_bike"
+            ],
+            "station_id": "penguin_MADRID043",
+            "name": "Station 43",
+            "lon": -3.78228939246578,
+            "lat": 40.33549158286489,
+            "capacity": 22
+        },
+        {
+            "vehicle_type_ids": ["penguin_bike"],
+            "station_id": "penguin_MADRID044",
+            "name": "Station 44",
+            "lon": -3.7787418036501945,
+            "lat": 40.324030141844375,
+            "capacity": 43
+        },
+        {
+            "vehicle_type_ids": ["penguin_bike"],
+            "station_id": "penguin_MADRID045",
+            "name": "Station 45",
+            "lon": -3.602292686653479,
+            "lat": 40.491169841530166,
+            "capacity": 29
+        },
+        {
+            "vehicle_type_ids": ["penguin_bike"],
+            "station_id": "penguin_MADRID046",
+            "name": "Station 46",
+            "lon": -3.76247781530906,
+            "lat": 40.495984681319676,
             "capacity": 21
         },
         {
             "vehicle_type_ids": [
-                "bike",
-                "cargo_bike"
+                "penguin_bike",
+                "penguin_electric_bike"
             ],
-            "station_id": "penguin_MADRID081",
-            "name": "Station 81",
-            "lon": -3.6077355184447883,
-            "lat": 40.327764921533884,
-            "capacity": 24
-        },
-        {
-            "vehicle_type_ids": [
-                "bike",
-                "electric_bike",
-                "cargo_bike"
-            ],
-            "station_id": "penguin_MADRID082",
-            "name": "Station 82",
-            "lon": -3.6809634608512787,
-            "lat": 40.31040722976883,
+            "station_id": "penguin_MADRID047",
+            "name": "Station 47",
+            "lon": -3.6158978058594378,
+            "lat": 40.34893341617633,
             "capacity": 18
         },
         {
-            "vehicle_type_ids": [
-                "bike",
-                "electric_bike",
-                "cargo_bike"
-            ],
-            "station_id": "penguin_MADRID083",
-            "name": "Station 83",
-            "lon": -3.7779095063116035,
-            "lat": 40.46732722165737,
-            "capacity": 38
-        },
-        {
-            "vehicle_type_ids": [
-                "bike",
-                "cargo_bike"
-            ],
-            "station_id": "penguin_MADRID084",
-            "name": "Station 84",
-            "lon": -3.671541435786629,
-            "lat": 40.366535886468554,
-            "capacity": 24
-        },
-        {
-            "vehicle_type_ids": [
-                "bike",
-                "cargo_bike"
-            ],
-            "station_id": "penguin_MADRID085",
-            "name": "Station 85",
-            "lon": -3.6155818761842684,
-            "lat": 40.42222817047412,
-            "capacity": 41
-        },
-        {
-            "vehicle_type_ids": [
-                "bike",
-                "electric_bike"
-            ],
-            "station_id": "penguin_MADRID086",
-            "name": "Station 86",
-            "lon": -3.6110031369730358,
-            "lat": 40.48660926990476,
-            "capacity": 30
-        },
-        {
-            "vehicle_type_ids": ["bike"],
-            "station_id": "penguin_MADRID087",
-            "name": "Station 87",
-            "lon": -3.6392906262432305,
-            "lat": 40.415353843949546,
-            "capacity": 29
-        },
-        {
-            "vehicle_type_ids": [
-                "bike",
-                "electric_bike"
-            ],
-            "station_id": "penguin_MADRID088",
-            "name": "Station 88",
-            "lon": -3.6584816392503603,
-            "lat": 40.34804176554189,
-            "capacity": 41
-        },
-        {
-            "vehicle_type_ids": ["bike"],
-            "station_id": "penguin_MADRID089",
-            "name": "Station 89",
-            "lon": -3.6171474473694456,
-            "lat": 40.374623844323196,
-            "capacity": 31
-        },
-        {
-            "vehicle_type_ids": [
-                "bike",
-                "electric_bike",
-                "cargo_bike"
-            ],
-            "station_id": "penguin_MADRID090",
-            "name": "Station 90",
-            "lon": -3.784246578096042,
-            "lat": 40.39771663961639,
+            "vehicle_type_ids": ["penguin_bike"],
+            "station_id": "penguin_MADRID048",
+            "name": "Station 48",
+            "lon": -3.6566667522691527,
+            "lat": 40.42905968546871,
             "capacity": 26
         },
         {
-            "vehicle_type_ids": ["bike"],
-            "station_id": "penguin_MADRID091",
-            "name": "Station 91",
-            "lon": -3.7965972331535554,
-            "lat": 40.41526734323356,
+            "vehicle_type_ids": [
+                "penguin_bike",
+                "penguin_electric_bike"
+            ],
+            "station_id": "penguin_MADRID049",
+            "name": "Station 49",
+            "lon": -3.7149859057580703,
+            "lat": 40.48522074068602,
+            "capacity": 23
+        },
+        {
+            "vehicle_type_ids": [
+                "penguin_bike",
+                "penguin_electric_bike"
+            ],
+            "station_id": "penguin_MADRID050",
+            "name": "Station 50",
+            "lon": -3.6242540086217594,
+            "lat": 40.324491296202595,
             "capacity": 36
         },
         {
             "vehicle_type_ids": [
-                "bike",
-                "electric_bike",
-                "cargo_bike"
+                "penguin_bike",
+                "penguin_electric_bike"
             ],
-            "station_id": "penguin_MADRID092",
-            "name": "Station 92",
-            "lon": -3.787000204994798,
-            "lat": 40.39408286631559,
+            "station_id": "penguin_MADRID051",
+            "name": "Station 51",
+            "lon": -3.6475321970553773,
+            "lat": 40.42541104996995,
+            "capacity": 36
+        },
+        {
+            "vehicle_type_ids": [
+                "penguin_bike",
+                "penguin_electric_bike"
+            ],
+            "station_id": "penguin_MADRID052",
+            "name": "Station 52",
+            "lon": -3.7958005871393743,
+            "lat": 40.39297121898917,
+            "capacity": 31
+        },
+        {
+            "vehicle_type_ids": ["penguin_bike"],
+            "station_id": "penguin_MADRID053",
+            "name": "Station 53",
+            "lon": -3.6853764514558027,
+            "lat": 40.483986415701494,
+            "capacity": 29
+        },
+        {
+            "vehicle_type_ids": [
+                "penguin_bike",
+                "penguin_electric_bike"
+            ],
+            "station_id": "penguin_MADRID054",
+            "name": "Station 54",
+            "lon": -3.720956639287279,
+            "lat": 40.49736767006603,
+            "capacity": 42
+        },
+        {
+            "vehicle_type_ids": ["penguin_bike"],
+            "station_id": "penguin_MADRID055",
+            "name": "Station 55",
+            "lon": -3.6992448408349863,
+            "lat": 40.338342565451306,
             "capacity": 15
         },
         {
             "vehicle_type_ids": [
-                "bike",
-                "electric_bike"
+                "penguin_bike",
+                "penguin_electric_bike"
             ],
-            "station_id": "penguin_MADRID093",
-            "name": "Station 93",
-            "lon": -3.762855703643621,
-            "lat": 40.36650563467533,
-            "capacity": 19
+            "station_id": "penguin_MADRID056",
+            "name": "Station 56",
+            "lon": -3.7811080797968093,
+            "lat": 40.447142367158925,
+            "capacity": 45
         },
         {
             "vehicle_type_ids": [
-                "bike",
-                "electric_bike"
+                "penguin_bike",
+                "penguin_electric_bike"
             ],
-            "station_id": "penguin_MADRID094",
-            "name": "Station 94",
-            "lon": -3.6840959642583275,
-            "lat": 40.430438440582954,
-            "capacity": 38
+            "station_id": "penguin_MADRID057",
+            "name": "Station 57",
+            "lon": -3.609533772587357,
+            "lat": 40.442564263010425,
+            "capacity": 46
         },
         {
-            "vehicle_type_ids": ["bike"],
-            "station_id": "penguin_MADRID095",
-            "name": "Station 95",
-            "lon": -3.75096223574702,
-            "lat": 40.435718985633656,
-            "capacity": 29
+            "vehicle_type_ids": ["penguin_bike"],
+            "station_id": "penguin_MADRID058",
+            "name": "Station 58",
+            "lon": -3.731375404999191,
+            "lat": 40.41265569840607,
+            "capacity": 14
+        },
+        {
+            "vehicle_type_ids": ["penguin_bike"],
+            "station_id": "penguin_MADRID059",
+            "name": "Station 59",
+            "lon": -3.6013241602873056,
+            "lat": 40.31700438334985,
+            "capacity": 26
         },
         {
             "vehicle_type_ids": [
-                "bike",
-                "electric_bike",
-                "cargo_bike"
+                "penguin_bike",
+                "penguin_electric_bike"
             ],
-            "station_id": "penguin_MADRID096",
-            "name": "Station 96",
-            "lon": -3.7535876314443497,
-            "lat": 40.33152314571433,
-            "capacity": 11
+            "station_id": "penguin_MADRID060",
+            "name": "Station 60",
+            "lon": -3.6926273169636037,
+            "lat": 40.41620028605948,
+            "capacity": 15
         },
         {
             "vehicle_type_ids": [
-                "bike",
-                "electric_bike"
+                "penguin_bike",
+                "penguin_electric_bike"
             ],
-            "station_id": "penguin_MADRID097",
-            "name": "Station 97",
-            "lon": -3.6896242470923437,
-            "lat": 40.35533439067761,
-            "capacity": 32
-        },
-        {
-            "vehicle_type_ids": ["bike"],
-            "station_id": "penguin_MADRID098",
-            "name": "Station 98",
-            "lon": -3.768544717859274,
-            "lat": 40.308721964905004,
-            "capacity": 38
+            "station_id": "penguin_MADRID061",
+            "name": "Station 61",
+            "lon": -3.779398412467895,
+            "lat": 40.361780988227224,
+            "capacity": 47
         },
         {
             "vehicle_type_ids": [
-                "bike",
-                "cargo_bike"
+                "penguin_bike",
+                "penguin_electric_bike"
             ],
-            "station_id": "penguin_MADRID099",
-            "name": "Station 99",
-            "lon": -3.7274121174609687,
-            "lat": 40.42083537440611,
-            "capacity": 10
+            "station_id": "penguin_MADRID062",
+            "name": "Station 62",
+            "lon": -3.6202317086809503,
+            "lat": 40.34099122928547,
+            "capacity": 34
         },
         {
-            "vehicle_type_ids": ["bike"],
-            "station_id": "penguin_MADRID100",
-            "name": "Station 100",
-            "lon": -3.740131431655654,
-            "lat": 40.48813148238223,
-            "capacity": 37
+            "vehicle_type_ids": ["penguin_bike"],
+            "station_id": "penguin_MADRID063",
+            "name": "Station 63",
+            "lon": -3.7762998354747612,
+            "lat": 40.45940311046734,
+            "capacity": 35
+        },
+        {
+            "vehicle_type_ids": ["penguin_bike"],
+            "station_id": "penguin_MADRID064",
+            "name": "Station 64",
+            "lon": -3.7575829080627585,
+            "lat": 40.32497678253848,
+            "capacity": 45
         },
         {
             "vehicle_type_ids": [
-                "bike",
-                "electric_bike"
+                "penguin_bike",
+                "penguin_electric_bike"
             ],
-            "station_id": "penguin_MADRID101",
-            "name": "Station 101",
-            "lon": -3.7450628514165754,
-            "lat": 40.32248019273476,
-            "capacity": 24
+            "station_id": "penguin_MADRID065",
+            "name": "Station 65",
+            "lon": -3.6619469135438227,
+            "lat": 40.435100041500085,
+            "capacity": 33
         },
         {
             "vehicle_type_ids": [
-                "bike",
-                "cargo_bike"
+                "penguin_bike",
+                "penguin_electric_bike"
             ],
-            "station_id": "penguin_MADRID102",
-            "name": "Station 102",
-            "lon": -3.677145624635779,
-            "lat": 40.31275497748547,
-            "capacity": 16
-        },
-        {
-            "vehicle_type_ids": ["bike"],
-            "station_id": "penguin_MADRID103",
-            "name": "Station 103",
-            "lon": -3.7933691574274895,
-            "lat": 40.48354742601827,
-            "capacity": 49
-        },
-        {
-            "vehicle_type_ids": [
-                "bike",
-                "electric_bike",
-                "cargo_bike"
-            ],
-            "station_id": "penguin_MADRID104",
-            "name": "Station 104",
-            "lon": -3.665469193998141,
-            "lat": 40.47072411373755,
-            "capacity": 24
-        },
-        {
-            "vehicle_type_ids": [
-                "bike",
-                "cargo_bike"
-            ],
-            "station_id": "penguin_MADRID105",
-            "name": "Station 105",
-            "lon": -3.60349760205856,
-            "lat": 40.336595618606886,
-            "capacity": 19
-        },
-        {
-            "vehicle_type_ids": [
-                "bike",
-                "electric_bike"
-            ],
-            "station_id": "penguin_MADRID106",
-            "name": "Station 106",
-            "lon": -3.7145479889679063,
-            "lat": 40.41312924546973,
-            "capacity": 21
-        },
-        {
-            "vehicle_type_ids": [
-                "bike",
-                "electric_bike"
-            ],
-            "station_id": "penguin_MADRID107",
-            "name": "Station 107",
-            "lon": -3.638401907695558,
-            "lat": 40.32347656286518,
+            "station_id": "penguin_MADRID066",
+            "name": "Station 66",
+            "lon": -3.701321642293164,
+            "lat": 40.30309914536409,
             "capacity": 17
         },
         {
             "vehicle_type_ids": [
-                "bike",
-                "electric_bike",
-                "cargo_bike"
+                "penguin_bike",
+                "penguin_electric_bike"
             ],
-            "station_id": "penguin_MADRID108",
-            "name": "Station 108",
-            "lon": -3.641254981685382,
-            "lat": 40.34598135283666,
-            "capacity": 23
-        },
-        {
-            "vehicle_type_ids": ["bike"],
-            "station_id": "penguin_MADRID109",
-            "name": "Station 109",
-            "lon": -3.774195607071978,
-            "lat": 40.360465232764014,
-            "capacity": 35
-        },
-        {
-            "vehicle_type_ids": ["bike"],
-            "station_id": "penguin_MADRID110",
-            "name": "Station 110",
-            "lon": -3.6995731667815814,
-            "lat": 40.37622942174882,
-            "capacity": 22
+            "station_id": "penguin_MADRID067",
+            "name": "Station 67",
+            "lon": -3.7008606009945715,
+            "lat": 40.32387989466041,
+            "capacity": 12
         },
         {
             "vehicle_type_ids": [
-                "bike",
-                "electric_bike"
+                "penguin_bike",
+                "penguin_electric_bike"
             ],
-            "station_id": "penguin_MADRID111",
-            "name": "Station 111",
-            "lon": -3.7111821382082604,
-            "lat": 40.336771799496894,
-            "capacity": 48
+            "station_id": "penguin_MADRID068",
+            "name": "Station 68",
+            "lon": -3.714532112231579,
+            "lat": 40.39378912627442,
+            "capacity": 28
         },
         {
-            "vehicle_type_ids": [
-                "bike",
-                "cargo_bike"
-            ],
-            "station_id": "penguin_MADRID112",
-            "name": "Station 112",
-            "lon": -3.7456092369868217,
-            "lat": 40.44314554795226,
+            "vehicle_type_ids": ["penguin_bike"],
+            "station_id": "penguin_MADRID069",
+            "name": "Station 69",
+            "lon": -3.6921733719624465,
+            "lat": 40.40107733390595,
+            "capacity": 16
+        },
+        {
+            "vehicle_type_ids": ["penguin_bike"],
+            "station_id": "penguin_MADRID070",
+            "name": "Station 70",
+            "lon": -3.6176142975952206,
+            "lat": 40.441653533886324,
+            "capacity": 24
+        },
+        {
+            "vehicle_type_ids": ["penguin_bike"],
+            "station_id": "penguin_MADRID071",
+            "name": "Station 71",
+            "lon": -3.6533813164637845,
+            "lat": 40.327737059139196,
+            "capacity": 18
+        },
+        {
+            "vehicle_type_ids": ["penguin_bike"],
+            "station_id": "penguin_MADRID072",
+            "name": "Station 72",
+            "lon": -3.648168117944459,
+            "lat": 40.31151797258829,
+            "capacity": 19
+        },
+        {
+            "vehicle_type_ids": ["penguin_bike"],
+            "station_id": "penguin_MADRID073",
+            "name": "Station 73",
+            "lon": -3.6820177936550422,
+            "lat": 40.46256522217849,
             "capacity": 39
         },
         {
             "vehicle_type_ids": [
-                "bike",
-                "cargo_bike"
+                "penguin_bike",
+                "penguin_electric_bike"
             ],
-            "station_id": "penguin_MADRID113",
-            "name": "Station 113",
-            "lon": -3.6281618564629268,
-            "lat": 40.44293489800924,
-            "capacity": 21
+            "station_id": "penguin_MADRID074",
+            "name": "Station 74",
+            "lon": -3.635894586477863,
+            "lat": 40.446603348561375,
+            "capacity": 46
+        },
+        {
+            "vehicle_type_ids": ["penguin_bike"],
+            "station_id": "penguin_MADRID075",
+            "name": "Station 75",
+            "lon": -3.6764354795779557,
+            "lat": 40.42668460334378,
+            "capacity": 41
+        },
+        {
+            "vehicle_type_ids": ["penguin_bike"],
+            "station_id": "penguin_MADRID076",
+            "name": "Station 76",
+            "lon": -3.6016469384490084,
+            "lat": 40.35739918291202,
+            "capacity": 26
+        },
+        {
+            "vehicle_type_ids": ["penguin_bike"],
+            "station_id": "penguin_MADRID077",
+            "name": "Station 77",
+            "lon": -3.609675974673838,
+            "lat": 40.363747465555136,
+            "capacity": 45
+        },
+        {
+            "vehicle_type_ids": ["penguin_bike"],
+            "station_id": "penguin_MADRID078",
+            "name": "Station 78",
+            "lon": -3.7174068256710284,
+            "lat": 40.38388417396481,
+            "capacity": 20
+        },
+        {
+            "vehicle_type_ids": ["penguin_bike"],
+            "station_id": "penguin_MADRID079",
+            "name": "Station 79",
+            "lon": -3.6365991367842008,
+            "lat": 40.413162078999406,
+            "capacity": 10
         },
         {
             "vehicle_type_ids": [
-                "bike",
-                "electric_bike"
+                "penguin_bike",
+                "penguin_electric_bike"
             ],
-            "station_id": "penguin_MADRID114",
-            "name": "Station 114",
-            "lon": -3.659916624372424,
-            "lat": 40.44858471909218,
+            "station_id": "penguin_MADRID080",
+            "name": "Station 80",
+            "lon": -3.6027965351947873,
+            "lat": 40.49264156589987,
+            "capacity": 10
+        },
+        {
+            "vehicle_type_ids": ["penguin_bike"],
+            "station_id": "penguin_MADRID081",
+            "name": "Station 81",
+            "lon": -3.647280529072171,
+            "lat": 40.36472077386226,
+            "capacity": 20
+        },
+        {
+            "vehicle_type_ids": ["penguin_bike"],
+            "station_id": "penguin_MADRID082",
+            "name": "Station 82",
+            "lon": -3.7710726222734032,
+            "lat": 40.43700707956337,
+            "capacity": 22
+        },
+        {
+            "vehicle_type_ids": ["penguin_bike"],
+            "station_id": "penguin_MADRID083",
+            "name": "Station 83",
+            "lon": -3.648031732417667,
+            "lat": 40.45459893815724,
+            "capacity": 14
+        },
+        {
+            "vehicle_type_ids": [
+                "penguin_bike",
+                "penguin_electric_bike"
+            ],
+            "station_id": "penguin_MADRID084",
+            "name": "Station 84",
+            "lon": -3.6513090817490927,
+            "lat": 40.36192793673282,
+            "capacity": 23
+        },
+        {
+            "vehicle_type_ids": [
+                "penguin_bike",
+                "penguin_electric_bike"
+            ],
+            "station_id": "penguin_MADRID085",
+            "name": "Station 85",
+            "lon": -3.709747130793353,
+            "lat": 40.32072132845974,
+            "capacity": 29
+        },
+        {
+            "vehicle_type_ids": [
+                "penguin_bike",
+                "penguin_electric_bike"
+            ],
+            "station_id": "penguin_MADRID086",
+            "name": "Station 86",
+            "lon": -3.7222236763747354,
+            "lat": 40.399335810615725,
+            "capacity": 40
+        },
+        {
+            "vehicle_type_ids": ["penguin_bike"],
+            "station_id": "penguin_MADRID087",
+            "name": "Station 87",
+            "lon": -3.741749240608861,
+            "lat": 40.39443452466265,
+            "capacity": 41
+        },
+        {
+            "vehicle_type_ids": ["penguin_bike"],
+            "station_id": "penguin_MADRID088",
+            "name": "Station 88",
+            "lon": -3.706009267433102,
+            "lat": 40.43255214891748,
+            "capacity": 42
+        },
+        {
+            "vehicle_type_ids": [
+                "penguin_bike",
+                "penguin_electric_bike"
+            ],
+            "station_id": "penguin_MADRID089",
+            "name": "Station 89",
+            "lon": -3.763634975511808,
+            "lat": 40.45922744615276,
+            "capacity": 14
+        },
+        {
+            "vehicle_type_ids": [
+                "penguin_bike",
+                "penguin_electric_bike"
+            ],
+            "station_id": "penguin_MADRID090",
+            "name": "Station 90",
+            "lon": -3.737407412281387,
+            "lat": 40.45193398121197,
+            "capacity": 27
+        },
+        {
+            "vehicle_type_ids": ["penguin_bike"],
+            "station_id": "penguin_MADRID091",
+            "name": "Station 91",
+            "lon": -3.7091845072836067,
+            "lat": 40.45922648490339,
+            "capacity": 32
+        },
+        {
+            "vehicle_type_ids": [
+                "penguin_bike",
+                "penguin_electric_bike"
+            ],
+            "station_id": "penguin_MADRID092",
+            "name": "Station 92",
+            "lon": -3.7845339611125417,
+            "lat": 40.45539015110079,
+            "capacity": 48
+        },
+        {
+            "vehicle_type_ids": ["penguin_bike"],
+            "station_id": "penguin_MADRID093",
+            "name": "Station 93",
+            "lon": -3.6221748998116485,
+            "lat": 40.35305244515479,
+            "capacity": 45
+        },
+        {
+            "vehicle_type_ids": ["penguin_bike"],
+            "station_id": "penguin_MADRID094",
+            "name": "Station 94",
+            "lon": -3.7346904551984297,
+            "lat": 40.42768407248996,
             "capacity": 30
         },
         {
-            "vehicle_type_ids": ["bike"],
+            "vehicle_type_ids": ["penguin_bike"],
+            "station_id": "penguin_MADRID095",
+            "name": "Station 95",
+            "lon": -3.7265594795778783,
+            "lat": 40.354434312538714,
+            "capacity": 44
+        },
+        {
+            "vehicle_type_ids": [
+                "penguin_bike",
+                "penguin_electric_bike"
+            ],
+            "station_id": "penguin_MADRID096",
+            "name": "Station 96",
+            "lon": -3.7422505469725045,
+            "lat": 40.457098327323024,
+            "capacity": 29
+        },
+        {
+            "vehicle_type_ids": [
+                "penguin_bike",
+                "penguin_electric_bike"
+            ],
+            "station_id": "penguin_MADRID097",
+            "name": "Station 97",
+            "lon": -3.77117350494986,
+            "lat": 40.41117451727248,
+            "capacity": 43
+        },
+        {
+            "vehicle_type_ids": ["penguin_bike"],
+            "station_id": "penguin_MADRID098",
+            "name": "Station 98",
+            "lon": -3.7790022045525413,
+            "lat": 40.39695054927746,
+            "capacity": 46
+        },
+        {
+            "vehicle_type_ids": ["penguin_bike"],
+            "station_id": "penguin_MADRID099",
+            "name": "Station 99",
+            "lon": -3.675773651735712,
+            "lat": 40.48947248173517,
+            "capacity": 13
+        },
+        {
+            "vehicle_type_ids": ["penguin_bike"],
+            "station_id": "penguin_MADRID100",
+            "name": "Station 100",
+            "lon": -3.732983553734476,
+            "lat": 40.36687774736255,
+            "capacity": 36
+        },
+        {
+            "vehicle_type_ids": [
+                "penguin_bike",
+                "penguin_electric_bike"
+            ],
+            "station_id": "penguin_MADRID101",
+            "name": "Station 101",
+            "lon": -3.720306180308152,
+            "lat": 40.35143323221791,
+            "capacity": 42
+        },
+        {
+            "vehicle_type_ids": [
+                "penguin_bike",
+                "penguin_electric_bike"
+            ],
+            "station_id": "penguin_MADRID102",
+            "name": "Station 102",
+            "lon": -3.7134279277242626,
+            "lat": 40.413379548978426,
+            "capacity": 24
+        },
+        {
+            "vehicle_type_ids": ["penguin_bike"],
+            "station_id": "penguin_MADRID103",
+            "name": "Station 103",
+            "lon": -3.617942776942798,
+            "lat": 40.44938548014053,
+            "capacity": 48
+        },
+        {
+            "vehicle_type_ids": [
+                "penguin_bike",
+                "penguin_electric_bike"
+            ],
+            "station_id": "penguin_MADRID104",
+            "name": "Station 104",
+            "lon": -3.771111317015209,
+            "lat": 40.34383832345376,
+            "capacity": 20
+        },
+        {
+            "vehicle_type_ids": [
+                "penguin_bike",
+                "penguin_electric_bike"
+            ],
+            "station_id": "penguin_MADRID105",
+            "name": "Station 105",
+            "lon": -3.6553666498916506,
+            "lat": 40.38035515363251,
+            "capacity": 15
+        },
+        {
+            "vehicle_type_ids": ["penguin_bike"],
+            "station_id": "penguin_MADRID106",
+            "name": "Station 106",
+            "lon": -3.609977953499245,
+            "lat": 40.430498035020584,
+            "capacity": 10
+        },
+        {
+            "vehicle_type_ids": ["penguin_bike"],
+            "station_id": "penguin_MADRID107",
+            "name": "Station 107",
+            "lon": -3.6474015822433663,
+            "lat": 40.42600484760051,
+            "capacity": 43
+        },
+        {
+            "vehicle_type_ids": ["penguin_bike"],
+            "station_id": "penguin_MADRID108",
+            "name": "Station 108",
+            "lon": -3.612836666227257,
+            "lat": 40.30244202014723,
+            "capacity": 13
+        },
+        {
+            "vehicle_type_ids": [
+                "penguin_bike",
+                "penguin_electric_bike"
+            ],
+            "station_id": "penguin_MADRID109",
+            "name": "Station 109",
+            "lon": -3.779345389109472,
+            "lat": 40.38525381878163,
+            "capacity": 34
+        },
+        {
+            "vehicle_type_ids": [
+                "penguin_bike",
+                "penguin_electric_bike"
+            ],
+            "station_id": "penguin_MADRID110",
+            "name": "Station 110",
+            "lon": -3.7372268439785574,
+            "lat": 40.34059555187298,
+            "capacity": 30
+        },
+        {
+            "vehicle_type_ids": [
+                "penguin_bike",
+                "penguin_electric_bike"
+            ],
+            "station_id": "penguin_MADRID111",
+            "name": "Station 111",
+            "lon": -3.756913836970297,
+            "lat": 40.335706116086804,
+            "capacity": 20
+        },
+        {
+            "vehicle_type_ids": [
+                "penguin_bike",
+                "penguin_electric_bike"
+            ],
+            "station_id": "penguin_MADRID112",
+            "name": "Station 112",
+            "lon": -3.753927747338945,
+            "lat": 40.43369977657405,
+            "capacity": 26
+        },
+        {
+            "vehicle_type_ids": [
+                "penguin_bike",
+                "penguin_electric_bike"
+            ],
+            "station_id": "penguin_MADRID113",
+            "name": "Station 113",
+            "lon": -3.673763874263752,
+            "lat": 40.342382117336044,
+            "capacity": 41
+        },
+        {
+            "vehicle_type_ids": [
+                "penguin_bike",
+                "penguin_electric_bike"
+            ],
+            "station_id": "penguin_MADRID114",
+            "name": "Station 114",
+            "lon": -3.737333431893951,
+            "lat": 40.39694203178481,
+            "capacity": 39
+        },
+        {
+            "vehicle_type_ids": ["penguin_bike"],
             "station_id": "penguin_MADRID115",
             "name": "Station 115",
-            "lon": -3.7208635573994076,
-            "lat": 40.41455535098023,
+            "lon": -3.779012923268235,
+            "lat": 40.383891449670344,
+            "capacity": 30
+        },
+        {
+            "vehicle_type_ids": ["penguin_bike"],
+            "station_id": "penguin_MADRID116",
+            "name": "Station 116",
+            "lon": -3.7019673163857827,
+            "lat": 40.48874196557875,
+            "capacity": 46
+        },
+        {
+            "vehicle_type_ids": [
+                "penguin_bike",
+                "penguin_electric_bike"
+            ],
+            "station_id": "penguin_MADRID117",
+            "name": "Station 117",
+            "lon": -3.686496395940338,
+            "lat": 40.36229805118844,
+            "capacity": 10
+        },
+        {
+            "vehicle_type_ids": [
+                "penguin_bike",
+                "penguin_electric_bike"
+            ],
+            "station_id": "penguin_MADRID118",
+            "name": "Station 118",
+            "lon": -3.7813199680052136,
+            "lat": 40.35871546413106,
+            "capacity": 34
+        },
+        {
+            "vehicle_type_ids": ["penguin_bike"],
+            "station_id": "penguin_MADRID119",
+            "name": "Station 119",
+            "lon": -3.733825697580168,
+            "lat": 40.48808143407088,
+            "capacity": 44
+        },
+        {
+            "vehicle_type_ids": [
+                "penguin_bike",
+                "penguin_electric_bike"
+            ],
+            "station_id": "penguin_MADRID120",
+            "name": "Station 120",
+            "lon": -3.6231410406859377,
+            "lat": 40.429077550658164,
+            "capacity": 47
+        },
+        {
+            "vehicle_type_ids": [
+                "penguin_bike",
+                "penguin_electric_bike"
+            ],
+            "station_id": "penguin_MADRID121",
+            "name": "Station 121",
+            "lon": -3.758365762010509,
+            "lat": 40.32973749002227,
+            "capacity": 31
+        },
+        {
+            "vehicle_type_ids": [
+                "penguin_bike",
+                "penguin_electric_bike"
+            ],
+            "station_id": "penguin_MADRID122",
+            "name": "Station 122",
+            "lon": -3.6291057076447863,
+            "lat": 40.34508348862227,
+            "capacity": 23
+        },
+        {
+            "vehicle_type_ids": [
+                "penguin_bike",
+                "penguin_electric_bike"
+            ],
+            "station_id": "penguin_MADRID123",
+            "name": "Station 123",
+            "lon": -3.610412045529647,
+            "lat": 40.442007450449054,
+            "capacity": 37
+        },
+        {
+            "vehicle_type_ids": [
+                "penguin_bike",
+                "penguin_electric_bike"
+            ],
+            "station_id": "penguin_MADRID124",
+            "name": "Station 124",
+            "lon": -3.786837480556033,
+            "lat": 40.35430250507849,
+            "capacity": 46
+        },
+        {
+            "vehicle_type_ids": [
+                "penguin_bike",
+                "penguin_electric_bike"
+            ],
+            "station_id": "penguin_MADRID125",
+            "name": "Station 125",
+            "lon": -3.6381039998071616,
+            "lat": 40.35017045538386,
+            "capacity": 47
+        },
+        {
+            "vehicle_type_ids": [
+                "penguin_bike",
+                "penguin_electric_bike"
+            ],
+            "station_id": "penguin_MADRID126",
+            "name": "Station 126",
+            "lon": -3.75965749077193,
+            "lat": 40.400703346104336,
             "capacity": 14
+        },
+        {
+            "vehicle_type_ids": ["penguin_bike"],
+            "station_id": "penguin_MADRID127",
+            "name": "Station 127",
+            "lon": -3.7365823727833307,
+            "lat": 40.39235376779221,
+            "capacity": 39
+        },
+        {
+            "vehicle_type_ids": ["penguin_bike"],
+            "station_id": "penguin_MADRID128",
+            "name": "Station 128",
+            "lon": -3.7358246846849466,
+            "lat": 40.39321326269904,
+            "capacity": 21
+        },
+        {
+            "vehicle_type_ids": ["penguin_bike"],
+            "station_id": "penguin_MADRID129",
+            "name": "Station 129",
+            "lon": -3.7038238034645627,
+            "lat": 40.38885030869791,
+            "capacity": 20
+        },
+        {
+            "vehicle_type_ids": ["penguin_bike"],
+            "station_id": "penguin_MADRID130",
+            "name": "Station 130",
+            "lon": -3.6567370870934175,
+            "lat": 40.35947488278084,
+            "capacity": 19
+        },
+        {
+            "vehicle_type_ids": ["penguin_bike"],
+            "station_id": "penguin_MADRID131",
+            "name": "Station 131",
+            "lon": -3.6513348196811743,
+            "lat": 40.30780635547452,
+            "capacity": 44
+        },
+        {
+            "vehicle_type_ids": ["penguin_bike"],
+            "station_id": "penguin_MADRID132",
+            "name": "Station 132",
+            "lon": -3.795510434080501,
+            "lat": 40.48822629281373,
+            "capacity": 33
+        },
+        {
+            "vehicle_type_ids": [
+                "penguin_bike",
+                "penguin_electric_bike"
+            ],
+            "station_id": "penguin_MADRID133",
+            "name": "Station 133",
+            "lon": -3.60895112532089,
+            "lat": 40.380547905545676,
+            "capacity": 24
+        },
+        {
+            "vehicle_type_ids": ["penguin_bike"],
+            "station_id": "penguin_MADRID134",
+            "name": "Station 134",
+            "lon": -3.737092140868424,
+            "lat": 40.34670163126924,
+            "capacity": 35
+        },
+        {
+            "vehicle_type_ids": ["penguin_bike"],
+            "station_id": "penguin_MADRID135",
+            "name": "Station 135",
+            "lon": -3.784483771135927,
+            "lat": 40.446823181146094,
+            "capacity": 17
+        },
+        {
+            "vehicle_type_ids": [
+                "penguin_bike",
+                "penguin_electric_bike"
+            ],
+            "station_id": "penguin_MADRID136",
+            "name": "Station 136",
+            "lon": -3.6027854404824664,
+            "lat": 40.31570032278888,
+            "capacity": 38
+        },
+        {
+            "vehicle_type_ids": ["penguin_bike"],
+            "station_id": "penguin_MADRID137",
+            "name": "Station 137",
+            "lon": -3.7016241018667912,
+            "lat": 40.49929573278717,
+            "capacity": 32
+        },
+        {
+            "vehicle_type_ids": ["penguin_bike"],
+            "station_id": "penguin_MADRID138",
+            "name": "Station 138",
+            "lon": -3.690554929818896,
+            "lat": 40.38188534919011,
+            "capacity": 29
+        },
+        {
+            "vehicle_type_ids": ["penguin_bike"],
+            "station_id": "penguin_MADRID139",
+            "name": "Station 139",
+            "lon": -3.6697308323367155,
+            "lat": 40.376048630619096,
+            "capacity": 42
+        },
+        {
+            "vehicle_type_ids": [
+                "penguin_bike",
+                "penguin_electric_bike"
+            ],
+            "station_id": "penguin_MADRID140",
+            "name": "Station 140",
+            "lon": -3.783190941351406,
+            "lat": 40.366202876058395,
+            "capacity": 38
+        },
+        {
+            "vehicle_type_ids": [
+                "penguin_bike",
+                "penguin_electric_bike"
+            ],
+            "station_id": "penguin_MADRID141",
+            "name": "Station 141",
+            "lon": -3.628868068412607,
+            "lat": 40.40734975415303,
+            "capacity": 42
+        },
+        {
+            "vehicle_type_ids": [
+                "penguin_bike",
+                "penguin_electric_bike"
+            ],
+            "station_id": "penguin_MADRID142",
+            "name": "Station 142",
+            "lon": -3.765380184521224,
+            "lat": 40.43519960119123,
+            "capacity": 19
+        },
+        {
+            "vehicle_type_ids": [
+                "penguin_bike",
+                "penguin_electric_bike"
+            ],
+            "station_id": "penguin_MADRID143",
+            "name": "Station 143",
+            "lon": -3.6703592395932425,
+            "lat": 40.45555247811865,
+            "capacity": 48
+        },
+        {
+            "vehicle_type_ids": ["penguin_bike"],
+            "station_id": "penguin_MADRID144",
+            "name": "Station 144",
+            "lon": -3.734644313810634,
+            "lat": 40.45895820345676,
+            "capacity": 27
+        },
+        {
+            "vehicle_type_ids": [
+                "penguin_bike",
+                "penguin_electric_bike"
+            ],
+            "station_id": "penguin_MADRID145",
+            "name": "Station 145",
+            "lon": -3.7304112024567115,
+            "lat": 40.351209553110486,
+            "capacity": 15
+        },
+        {
+            "vehicle_type_ids": [
+                "penguin_bike",
+                "penguin_electric_bike"
+            ],
+            "station_id": "penguin_MADRID146",
+            "name": "Station 146",
+            "lon": -3.7772704352024586,
+            "lat": 40.35025844960013,
+            "capacity": 47
+        },
+        {
+            "vehicle_type_ids": ["penguin_bike"],
+            "station_id": "penguin_MADRID147",
+            "name": "Station 147",
+            "lon": -3.6809122689160225,
+            "lat": 40.49008157099331,
+            "capacity": 36
+        },
+        {
+            "vehicle_type_ids": [
+                "penguin_bike",
+                "penguin_electric_bike"
+            ],
+            "station_id": "penguin_MADRID148",
+            "name": "Station 148",
+            "lon": -3.6866985721191594,
+            "lat": 40.483659017221306,
+            "capacity": 25
+        },
+        {
+            "vehicle_type_ids": [
+                "penguin_bike",
+                "penguin_electric_bike"
+            ],
+            "station_id": "penguin_MADRID149",
+            "name": "Station 149",
+            "lon": -3.7518099830596014,
+            "lat": 40.33992016454324,
+            "capacity": 10
+        },
+        {
+            "vehicle_type_ids": [
+                "penguin_bike",
+                "penguin_electric_bike"
+            ],
+            "station_id": "penguin_MADRID150",
+            "name": "Station 150",
+            "lon": -3.7469046189533866,
+            "lat": 40.474116410665765,
+            "capacity": 23
+        },
+        {
+            "vehicle_type_ids": [
+                "penguin_bike",
+                "penguin_electric_bike"
+            ],
+            "station_id": "penguin_MADRID151",
+            "name": "Station 151",
+            "lon": -3.7836459055684752,
+            "lat": 40.44727037969814,
+            "capacity": 34
+        },
+        {
+            "vehicle_type_ids": ["penguin_bike"],
+            "station_id": "penguin_MADRID152",
+            "name": "Station 152",
+            "lon": -3.796303750494126,
+            "lat": 40.350519677355294,
+            "capacity": 14
+        },
+        {
+            "vehicle_type_ids": [
+                "penguin_bike",
+                "penguin_electric_bike"
+            ],
+            "station_id": "penguin_MADRID153",
+            "name": "Station 153",
+            "lon": -3.662608302433769,
+            "lat": 40.32701178570263,
+            "capacity": 23
+        },
+        {
+            "vehicle_type_ids": [
+                "penguin_bike",
+                "penguin_electric_bike"
+            ],
+            "station_id": "penguin_MADRID154",
+            "name": "Station 154",
+            "lon": -3.678402759543399,
+            "lat": 40.432506392921546,
+            "capacity": 25
+        },
+        {
+            "vehicle_type_ids": [
+                "penguin_bike",
+                "penguin_electric_bike"
+            ],
+            "station_id": "penguin_MADRID155",
+            "name": "Station 155",
+            "lon": -3.785225792204355,
+            "lat": 40.36426417274454,
+            "capacity": 16
         }
     ]},
     "ttl": 180,
-    "version": "2.3"
+    "version": "2.2"
 }
