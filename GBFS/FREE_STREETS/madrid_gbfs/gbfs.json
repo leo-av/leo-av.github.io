@@ -1,0 +1,35 @@
+{
+  "last_updated": 1732463282,
+  "data": {
+    "en": {
+      "feeds": [
+        {
+          "name": "free_bike_status",
+          "url": "https://leo-av.github.io/GBFS/FREE_STREETS/madrid_gbfs/en/free_bike_status.json"
+        },
+        {
+          "name": "vehicle_types",
+          "url": "https://leo-av.github.io/GBFS/FREE_STREETS/madrid_gbfs/en/vehicle_types.json"
+        },
+        {
+          "name": "system_pricing_plans",
+          "url": "https://leo-av.github.io/GBFS/FREE_STREETS/madrid_gbfs/en/system_pricing_plans.json"
+        },
+        {
+          "name": "system_hours",
+          "url": "https://leo-av.github.io/GBFS/FREE_STREETS/madrid_gbfs/en/system_hours.json"
+        },
+        {
+          "name": "system_information",
+          "url": "https://leo-av.github.io/GBFS/FREE_STREETS/madrid_gbfs/en/system_information.json"
+        },
+        {
+          "name": "gbfs_versions",
+          "url": "https://leo-av.github.io/GBFS/FREE_STREETS/madrid_gbfs/en/gbfs_versions.json"
+        }
+      ]
+    }
+  },
+  "ttl": 180,
+  "version": "2.3"
+}

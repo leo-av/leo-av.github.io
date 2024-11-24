@@ -1,0 +1,19 @@
+{
+  "last_updated": 1732463307,
+  "data": {
+    "system_id": "penguin",
+    "timezone": "Europe/Paris",
+    "name": "PENGUIN",
+    "language": "en",
+    "short_name": "PENGUIN",
+    "phone_number": "666777888",
+    "feed_contact_email": "datafeed@penguin.es",
+    "operator": "PENGUIN",
+    "url": "http://www.exampleride.org",
+    "email": "customerservice@penguin.es",
+    "license_url": "https://exampleride.org/data-license.html",
+    "start_date": "2010-06-10"
+  },
+  "ttl": 180,
+  "version": "2.3"
+}

@@ -1,958 +1,1070 @@
 {
-  "last_updated": 1732462823,
+  "last_updated": 1732463267,
   "data": {
     "stations": [
       {
         "station_id": "bongo_station_MADRID001",
         "name": "Station 1",
-        "lon": -3.6358232756260866,
-        "lat": 40.35427401768381,
-        "capacity": 30
+        "lon": -3.6147984699627234,
+        "lat": 40.363514966837265,
+        "capacity": 27
       },
       {
         "station_id": "bongo_station_MADRID002",
         "name": "Station 2",
-        "lon": -3.673541958706786,
-        "lat": 40.332303096387264,
-        "capacity": 43
+        "lon": -3.6773341630073717,
+        "lat": 40.43934371244599,
+        "capacity": 18
       },
       {
         "station_id": "bongo_station_MADRID003",
         "name": "Station 3",
-        "lon": -3.7646502633155627,
-        "lat": 40.45547889961311,
-        "capacity": 13
+        "lon": -3.76634377143306,
+        "lat": 40.489348151317095,
+        "capacity": 16
       },
       {
         "station_id": "bongo_station_MADRID004",
         "name": "Station 4",
-        "lon": -3.66698367878079,
-        "lat": 40.498442627713096,
-        "capacity": 28
+        "lon": -3.610119551783707,
+        "lat": 40.400101217503845,
+        "capacity": 16
       },
       {
         "station_id": "bongo_station_MADRID005",
         "name": "Station 5",
-        "lon": -3.6606936909897136,
-        "lat": 40.45788890840338,
-        "capacity": 24
+        "lon": -3.7180831984171294,
+        "lat": 40.331100167644,
+        "capacity": 29
       },
       {
         "station_id": "bongo_station_MADRID006",
         "name": "Station 6",
-        "lon": -3.7625871319942306,
-        "lat": 40.32776466089957,
-        "capacity": 38
+        "lon": -3.6053201795015206,
+        "lat": 40.49041727844943,
+        "capacity": 42
       },
       {
         "station_id": "bongo_station_MADRID007",
         "name": "Station 7",
-        "lon": -3.7244093021137514,
-        "lat": 40.38160789978519,
+        "lon": -3.7137247149252186,
+        "lat": 40.348982596213894,
         "capacity": 21
       },
       {
         "station_id": "bongo_station_MADRID008",
         "name": "Station 8",
-        "lon": -3.7157659832902974,
-        "lat": 40.441799031597824,
-        "capacity": 26
+        "lon": -3.606076825361519,
+        "lat": 40.47269454891333,
+        "capacity": 12
       },
       {
         "station_id": "bongo_station_MADRID009",
         "name": "Station 9",
-        "lon": -3.622470689697799,
-        "lat": 40.413369328126564,
-        "capacity": 13
+        "lon": -3.771073200106928,
+        "lat": 40.333069370516206,
+        "capacity": 29
       },
       {
         "station_id": "bongo_station_MADRID010",
         "name": "Station 10",
-        "lon": -3.690054261012676,
-        "lat": 40.46775941151762,
-        "capacity": 17
+        "lon": -3.66779266835293,
+        "lat": 40.31453501298688,
+        "capacity": 18
       },
       {
         "station_id": "bongo_station_MADRID011",
         "name": "Station 11",
-        "lon": -3.7537122968355074,
-        "lat": 40.48993801795238,
-        "capacity": 14
+        "lon": -3.70945493326513,
+        "lat": 40.47450503421098,
+        "capacity": 26
       },
       {
         "station_id": "bongo_station_MADRID012",
         "name": "Station 12",
-        "lon": -3.7800166452462727,
-        "lat": 40.393518168601005,
-        "capacity": 24
+        "lon": -3.630229631258616,
+        "lat": 40.42617746329515,
+        "capacity": 12
       },
       {
         "station_id": "bongo_station_MADRID013",
         "name": "Station 13",
-        "lon": -3.749924131306048,
-        "lat": 40.474875409468545,
-        "capacity": 10
+        "lon": -3.7348578232150142,
+        "lat": 40.36851815883596,
+        "capacity": 26
       },
       {
         "station_id": "bongo_station_MADRID014",
         "name": "Station 14",
-        "lon": -3.6198559584425545,
-        "lat": 40.448200283547536,
-        "capacity": 32
+        "lon": -3.6263038817725843,
+        "lat": 40.418718843924125,
+        "capacity": 43
       },
       {
         "station_id": "bongo_station_MADRID015",
         "name": "Station 15",
-        "lon": -3.7861189775359567,
-        "lat": 40.417815084160935,
-        "capacity": 23
+        "lon": -3.72970849721377,
+        "lat": 40.31858819735132,
+        "capacity": 14
       },
       {
         "station_id": "bongo_station_MADRID016",
         "name": "Station 16",
-        "lon": -3.756087523501443,
-        "lat": 40.43279390168506,
-        "capacity": 19
+        "lon": -3.736556878307801,
+        "lat": 40.328545677337026,
+        "capacity": 16
       },
       {
         "station_id": "bongo_station_MADRID017",
         "name": "Station 17",
-        "lon": -3.797044488087278,
-        "lat": 40.4575844475172,
-        "capacity": 42
+        "lon": -3.748637981459245,
+        "lat": 40.438703945659654,
+        "capacity": 32
       },
       {
         "station_id": "bongo_station_MADRID018",
         "name": "Station 18",
-        "lon": -3.67662581939336,
-        "lat": 40.40073490473191,
-        "capacity": 22
+        "lon": -3.752960167631144,
+        "lat": 40.30390874649593,
+        "capacity": 24
       },
       {
         "station_id": "bongo_station_MADRID019",
         "name": "Station 19",
-        "lon": -3.6766189031955965,
-        "lat": 40.33297624942252,
-        "capacity": 30
+        "lon": -3.6570286742386697,
+        "lat": 40.45087521974387,
+        "capacity": 14
       },
       {
         "station_id": "bongo_station_MADRID020",
         "name": "Station 20",
-        "lon": -3.7338840610477066,
-        "lat": 40.4308942469114,
-        "capacity": 31
+        "lon": -3.6686813383104195,
+        "lat": 40.4397256734399,
+        "capacity": 29
       },
       {
         "station_id": "bongo_station_MADRID021",
         "name": "Station 21",
-        "lon": -3.625318703022781,
-        "lat": 40.46426723559215,
-        "capacity": 29
+        "lon": -3.6351897025549924,
+        "lat": 40.44162427101689,
+        "capacity": 17
       },
       {
         "station_id": "bongo_station_MADRID022",
         "name": "Station 22",
-        "lon": -3.6835671934452776,
-        "lat": 40.313557060398395,
-        "capacity": 22
+        "lon": -3.7105895041690444,
+        "lat": 40.31452182879103,
+        "capacity": 28
       },
       {
         "station_id": "bongo_station_MADRID023",
         "name": "Station 23",
-        "lon": -3.7207252251631213,
-        "lat": 40.33201329621192,
-        "capacity": 48
+        "lon": -3.7808536467947054,
+        "lat": 40.32832085248897,
+        "capacity": 32
       },
       {
         "station_id": "bongo_station_MADRID024",
         "name": "Station 24",
-        "lon": -3.7409823632925208,
-        "lat": 40.474241857934146,
-        "capacity": 25
+        "lon": -3.7705890364315233,
+        "lat": 40.43391431756089,
+        "capacity": 14
       },
       {
         "station_id": "bongo_station_MADRID025",
         "name": "Station 25",
-        "lon": -3.7881242833939823,
-        "lat": 40.46910797154861,
-        "capacity": 47
+        "lon": -3.702577030096404,
+        "lat": 40.307921555667626,
+        "capacity": 46
       },
       {
         "station_id": "bongo_station_MADRID026",
         "name": "Station 26",
-        "lon": -3.7488993142913385,
-        "lat": 40.425082176674316,
-        "capacity": 21
+        "lon": -3.7248706632843436,
+        "lat": 40.34325126269074,
+        "capacity": 38
       },
       {
         "station_id": "bongo_station_MADRID027",
         "name": "Station 27",
-        "lon": -3.62047647819728,
-        "lat": 40.32489948515126,
-        "capacity": 35
+        "lon": -3.7735707942645402,
+        "lat": 40.429061961285434,
+        "capacity": 24
       },
       {
         "station_id": "bongo_station_MADRID028",
         "name": "Station 28",
-        "lon": -3.778847526126118,
-        "lat": 40.36017329364353,
-        "capacity": 24
+        "lon": -3.7226134166136133,
+        "lat": 40.4248943853397,
+        "capacity": 45
       },
       {
         "station_id": "bongo_station_MADRID029",
         "name": "Station 29",
-        "lon": -3.6067866404991538,
-        "lat": 40.32590112803868,
-        "capacity": 42
+        "lon": -3.786088335676434,
+        "lat": 40.40714098416711,
+        "capacity": 29
       },
       {
         "station_id": "bongo_station_MADRID030",
         "name": "Station 30",
-        "lon": -3.726427690876356,
-        "lat": 40.353591731136106,
-        "capacity": 37
+        "lon": -3.6534982946434997,
+        "lat": 40.445324607036184,
+        "capacity": 10
       },
       {
         "station_id": "bongo_station_MADRID031",
         "name": "Station 31",
-        "lon": -3.614646684415372,
-        "lat": 40.401070671237,
-        "capacity": 42
+        "lon": -3.633660968062898,
+        "lat": 40.356424729625026,
+        "capacity": 32
       },
       {
         "station_id": "bongo_station_MADRID032",
         "name": "Station 32",
-        "lon": -3.6760068784902398,
-        "lat": 40.302028295814125,
+        "lon": -3.7918279674174333,
+        "lat": 40.449714814606786,
         "capacity": 34
       },
       {
         "station_id": "bongo_station_MADRID033",
         "name": "Station 33",
-        "lon": -3.695779121378092,
-        "lat": 40.451185308488306,
-        "capacity": 33
+        "lon": -3.7064433181798737,
+        "lat": 40.39602022643489,
+        "capacity": 35
       },
       {
         "station_id": "bongo_station_MADRID034",
         "name": "Station 34",
-        "lon": -3.78226523152548,
-        "lat": 40.45247805687436,
-        "capacity": 29
+        "lon": -3.7264240353373417,
+        "lat": 40.405720915666336,
+        "capacity": 44
       },
       {
         "station_id": "bongo_station_MADRID035",
         "name": "Station 35",
-        "lon": -3.6994326178532346,
-        "lat": 40.47817645965396,
-        "capacity": 38
+        "lon": -3.7569144950956885,
+        "lat": 40.403251955595465,
+        "capacity": 14
       },
       {
         "station_id": "bongo_station_MADRID036",
         "name": "Station 36",
-        "lon": -3.7926013894549886,
-        "lat": 40.46085436317923,
-        "capacity": 11
+        "lon": -3.6331491084034195,
+        "lat": 40.35177262644459,
+        "capacity": 46
       },
       {
         "station_id": "bongo_station_MADRID037",
         "name": "Station 37",
-        "lon": -3.6907876651161846,
-        "lat": 40.33906695574177,
-        "capacity": 34
+        "lon": -3.7594589976938484,
+        "lat": 40.34253897691665,
+        "capacity": 48
       },
       {
         "station_id": "bongo_station_MADRID038",
         "name": "Station 38",
-        "lon": -3.733024439289986,
-        "lat": 40.395980624203595,
-        "capacity": 21
+        "lon": -3.731319954190566,
+        "lat": 40.37534132587674,
+        "capacity": 11
       },
       {
         "station_id": "bongo_station_MADRID039",
         "name": "Station 39",
-        "lon": -3.709315650676221,
-        "lat": 40.35295000317022,
-        "capacity": 29
+        "lon": -3.665669896132377,
+        "lat": 40.42644547465127,
+        "capacity": 30
       },
       {
         "station_id": "bongo_station_MADRID040",
         "name": "Station 40",
-        "lon": -3.622395322981285,
-        "lat": 40.47680505176261,
-        "capacity": 40
+        "lon": -3.697057834494377,
+        "lat": 40.33423243428783,
+        "capacity": 12
       },
       {
         "station_id": "bongo_station_MADRID041",
         "name": "Station 41",
-        "lon": -3.7569360915598633,
-        "lat": 40.35535962992049,
-        "capacity": 31
+        "lon": -3.710876832563399,
+        "lat": 40.32078502681888,
+        "capacity": 26
       },
       {
         "station_id": "bongo_station_MADRID042",
         "name": "Station 42",
-        "lon": -3.721319044556421,
-        "lat": 40.38105515112496,
-        "capacity": 31
+        "lon": -3.6002425911993234,
+        "lat": 40.42068996858128,
+        "capacity": 16
       },
       {
         "station_id": "bongo_station_MADRID043",
         "name": "Station 43",
-        "lon": -3.771895921318118,
-        "lat": 40.38691164664399,
-        "capacity": 18
+        "lon": -3.780285610547673,
+        "lat": 40.461410628585334,
+        "capacity": 15
       },
       {
         "station_id": "bongo_station_MADRID044",
         "name": "Station 44",
-        "lon": -3.690935908378922,
-        "lat": 40.42008243199464,
-        "capacity": 11
+        "lon": -3.7221776088773417,
+        "lat": 40.4095327693651,
+        "capacity": 37
       },
       {
         "station_id": "bongo_station_MADRID045",
         "name": "Station 45",
-        "lon": -3.67627215437607,
-        "lat": 40.49925690412164,
-        "capacity": 49
+        "lon": -3.794618694194329,
+        "lat": 40.35281010298231,
+        "capacity": 35
       },
       {
         "station_id": "bongo_station_MADRID046",
         "name": "Station 46",
-        "lon": -3.78696033232384,
-        "lat": 40.44464062530666,
-        "capacity": 16
+        "lon": -3.664495158571441,
+        "lat": 40.46722773044847,
+        "capacity": 26
       },
       {
         "station_id": "bongo_station_MADRID047",
         "name": "Station 47",
-        "lon": -3.6083541029417985,
-        "lat": 40.47817414485788,
-        "capacity": 48
+        "lon": -3.751722249789779,
+        "lat": 40.415532717691775,
+        "capacity": 10
       },
       {
         "station_id": "bongo_station_MADRID048",
         "name": "Station 48",
-        "lon": -3.74036299406865,
-        "lat": 40.45047036661636,
-        "capacity": 48
+        "lon": -3.7181455639673655,
+        "lat": 40.43424551470349,
+        "capacity": 14
       },
       {
         "station_id": "bongo_station_MADRID049",
         "name": "Station 49",
-        "lon": -3.726421783617583,
-        "lat": 40.42923226541252,
-        "capacity": 25
+        "lon": -3.6344125422175777,
+        "lat": 40.485685718112826,
+        "capacity": 20
       },
       {
         "station_id": "bongo_station_MADRID050",
         "name": "Station 50",
-        "lon": -3.7359887216553123,
-        "lat": 40.35009464925152,
-        "capacity": 44
+        "lon": -3.7792273882255363,
+        "lat": 40.43831191023632,
+        "capacity": 31
       },
       {
         "station_id": "bongo_station_MADRID051",
         "name": "Station 51",
-        "lon": -3.6327716540021813,
-        "lat": 40.48293167126169,
-        "capacity": 28
+        "lon": -3.6436801321889902,
+        "lat": 40.34410432083136,
+        "capacity": 38
       },
       {
         "station_id": "bongo_station_MADRID052",
         "name": "Station 52",
-        "lon": -3.7299910671720586,
-        "lat": 40.46319631559504,
-        "capacity": 37
+        "lon": -3.700307636153406,
+        "lat": 40.42768928651446,
+        "capacity": 24
       },
       {
         "station_id": "bongo_station_MADRID053",
         "name": "Station 53",
-        "lon": -3.7307784574373657,
-        "lat": 40.34750744132396,
-        "capacity": 19
+        "lon": -3.6929378497884087,
+        "lat": 40.38668420550921,
+        "capacity": 44
       },
       {
         "station_id": "bongo_station_MADRID054",
         "name": "Station 54",
-        "lon": -3.6481996889519506,
-        "lat": 40.49058662345369,
-        "capacity": 32
+        "lon": -3.6685886098135945,
+        "lat": 40.356757168483256,
+        "capacity": 40
       },
       {
         "station_id": "bongo_station_MADRID055",
         "name": "Station 55",
-        "lon": -3.6656706869764744,
-        "lat": 40.37289333971115,
-        "capacity": 14
+        "lon": -3.7210708554968237,
+        "lat": 40.422078141922086,
+        "capacity": 15
       },
       {
         "station_id": "bongo_station_MADRID056",
         "name": "Station 56",
-        "lon": -3.7342142670128045,
-        "lat": 40.41974017390845,
-        "capacity": 39
+        "lon": -3.718654355642555,
+        "lat": 40.467489230954385,
+        "capacity": 27
       },
       {
         "station_id": "bongo_station_MADRID057",
         "name": "Station 57",
-        "lon": -3.671229132327896,
-        "lat": 40.39866466101954,
-        "capacity": 25
+        "lon": -3.649191757330271,
+        "lat": 40.35928642108854,
+        "capacity": 27
       },
       {
         "station_id": "bongo_station_MADRID058",
         "name": "Station 58",
-        "lon": -3.675034507790353,
-        "lat": 40.43002972142413,
-        "capacity": 10
+        "lon": -3.64434536989361,
+        "lat": 40.36989846777002,
+        "capacity": 25
       },
       {
         "station_id": "bongo_station_MADRID059",
         "name": "Station 59",
-        "lon": -3.673529382798745,
-        "lat": 40.442690532194895,
-        "capacity": 35
+        "lon": -3.691945315783327,
+        "lat": 40.48708730859628,
+        "capacity": 22
       },
       {
         "station_id": "bongo_station_MADRID060",
         "name": "Station 60",
-        "lon": -3.761887013341591,
-        "lat": 40.493599924953394,
-        "capacity": 32
+        "lon": -3.7468659878526225,
+        "lat": 40.328887662739376,
+        "capacity": 15
       },
       {
         "station_id": "bongo_station_MADRID061",
         "name": "Station 61",
-        "lon": -3.665626513245693,
-        "lat": 40.34033830341887,
-        "capacity": 33
+        "lon": -3.7978485697289623,
+        "lat": 40.41056252891256,
+        "capacity": 31
       },
       {
         "station_id": "bongo_station_MADRID062",
         "name": "Station 62",
-        "lon": -3.7259153082153675,
-        "lat": 40.38357868027935,
-        "capacity": 27
+        "lon": -3.7407514939680424,
+        "lat": 40.34508175605127,
+        "capacity": 43
       },
       {
         "station_id": "bongo_station_MADRID063",
         "name": "Station 63",
-        "lon": -3.677275330289617,
-        "lat": 40.33699804227582,
+        "lon": -3.694970437043012,
+        "lat": 40.41542463085148,
         "capacity": 34
       },
       {
         "station_id": "bongo_station_MADRID064",
         "name": "Station 64",
-        "lon": -3.689850037475011,
-        "lat": 40.49687040974215,
-        "capacity": 13
+        "lon": -3.6530020965089163,
+        "lat": 40.38333225960838,
+        "capacity": 32
       },
       {
         "station_id": "bongo_station_MADRID065",
         "name": "Station 65",
-        "lon": -3.7042730453050208,
-        "lat": 40.31807060267044,
-        "capacity": 12
+        "lon": -3.622532661159822,
+        "lat": 40.31001894553028,
+        "capacity": 16
       },
       {
         "station_id": "bongo_station_MADRID066",
         "name": "Station 66",
-        "lon": -3.618990008262419,
-        "lat": 40.30032900153642,
-        "capacity": 21
+        "lon": -3.6679517091960547,
+        "lat": 40.45235457099884,
+        "capacity": 16
       },
       {
         "station_id": "bongo_station_MADRID067",
         "name": "Station 67",
-        "lon": -3.636317230316548,
-        "lat": 40.35173803104087,
-        "capacity": 33
+        "lon": -3.6161354314266085,
+        "lat": 40.4907994126809,
+        "capacity": 12
       },
       {
         "station_id": "bongo_station_MADRID068",
         "name": "Station 68",
-        "lon": -3.7428216081865973,
-        "lat": 40.35336430358135,
-        "capacity": 44
+        "lon": -3.7727747510997123,
+        "lat": 40.44511440080124,
+        "capacity": 38
       },
       {
         "station_id": "bongo_station_MADRID069",
         "name": "Station 69",
-        "lon": -3.6647329861982785,
-        "lat": 40.45614408378686,
-        "capacity": 28
+        "lon": -3.621077725181328,
+        "lat": 40.38551068528794,
+        "capacity": 32
       },
       {
         "station_id": "bongo_station_MADRID070",
         "name": "Station 70",
-        "lon": -3.762870983931456,
-        "lat": 40.311757344778904,
-        "capacity": 40
+        "lon": -3.694020880339403,
+        "lat": 40.37450281530356,
+        "capacity": 10
       },
       {
         "station_id": "bongo_station_MADRID071",
         "name": "Station 71",
-        "lon": -3.654881530102139,
-        "lat": 40.30638490985952,
-        "capacity": 43
+        "lon": -3.6579429669058223,
+        "lat": 40.48901494401031,
+        "capacity": 17
       },
       {
         "station_id": "bongo_station_MADRID072",
         "name": "Station 72",
-        "lon": -3.6669487893344135,
-        "lat": 40.32309802645902,
-        "capacity": 28
+        "lon": -3.632884955092617,
+        "lat": 40.40513928149918,
+        "capacity": 15
       },
       {
         "station_id": "bongo_station_MADRID073",
         "name": "Station 73",
-        "lon": -3.656359204873813,
-        "lat": 40.44842391182256,
-        "capacity": 49
+        "lon": -3.742308036894246,
+        "lat": 40.408166709636944,
+        "capacity": 26
       },
       {
         "station_id": "bongo_station_MADRID074",
         "name": "Station 74",
-        "lon": -3.754730924113966,
-        "lat": 40.35240015520954,
-        "capacity": 39
+        "lon": -3.7474753323742815,
+        "lat": 40.45933362533837,
+        "capacity": 48
       },
       {
         "station_id": "bongo_station_MADRID075",
         "name": "Station 75",
-        "lon": -3.7154857380223767,
-        "lat": 40.392284883779965,
-        "capacity": 48
+        "lon": -3.732642922638482,
+        "lat": 40.499177793889494,
+        "capacity": 42
       },
       {
         "station_id": "bongo_station_MADRID076",
         "name": "Station 76",
-        "lon": -3.648780430742948,
-        "lat": 40.402100682298226,
-        "capacity": 29
+        "lon": -3.6308518813167243,
+        "lat": 40.42394548631475,
+        "capacity": 33
       },
       {
         "station_id": "bongo_station_MADRID077",
         "name": "Station 77",
-        "lon": -3.630908949704628,
-        "lat": 40.38799583663584,
-        "capacity": 16
+        "lon": -3.6523301500840635,
+        "lat": 40.47097452150467,
+        "capacity": 20
       },
       {
         "station_id": "bongo_station_MADRID078",
         "name": "Station 78",
-        "lon": -3.726865563543717,
-        "lat": 40.33666092290276,
-        "capacity": 25
+        "lon": -3.610201798950475,
+        "lat": 40.33121368838635,
+        "capacity": 22
       },
       {
         "station_id": "bongo_station_MADRID079",
         "name": "Station 79",
-        "lon": -3.6083898129920375,
-        "lat": 40.310397741128575,
-        "capacity": 49
+        "lon": -3.678214245025512,
+        "lat": 40.36823114857381,
+        "capacity": 38
       },
       {
         "station_id": "bongo_station_MADRID080",
         "name": "Station 80",
-        "lon": -3.698525025314331,
-        "lat": 40.47712615738302,
-        "capacity": 31
+        "lon": -3.6462727493512332,
+        "lat": 40.480643786548654,
+        "capacity": 23
       },
       {
         "station_id": "bongo_station_MADRID081",
         "name": "Station 81",
-        "lon": -3.6013013008942156,
-        "lat": 40.35483344306603,
-        "capacity": 48
+        "lon": -3.7898203515247304,
+        "lat": 40.300851458474376,
+        "capacity": 17
       },
       {
         "station_id": "bongo_station_MADRID082",
         "name": "Station 82",
-        "lon": -3.6827248395439045,
-        "lat": 40.420473633482494,
-        "capacity": 35
+        "lon": -3.714568809354096,
+        "lat": 40.41243951486372,
+        "capacity": 16
       },
       {
         "station_id": "bongo_station_MADRID083",
         "name": "Station 83",
-        "lon": -3.6807828428565665,
-        "lat": 40.33443696886985,
-        "capacity": 30
+        "lon": -3.731285342798777,
+        "lat": 40.34069422547435,
+        "capacity": 16
       },
       {
         "station_id": "bongo_station_MADRID084",
         "name": "Station 84",
-        "lon": -3.62880913737562,
-        "lat": 40.429027782979304,
-        "capacity": 48
+        "lon": -3.635540770247963,
+        "lat": 40.4524273694973,
+        "capacity": 22
       },
       {
         "station_id": "bongo_station_MADRID085",
         "name": "Station 85",
-        "lon": -3.676587155188924,
-        "lat": 40.333161441762456,
-        "capacity": 10
+        "lon": -3.734764481929017,
+        "lat": 40.33845256933652,
+        "capacity": 29
       },
       {
         "station_id": "bongo_station_MADRID086",
         "name": "Station 86",
-        "lon": -3.753006945833742,
-        "lat": 40.312463853428504,
-        "capacity": 17
+        "lon": -3.7342263475911377,
+        "lat": 40.45226715653027,
+        "capacity": 34
       },
       {
         "station_id": "bongo_station_MADRID087",
         "name": "Station 87",
-        "lon": -3.707119373371979,
-        "lat": 40.413629042580304,
-        "capacity": 29
+        "lon": -3.6738732645208616,
+        "lat": 40.48530882256834,
+        "capacity": 11
       },
       {
         "station_id": "bongo_station_MADRID088",
         "name": "Station 88",
-        "lon": -3.659748740171752,
-        "lat": 40.4889866629598,
-        "capacity": 29
+        "lon": -3.7186182762342233,
+        "lat": 40.49575718254653,
+        "capacity": 12
       },
       {
         "station_id": "bongo_station_MADRID089",
         "name": "Station 89",
-        "lon": -3.7090829802843084,
-        "lat": 40.354013775768856,
-        "capacity": 44
+        "lon": -3.7283565907910106,
+        "lat": 40.34101036121851,
+        "capacity": 36
       },
       {
         "station_id": "bongo_station_MADRID090",
         "name": "Station 90",
-        "lon": -3.6256327724468007,
-        "lat": 40.39049719906043,
-        "capacity": 35
+        "lon": -3.6788475024949494,
+        "lat": 40.332715835565814,
+        "capacity": 15
       },
       {
         "station_id": "bongo_station_MADRID091",
         "name": "Station 91",
-        "lon": -3.711129872081572,
-        "lat": 40.38296033730813,
-        "capacity": 33
+        "lon": -3.7989582214063664,
+        "lat": 40.486287134545016,
+        "capacity": 10
       },
       {
         "station_id": "bongo_station_MADRID092",
         "name": "Station 92",
-        "lon": -3.7193528218762277,
-        "lat": 40.46178909470412,
-        "capacity": 42
+        "lon": -3.7952853342132187,
+        "lat": 40.43341096120925,
+        "capacity": 22
       },
       {
         "station_id": "bongo_station_MADRID093",
         "name": "Station 93",
-        "lon": -3.7927618667223983,
-        "lat": 40.45625513493606,
-        "capacity": 18
+        "lon": -3.702471412654695,
+        "lat": 40.41917896097178,
+        "capacity": 45
       },
       {
         "station_id": "bongo_station_MADRID094",
         "name": "Station 94",
-        "lon": -3.697576403798656,
-        "lat": 40.38097054873316,
-        "capacity": 28
+        "lon": -3.7787825368787615,
+        "lat": 40.404058687484515,
+        "capacity": 44
       },
       {
         "station_id": "bongo_station_MADRID095",
         "name": "Station 95",
-        "lon": -3.726178165296456,
-        "lat": 40.32568219817457,
-        "capacity": 28
+        "lon": -3.7211105484700675,
+        "lat": 40.32609285884427,
+        "capacity": 37
       },
       {
         "station_id": "bongo_station_MADRID096",
         "name": "Station 96",
-        "lon": -3.7958390570054243,
-        "lat": 40.35887111942626,
-        "capacity": 13
+        "lon": -3.7940089178012237,
+        "lat": 40.34259182079889,
+        "capacity": 44
       },
       {
         "station_id": "bongo_station_MADRID097",
         "name": "Station 97",
-        "lon": -3.7056716814218236,
-        "lat": 40.48670646159679,
-        "capacity": 33
+        "lon": -3.648847378825084,
+        "lat": 40.40779630570739,
+        "capacity": 16
       },
       {
         "station_id": "bongo_station_MADRID098",
         "name": "Station 98",
-        "lon": -3.6333002909402925,
-        "lat": 40.465392030419885,
-        "capacity": 47
+        "lon": -3.633116061177237,
+        "lat": 40.415826840966325,
+        "capacity": 15
       },
       {
         "station_id": "bongo_station_MADRID099",
         "name": "Station 99",
-        "lon": -3.636286889913038,
-        "lat": 40.35897756375886,
-        "capacity": 18
+        "lon": -3.659643623033072,
+        "lat": 40.31186534553193,
+        "capacity": 46
       },
       {
         "station_id": "bongo_station_MADRID100",
         "name": "Station 100",
-        "lon": -3.7554717313893953,
-        "lat": 40.31545901000086,
-        "capacity": 13
+        "lon": -3.6457281262640997,
+        "lat": 40.362635798170075,
+        "capacity": 28
       },
       {
         "station_id": "bongo_station_MADRID101",
         "name": "Station 101",
-        "lon": -3.780510116595677,
-        "lat": 40.37577823695694,
-        "capacity": 17
+        "lon": -3.7587811663348165,
+        "lat": 40.3319411463901,
+        "capacity": 23
       },
       {
         "station_id": "bongo_station_MADRID102",
         "name": "Station 102",
-        "lon": -3.7499860366592253,
-        "lat": 40.47784450704004,
-        "capacity": 43
+        "lon": -3.747654035971657,
+        "lat": 40.34590585426886,
+        "capacity": 34
       },
       {
         "station_id": "bongo_station_MADRID103",
         "name": "Station 103",
-        "lon": -3.714635359268666,
-        "lat": 40.34315807863018,
-        "capacity": 36
+        "lon": -3.6194463237552337,
+        "lat": 40.47703458266809,
+        "capacity": 27
       },
       {
         "station_id": "bongo_station_MADRID104",
         "name": "Station 104",
-        "lon": -3.745525031255739,
-        "lat": 40.40102915099356,
-        "capacity": 34
+        "lon": -3.6458247758444267,
+        "lat": 40.47407706539859,
+        "capacity": 40
       },
       {
         "station_id": "bongo_station_MADRID105",
         "name": "Station 105",
-        "lon": -3.665552451254677,
-        "lat": 40.341083403584804,
-        "capacity": 38
+        "lon": -3.656047174804801,
+        "lat": 40.49352965854157,
+        "capacity": 26
       },
       {
         "station_id": "bongo_station_MADRID106",
         "name": "Station 106",
-        "lon": -3.774293240898641,
-        "lat": 40.47459153264444,
+        "lon": -3.6085039572154067,
+        "lat": 40.31374877195293,
         "capacity": 46
       },
       {
         "station_id": "bongo_station_MADRID107",
         "name": "Station 107",
-        "lon": -3.6858642166659408,
-        "lat": 40.37978522239153,
-        "capacity": 30
+        "lon": -3.6244938816708863,
+        "lat": 40.417318377153904,
+        "capacity": 21
       },
       {
         "station_id": "bongo_station_MADRID108",
         "name": "Station 108",
-        "lon": -3.6457973152024126,
-        "lat": 40.33630924591183,
+        "lon": -3.7006199004466818,
+        "lat": 40.474588046309506,
         "capacity": 36
       },
       {
         "station_id": "bongo_station_MADRID109",
         "name": "Station 109",
-        "lon": -3.7237992593187013,
-        "lat": 40.30291452378758,
-        "capacity": 36
+        "lon": -3.725594382172973,
+        "lat": 40.44047696267814,
+        "capacity": 19
       },
       {
         "station_id": "bongo_station_MADRID110",
         "name": "Station 110",
-        "lon": -3.6038241105965048,
-        "lat": 40.31074768477469,
-        "capacity": 47
+        "lon": -3.7196104137190567,
+        "lat": 40.394843310998276,
+        "capacity": 13
       },
       {
         "station_id": "bongo_station_MADRID111",
         "name": "Station 111",
-        "lon": -3.7461833853437985,
-        "lat": 40.42504410597219,
-        "capacity": 21
+        "lon": -3.766164187783417,
+        "lat": 40.45571259328188,
+        "capacity": 38
       },
       {
         "station_id": "bongo_station_MADRID112",
         "name": "Station 112",
-        "lon": -3.661996161462002,
-        "lat": 40.38459076898322,
-        "capacity": 46
+        "lon": -3.7020534177521216,
+        "lat": 40.32539914030961,
+        "capacity": 23
       },
       {
         "station_id": "bongo_station_MADRID113",
         "name": "Station 113",
-        "lon": -3.754260813859367,
-        "lat": 40.31039035797749,
-        "capacity": 44
+        "lon": -3.789394430627769,
+        "lat": 40.35127481167135,
+        "capacity": 41
       },
       {
         "station_id": "bongo_station_MADRID114",
         "name": "Station 114",
-        "lon": -3.6680003015358777,
-        "lat": 40.306604355959756,
-        "capacity": 20
+        "lon": -3.623205107527514,
+        "lat": 40.36145420189195,
+        "capacity": 23
       },
       {
         "station_id": "bongo_station_MADRID115",
         "name": "Station 115",
-        "lon": -3.641035319832451,
-        "lat": 40.34002113933299,
-        "capacity": 40
+        "lon": -3.6173897419605447,
+        "lat": 40.44947588993763,
+        "capacity": 15
       },
       {
         "station_id": "bongo_station_MADRID116",
         "name": "Station 116",
-        "lon": -3.7278973220243614,
-        "lat": 40.337289960252875,
-        "capacity": 44
+        "lon": -3.7097899774562304,
+        "lat": 40.351132608453895,
+        "capacity": 12
       },
       {
         "station_id": "bongo_station_MADRID117",
         "name": "Station 117",
-        "lon": -3.6203715548646263,
-        "lat": 40.34679537681522,
-        "capacity": 22
+        "lon": -3.6140476465171014,
+        "lat": 40.47446591216645,
+        "capacity": 24
       },
       {
         "station_id": "bongo_station_MADRID118",
         "name": "Station 118",
-        "lon": -3.7112254623102094,
-        "lat": 40.47651053450996,
-        "capacity": 43
+        "lon": -3.761835900962411,
+        "lat": 40.36654178458523,
+        "capacity": 24
       },
       {
         "station_id": "bongo_station_MADRID119",
         "name": "Station 119",
-        "lon": -3.6307502338021953,
-        "lat": 40.39584778219897,
-        "capacity": 33
+        "lon": -3.7482204103799512,
+        "lat": 40.39429265045469,
+        "capacity": 40
       },
       {
         "station_id": "bongo_station_MADRID120",
         "name": "Station 120",
-        "lon": -3.7174449536783385,
-        "lat": 40.32617725715378,
-        "capacity": 39
+        "lon": -3.789747350821517,
+        "lat": 40.33659702260178,
+        "capacity": 46
       },
       {
         "station_id": "bongo_station_MADRID121",
         "name": "Station 121",
-        "lon": -3.673154670024061,
-        "lat": 40.43156523651719,
-        "capacity": 45
+        "lon": -3.752202855095057,
+        "lat": 40.497310499403845,
+        "capacity": 30
       },
       {
         "station_id": "bongo_station_MADRID122",
         "name": "Station 122",
-        "lon": -3.7439417744056067,
-        "lat": 40.31541333493881,
-        "capacity": 36
+        "lon": -3.7175400805618057,
+        "lat": 40.398986096515785,
+        "capacity": 13
       },
       {
         "station_id": "bongo_station_MADRID123",
         "name": "Station 123",
-        "lon": -3.673954731467544,
-        "lat": 40.393699320840796,
-        "capacity": 31
+        "lon": -3.7318016632236057,
+        "lat": 40.40321672835765,
+        "capacity": 17
       },
       {
         "station_id": "bongo_station_MADRID124",
         "name": "Station 124",
-        "lon": -3.6892733529409116,
-        "lat": 40.39581265668634,
-        "capacity": 43
+        "lon": -3.7297377501319477,
+        "lat": 40.319146101162495,
+        "capacity": 30
       },
       {
         "station_id": "bongo_station_MADRID125",
         "name": "Station 125",
-        "lon": -3.66933252725993,
-        "lat": 40.392051347519356,
-        "capacity": 33
+        "lon": -3.755692097456097,
+        "lat": 40.41394996293,
+        "capacity": 26
       },
       {
         "station_id": "bongo_station_MADRID126",
         "name": "Station 126",
-        "lon": -3.736796109839611,
-        "lat": 40.37214834838024,
-        "capacity": 44
+        "lon": -3.6627832009488817,
+        "lat": 40.48229853715445,
+        "capacity": 49
       },
       {
         "station_id": "bongo_station_MADRID127",
         "name": "Station 127",
-        "lon": -3.77704619750695,
-        "lat": 40.320230820286305,
-        "capacity": 20
+        "lon": -3.6347039175169433,
+        "lat": 40.362724684337245,
+        "capacity": 22
       },
       {
         "station_id": "bongo_station_MADRID128",
         "name": "Station 128",
-        "lon": -3.6802335086724676,
-        "lat": 40.303422833571865,
-        "capacity": 15
+        "lon": -3.6661962495744977,
+        "lat": 40.470998209368844,
+        "capacity": 18
       },
       {
         "station_id": "bongo_station_MADRID129",
         "name": "Station 129",
-        "lon": -3.737376177410158,
-        "lat": 40.42129232568242,
+        "lon": -3.671077119954485,
+        "lat": 40.44420788241466,
         "capacity": 45
       },
       {
         "station_id": "bongo_station_MADRID130",
         "name": "Station 130",
-        "lon": -3.7162911889842465,
-        "lat": 40.40484244406086,
-        "capacity": 37
+        "lon": -3.710832845251186,
+        "lat": 40.30748246576681,
+        "capacity": 40
       },
       {
         "station_id": "bongo_station_MADRID131",
         "name": "Station 131",
-        "lon": -3.7432831327896188,
-        "lat": 40.48916943277799,
-        "capacity": 46
+        "lon": -3.7839628936417404,
+        "lat": 40.332935869639854,
+        "capacity": 49
       },
       {
         "station_id": "bongo_station_MADRID132",
         "name": "Station 132",
-        "lon": -3.7265189157986884,
-        "lat": 40.38930492825839,
-        "capacity": 18
+        "lon": -3.6723665158653387,
+        "lat": 40.30185409797318,
+        "capacity": 35
       },
       {
         "station_id": "bongo_station_MADRID133",
         "name": "Station 133",
-        "lon": -3.7396557268227477,
-        "lat": 40.452318329827754,
-        "capacity": 22
+        "lon": -3.7909808677390004,
+        "lat": 40.3840892403615,
+        "capacity": 43
       },
       {
         "station_id": "bongo_station_MADRID134",
         "name": "Station 134",
-        "lon": -3.6880635578712178,
-        "lat": 40.323484923644116,
-        "capacity": 34
+        "lon": -3.6889871870986943,
+        "lat": 40.30333594719565,
+        "capacity": 38
       },
       {
         "station_id": "bongo_station_MADRID135",
         "name": "Station 135",
-        "lon": -3.6013025445647417,
-        "lat": 40.39856404274205,
-        "capacity": 44
+        "lon": -3.7464765866938974,
+        "lat": 40.367107852228564,
+        "capacity": 39
       },
       {
         "station_id": "bongo_station_MADRID136",
         "name": "Station 136",
-        "lon": -3.7753957671198983,
-        "lat": 40.304037356298664,
+        "lon": -3.6112218868813253,
+        "lat": 40.49077975819127,
+        "capacity": 19
+      },
+      {
+        "station_id": "bongo_station_MADRID137",
+        "name": "Station 137",
+        "lon": -3.724438458414686,
+        "lat": 40.40292581564109,
+        "capacity": 19
+      },
+      {
+        "station_id": "bongo_station_MADRID138",
+        "name": "Station 138",
+        "lon": -3.7521174391126033,
+        "lat": 40.3021263634159,
         "capacity": 45
+      },
+      {
+        "station_id": "bongo_station_MADRID139",
+        "name": "Station 139",
+        "lon": -3.7552925638939496,
+        "lat": 40.395835217940984,
+        "capacity": 13
+      },
+      {
+        "station_id": "bongo_station_MADRID140",
+        "name": "Station 140",
+        "lon": -3.701091873811551,
+        "lat": 40.43330258801708,
+        "capacity": 25
+      },
+      {
+        "station_id": "bongo_station_MADRID141",
+        "name": "Station 141",
+        "lon": -3.7382280759812003,
+        "lat": 40.335478570973606,
+        "capacity": 27
+      },
+      {
+        "station_id": "bongo_station_MADRID142",
+        "name": "Station 142",
+        "lon": -3.6787718917578043,
+        "lat": 40.48118380675717,
+        "capacity": 41
+      },
+      {
+        "station_id": "bongo_station_MADRID143",
+        "name": "Station 143",
+        "lon": -3.6919281152770793,
+        "lat": 40.43853734121792,
+        "capacity": 37
+      },
+      {
+        "station_id": "bongo_station_MADRID144",
+        "name": "Station 144",
+        "lon": -3.7055896410126667,
+        "lat": 40.4237916132873,
+        "capacity": 10
+      },
+      {
+        "station_id": "bongo_station_MADRID145",
+        "name": "Station 145",
+        "lon": -3.6647878858221365,
+        "lat": 40.43627814551417,
+        "capacity": 40
+      },
+      {
+        "station_id": "bongo_station_MADRID146",
+        "name": "Station 146",
+        "lon": -3.666963374075837,
+        "lat": 40.40566022253332,
+        "capacity": 10
+      },
+      {
+        "station_id": "bongo_station_MADRID147",
+        "name": "Station 147",
+        "lon": -3.7636866638692354,
+        "lat": 40.36901228621561,
+        "capacity": 33
+      },
+      {
+        "station_id": "bongo_station_MADRID148",
+        "name": "Station 148",
+        "lon": -3.791017748645496,
+        "lat": 40.39637008481646,
+        "capacity": 14
+      },
+      {
+        "station_id": "bongo_station_MADRID149",
+        "name": "Station 149",
+        "lon": -3.761319483679055,
+        "lat": 40.3948209470932,
+        "capacity": 42
+      },
+      {
+        "station_id": "bongo_station_MADRID150",
+        "name": "Station 150",
+        "lon": -3.6879325381696666,
+        "lat": 40.396709994975225,
+        "capacity": 37
+      },
+      {
+        "station_id": "bongo_station_MADRID151",
+        "name": "Station 151",
+        "lon": -3.6888345430004876,
+        "lat": 40.33887946412915,
+        "capacity": 49
+      },
+      {
+        "station_id": "bongo_station_MADRID152",
+        "name": "Station 152",
+        "lon": -3.7148664714278006,
+        "lat": 40.43488064331296,
+        "capacity": 12
       }
     ]
   },

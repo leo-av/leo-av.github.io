@@ -1,72 +1,74 @@
 {
-  "last_updated": 1732462817,
-  "data": [
-    {
-      "price": 2.35,
-      "name": "Simple rate",
-      "description": "1.15 € per kilometer",
-      "currency": "EUR",
-      "per_km_pricing": [
-        {
-          "rate": 1.15,
-          "start": 0,
-          "interval": 1
-        }
-      ],
-      "plan_id": "flash_plan_1",
-      "is_taxable": false
-    },
-    {
-      "price": 3.8,
-      "name": "One-Way",
-      "description": "Includes 25km, overage fees apply after 25km",
-      "currency": "EUR",
-      "per_km_pricing": [
-        {
-          "rate": 1.4,
-          "start": 25,
-          "interval": 1,
-          "end": 50
-        },
-        {
-          "rate": 1.2,
-          "start": 50,
-          "interval": 1,
-          "end": 76
-        },
-        {
-          "rate": 3.85,
-          "start": 76,
-          "interval": 5,
-          "end": 104
-        }
-      ],
-      "plan_id": "flash_plan_2",
-      "is_taxable": false
-    },
-    {
-      "per_min_pricing": [
-        {
-          "rate": 1.1,
-          "start": 0,
-          "interval": 1
-        }
-      ],
-      "price": 1.45,
-      "name": "Simple rate",
-      "description": "1.45 € unlock fee, 1.30 € per kilometer and 1.10 € per minute.",
-      "currency": "EUR",
-      "per_km_pricing": [
-        {
-          "rate": 1.3,
-          "start": 0,
-          "interval": 1
-        }
-      ],
-      "plan_id": "flash_plan_3",
-      "is_taxable": true
-    }
-  ],
+  "last_updated": 1732463261,
+  "data": {
+    "plans": [
+      {
+        "price": 0.85,
+        "name": "Simple rate",
+        "description": "0.60 € per kilometer",
+        "currency": "EUR",
+        "per_km_pricing": [
+          {
+            "rate": 0.6,
+            "start": 0,
+            "interval": 1
+          }
+        ],
+        "plan_id": "flash_plan_1",
+        "is_taxable": false
+      },
+      {
+        "price": 2.65,
+        "name": "One-Way",
+        "description": "Includes 28km, overage fees apply after 28km",
+        "currency": "EUR",
+        "per_km_pricing": [
+          {
+            "rate": 2.45,
+            "start": 28,
+            "interval": 1,
+            "end": 57
+          },
+          {
+            "rate": 0.7,
+            "start": 57,
+            "interval": 1,
+            "end": 84
+          },
+          {
+            "rate": 6.45,
+            "start": 84,
+            "interval": 5,
+            "end": 110
+          }
+        ],
+        "plan_id": "flash_plan_2",
+        "is_taxable": false
+      },
+      {
+        "per_min_pricing": [
+          {
+            "rate": 0.55,
+            "start": 0,
+            "interval": 1
+          }
+        ],
+        "price": 0.9,
+        "name": "Simple rate",
+        "description": "0.90 € unlock fee, 0.85 € per kilometer and 0.55 € per minute.",
+        "currency": "EUR",
+        "per_km_pricing": [
+          {
+            "rate": 0.85,
+            "start": 0,
+            "interval": 1
+          }
+        ],
+        "plan_id": "flash_plan_3",
+        "is_taxable": true
+      }
+    ]
+  },
   "ttl": 180,
   "version": "2.3"
 }

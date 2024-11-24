@@ -1,0 +1,74 @@
+{
+  "last_updated": 1732463274,
+  "data": {
+    "plans": [
+      {
+        "price": 2.05,
+        "name": "Simple rate",
+        "description": "2.40 € per kilometer",
+        "currency": "EUR",
+        "per_km_pricing": [
+          {
+            "rate": 2.4,
+            "start": 0,
+            "interval": 1
+          }
+        ],
+        "plan_id": "wheelies_plan_1",
+        "is_taxable": false
+      },
+      {
+        "price": 1.5,
+        "name": "One-Way",
+        "description": "Includes 29km, overage fees apply after 29km",
+        "currency": "EUR",
+        "per_km_pricing": [
+          {
+            "rate": 2.2,
+            "start": 29,
+            "interval": 1,
+            "end": 58
+          },
+          {
+            "rate": 0.95,
+            "start": 58,
+            "interval": 1,
+            "end": 87
+          },
+          {
+            "rate": 4.8,
+            "start": 87,
+            "interval": 5,
+            "end": 113
+          }
+        ],
+        "plan_id": "wheelies_plan_2",
+        "is_taxable": false
+      },
+      {
+        "per_min_pricing": [
+          {
+            "rate": 1.0,
+            "start": 0,
+            "interval": 1
+          }
+        ],
+        "price": 1.8,
+        "name": "Simple rate",
+        "description": "1.80 € unlock fee, 0.60 € per kilometer and 1.00 € per minute.",
+        "currency": "EUR",
+        "per_km_pricing": [
+          {
+            "rate": 0.6,
+            "start": 0,
+            "interval": 1
+          }
+        ],
+        "plan_id": "wheelies_plan_3",
+        "is_taxable": true
+      }
+    ]
+  },
+  "ttl": 180,
+  "version": "2.3"
+}

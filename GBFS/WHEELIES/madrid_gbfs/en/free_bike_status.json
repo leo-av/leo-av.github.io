@@ -1,0 +1,3399 @@
+{
+  "last_updated": 1732463274,
+  "data": {
+    "bikes": [
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 1,
+        "current_range_meters": 21249,
+        "lon": -3.688549729337323,
+        "bike_id": "wheelies_MADRID001",
+        "lat": 40.464251919650515,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 1,
+        "current_range_meters": 69612,
+        "lon": -3.600818729508384,
+        "bike_id": "wheelies_MADRID002",
+        "lat": 40.31749519519344,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 104054,
+        "lon": -3.7622191843943957,
+        "bike_id": "wheelies_MADRID003",
+        "lat": 40.36876411735569,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 0,
+        "current_range_meters": 17530,
+        "lon": -3.7622387305395897,
+        "bike_id": "wheelies_MADRID004",
+        "lat": 40.30452626808945,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 1,
+        "current_range_meters": 112643,
+        "lon": -3.6501045784135515,
+        "bike_id": "wheelies_MADRID005",
+        "lat": 40.376714748876445,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 1,
+        "current_range_meters": 142457,
+        "lon": -3.6945217239732933,
+        "bike_id": "wheelies_MADRID006",
+        "lat": 40.48879258104758,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 127097,
+        "lon": -3.723908654020791,
+        "bike_id": "wheelies_MADRID007",
+        "lat": 40.458050264354696,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 0,
+        "current_range_meters": 1072,
+        "lon": -3.7782488487340915,
+        "bike_id": "wheelies_MADRID008",
+        "lat": 40.39529231584133,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 0,
+        "current_range_meters": 14947,
+        "lon": -3.762757069612266,
+        "bike_id": "wheelies_MADRID009",
+        "lat": 40.42785772591369,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 3800,
+        "lon": -3.7849744323795864,
+        "bike_id": "wheelies_MADRID010",
+        "lat": 40.32065147154288,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 1,
+        "current_range_meters": 13948,
+        "lon": -3.678430345642114,
+        "bike_id": "wheelies_MADRID011",
+        "lat": 40.34869435369842,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 0,
+        "current_range_meters": 6401,
+        "lon": -3.680474587359421,
+        "bike_id": "wheelies_MADRID012",
+        "lat": 40.35477600399767,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 0,
+        "current_range_meters": 13977,
+        "lon": -3.7586620973099025,
+        "bike_id": "wheelies_MADRID013",
+        "lat": 40.35586776347836,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 82430,
+        "lon": -3.6092555330778042,
+        "bike_id": "wheelies_MADRID014",
+        "lat": 40.48083658703966,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 0,
+        "current_range_meters": 2909,
+        "lon": -3.6308281913254676,
+        "bike_id": "wheelies_MADRID015",
+        "lat": 40.493013911459094,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 172821,
+        "lon": -3.6117393640328244,
+        "bike_id": "wheelies_MADRID016",
+        "lat": 40.421696565487345,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 11744,
+        "lon": -3.668414144064121,
+        "bike_id": "wheelies_MADRID017",
+        "lat": 40.412059396399734,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 2252,
+        "lon": -3.6669760650872925,
+        "bike_id": "wheelies_MADRID018",
+        "lat": 40.38011153102188,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 184897,
+        "lon": -3.631878590196169,
+        "bike_id": "wheelies_MADRID019",
+        "lat": 40.49437966300926,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 1,
+        "current_range_meters": 180695,
+        "lon": -3.7758764783246437,
+        "bike_id": "wheelies_MADRID020",
+        "lat": 40.44002266846938,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 0,
+        "current_range_meters": 16507,
+        "lon": -3.6736855442165015,
+        "bike_id": "wheelies_MADRID021",
+        "lat": 40.43917422442778,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 0,
+        "current_range_meters": 13275,
+        "lon": -3.609318807784347,
+        "bike_id": "wheelies_MADRID022",
+        "lat": 40.3751956566963,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 36243,
+        "lon": -3.761885453944737,
+        "bike_id": "wheelies_MADRID023",
+        "lat": 40.391048532945675,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 1,
+        "current_range_meters": 33964,
+        "lon": -3.7371468638347047,
+        "bike_id": "wheelies_MADRID024",
+        "lat": 40.450111419798745,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 38214,
+        "lon": -3.7854898757925706,
+        "bike_id": "wheelies_MADRID025",
+        "lat": 40.478106519240335,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 71090,
+        "lon": -3.737462703031904,
+        "bike_id": "wheelies_MADRID026",
+        "lat": 40.37665410849599,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 165112,
+        "lon": -3.6010788716458335,
+        "bike_id": "wheelies_MADRID027",
+        "lat": 40.420688886399574,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 0,
+        "current_range_meters": 7816,
+        "lon": -3.7874164789314833,
+        "bike_id": "wheelies_MADRID028",
+        "lat": 40.427929290109624,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 133493,
+        "lon": -3.6261275845992254,
+        "bike_id": "wheelies_MADRID029",
+        "lat": 40.42704062340722,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 107563,
+        "lon": -3.708447058959272,
+        "bike_id": "wheelies_MADRID030",
+        "lat": 40.453991933664774,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 12082,
+        "lon": -3.7412715400673187,
+        "bike_id": "wheelies_MADRID031",
+        "lat": 40.389179625347865,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 1,
+        "current_range_meters": 182051,
+        "lon": -3.7902438127413327,
+        "bike_id": "wheelies_MADRID032",
+        "lat": 40.307323489261684,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 59868,
+        "lon": -3.6880299765118796,
+        "bike_id": "wheelies_MADRID033",
+        "lat": 40.379989677536415,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 183782,
+        "lon": -3.740044374499235,
+        "bike_id": "wheelies_MADRID034",
+        "lat": 40.37063832320798,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 18215,
+        "lon": -3.7929016086212726,
+        "bike_id": "wheelies_MADRID035",
+        "lat": 40.4604359247865,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 12930,
+        "lon": -3.743452198485521,
+        "bike_id": "wheelies_MADRID036",
+        "lat": 40.36258891738153,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 1,
+        "current_range_meters": 92972,
+        "lon": -3.6245835562162125,
+        "bike_id": "wheelies_MADRID037",
+        "lat": 40.475033823739075,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 1,
+        "current_range_meters": 111868,
+        "lon": -3.605035021223281,
+        "bike_id": "wheelies_MADRID038",
+        "lat": 40.47276458069743,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 87884,
+        "lon": -3.725720652510763,
+        "bike_id": "wheelies_MADRID039",
+        "lat": 40.44750984698609,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 13482,
+        "lon": -3.637835475957093,
+        "bike_id": "wheelies_MADRID040",
+        "lat": 40.30694887252154,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 14374,
+        "lon": -3.6979559248754508,
+        "bike_id": "wheelies_MADRID041",
+        "lat": 40.43949061674916,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 40189,
+        "lon": -3.6771847847259247,
+        "bike_id": "wheelies_MADRID042",
+        "lat": 40.44114316778898,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 18051,
+        "lon": -3.681225942293149,
+        "bike_id": "wheelies_MADRID043",
+        "lat": 40.430167308655015,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 0,
+        "current_range_meters": 2695,
+        "lon": -3.683080740489895,
+        "bike_id": "wheelies_MADRID044",
+        "lat": 40.471763328381634,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 0,
+        "current_range_meters": 12926,
+        "lon": -3.615199993860881,
+        "bike_id": "wheelies_MADRID045",
+        "lat": 40.41125541217894,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 74525,
+        "lon": -3.6133660331480284,
+        "bike_id": "wheelies_MADRID046",
+        "lat": 40.303314533999774,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 141142,
+        "lon": -3.7634170349012486,
+        "bike_id": "wheelies_MADRID047",
+        "lat": 40.41481137893201,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 1,
+        "current_range_meters": 193602,
+        "lon": -3.660873355362824,
+        "bike_id": "wheelies_MADRID048",
+        "lat": 40.35664870242185,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 6399,
+        "lon": -3.7716015263040443,
+        "bike_id": "wheelies_MADRID049",
+        "lat": 40.402195746466724,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 118089,
+        "lon": -3.665158378306223,
+        "bike_id": "wheelies_MADRID050",
+        "lat": 40.41859695462138,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 0,
+        "current_range_meters": 4102,
+        "lon": -3.7763820139628743,
+        "bike_id": "wheelies_MADRID051",
+        "lat": 40.45638847484594,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 20401,
+        "lon": -3.6219389748813096,
+        "bike_id": "wheelies_MADRID052",
+        "lat": 40.30821386756963,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 1,
+        "current_range_meters": 45775,
+        "lon": -3.681348908315951,
+        "bike_id": "wheelies_MADRID053",
+        "lat": 40.43846658382185,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 2031,
+        "lon": -3.7548135941471057,
+        "bike_id": "wheelies_MADRID054",
+        "lat": 40.380992054070695,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 1,
+        "current_range_meters": 99228,
+        "lon": -3.679268903318717,
+        "bike_id": "wheelies_MADRID055",
+        "lat": 40.49928660062874,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 0,
+        "current_range_meters": 13735,
+        "lon": -3.625310235145644,
+        "bike_id": "wheelies_MADRID056",
+        "lat": 40.411390541517974,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 8887,
+        "lon": -3.699010184915615,
+        "bike_id": "wheelies_MADRID057",
+        "lat": 40.42975249051444,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 0,
+        "current_range_meters": 17330,
+        "lon": -3.629945796323253,
+        "bike_id": "wheelies_MADRID058",
+        "lat": 40.34046835401254,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 196563,
+        "lon": -3.6899268946716623,
+        "bike_id": "wheelies_MADRID059",
+        "lat": 40.388846221285284,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 40947,
+        "lon": -3.6155935380230435,
+        "bike_id": "wheelies_MADRID060",
+        "lat": 40.31958854676036,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 1,
+        "current_range_meters": 121016,
+        "lon": -3.6567433170840196,
+        "bike_id": "wheelies_MADRID061",
+        "lat": 40.47868453273335,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 0,
+        "current_range_meters": 10060,
+        "lon": -3.7433596050206135,
+        "bike_id": "wheelies_MADRID062",
+        "lat": 40.492736842481186,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 11223,
+        "lon": -3.6283401343986172,
+        "bike_id": "wheelies_MADRID063",
+        "lat": 40.4337121920311,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 134854,
+        "lon": -3.723039437858941,
+        "bike_id": "wheelies_MADRID064",
+        "lat": 40.35598930643936,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 13644,
+        "lon": -3.794258311578126,
+        "bike_id": "wheelies_MADRID065",
+        "lat": 40.415093373381275,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 11902,
+        "lon": -3.6630801574045946,
+        "bike_id": "wheelies_MADRID066",
+        "lat": 40.41837959012751,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 1,
+        "current_range_meters": 209806,
+        "lon": -3.662228569991121,
+        "bike_id": "wheelies_MADRID067",
+        "lat": 40.3417425642716,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 0,
+        "current_range_meters": 16470,
+        "lon": -3.6617497604025835,
+        "bike_id": "wheelies_MADRID068",
+        "lat": 40.4766810573361,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 1,
+        "current_range_meters": 166623,
+        "lon": -3.7207867949265245,
+        "bike_id": "wheelies_MADRID069",
+        "lat": 40.32754161021852,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 19362,
+        "lon": -3.7862971834311225,
+        "bike_id": "wheelies_MADRID070",
+        "lat": 40.41659469826483,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 0,
+        "current_range_meters": 16592,
+        "lon": -3.7340351949446506,
+        "bike_id": "wheelies_MADRID071",
+        "lat": 40.34156461635328,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 12800,
+        "lon": -3.78772174208857,
+        "bike_id": "wheelies_MADRID072",
+        "lat": 40.37613791054428,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 0,
+        "current_range_meters": 18026,
+        "lon": -3.797062380918518,
+        "bike_id": "wheelies_MADRID073",
+        "lat": 40.445047989922216,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 1,
+        "current_range_meters": 88993,
+        "lon": -3.7523550465820388,
+        "bike_id": "wheelies_MADRID074",
+        "lat": 40.345041441967865,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 0,
+        "current_range_meters": 12454,
+        "lon": -3.6170120026803416,
+        "bike_id": "wheelies_MADRID075",
+        "lat": 40.37426304118033,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 0,
+        "current_range_meters": 7873,
+        "lon": -3.6893446825055207,
+        "bike_id": "wheelies_MADRID076",
+        "lat": 40.45647896809999,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 1,
+        "current_range_meters": 10988,
+        "lon": -3.783816924291251,
+        "bike_id": "wheelies_MADRID077",
+        "lat": 40.40151880464454,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 94256,
+        "lon": -3.6762594609444714,
+        "bike_id": "wheelies_MADRID078",
+        "lat": 40.47909852757991,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 0,
+        "current_range_meters": 17780,
+        "lon": -3.69618743751285,
+        "bike_id": "wheelies_MADRID079",
+        "lat": 40.484357568604864,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 154468,
+        "lon": -3.6315143577325295,
+        "bike_id": "wheelies_MADRID080",
+        "lat": 40.48436441686033,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 171693,
+        "lon": -3.791669463474704,
+        "bike_id": "wheelies_MADRID081",
+        "lat": 40.47870833999943,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 0,
+        "current_range_meters": 15709,
+        "lon": -3.7669535668134713,
+        "bike_id": "wheelies_MADRID082",
+        "lat": 40.49069879376204,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 13108,
+        "lon": -3.797451011063432,
+        "bike_id": "wheelies_MADRID083",
+        "lat": 40.448560360385144,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 16943,
+        "lon": -3.608175340117977,
+        "bike_id": "wheelies_MADRID084",
+        "lat": 40.474269845344104,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 146031,
+        "lon": -3.7525197833225743,
+        "bike_id": "wheelies_MADRID085",
+        "lat": 40.38323548084196,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 9575,
+        "lon": -3.7747390868360555,
+        "bike_id": "wheelies_MADRID086",
+        "lat": 40.43381583051452,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 194104,
+        "lon": -3.716505593167854,
+        "bike_id": "wheelies_MADRID087",
+        "lat": 40.40030506262949,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 10456,
+        "lon": -3.7086772720723897,
+        "bike_id": "wheelies_MADRID088",
+        "lat": 40.305828967797105,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 0,
+        "current_range_meters": 9531,
+        "lon": -3.7785231232161043,
+        "bike_id": "wheelies_MADRID089",
+        "lat": 40.36010830391602,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 0,
+        "current_range_meters": 15427,
+        "lon": -3.6099561820523314,
+        "bike_id": "wheelies_MADRID090",
+        "lat": 40.341314487641924,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 1,
+        "current_range_meters": 95451,
+        "lon": -3.7225694432519494,
+        "bike_id": "wheelies_MADRID091",
+        "lat": 40.38634205380458,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 18773,
+        "lon": -3.7370493488888923,
+        "bike_id": "wheelies_MADRID092",
+        "lat": 40.388175748762016,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 26021,
+        "lon": -3.692159690463302,
+        "bike_id": "wheelies_MADRID093",
+        "lat": 40.49829747444303,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 6570,
+        "lon": -3.780036753538445,
+        "bike_id": "wheelies_MADRID094",
+        "lat": 40.38252861566789,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 0,
+        "current_range_meters": 3564,
+        "lon": -3.7448880309246255,
+        "bike_id": "wheelies_MADRID095",
+        "lat": 40.43055638985978,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 19144,
+        "lon": -3.6907433540998182,
+        "bike_id": "wheelies_MADRID096",
+        "lat": 40.49860049198367,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 7508,
+        "lon": -3.707438835396882,
+        "bike_id": "wheelies_MADRID097",
+        "lat": 40.34022340142308,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 1,
+        "current_range_meters": 140367,
+        "lon": -3.7533335694233303,
+        "bike_id": "wheelies_MADRID098",
+        "lat": 40.41450835109692,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 10687,
+        "lon": -3.780644682131948,
+        "bike_id": "wheelies_MADRID099",
+        "lat": 40.384468632453405,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 11481,
+        "lon": -3.6915307625819245,
+        "bike_id": "wheelies_MADRID100",
+        "lat": 40.35983791188585,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 6538,
+        "lon": -3.672385770746673,
+        "bike_id": "wheelies_MADRID101",
+        "lat": 40.49177619292008,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 85551,
+        "lon": -3.634100329303398,
+        "bike_id": "wheelies_MADRID102",
+        "lat": 40.3599259871476,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 12394,
+        "lon": -3.6999188997556467,
+        "bike_id": "wheelies_MADRID103",
+        "lat": 40.471632143317144,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 133757,
+        "lon": -3.635399275677103,
+        "bike_id": "wheelies_MADRID104",
+        "lat": 40.48402952021135,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 0,
+        "current_range_meters": 9027,
+        "lon": -3.698015226259879,
+        "bike_id": "wheelies_MADRID105",
+        "lat": 40.34599220812796,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 1,
+        "current_range_meters": 178672,
+        "lon": -3.741429122568274,
+        "bike_id": "wheelies_MADRID106",
+        "lat": 40.45430730274397,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 0,
+        "current_range_meters": 10448,
+        "lon": -3.647986363172785,
+        "bike_id": "wheelies_MADRID107",
+        "lat": 40.345476562502874,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 119228,
+        "lon": -3.7941901992028675,
+        "bike_id": "wheelies_MADRID108",
+        "lat": 40.34657520747645,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 16733,
+        "lon": -3.6972439356162283,
+        "bike_id": "wheelies_MADRID109",
+        "lat": 40.41321138880981,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 0,
+        "current_range_meters": 19667,
+        "lon": -3.752989764199571,
+        "bike_id": "wheelies_MADRID110",
+        "lat": 40.48335347408036,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 1,
+        "current_range_meters": 36909,
+        "lon": -3.760415153946187,
+        "bike_id": "wheelies_MADRID111",
+        "lat": 40.391323255530374,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 1,
+        "current_range_meters": 67295,
+        "lon": -3.6474355327111447,
+        "bike_id": "wheelies_MADRID112",
+        "lat": 40.49506021227804,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 179372,
+        "lon": -3.633749664153778,
+        "bike_id": "wheelies_MADRID113",
+        "lat": 40.303006181420876,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 20165,
+        "lon": -3.688584183068637,
+        "bike_id": "wheelies_MADRID114",
+        "lat": 40.35205150164029,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 119806,
+        "lon": -3.6868927126665487,
+        "bike_id": "wheelies_MADRID115",
+        "lat": 40.43069817459247,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 145048,
+        "lon": -3.670854046940795,
+        "bike_id": "wheelies_MADRID116",
+        "lat": 40.4231913565122,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 0,
+        "current_range_meters": 11600,
+        "lon": -3.7776401357836025,
+        "bike_id": "wheelies_MADRID117",
+        "lat": 40.46610088009955,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 0,
+        "current_range_meters": 3592,
+        "lon": -3.7647263044258406,
+        "bike_id": "wheelies_MADRID118",
+        "lat": 40.43107745351558,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 0,
+        "current_range_meters": 11891,
+        "lon": -3.662197973743033,
+        "bike_id": "wheelies_MADRID119",
+        "lat": 40.30019785002507,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 0,
+        "current_range_meters": 2971,
+        "lon": -3.665084608366498,
+        "bike_id": "wheelies_MADRID120",
+        "lat": 40.31380116543474,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 142278,
+        "lon": -3.7208188802287605,
+        "bike_id": "wheelies_MADRID121",
+        "lat": 40.49370992620897,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 10177,
+        "lon": -3.7049575011704263,
+        "bike_id": "wheelies_MADRID122",
+        "lat": 40.36834055597049,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 1372,
+        "lon": -3.7357667944857593,
+        "bike_id": "wheelies_MADRID123",
+        "lat": 40.451658425270715,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 1,
+        "current_range_meters": 100177,
+        "lon": -3.715683591861823,
+        "bike_id": "wheelies_MADRID124",
+        "lat": 40.38570755088998,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 16871,
+        "lon": -3.7058679631769835,
+        "bike_id": "wheelies_MADRID125",
+        "lat": 40.431160559559636,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 0,
+        "current_range_meters": 7010,
+        "lon": -3.7060579782902745,
+        "bike_id": "wheelies_MADRID126",
+        "lat": 40.455686934142626,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 8485,
+        "lon": -3.7653168743952836,
+        "bike_id": "wheelies_MADRID127",
+        "lat": 40.3819934591321,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 58245,
+        "lon": -3.658777292927738,
+        "bike_id": "wheelies_MADRID128",
+        "lat": 40.46440109181736,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 1,
+        "current_range_meters": 200616,
+        "lon": -3.7507274852461308,
+        "bike_id": "wheelies_MADRID129",
+        "lat": 40.41439927569482,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 0,
+        "current_range_meters": 6751,
+        "lon": -3.76173887957481,
+        "bike_id": "wheelies_MADRID130",
+        "lat": 40.43969292394868,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 1,
+        "current_range_meters": 78735,
+        "lon": -3.6573043901505415,
+        "bike_id": "wheelies_MADRID131",
+        "lat": 40.3796862643554,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 0,
+        "current_range_meters": 3983,
+        "lon": -3.7460008475598334,
+        "bike_id": "wheelies_MADRID132",
+        "lat": 40.474648628624216,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 2543,
+        "lon": -3.636930792782164,
+        "bike_id": "wheelies_MADRID133",
+        "lat": 40.3322085304889,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 1,
+        "current_range_meters": 70181,
+        "lon": -3.7661967901852864,
+        "bike_id": "wheelies_MADRID134",
+        "lat": 40.36366905698515,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 0,
+        "current_range_meters": 12644,
+        "lon": -3.681759484241127,
+        "bike_id": "wheelies_MADRID135",
+        "lat": 40.45355502469365,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 0,
+        "current_range_meters": 9518,
+        "lon": -3.7018081734899777,
+        "bike_id": "wheelies_MADRID136",
+        "lat": 40.453252162736426,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 15621,
+        "lon": -3.6980194831355164,
+        "bike_id": "wheelies_MADRID137",
+        "lat": 40.48199980428685,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 1,
+        "current_range_meters": 177582,
+        "lon": -3.75285541097316,
+        "bike_id": "wheelies_MADRID138",
+        "lat": 40.44363064437384,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 1,
+        "current_range_meters": 159293,
+        "lon": -3.657345198500306,
+        "bike_id": "wheelies_MADRID139",
+        "lat": 40.37418618695166,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 103274,
+        "lon": -3.624613677735855,
+        "bike_id": "wheelies_MADRID140",
+        "lat": 40.37211257747796,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 1,
+        "current_range_meters": 161958,
+        "lon": -3.7702558797301653,
+        "bike_id": "wheelies_MADRID141",
+        "lat": 40.479347373917385,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 32577,
+        "lon": -3.770856448330336,
+        "bike_id": "wheelies_MADRID142",
+        "lat": 40.49785881395176,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 6387,
+        "lon": -3.6722345932739575,
+        "bike_id": "wheelies_MADRID143",
+        "lat": 40.44861192379874,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 0,
+        "current_range_meters": 13935,
+        "lon": -3.663612131533275,
+        "bike_id": "wheelies_MADRID144",
+        "lat": 40.305770176613585,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 207034,
+        "lon": -3.7199900187081965,
+        "bike_id": "wheelies_MADRID145",
+        "lat": 40.43555381756469,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 9630,
+        "lon": -3.6249170948707943,
+        "bike_id": "wheelies_MADRID146",
+        "lat": 40.46719059931761,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 10624,
+        "lon": -3.7274085142901177,
+        "bike_id": "wheelies_MADRID147",
+        "lat": 40.306773289342466,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 0,
+        "current_range_meters": 17749,
+        "lon": -3.7029789270214986,
+        "bike_id": "wheelies_MADRID148",
+        "lat": 40.47470458499666,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 0,
+        "current_range_meters": 4022,
+        "lon": -3.65801501530909,
+        "bike_id": "wheelies_MADRID149",
+        "lat": 40.396188993789906,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 1,
+        "current_range_meters": 166974,
+        "lon": -3.673943014254725,
+        "bike_id": "wheelies_MADRID150",
+        "lat": 40.346377438450396,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 1,
+        "current_range_meters": 147705,
+        "lon": -3.6329208362411123,
+        "bike_id": "wheelies_MADRID151",
+        "lat": 40.39956996252862,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 146716,
+        "lon": -3.6863147697555885,
+        "bike_id": "wheelies_MADRID152",
+        "lat": 40.337477483594824,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 0,
+        "current_range_meters": 18068,
+        "lon": -3.6048268181809915,
+        "bike_id": "wheelies_MADRID153",
+        "lat": 40.37753906379083,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 0,
+        "current_range_meters": 3952,
+        "lon": -3.6305471504784284,
+        "bike_id": "wheelies_MADRID154",
+        "lat": 40.37640263988741,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 0,
+        "current_range_meters": 16666,
+        "lon": -3.798114340201552,
+        "bike_id": "wheelies_MADRID155",
+        "lat": 40.39148307219346,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 91348,
+        "lon": -3.6328781023341983,
+        "bike_id": "wheelies_MADRID156",
+        "lat": 40.423518624360234,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 76363,
+        "lon": -3.7426335364160255,
+        "bike_id": "wheelies_MADRID157",
+        "lat": 40.41618669241601,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 1,
+        "current_range_meters": 61152,
+        "lon": -3.767024054552293,
+        "bike_id": "wheelies_MADRID158",
+        "lat": 40.36983803886394,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 0,
+        "current_range_meters": 15798,
+        "lon": -3.6991280552714065,
+        "bike_id": "wheelies_MADRID159",
+        "lat": 40.42762730089254,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 0,
+        "current_range_meters": 17921,
+        "lon": -3.7339304590952924,
+        "bike_id": "wheelies_MADRID160",
+        "lat": 40.41684100069594,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 12676,
+        "lon": -3.6378528961471397,
+        "bike_id": "wheelies_MADRID161",
+        "lat": 40.3065877612508,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 1,
+        "current_range_meters": 186865,
+        "lon": -3.6123906664657564,
+        "bike_id": "wheelies_MADRID162",
+        "lat": 40.318063880337846,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 0,
+        "current_range_meters": 8465,
+        "lon": -3.7186205242545447,
+        "bike_id": "wheelies_MADRID163",
+        "lat": 40.42052491929718,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 55109,
+        "lon": -3.607366049182161,
+        "bike_id": "wheelies_MADRID164",
+        "lat": 40.38270085569973,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 95746,
+        "lon": -3.64618665545602,
+        "bike_id": "wheelies_MADRID165",
+        "lat": 40.31770950084685,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 1,
+        "current_range_meters": 192971,
+        "lon": -3.7282256132884433,
+        "bike_id": "wheelies_MADRID166",
+        "lat": 40.388011113937566,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 7571,
+        "lon": -3.6926229803330917,
+        "bike_id": "wheelies_MADRID167",
+        "lat": 40.34390581000115,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 0,
+        "current_range_meters": 11727,
+        "lon": -3.7510428291807423,
+        "bike_id": "wheelies_MADRID168",
+        "lat": 40.32829426683074,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 2597,
+        "lon": -3.722534439174216,
+        "bike_id": "wheelies_MADRID169",
+        "lat": 40.305869910547386,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 193375,
+        "lon": -3.7459937773014405,
+        "bike_id": "wheelies_MADRID170",
+        "lat": 40.40017757210165,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 105362,
+        "lon": -3.7988862894735327,
+        "bike_id": "wheelies_MADRID171",
+        "lat": 40.45055612014122,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 10513,
+        "lon": -3.6235891161503093,
+        "bike_id": "wheelies_MADRID172",
+        "lat": 40.39973095972154,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 0,
+        "current_range_meters": 8090,
+        "lon": -3.698249264621765,
+        "bike_id": "wheelies_MADRID173",
+        "lat": 40.45831409835082,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 1,
+        "current_range_meters": 161287,
+        "lon": -3.6124795217733596,
+        "bike_id": "wheelies_MADRID174",
+        "lat": 40.39780664481006,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 4788,
+        "lon": -3.6329256873964817,
+        "bike_id": "wheelies_MADRID175",
+        "lat": 40.31292248796461,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 163824,
+        "lon": -3.7340132337197076,
+        "bike_id": "wheelies_MADRID176",
+        "lat": 40.426099102661034,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 81194,
+        "lon": -3.603659809793526,
+        "bike_id": "wheelies_MADRID177",
+        "lat": 40.470350085036394,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 7242,
+        "lon": -3.7593939154957243,
+        "bike_id": "wheelies_MADRID178",
+        "lat": 40.49371404664558,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 18023,
+        "lon": -3.7670020415073973,
+        "bike_id": "wheelies_MADRID179",
+        "lat": 40.38621099328,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 0,
+        "current_range_meters": 19556,
+        "lon": -3.710655168469719,
+        "bike_id": "wheelies_MADRID180",
+        "lat": 40.353408846661885,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 1,
+        "current_range_meters": 50965,
+        "lon": -3.796382593691672,
+        "bike_id": "wheelies_MADRID181",
+        "lat": 40.46573994352963,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 0,
+        "current_range_meters": 8276,
+        "lon": -3.6340671212637257,
+        "bike_id": "wheelies_MADRID182",
+        "lat": 40.40634350152908,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 12990,
+        "lon": -3.720187914861837,
+        "bike_id": "wheelies_MADRID183",
+        "lat": 40.434608040195904,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 34478,
+        "lon": -3.7027238917146224,
+        "bike_id": "wheelies_MADRID184",
+        "lat": 40.3831789128373,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 0,
+        "current_range_meters": 12402,
+        "lon": -3.7945878608507595,
+        "bike_id": "wheelies_MADRID185",
+        "lat": 40.381322207271666,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 12500,
+        "lon": -3.70566015435897,
+        "bike_id": "wheelies_MADRID186",
+        "lat": 40.4758902614467,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 1,
+        "current_range_meters": 148618,
+        "lon": -3.603005252418982,
+        "bike_id": "wheelies_MADRID187",
+        "lat": 40.3656276323221,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 88232,
+        "lon": -3.6350737454612325,
+        "bike_id": "wheelies_MADRID188",
+        "lat": 40.49963592560956,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 2629,
+        "lon": -3.7448081970723557,
+        "bike_id": "wheelies_MADRID189",
+        "lat": 40.446473545588624,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 18735,
+        "lon": -3.710178886879146,
+        "bike_id": "wheelies_MADRID190",
+        "lat": 40.35604095030694,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 22395,
+        "lon": -3.778318953189861,
+        "bike_id": "wheelies_MADRID191",
+        "lat": 40.46221285021008,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 0,
+        "current_range_meters": 11192,
+        "lon": -3.764573168612937,
+        "bike_id": "wheelies_MADRID192",
+        "lat": 40.48378228993451,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 1525,
+        "lon": -3.7087059944372496,
+        "bike_id": "wheelies_MADRID193",
+        "lat": 40.46807225442677,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 4201,
+        "lon": -3.6917711196032275,
+        "bike_id": "wheelies_MADRID194",
+        "lat": 40.49395349981004,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 0,
+        "current_range_meters": 16273,
+        "lon": -3.6135316816405547,
+        "bike_id": "wheelies_MADRID195",
+        "lat": 40.36697239060436,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 1638,
+        "lon": -3.7843706180061853,
+        "bike_id": "wheelies_MADRID196",
+        "lat": 40.460431564810285,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 0,
+        "current_range_meters": 2528,
+        "lon": -3.711937110155169,
+        "bike_id": "wheelies_MADRID197",
+        "lat": 40.48229819341422,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 1,
+        "current_range_meters": 177123,
+        "lon": -3.620732847689784,
+        "bike_id": "wheelies_MADRID198",
+        "lat": 40.49308123262923,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 195923,
+        "lon": -3.7218296286916956,
+        "bike_id": "wheelies_MADRID199",
+        "lat": 40.390823184226306,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 1,
+        "current_range_meters": 59268,
+        "lon": -3.7849014772067893,
+        "bike_id": "wheelies_MADRID200",
+        "lat": 40.38481211776872,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 17589,
+        "lon": -3.7372304511800767,
+        "bike_id": "wheelies_MADRID201",
+        "lat": 40.33421397096779,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 0,
+        "current_range_meters": 13119,
+        "lon": -3.763116305936396,
+        "bike_id": "wheelies_MADRID202",
+        "lat": 40.36849396238586,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 69418,
+        "lon": -3.7083310426015332,
+        "bike_id": "wheelies_MADRID203",
+        "lat": 40.42547029367585,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 1,
+        "current_range_meters": 107981,
+        "lon": -3.736316913547387,
+        "bike_id": "wheelies_MADRID204",
+        "lat": 40.46822701145967,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 9574,
+        "lon": -3.786288914018144,
+        "bike_id": "wheelies_MADRID205",
+        "lat": 40.30106563439421,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 81552,
+        "lon": -3.694968184975192,
+        "bike_id": "wheelies_MADRID206",
+        "lat": 40.38625603476539,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 0,
+        "current_range_meters": 10330,
+        "lon": -3.7784195075685636,
+        "bike_id": "wheelies_MADRID207",
+        "lat": 40.32484331705896,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 108109,
+        "lon": -3.619237230378014,
+        "bike_id": "wheelies_MADRID208",
+        "lat": 40.37788196687961,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 1352,
+        "lon": -3.6012236811770473,
+        "bike_id": "wheelies_MADRID209",
+        "lat": 40.47018810735351,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 1,
+        "current_range_meters": 198359,
+        "lon": -3.607555166871429,
+        "bike_id": "wheelies_MADRID210",
+        "lat": 40.47659990203881,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 185222,
+        "lon": -3.730105853767185,
+        "bike_id": "wheelies_MADRID211",
+        "lat": 40.47720715198447,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 10688,
+        "lon": -3.646799001374439,
+        "bike_id": "wheelies_MADRID212",
+        "lat": 40.37533054485778,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 1,
+        "current_range_meters": 49040,
+        "lon": -3.792952992711134,
+        "bike_id": "wheelies_MADRID213",
+        "lat": 40.42999666992404,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 1,
+        "current_range_meters": 125999,
+        "lon": -3.759353809059277,
+        "bike_id": "wheelies_MADRID214",
+        "lat": 40.44012395409054,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 7918,
+        "lon": -3.7616371455811497,
+        "bike_id": "wheelies_MADRID215",
+        "lat": 40.46268216209341,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 1,
+        "current_range_meters": 117854,
+        "lon": -3.6227131457816752,
+        "bike_id": "wheelies_MADRID216",
+        "lat": 40.32263805094703,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 10474,
+        "lon": -3.6351956686878273,
+        "bike_id": "wheelies_MADRID217",
+        "lat": 40.32361097835838,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 1,
+        "current_range_meters": 186361,
+        "lon": -3.676366766194092,
+        "bike_id": "wheelies_MADRID218",
+        "lat": 40.35770810081119,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 200208,
+        "lon": -3.673311873141121,
+        "bike_id": "wheelies_MADRID219",
+        "lat": 40.3289771068933,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 201587,
+        "lon": -3.6336910945899445,
+        "bike_id": "wheelies_MADRID220",
+        "lat": 40.36755921527362,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 11296,
+        "lon": -3.7591111415504854,
+        "bike_id": "wheelies_MADRID221",
+        "lat": 40.468137799325376,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 0,
+        "current_range_meters": 6283,
+        "lon": -3.6741250976754034,
+        "bike_id": "wheelies_MADRID222",
+        "lat": 40.36456993264215,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 18160,
+        "lon": -3.643997912768531,
+        "bike_id": "wheelies_MADRID223",
+        "lat": 40.42301570212231,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 0,
+        "current_range_meters": 4229,
+        "lon": -3.630714215751636,
+        "bike_id": "wheelies_MADRID224",
+        "lat": 40.391611739325235,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 179885,
+        "lon": -3.732898337000366,
+        "bike_id": "wheelies_MADRID225",
+        "lat": 40.45560343746567,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 6851,
+        "lon": -3.7215710819415335,
+        "bike_id": "wheelies_MADRID226",
+        "lat": 40.46879155518544,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 0,
+        "current_range_meters": 1692,
+        "lon": -3.7054882623046543,
+        "bike_id": "wheelies_MADRID227",
+        "lat": 40.39270708530704,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 1,
+        "current_range_meters": 107862,
+        "lon": -3.7971786381346977,
+        "bike_id": "wheelies_MADRID228",
+        "lat": 40.4813841396691,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 5589,
+        "lon": -3.68725805031078,
+        "bike_id": "wheelies_MADRID229",
+        "lat": 40.34917144980638,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 0,
+        "current_range_meters": 13897,
+        "lon": -3.7472855341250337,
+        "bike_id": "wheelies_MADRID230",
+        "lat": 40.462271888069345,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 0,
+        "current_range_meters": 17920,
+        "lon": -3.6307485807619684,
+        "bike_id": "wheelies_MADRID231",
+        "lat": 40.47937938723721,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 11449,
+        "lon": -3.602279516071961,
+        "bike_id": "wheelies_MADRID232",
+        "lat": 40.36784394803646,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 0,
+        "current_range_meters": 17739,
+        "lon": -3.702914459927519,
+        "bike_id": "wheelies_MADRID233",
+        "lat": 40.47392667380156,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 46890,
+        "lon": -3.6200017569007827,
+        "bike_id": "wheelies_MADRID234",
+        "lat": 40.38056528030864,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 17490,
+        "lon": -3.6763652720378337,
+        "bike_id": "wheelies_MADRID235",
+        "lat": 40.41849746276422,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 1,
+        "current_range_meters": 24840,
+        "lon": -3.79881641256367,
+        "bike_id": "wheelies_MADRID236",
+        "lat": 40.31553779382483,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 106846,
+        "lon": -3.6086233236990397,
+        "bike_id": "wheelies_MADRID237",
+        "lat": 40.40659763140836,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 0,
+        "current_range_meters": 7993,
+        "lon": -3.6451833092316854,
+        "bike_id": "wheelies_MADRID238",
+        "lat": 40.37624363186297,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 0,
+        "current_range_meters": 17050,
+        "lon": -3.6780226214617815,
+        "bike_id": "wheelies_MADRID239",
+        "lat": 40.36847744048622,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 69011,
+        "lon": -3.633991098376567,
+        "bike_id": "wheelies_MADRID240",
+        "lat": 40.46874955651469,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 0,
+        "current_range_meters": 10264,
+        "lon": -3.7423843931967378,
+        "bike_id": "wheelies_MADRID241",
+        "lat": 40.40269657315694,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 167671,
+        "lon": -3.6941582190053013,
+        "bike_id": "wheelies_MADRID242",
+        "lat": 40.45268015933683,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 138210,
+        "lon": -3.6654269146401908,
+        "bike_id": "wheelies_MADRID243",
+        "lat": 40.3120760971442,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 1,
+        "current_range_meters": 148149,
+        "lon": -3.62219119191399,
+        "bike_id": "wheelies_MADRID244",
+        "lat": 40.35088337429889,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 1,
+        "current_range_meters": 154308,
+        "lon": -3.6469158663511174,
+        "bike_id": "wheelies_MADRID245",
+        "lat": 40.30037511221626,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 1,
+        "current_range_meters": 43418,
+        "lon": -3.717796425748844,
+        "bike_id": "wheelies_MADRID246",
+        "lat": 40.30153739040214,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 1,
+        "current_range_meters": 203709,
+        "lon": -3.736434750024024,
+        "bike_id": "wheelies_MADRID247",
+        "lat": 40.392478915141226,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 1,
+        "current_range_meters": 145616,
+        "lon": -3.687043923592052,
+        "bike_id": "wheelies_MADRID248",
+        "lat": 40.33316635453717,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 14802,
+        "lon": -3.641706536123377,
+        "bike_id": "wheelies_MADRID249",
+        "lat": 40.323643685167056,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 17035,
+        "lon": -3.748263821820171,
+        "bike_id": "wheelies_MADRID250",
+        "lat": 40.45341391748017,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 191495,
+        "lon": -3.6777858567893076,
+        "bike_id": "wheelies_MADRID251",
+        "lat": 40.43047057759376,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 11793,
+        "lon": -3.6573948135760017,
+        "bike_id": "wheelies_MADRID252",
+        "lat": 40.446447822892694,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 1546,
+        "lon": -3.6238787104053736,
+        "bike_id": "wheelies_MADRID253",
+        "lat": 40.41743059927356,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 34745,
+        "lon": -3.724633339305828,
+        "bike_id": "wheelies_MADRID254",
+        "lat": 40.40835323390993,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 0,
+        "current_range_meters": 11968,
+        "lon": -3.7322180068853807,
+        "bike_id": "wheelies_MADRID255",
+        "lat": 40.346702970873906,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 112341,
+        "lon": -3.7239019914308504,
+        "bike_id": "wheelies_MADRID256",
+        "lat": 40.303259643280775,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 41618,
+        "lon": -3.7812892393685305,
+        "bike_id": "wheelies_MADRID257",
+        "lat": 40.30533113449349,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 1,
+        "current_range_meters": 31875,
+        "lon": -3.715104850054349,
+        "bike_id": "wheelies_MADRID258",
+        "lat": 40.49815730557938,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 99021,
+        "lon": -3.651157336099199,
+        "bike_id": "wheelies_MADRID259",
+        "lat": 40.31396154253433,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 198209,
+        "lon": -3.789599353525906,
+        "bike_id": "wheelies_MADRID260",
+        "lat": 40.36487169864986,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 1,
+        "current_range_meters": 27413,
+        "lon": -3.78325946206661,
+        "bike_id": "wheelies_MADRID261",
+        "lat": 40.41801465151527,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 1,
+        "current_range_meters": 187386,
+        "lon": -3.78367948351365,
+        "bike_id": "wheelies_MADRID262",
+        "lat": 40.34821676096022,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 80109,
+        "lon": -3.6228113178966384,
+        "bike_id": "wheelies_MADRID263",
+        "lat": 40.37147891305702,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 1,
+        "current_range_meters": 167249,
+        "lon": -3.623406561720335,
+        "bike_id": "wheelies_MADRID264",
+        "lat": 40.45893029661831,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 0,
+        "current_range_meters": 18394,
+        "lon": -3.7734242889844993,
+        "bike_id": "wheelies_MADRID265",
+        "lat": 40.42443815554116,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 5956,
+        "lon": -3.7551238186134617,
+        "bike_id": "wheelies_MADRID266",
+        "lat": 40.47103263181633,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 87157,
+        "lon": -3.6833987006414537,
+        "bike_id": "wheelies_MADRID267",
+        "lat": 40.4328875324719,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 0,
+        "current_range_meters": 13640,
+        "lon": -3.7288621449940873,
+        "bike_id": "wheelies_MADRID268",
+        "lat": 40.397130661447896,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 1,
+        "current_range_meters": 57989,
+        "lon": -3.6986688113386994,
+        "bike_id": "wheelies_MADRID269",
+        "lat": 40.365703419775414,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 0,
+        "current_range_meters": 20885,
+        "lon": -3.771093599578051,
+        "bike_id": "wheelies_MADRID270",
+        "lat": 40.42055050854144,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 12968,
+        "lon": -3.782360216094188,
+        "bike_id": "wheelies_MADRID271",
+        "lat": 40.35059908034812,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 3998,
+        "lon": -3.6344133715146674,
+        "bike_id": "wheelies_MADRID272",
+        "lat": 40.41960043427462,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 0,
+        "current_range_meters": 10022,
+        "lon": -3.7380942560776744,
+        "bike_id": "wheelies_MADRID273",
+        "lat": 40.477162240359256,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 1,
+        "current_range_meters": 171320,
+        "lon": -3.6638889237065673,
+        "bike_id": "wheelies_MADRID274",
+        "lat": 40.36527089437556,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 0,
+        "current_range_meters": 20334,
+        "lon": -3.630510791238712,
+        "bike_id": "wheelies_MADRID275",
+        "lat": 40.40462978199415,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 11824,
+        "lon": -3.7938742332758966,
+        "bike_id": "wheelies_MADRID276",
+        "lat": 40.304234783709624,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 1,
+        "current_range_meters": 83332,
+        "lon": -3.7634166971948377,
+        "bike_id": "wheelies_MADRID277",
+        "lat": 40.350915608844,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 12890,
+        "lon": -3.7733811190198407,
+        "bike_id": "wheelies_MADRID278",
+        "lat": 40.463878572106175,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 15527,
+        "lon": -3.6848980147967247,
+        "bike_id": "wheelies_MADRID279",
+        "lat": 40.358665680976586,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 16000,
+        "lon": -3.637996762239455,
+        "bike_id": "wheelies_MADRID280",
+        "lat": 40.31672760639151,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 1117,
+        "lon": -3.681018084083704,
+        "bike_id": "wheelies_MADRID281",
+        "lat": 40.378988155998854,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 1,
+        "current_range_meters": 125582,
+        "lon": -3.7274598584311693,
+        "bike_id": "wheelies_MADRID282",
+        "lat": 40.33051275179672,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 1,
+        "current_range_meters": 163683,
+        "lon": -3.7591770727312057,
+        "bike_id": "wheelies_MADRID283",
+        "lat": 40.46911317376749,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 8020,
+        "lon": -3.756701821964609,
+        "bike_id": "wheelies_MADRID284",
+        "lat": 40.47271367075586,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 187772,
+        "lon": -3.636782906822222,
+        "bike_id": "wheelies_MADRID285",
+        "lat": 40.49613430552358,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 1,
+        "current_range_meters": 140653,
+        "lon": -3.7365453789182745,
+        "bike_id": "wheelies_MADRID286",
+        "lat": 40.40406803215496,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 100897,
+        "lon": -3.7590295084554515,
+        "bike_id": "wheelies_MADRID287",
+        "lat": 40.4957654048013,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 39388,
+        "lon": -3.716969375343613,
+        "bike_id": "wheelies_MADRID288",
+        "lat": 40.36012485693112,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 17911,
+        "lon": -3.66548158391609,
+        "bike_id": "wheelies_MADRID289",
+        "lat": 40.45751746570274,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 171613,
+        "lon": -3.717318706600057,
+        "bike_id": "wheelies_MADRID290",
+        "lat": 40.448987743252886,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 1921,
+        "lon": -3.7658462054352873,
+        "bike_id": "wheelies_MADRID291",
+        "lat": 40.40041723679851,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 16972,
+        "lon": -3.76865625891347,
+        "bike_id": "wheelies_MADRID292",
+        "lat": 40.391046694824254,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 1915,
+        "lon": -3.641296100302228,
+        "bike_id": "wheelies_MADRID293",
+        "lat": 40.31559376500663,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 32578,
+        "lon": -3.768240786100595,
+        "bike_id": "wheelies_MADRID294",
+        "lat": 40.44142474039748,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 71992,
+        "lon": -3.787743830758429,
+        "bike_id": "wheelies_MADRID295",
+        "lat": 40.44028843982428,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 0,
+        "current_range_meters": 6641,
+        "lon": -3.6789272534329474,
+        "bike_id": "wheelies_MADRID296",
+        "lat": 40.47214063841168,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 138462,
+        "lon": -3.6364916903110176,
+        "bike_id": "wheelies_MADRID297",
+        "lat": 40.455747451387694,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 0,
+        "current_range_meters": 17322,
+        "lon": -3.737433086606267,
+        "bike_id": "wheelies_MADRID298",
+        "lat": 40.37756509400451,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 20967,
+        "lon": -3.796043256148878,
+        "bike_id": "wheelies_MADRID299",
+        "lat": 40.47759914688422,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 0,
+        "current_range_meters": 11904,
+        "lon": -3.619263895296616,
+        "bike_id": "wheelies_MADRID300",
+        "lat": 40.49579941196012,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 99096,
+        "lon": -3.769462386859778,
+        "bike_id": "wheelies_MADRID301",
+        "lat": 40.39301138008228,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 12033,
+        "lon": -3.6292255832906735,
+        "bike_id": "wheelies_MADRID302",
+        "lat": 40.48912526048,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 0,
+        "current_range_meters": 12376,
+        "lon": -3.7205379583152154,
+        "bike_id": "wheelies_MADRID303",
+        "lat": 40.39934136565297,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 20546,
+        "lon": -3.645240914487016,
+        "bike_id": "wheelies_MADRID304",
+        "lat": 40.345979078140985,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 0,
+        "current_range_meters": 2118,
+        "lon": -3.6665353975680586,
+        "bike_id": "wheelies_MADRID305",
+        "lat": 40.48213369454219,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 1,
+        "current_range_meters": 102172,
+        "lon": -3.725667072244095,
+        "bike_id": "wheelies_MADRID306",
+        "lat": 40.38895863633143,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 1,
+        "current_range_meters": 202710,
+        "lon": -3.7130246081415805,
+        "bike_id": "wheelies_MADRID307",
+        "lat": 40.4395881896058,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 0,
+        "current_range_meters": 1996,
+        "lon": -3.630893327263871,
+        "bike_id": "wheelies_MADRID308",
+        "lat": 40.30907866892335,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 0,
+        "current_range_meters": 11165,
+        "lon": -3.6660018859759584,
+        "bike_id": "wheelies_MADRID309",
+        "lat": 40.4380155770188,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 33002,
+        "lon": -3.799435233872891,
+        "bike_id": "wheelies_MADRID310",
+        "lat": 40.48738060021027,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 0,
+        "current_range_meters": 9591,
+        "lon": -3.652336857175571,
+        "bike_id": "wheelies_MADRID311",
+        "lat": 40.44108621385388,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 182922,
+        "lon": -3.6033740511973513,
+        "bike_id": "wheelies_MADRID312",
+        "lat": 40.3979176775219,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 0,
+        "current_range_meters": 12511,
+        "lon": -3.646716632969037,
+        "bike_id": "wheelies_MADRID313",
+        "lat": 40.36896580836616,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 124975,
+        "lon": -3.7701539527365893,
+        "bike_id": "wheelies_MADRID314",
+        "lat": 40.42290735160031,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 1,
+        "current_range_meters": 139224,
+        "lon": -3.774071251510794,
+        "bike_id": "wheelies_MADRID315",
+        "lat": 40.30701926751563,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 0,
+        "current_range_meters": 3930,
+        "lon": -3.7609332087627716,
+        "bike_id": "wheelies_MADRID316",
+        "lat": 40.39302053155197,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 14037,
+        "lon": -3.7030186616853027,
+        "bike_id": "wheelies_MADRID317",
+        "lat": 40.38524046591329,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 0,
+        "current_range_meters": 17994,
+        "lon": -3.7217709187263113,
+        "bike_id": "wheelies_MADRID318",
+        "lat": 40.41089167245743,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 0,
+        "current_range_meters": 3629,
+        "lon": -3.604751134780793,
+        "bike_id": "wheelies_MADRID319",
+        "lat": 40.45447076729423,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 1,
+        "current_range_meters": 147749,
+        "lon": -3.7236223347634554,
+        "bike_id": "wheelies_MADRID320",
+        "lat": 40.427906095584824,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 6016,
+        "lon": -3.645286461628426,
+        "bike_id": "wheelies_MADRID321",
+        "lat": 40.33203122970795,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 1,
+        "current_range_meters": 73853,
+        "lon": -3.628393228293693,
+        "bike_id": "wheelies_MADRID322",
+        "lat": 40.31694208982299,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 0,
+        "current_range_meters": 18563,
+        "lon": -3.6756447575082345,
+        "bike_id": "wheelies_MADRID323",
+        "lat": 40.3681305693114,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 0,
+        "current_range_meters": 12778,
+        "lon": -3.771499944905839,
+        "bike_id": "wheelies_MADRID324",
+        "lat": 40.38237671143581,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 147676,
+        "lon": -3.660646948125643,
+        "bike_id": "wheelies_MADRID325",
+        "lat": 40.30962863380194,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 159628,
+        "lon": -3.613221070586468,
+        "bike_id": "wheelies_MADRID326",
+        "lat": 40.36157023274067,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 0,
+        "current_range_meters": 17492,
+        "lon": -3.620017545590787,
+        "bike_id": "wheelies_MADRID327",
+        "lat": 40.3991979949103,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 32381,
+        "lon": -3.6638258286187178,
+        "bike_id": "wheelies_MADRID328",
+        "lat": 40.37900622565548,
+        "pricing_plan_id": "wheelies_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 0,
+        "current_range_meters": 15699,
+        "lon": -3.6975741142811778,
+        "bike_id": "wheelies_MADRID329",
+        "lat": 40.46223718767627,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 1,
+        "current_range_meters": 204510,
+        "lon": -3.732732784592384,
+        "bike_id": "wheelies_MADRID330",
+        "lat": 40.426388262352596,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 0,
+        "current_range_meters": 13973,
+        "lon": -3.625310068579653,
+        "bike_id": "wheelies_MADRID331",
+        "lat": 40.4963585337291,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 46869,
+        "lon": -3.633490458299115,
+        "bike_id": "wheelies_MADRID332",
+        "lat": 40.42286667302708,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 0,
+        "current_range_meters": 1731,
+        "lon": -3.7645833924730585,
+        "bike_id": "wheelies_MADRID333",
+        "lat": 40.34730353134916,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 9856,
+        "lon": -3.788207291380338,
+        "bike_id": "wheelies_MADRID334",
+        "lat": 40.494163346423406,
+        "pricing_plan_id": "wheelies_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 185830,
+        "lon": -3.746522618177751,
+        "bike_id": "wheelies_MADRID335",
+        "lat": 40.48241534314924,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 48771,
+        "lon": -3.626819396824524,
+        "bike_id": "wheelies_MADRID336",
+        "lat": 40.39336031999173,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 1,
+        "current_range_meters": 43541,
+        "lon": -3.677068690551271,
+        "bike_id": "wheelies_MADRID337",
+        "lat": 40.423806351172445,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_motorbike",
+        "is_disabled": 0,
+        "current_range_meters": 92265,
+        "lon": -3.7305455443192432,
+        "bike_id": "wheelies_MADRID338",
+        "lat": 40.364543010031944,
+        "pricing_plan_id": "wheelies_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "wheelies_scooter",
+        "is_disabled": 1,
+        "current_range_meters": 9327,
+        "lon": -3.688758781156356,
+        "bike_id": "wheelies_MADRID339",
+        "lat": 40.49402096273671,
+        "pricing_plan_id": "wheelies_plan_2"
+      }
+    ]
+  },
+  "ttl": 180,
+  "version": "2.3"
+}

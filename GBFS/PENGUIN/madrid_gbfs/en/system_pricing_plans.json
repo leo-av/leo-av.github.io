@@ -1,0 +1,74 @@
+{
+  "last_updated": 1732463307,
+  "data": {
+    "plans": [
+      {
+        "price": 1.35,
+        "name": "Simple rate",
+        "description": "1.60 € per kilometer",
+        "currency": "EUR",
+        "per_km_pricing": [
+          {
+            "rate": 1.6,
+            "start": 0,
+            "interval": 1
+          }
+        ],
+        "plan_id": "penguin_plan_1",
+        "is_taxable": false
+      },
+      {
+        "price": 3.7,
+        "name": "One-Way",
+        "description": "Includes 27km, overage fees apply after 27km",
+        "currency": "EUR",
+        "per_km_pricing": [
+          {
+            "rate": 2.25,
+            "start": 27,
+            "interval": 1,
+            "end": 55
+          },
+          {
+            "rate": 0.85,
+            "start": 55,
+            "interval": 1,
+            "end": 82
+          },
+          {
+            "rate": 6.75,
+            "start": 82,
+            "interval": 5,
+            "end": 111
+          }
+        ],
+        "plan_id": "penguin_plan_2",
+        "is_taxable": false
+      },
+      {
+        "per_min_pricing": [
+          {
+            "rate": 1.25,
+            "start": 0,
+            "interval": 1
+          }
+        ],
+        "price": 2.15,
+        "name": "Simple rate",
+        "description": "2.15 € unlock fee, 0.65 € per kilometer and 1.25 € per minute.",
+        "currency": "EUR",
+        "per_km_pricing": [
+          {
+            "rate": 0.65,
+            "start": 0,
+            "interval": 1
+          }
+        ],
+        "plan_id": "penguin_plan_3",
+        "is_taxable": true
+      }
+    ]
+  },
+  "ttl": 180,
+  "version": "2.3"
+}

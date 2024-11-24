@@ -1,0 +1,19 @@
+{
+  "last_updated": 1732463282,
+  "data": {
+    "system_id": "free_streets",
+    "timezone": "Europe/Paris",
+    "name": "FREE_STREETS",
+    "language": "en",
+    "short_name": "FREE_STREETS",
+    "phone_number": "666777888",
+    "feed_contact_email": "datafeed@free_streets.es",
+    "operator": "FREE_STREETS",
+    "url": "http://www.exampleride.org",
+    "email": "customerservice@free_streets.es",
+    "license_url": "https://exampleride.org/data-license.html",
+    "start_date": "2010-06-10"
+  },
+  "ttl": 180,
+  "version": "2.3"
+}

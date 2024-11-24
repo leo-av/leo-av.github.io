@@ -1,0 +1,31 @@
+{
+  "last_updated": 1732463274,
+  "data": {
+    "vehicle_types": [
+      {
+        "pricing_plans": [
+          "wheelies_plan_1",
+          "wheelies_plan_2"
+        ],
+        "vehicle_type_id": "wheelies_motorbike",
+        "propulsion_type": "electric",
+        "default_pricing_plan_id": "wheelies_plan_1",
+        "max_range_meters": 200000,
+        "form_factor": "moped"
+      },
+      {
+        "pricing_plans": [
+          "wheelies_plan_1",
+          "wheelies_plan_3"
+        ],
+        "vehicle_type_id": "wheelies_scooter",
+        "propulsion_type": "electric",
+        "default_pricing_plan_id": "wheelies_plan_1",
+        "max_range_meters": 20000,
+        "form_factor": "scooter"
+      }
+    ]
+  },
+  "ttl": 86400,
+  "version": "2.3"
+}

@@ -1,0 +1,2344 @@
+{
+  "last_updated": 1732463282,
+  "data": {
+    "bikes": [
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 308381,
+        "lon": -3.7209411886758508,
+        "bike_id": "free_streets_MADRID001",
+        "lat": 40.46202932230134,
+        "pricing_plan_id": "free_streets_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 139935,
+        "lon": -3.740761859927735,
+        "bike_id": "free_streets_MADRID002",
+        "lat": 40.32614113263705,
+        "pricing_plan_id": "free_streets_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 113780,
+        "lon": -3.623802667746864,
+        "bike_id": "free_streets_MADRID003",
+        "lat": 40.356156176703585,
+        "pricing_plan_id": "free_streets_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 105734,
+        "lon": -3.6564567025641193,
+        "bike_id": "free_streets_MADRID004",
+        "lat": 40.48664463355604,
+        "pricing_plan_id": "free_streets_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 90720,
+        "lon": -3.667669909132504,
+        "bike_id": "free_streets_MADRID005",
+        "lat": 40.476332501132276,
+        "pricing_plan_id": "free_streets_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 338418,
+        "lon": -3.7694988877320426,
+        "bike_id": "free_streets_MADRID006",
+        "lat": 40.47091257311415,
+        "pricing_plan_id": "free_streets_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 81674,
+        "lon": -3.7539437768934705,
+        "bike_id": "free_streets_MADRID007",
+        "lat": 40.30102884728564,
+        "pricing_plan_id": "free_streets_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 316515,
+        "lon": -3.6694606666538023,
+        "bike_id": "free_streets_MADRID008",
+        "lat": 40.30107662661687,
+        "pricing_plan_id": "free_streets_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 386443,
+        "lon": -3.607052277224401,
+        "bike_id": "free_streets_MADRID009",
+        "lat": 40.31636496020218,
+        "pricing_plan_id": "free_streets_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 286893,
+        "lon": -3.665494767140297,
+        "bike_id": "free_streets_MADRID010",
+        "lat": 40.495377909784956,
+        "pricing_plan_id": "free_streets_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 315467,
+        "lon": -3.7225786978138173,
+        "bike_id": "free_streets_MADRID011",
+        "lat": 40.439865327740556,
+        "pricing_plan_id": "free_streets_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 25627,
+        "lon": -3.602683316441272,
+        "bike_id": "free_streets_MADRID012",
+        "lat": 40.3835679229107,
+        "pricing_plan_id": "free_streets_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 390773,
+        "lon": -3.795618110299678,
+        "bike_id": "free_streets_MADRID013",
+        "lat": 40.4126766241567,
+        "pricing_plan_id": "free_streets_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 398444,
+        "lon": -3.6149024660193216,
+        "bike_id": "free_streets_MADRID014",
+        "lat": 40.38191346090159,
+        "pricing_plan_id": "free_streets_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 406681,
+        "lon": -3.7973231441884443,
+        "bike_id": "free_streets_MADRID015",
+        "lat": 40.38100959780564,
+        "pricing_plan_id": "free_streets_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 187437,
+        "lon": -3.760707880410283,
+        "bike_id": "free_streets_MADRID016",
+        "lat": 40.48347293500455,
+        "pricing_plan_id": "free_streets_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 372606,
+        "lon": -3.7217434241303264,
+        "bike_id": "free_streets_MADRID017",
+        "lat": 40.39096216225249,
+        "pricing_plan_id": "free_streets_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 405939,
+        "lon": -3.6817996264615203,
+        "bike_id": "free_streets_MADRID018",
+        "lat": 40.42456732625891,
+        "pricing_plan_id": "free_streets_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 349905,
+        "lon": -3.7018994324066363,
+        "bike_id": "free_streets_MADRID019",
+        "lat": 40.353046803798975,
+        "pricing_plan_id": "free_streets_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 386338,
+        "lon": -3.6568518053779724,
+        "bike_id": "free_streets_MADRID020",
+        "lat": 40.35413509547013,
+        "pricing_plan_id": "free_streets_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 57614,
+        "lon": -3.755865655738049,
+        "bike_id": "free_streets_MADRID021",
+        "lat": 40.32356652135495,
+        "pricing_plan_id": "free_streets_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 156670,
+        "lon": -3.7326345227392532,
+        "bike_id": "free_streets_MADRID022",
+        "lat": 40.45288228226767,
+        "pricing_plan_id": "free_streets_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 21146,
+        "lon": -3.6671488442400983,
+        "bike_id": "free_streets_MADRID023",
+        "lat": 40.469967052331796,
+        "pricing_plan_id": "free_streets_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 135133,
+        "lon": -3.6445309201431333,
+        "bike_id": "free_streets_MADRID024",
+        "lat": 40.48338632481167,
+        "pricing_plan_id": "free_streets_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 31594,
+        "lon": -3.7098905774908144,
+        "bike_id": "free_streets_MADRID025",
+        "lat": 40.49757241151814,
+        "pricing_plan_id": "free_streets_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 150200,
+        "lon": -3.7942517813958143,
+        "bike_id": "free_streets_MADRID026",
+        "lat": 40.3757811580982,
+        "pricing_plan_id": "free_streets_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 101188,
+        "lon": -3.6138279107661955,
+        "bike_id": "free_streets_MADRID027",
+        "lat": 40.4174429548153,
+        "pricing_plan_id": "free_streets_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 239868,
+        "lon": -3.747642285582128,
+        "bike_id": "free_streets_MADRID028",
+        "lat": 40.40716135453132,
+        "pricing_plan_id": "free_streets_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 182655,
+        "lon": -3.6263170421388176,
+        "bike_id": "free_streets_MADRID029",
+        "lat": 40.32186347424788,
+        "pricing_plan_id": "free_streets_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 68720,
+        "lon": -3.7232018560908022,
+        "bike_id": "free_streets_MADRID030",
+        "lat": 40.37284005784704,
+        "pricing_plan_id": "free_streets_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 160297,
+        "lon": -3.603241983873295,
+        "bike_id": "free_streets_MADRID031",
+        "lat": 40.338181203754715,
+        "pricing_plan_id": "free_streets_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 274340,
+        "lon": -3.7449156412768887,
+        "bike_id": "free_streets_MADRID032",
+        "lat": 40.396149932095,
+        "pricing_plan_id": "free_streets_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 286084,
+        "lon": -3.6658478689473695,
+        "bike_id": "free_streets_MADRID033",
+        "lat": 40.47700228300254,
+        "pricing_plan_id": "free_streets_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 394580,
+        "lon": -3.6732176944375023,
+        "bike_id": "free_streets_MADRID034",
+        "lat": 40.31828274361031,
+        "pricing_plan_id": "free_streets_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 96654,
+        "lon": -3.6493868321710954,
+        "bike_id": "free_streets_MADRID035",
+        "lat": 40.3413785959662,
+        "pricing_plan_id": "free_streets_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 146072,
+        "lon": -3.6567381400989407,
+        "bike_id": "free_streets_MADRID036",
+        "lat": 40.45404285287411,
+        "pricing_plan_id": "free_streets_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 217660,
+        "lon": -3.679247351479912,
+        "bike_id": "free_streets_MADRID037",
+        "lat": 40.47445761017764,
+        "pricing_plan_id": "free_streets_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 118202,
+        "lon": -3.7756718503805344,
+        "bike_id": "free_streets_MADRID038",
+        "lat": 40.31228722681479,
+        "pricing_plan_id": "free_streets_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 235506,
+        "lon": -3.6126360362301217,
+        "bike_id": "free_streets_MADRID039",
+        "lat": 40.389633398540276,
+        "pricing_plan_id": "free_streets_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 336787,
+        "lon": -3.695261653429924,
+        "bike_id": "free_streets_MADRID040",
+        "lat": 40.44581053800352,
+        "pricing_plan_id": "free_streets_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 234129,
+        "lon": -3.734948106432247,
+        "bike_id": "free_streets_MADRID041",
+        "lat": 40.43566068183958,
+        "pricing_plan_id": "free_streets_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 183297,
+        "lon": -3.6945070276879717,
+        "bike_id": "free_streets_MADRID042",
+        "lat": 40.31470343116495,
+        "pricing_plan_id": "free_streets_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 408045,
+        "lon": -3.7901292687739994,
+        "bike_id": "free_streets_MADRID043",
+        "lat": 40.32623321734512,
+        "pricing_plan_id": "free_streets_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 261897,
+        "lon": -3.669656664658702,
+        "bike_id": "free_streets_MADRID044",
+        "lat": 40.38558566446484,
+        "pricing_plan_id": "free_streets_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 151962,
+        "lon": -3.7284021024645315,
+        "bike_id": "free_streets_MADRID045",
+        "lat": 40.326565439762824,
+        "pricing_plan_id": "free_streets_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 130500,
+        "lon": -3.6825625597234017,
+        "bike_id": "free_streets_MADRID046",
+        "lat": 40.42803860964423,
+        "pricing_plan_id": "free_streets_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 351922,
+        "lon": -3.7818836310468775,
+        "bike_id": "free_streets_MADRID047",
+        "lat": 40.4965607688283,
+        "pricing_plan_id": "free_streets_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 385449,
+        "lon": -3.788181492285764,
+        "bike_id": "free_streets_MADRID048",
+        "lat": 40.45610424100387,
+        "pricing_plan_id": "free_streets_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 332758,
+        "lon": -3.6224129555799163,
+        "bike_id": "free_streets_MADRID049",
+        "lat": 40.48983322034845,
+        "pricing_plan_id": "free_streets_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 324167,
+        "lon": -3.6503992040641275,
+        "bike_id": "free_streets_MADRID050",
+        "lat": 40.35957506188614,
+        "pricing_plan_id": "free_streets_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 366366,
+        "lon": -3.644267470467112,
+        "bike_id": "free_streets_MADRID051",
+        "lat": 40.389429322849615,
+        "pricing_plan_id": "free_streets_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 366461,
+        "lon": -3.7672901652570125,
+        "bike_id": "free_streets_MADRID052",
+        "lat": 40.405292242500735,
+        "pricing_plan_id": "free_streets_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 292605,
+        "lon": -3.6596786999381297,
+        "bike_id": "free_streets_MADRID053",
+        "lat": 40.30445752718438,
+        "pricing_plan_id": "free_streets_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 357352,
+        "lon": -3.7616541961303054,
+        "bike_id": "free_streets_MADRID054",
+        "lat": 40.406742413189114,
+        "pricing_plan_id": "free_streets_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 136326,
+        "lon": -3.6438433003594177,
+        "bike_id": "free_streets_MADRID055",
+        "lat": 40.37747998785197,
+        "pricing_plan_id": "free_streets_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 393272,
+        "lon": -3.7453070935109385,
+        "bike_id": "free_streets_MADRID056",
+        "lat": 40.37046779097663,
+        "pricing_plan_id": "free_streets_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 327573,
+        "lon": -3.6495165380920938,
+        "bike_id": "free_streets_MADRID057",
+        "lat": 40.371589807755974,
+        "pricing_plan_id": "free_streets_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 87615,
+        "lon": -3.790638240623474,
+        "bike_id": "free_streets_MADRID058",
+        "lat": 40.35537461329487,
+        "pricing_plan_id": "free_streets_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 163068,
+        "lon": -3.694703520426467,
+        "bike_id": "free_streets_MADRID059",
+        "lat": 40.37034308328459,
+        "pricing_plan_id": "free_streets_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 186726,
+        "lon": -3.704251250377709,
+        "bike_id": "free_streets_MADRID060",
+        "lat": 40.31676168002361,
+        "pricing_plan_id": "free_streets_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 365723,
+        "lon": -3.760233122283008,
+        "bike_id": "free_streets_MADRID061",
+        "lat": 40.37552264315163,
+        "pricing_plan_id": "free_streets_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 287453,
+        "lon": -3.718315769921882,
+        "bike_id": "free_streets_MADRID062",
+        "lat": 40.357239584819325,
+        "pricing_plan_id": "free_streets_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 265481,
+        "lon": -3.6012899990087517,
+        "bike_id": "free_streets_MADRID063",
+        "lat": 40.41008646402016,
+        "pricing_plan_id": "free_streets_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 277151,
+        "lon": -3.728197342549592,
+        "bike_id": "free_streets_MADRID064",
+        "lat": 40.34374181088752,
+        "pricing_plan_id": "free_streets_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 301541,
+        "lon": -3.7468462103626234,
+        "bike_id": "free_streets_MADRID065",
+        "lat": 40.300231854962284,
+        "pricing_plan_id": "free_streets_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 200528,
+        "lon": -3.6019895911419506,
+        "bike_id": "free_streets_MADRID066",
+        "lat": 40.361237297593064,
+        "pricing_plan_id": "free_streets_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 302532,
+        "lon": -3.7363056081803157,
+        "bike_id": "free_streets_MADRID067",
+        "lat": 40.33554365632506,
+        "pricing_plan_id": "free_streets_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 139108,
+        "lon": -3.6701160928063197,
+        "bike_id": "free_streets_MADRID068",
+        "lat": 40.31285996788721,
+        "pricing_plan_id": "free_streets_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 198534,
+        "lon": -3.610855700621346,
+        "bike_id": "free_streets_MADRID069",
+        "lat": 40.39457454848715,
+        "pricing_plan_id": "free_streets_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 151581,
+        "lon": -3.631940567078027,
+        "bike_id": "free_streets_MADRID070",
+        "lat": 40.41191976049954,
+        "pricing_plan_id": "free_streets_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 97802,
+        "lon": -3.759693066581876,
+        "bike_id": "free_streets_MADRID071",
+        "lat": 40.420435283465444,
+        "pricing_plan_id": "free_streets_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 94431,
+        "lon": -3.661440467419552,
+        "bike_id": "free_streets_MADRID072",
+        "lat": 40.37822216228488,
+        "pricing_plan_id": "free_streets_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 391082,
+        "lon": -3.724504219358301,
+        "bike_id": "free_streets_MADRID073",
+        "lat": 40.373185253091954,
+        "pricing_plan_id": "free_streets_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 183812,
+        "lon": -3.6849527790390417,
+        "bike_id": "free_streets_MADRID074",
+        "lat": 40.499494409024535,
+        "pricing_plan_id": "free_streets_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 377827,
+        "lon": -3.6297736535193037,
+        "bike_id": "free_streets_MADRID075",
+        "lat": 40.349767324070854,
+        "pricing_plan_id": "free_streets_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 41575,
+        "lon": -3.7796593637112106,
+        "bike_id": "free_streets_MADRID076",
+        "lat": 40.464316532034125,
+        "pricing_plan_id": "free_streets_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 221845,
+        "lon": -3.6564596432368655,
+        "bike_id": "free_streets_MADRID077",
+        "lat": 40.4153077388084,
+        "pricing_plan_id": "free_streets_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 297151,
+        "lon": -3.6000843232213184,
+        "bike_id": "free_streets_MADRID078",
+        "lat": 40.44723000774165,
+        "pricing_plan_id": "free_streets_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 169475,
+        "lon": -3.671505442709159,
+        "bike_id": "free_streets_MADRID079",
+        "lat": 40.439810160941335,
+        "pricing_plan_id": "free_streets_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 134666,
+        "lon": -3.6890449753243697,
+        "bike_id": "free_streets_MADRID080",
+        "lat": 40.32671571758064,
+        "pricing_plan_id": "free_streets_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 286375,
+        "lon": -3.709094081018303,
+        "bike_id": "free_streets_MADRID081",
+        "lat": 40.38024539856653,
+        "pricing_plan_id": "free_streets_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 93010,
+        "lon": -3.6362234788101193,
+        "bike_id": "free_streets_MADRID082",
+        "lat": 40.35519207542284,
+        "pricing_plan_id": "free_streets_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 309813,
+        "lon": -3.649438043623379,
+        "bike_id": "free_streets_MADRID083",
+        "lat": 40.429032784445596,
+        "pricing_plan_id": "free_streets_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 376128,
+        "lon": -3.7881746482129013,
+        "bike_id": "free_streets_MADRID084",
+        "lat": 40.35540328509961,
+        "pricing_plan_id": "free_streets_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 222874,
+        "lon": -3.719526142654691,
+        "bike_id": "free_streets_MADRID085",
+        "lat": 40.49580832059652,
+        "pricing_plan_id": "free_streets_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 98188,
+        "lon": -3.723899741590944,
+        "bike_id": "free_streets_MADRID086",
+        "lat": 40.38349269027683,
+        "pricing_plan_id": "free_streets_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 299009,
+        "lon": -3.6443078545073218,
+        "bike_id": "free_streets_MADRID087",
+        "lat": 40.4706865881719,
+        "pricing_plan_id": "free_streets_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 378286,
+        "lon": -3.735212940439174,
+        "bike_id": "free_streets_MADRID088",
+        "lat": 40.33525675811336,
+        "pricing_plan_id": "free_streets_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 27458,
+        "lon": -3.7873353319747296,
+        "bike_id": "free_streets_MADRID089",
+        "lat": 40.395080547120024,
+        "pricing_plan_id": "free_streets_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 387012,
+        "lon": -3.7954989298785606,
+        "bike_id": "free_streets_MADRID090",
+        "lat": 40.353747248614866,
+        "pricing_plan_id": "free_streets_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 235415,
+        "lon": -3.652335191391152,
+        "bike_id": "free_streets_MADRID091",
+        "lat": 40.3423037844253,
+        "pricing_plan_id": "free_streets_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 197200,
+        "lon": -3.777974007865814,
+        "bike_id": "free_streets_MADRID092",
+        "lat": 40.36435245194668,
+        "pricing_plan_id": "free_streets_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 326220,
+        "lon": -3.671349762002971,
+        "bike_id": "free_streets_MADRID093",
+        "lat": 40.377026362541265,
+        "pricing_plan_id": "free_streets_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 83805,
+        "lon": -3.6684611655314625,
+        "bike_id": "free_streets_MADRID094",
+        "lat": 40.37418864792759,
+        "pricing_plan_id": "free_streets_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 348322,
+        "lon": -3.6151517150736416,
+        "bike_id": "free_streets_MADRID095",
+        "lat": 40.353195521493824,
+        "pricing_plan_id": "free_streets_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 296078,
+        "lon": -3.690589354115672,
+        "bike_id": "free_streets_MADRID096",
+        "lat": 40.44814028330192,
+        "pricing_plan_id": "free_streets_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 369551,
+        "lon": -3.646150471544703,
+        "bike_id": "free_streets_MADRID097",
+        "lat": 40.34789966667542,
+        "pricing_plan_id": "free_streets_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 408050,
+        "lon": -3.6652203186758556,
+        "bike_id": "free_streets_MADRID098",
+        "lat": 40.45189714690452,
+        "pricing_plan_id": "free_streets_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 60597,
+        "lon": -3.645903765263495,
+        "bike_id": "free_streets_MADRID099",
+        "lat": 40.3781053583332,
+        "pricing_plan_id": "free_streets_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 196759,
+        "lon": -3.71216056334793,
+        "bike_id": "free_streets_MADRID100",
+        "lat": 40.336169408620016,
+        "pricing_plan_id": "free_streets_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 385422,
+        "lon": -3.6259278442184963,
+        "bike_id": "free_streets_MADRID101",
+        "lat": 40.463115890962406,
+        "pricing_plan_id": "free_streets_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 155690,
+        "lon": -3.78157312884893,
+        "bike_id": "free_streets_MADRID102",
+        "lat": 40.444861951470244,
+        "pricing_plan_id": "free_streets_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 223569,
+        "lon": -3.743444560598904,
+        "bike_id": "free_streets_MADRID103",
+        "lat": 40.47349376362141,
+        "pricing_plan_id": "free_streets_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 339960,
+        "lon": -3.6950813016507578,
+        "bike_id": "free_streets_MADRID104",
+        "lat": 40.347928451378806,
+        "pricing_plan_id": "free_streets_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 237251,
+        "lon": -3.7490678148319914,
+        "bike_id": "free_streets_MADRID105",
+        "lat": 40.43319115644027,
+        "pricing_plan_id": "free_streets_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 87813,
+        "lon": -3.761845930905853,
+        "bike_id": "free_streets_MADRID106",
+        "lat": 40.32709840234914,
+        "pricing_plan_id": "free_streets_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 170156,
+        "lon": -3.681645189748624,
+        "bike_id": "free_streets_MADRID107",
+        "lat": 40.44249995008333,
+        "pricing_plan_id": "free_streets_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 269830,
+        "lon": -3.7017677016878547,
+        "bike_id": "free_streets_MADRID108",
+        "lat": 40.44549680773418,
+        "pricing_plan_id": "free_streets_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 68661,
+        "lon": -3.7713377465181352,
+        "bike_id": "free_streets_MADRID109",
+        "lat": 40.3825488121017,
+        "pricing_plan_id": "free_streets_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 113052,
+        "lon": -3.704656560286049,
+        "bike_id": "free_streets_MADRID110",
+        "lat": 40.391802493023526,
+        "pricing_plan_id": "free_streets_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 36619,
+        "lon": -3.6247216472855506,
+        "bike_id": "free_streets_MADRID111",
+        "lat": 40.3054473500821,
+        "pricing_plan_id": "free_streets_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 115391,
+        "lon": -3.738340702196043,
+        "bike_id": "free_streets_MADRID112",
+        "lat": 40.45308643254133,
+        "pricing_plan_id": "free_streets_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 183794,
+        "lon": -3.7387840217345447,
+        "bike_id": "free_streets_MADRID113",
+        "lat": 40.4564385678669,
+        "pricing_plan_id": "free_streets_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 35780,
+        "lon": -3.607248818579845,
+        "bike_id": "free_streets_MADRID114",
+        "lat": 40.30053216032546,
+        "pricing_plan_id": "free_streets_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 297096,
+        "lon": -3.7520923310154526,
+        "bike_id": "free_streets_MADRID115",
+        "lat": 40.304829627475044,
+        "pricing_plan_id": "free_streets_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 224797,
+        "lon": -3.782358815597435,
+        "bike_id": "free_streets_MADRID116",
+        "lat": 40.49718620147143,
+        "pricing_plan_id": "free_streets_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 39925,
+        "lon": -3.703445606445416,
+        "bike_id": "free_streets_MADRID117",
+        "lat": 40.45890903886441,
+        "pricing_plan_id": "free_streets_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 168411,
+        "lon": -3.75930634907759,
+        "bike_id": "free_streets_MADRID118",
+        "lat": 40.40066269112525,
+        "pricing_plan_id": "free_streets_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 38412,
+        "lon": -3.7776475728914507,
+        "bike_id": "free_streets_MADRID119",
+        "lat": 40.4270341920105,
+        "pricing_plan_id": "free_streets_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 281490,
+        "lon": -3.749004395324286,
+        "bike_id": "free_streets_MADRID120",
+        "lat": 40.44590387861811,
+        "pricing_plan_id": "free_streets_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 168737,
+        "lon": -3.705730030146479,
+        "bike_id": "free_streets_MADRID121",
+        "lat": 40.47371962479967,
+        "pricing_plan_id": "free_streets_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 139945,
+        "lon": -3.7188327346048062,
+        "bike_id": "free_streets_MADRID122",
+        "lat": 40.47887139750893,
+        "pricing_plan_id": "free_streets_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 372950,
+        "lon": -3.718429989114192,
+        "bike_id": "free_streets_MADRID123",
+        "lat": 40.45763069573324,
+        "pricing_plan_id": "free_streets_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 114972,
+        "lon": -3.746181141986528,
+        "bike_id": "free_streets_MADRID124",
+        "lat": 40.36223343073428,
+        "pricing_plan_id": "free_streets_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 330179,
+        "lon": -3.676790386779775,
+        "bike_id": "free_streets_MADRID125",
+        "lat": 40.470272996025855,
+        "pricing_plan_id": "free_streets_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 211679,
+        "lon": -3.7431140642290255,
+        "bike_id": "free_streets_MADRID126",
+        "lat": 40.49516445629381,
+        "pricing_plan_id": "free_streets_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 23410,
+        "lon": -3.6065916230619073,
+        "bike_id": "free_streets_MADRID127",
+        "lat": 40.302872174089934,
+        "pricing_plan_id": "free_streets_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 265361,
+        "lon": -3.693785285498047,
+        "bike_id": "free_streets_MADRID128",
+        "lat": 40.353358312441145,
+        "pricing_plan_id": "free_streets_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 170195,
+        "lon": -3.712484174542182,
+        "bike_id": "free_streets_MADRID129",
+        "lat": 40.328094846838084,
+        "pricing_plan_id": "free_streets_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 241499,
+        "lon": -3.6069600750411333,
+        "bike_id": "free_streets_MADRID130",
+        "lat": 40.44996668043124,
+        "pricing_plan_id": "free_streets_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 269858,
+        "lon": -3.646111014333443,
+        "bike_id": "free_streets_MADRID131",
+        "lat": 40.307126863262276,
+        "pricing_plan_id": "free_streets_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 265860,
+        "lon": -3.7259676444809684,
+        "bike_id": "free_streets_MADRID132",
+        "lat": 40.49673408252523,
+        "pricing_plan_id": "free_streets_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 271699,
+        "lon": -3.7374869816137286,
+        "bike_id": "free_streets_MADRID133",
+        "lat": 40.32608284257676,
+        "pricing_plan_id": "free_streets_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 216802,
+        "lon": -3.718349568752298,
+        "bike_id": "free_streets_MADRID134",
+        "lat": 40.37605280799508,
+        "pricing_plan_id": "free_streets_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 146311,
+        "lon": -3.792120571669749,
+        "bike_id": "free_streets_MADRID135",
+        "lat": 40.37427901148348,
+        "pricing_plan_id": "free_streets_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 385966,
+        "lon": -3.7575083115652754,
+        "bike_id": "free_streets_MADRID136",
+        "lat": 40.35357665443188,
+        "pricing_plan_id": "free_streets_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 227631,
+        "lon": -3.7138761928991038,
+        "bike_id": "free_streets_MADRID137",
+        "lat": 40.33669191975619,
+        "pricing_plan_id": "free_streets_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 47364,
+        "lon": -3.738285565420928,
+        "bike_id": "free_streets_MADRID138",
+        "lat": 40.31760664713097,
+        "pricing_plan_id": "free_streets_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 90297,
+        "lon": -3.675811757169612,
+        "bike_id": "free_streets_MADRID139",
+        "lat": 40.460707336843676,
+        "pricing_plan_id": "free_streets_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 194534,
+        "lon": -3.776480538312773,
+        "bike_id": "free_streets_MADRID140",
+        "lat": 40.34151513955744,
+        "pricing_plan_id": "free_streets_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 185451,
+        "lon": -3.6529920995930514,
+        "bike_id": "free_streets_MADRID141",
+        "lat": 40.340418604594475,
+        "pricing_plan_id": "free_streets_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 106700,
+        "lon": -3.7270952425254986,
+        "bike_id": "free_streets_MADRID142",
+        "lat": 40.460452299242405,
+        "pricing_plan_id": "free_streets_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 48426,
+        "lon": -3.611752764966225,
+        "bike_id": "free_streets_MADRID143",
+        "lat": 40.4482700988161,
+        "pricing_plan_id": "free_streets_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 279353,
+        "lon": -3.62518499574053,
+        "bike_id": "free_streets_MADRID144",
+        "lat": 40.330551143397834,
+        "pricing_plan_id": "free_streets_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 189623,
+        "lon": -3.762625952320726,
+        "bike_id": "free_streets_MADRID145",
+        "lat": 40.43239212147732,
+        "pricing_plan_id": "free_streets_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 190188,
+        "lon": -3.773589492337931,
+        "bike_id": "free_streets_MADRID146",
+        "lat": 40.31050944449331,
+        "pricing_plan_id": "free_streets_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 141815,
+        "lon": -3.7070706738882286,
+        "bike_id": "free_streets_MADRID147",
+        "lat": 40.327795997755516,
+        "pricing_plan_id": "free_streets_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 98193,
+        "lon": -3.649890284684452,
+        "bike_id": "free_streets_MADRID148",
+        "lat": 40.45009921804628,
+        "pricing_plan_id": "free_streets_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 398509,
+        "lon": -3.7035767200362537,
+        "bike_id": "free_streets_MADRID149",
+        "lat": 40.43057548131779,
+        "pricing_plan_id": "free_streets_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 393428,
+        "lon": -3.716426610144683,
+        "bike_id": "free_streets_MADRID150",
+        "lat": 40.38178251011006,
+        "pricing_plan_id": "free_streets_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 400343,
+        "lon": -3.643317112964311,
+        "bike_id": "free_streets_MADRID151",
+        "lat": 40.426900576073855,
+        "pricing_plan_id": "free_streets_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 34322,
+        "lon": -3.6372203168447843,
+        "bike_id": "free_streets_MADRID152",
+        "lat": 40.44976588841975,
+        "pricing_plan_id": "free_streets_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 206337,
+        "lon": -3.740360529261066,
+        "bike_id": "free_streets_MADRID153",
+        "lat": 40.314025089005796,
+        "pricing_plan_id": "free_streets_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 131644,
+        "lon": -3.738704173486779,
+        "bike_id": "free_streets_MADRID154",
+        "lat": 40.450701351639495,
+        "pricing_plan_id": "free_streets_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 231529,
+        "lon": -3.721953724137328,
+        "bike_id": "free_streets_MADRID155",
+        "lat": 40.30051792130477,
+        "pricing_plan_id": "free_streets_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 341224,
+        "lon": -3.711083773675875,
+        "bike_id": "free_streets_MADRID156",
+        "lat": 40.442657545997534,
+        "pricing_plan_id": "free_streets_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 193920,
+        "lon": -3.7503487976953105,
+        "bike_id": "free_streets_MADRID157",
+        "lat": 40.41985257890728,
+        "pricing_plan_id": "free_streets_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 133828,
+        "lon": -3.7072331217072745,
+        "bike_id": "free_streets_MADRID158",
+        "lat": 40.46038888112683,
+        "pricing_plan_id": "free_streets_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 114697,
+        "lon": -3.6532608938530595,
+        "bike_id": "free_streets_MADRID159",
+        "lat": 40.46835791153691,
+        "pricing_plan_id": "free_streets_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 251210,
+        "lon": -3.738845651831711,
+        "bike_id": "free_streets_MADRID160",
+        "lat": 40.477390340118326,
+        "pricing_plan_id": "free_streets_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 35393,
+        "lon": -3.6038535119650943,
+        "bike_id": "free_streets_MADRID161",
+        "lat": 40.408978090273266,
+        "pricing_plan_id": "free_streets_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 268587,
+        "lon": -3.737127436070254,
+        "bike_id": "free_streets_MADRID162",
+        "lat": 40.41643889199732,
+        "pricing_plan_id": "free_streets_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 280635,
+        "lon": -3.7260904228255955,
+        "bike_id": "free_streets_MADRID163",
+        "lat": 40.43056955069276,
+        "pricing_plan_id": "free_streets_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 308697,
+        "lon": -3.6889954706414976,
+        "bike_id": "free_streets_MADRID164",
+        "lat": 40.33360794234164,
+        "pricing_plan_id": "free_streets_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 305590,
+        "lon": -3.7446700401861492,
+        "bike_id": "free_streets_MADRID165",
+        "lat": 40.47345931817757,
+        "pricing_plan_id": "free_streets_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 363045,
+        "lon": -3.790272777097024,
+        "bike_id": "free_streets_MADRID166",
+        "lat": 40.30504514932032,
+        "pricing_plan_id": "free_streets_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 58334,
+        "lon": -3.6222499605919434,
+        "bike_id": "free_streets_MADRID167",
+        "lat": 40.32121118339896,
+        "pricing_plan_id": "free_streets_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 197393,
+        "lon": -3.694871543784445,
+        "bike_id": "free_streets_MADRID168",
+        "lat": 40.415695892848554,
+        "pricing_plan_id": "free_streets_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 262923,
+        "lon": -3.6863302012595653,
+        "bike_id": "free_streets_MADRID169",
+        "lat": 40.302126126534496,
+        "pricing_plan_id": "free_streets_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 315138,
+        "lon": -3.7629168816888243,
+        "bike_id": "free_streets_MADRID170",
+        "lat": 40.384830630140954,
+        "pricing_plan_id": "free_streets_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 241738,
+        "lon": -3.634424216998108,
+        "bike_id": "free_streets_MADRID171",
+        "lat": 40.368698726610305,
+        "pricing_plan_id": "free_streets_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 71798,
+        "lon": -3.710055249636744,
+        "bike_id": "free_streets_MADRID172",
+        "lat": 40.430514111652634,
+        "pricing_plan_id": "free_streets_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 384198,
+        "lon": -3.793810483024669,
+        "bike_id": "free_streets_MADRID173",
+        "lat": 40.34644576929332,
+        "pricing_plan_id": "free_streets_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 380846,
+        "lon": -3.6830544326070696,
+        "bike_id": "free_streets_MADRID174",
+        "lat": 40.35548358486271,
+        "pricing_plan_id": "free_streets_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 246770,
+        "lon": -3.610405230151839,
+        "bike_id": "free_streets_MADRID175",
+        "lat": 40.42322340936369,
+        "pricing_plan_id": "free_streets_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 134968,
+        "lon": -3.790854056801995,
+        "bike_id": "free_streets_MADRID176",
+        "lat": 40.47735186885763,
+        "pricing_plan_id": "free_streets_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 50229,
+        "lon": -3.7436824506487767,
+        "bike_id": "free_streets_MADRID177",
+        "lat": 40.33498906354293,
+        "pricing_plan_id": "free_streets_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 57611,
+        "lon": -3.722458628654979,
+        "bike_id": "free_streets_MADRID178",
+        "lat": 40.489314930699194,
+        "pricing_plan_id": "free_streets_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 200258,
+        "lon": -3.7790209918078523,
+        "bike_id": "free_streets_MADRID179",
+        "lat": 40.383200783644995,
+        "pricing_plan_id": "free_streets_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 187087,
+        "lon": -3.6098466783905345,
+        "bike_id": "free_streets_MADRID180",
+        "lat": 40.4519424119829,
+        "pricing_plan_id": "free_streets_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 291235,
+        "lon": -3.6476845775183238,
+        "bike_id": "free_streets_MADRID181",
+        "lat": 40.372563185047426,
+        "pricing_plan_id": "free_streets_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 195640,
+        "lon": -3.7311414581193247,
+        "bike_id": "free_streets_MADRID182",
+        "lat": 40.42610931642076,
+        "pricing_plan_id": "free_streets_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 395729,
+        "lon": -3.714519141409154,
+        "bike_id": "free_streets_MADRID183",
+        "lat": 40.4061330417958,
+        "pricing_plan_id": "free_streets_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 148735,
+        "lon": -3.7917684267854654,
+        "bike_id": "free_streets_MADRID184",
+        "lat": 40.471257180891314,
+        "pricing_plan_id": "free_streets_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 183283,
+        "lon": -3.7854369812921655,
+        "bike_id": "free_streets_MADRID185",
+        "lat": 40.32902209478909,
+        "pricing_plan_id": "free_streets_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 333517,
+        "lon": -3.7237043500797955,
+        "bike_id": "free_streets_MADRID186",
+        "lat": 40.37714992757451,
+        "pricing_plan_id": "free_streets_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 315487,
+        "lon": -3.6662794105885146,
+        "bike_id": "free_streets_MADRID187",
+        "lat": 40.32383708626045,
+        "pricing_plan_id": "free_streets_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 294756,
+        "lon": -3.6690695185958955,
+        "bike_id": "free_streets_MADRID188",
+        "lat": 40.361932432904176,
+        "pricing_plan_id": "free_streets_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 23586,
+        "lon": -3.6215126133065976,
+        "bike_id": "free_streets_MADRID189",
+        "lat": 40.372960900776434,
+        "pricing_plan_id": "free_streets_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 144012,
+        "lon": -3.787470555364525,
+        "bike_id": "free_streets_MADRID190",
+        "lat": 40.36105502213688,
+        "pricing_plan_id": "free_streets_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 203544,
+        "lon": -3.7195958325196394,
+        "bike_id": "free_streets_MADRID191",
+        "lat": 40.49781101497019,
+        "pricing_plan_id": "free_streets_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 123527,
+        "lon": -3.679283820697332,
+        "bike_id": "free_streets_MADRID192",
+        "lat": 40.322563854249076,
+        "pricing_plan_id": "free_streets_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 154616,
+        "lon": -3.6803208189409555,
+        "bike_id": "free_streets_MADRID193",
+        "lat": 40.43694570970018,
+        "pricing_plan_id": "free_streets_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 99633,
+        "lon": -3.641470306124831,
+        "bike_id": "free_streets_MADRID194",
+        "lat": 40.402071946499525,
+        "pricing_plan_id": "free_streets_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 76959,
+        "lon": -3.7608868767354484,
+        "bike_id": "free_streets_MADRID195",
+        "lat": 40.44758209771078,
+        "pricing_plan_id": "free_streets_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 242583,
+        "lon": -3.6699001360001793,
+        "bike_id": "free_streets_MADRID196",
+        "lat": 40.4687375546972,
+        "pricing_plan_id": "free_streets_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 301111,
+        "lon": -3.719251138646332,
+        "bike_id": "free_streets_MADRID197",
+        "lat": 40.31362597832999,
+        "pricing_plan_id": "free_streets_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 388850,
+        "lon": -3.753279457635232,
+        "bike_id": "free_streets_MADRID198",
+        "lat": 40.3607321506644,
+        "pricing_plan_id": "free_streets_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 176548,
+        "lon": -3.7970588057347796,
+        "bike_id": "free_streets_MADRID199",
+        "lat": 40.36319948732879,
+        "pricing_plan_id": "free_streets_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 310960,
+        "lon": -3.6387328849917204,
+        "bike_id": "free_streets_MADRID200",
+        "lat": 40.499548712223564,
+        "pricing_plan_id": "free_streets_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 384778,
+        "lon": -3.676267663078782,
+        "bike_id": "free_streets_MADRID201",
+        "lat": 40.37602151329735,
+        "pricing_plan_id": "free_streets_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 155951,
+        "lon": -3.7173921217115393,
+        "bike_id": "free_streets_MADRID202",
+        "lat": 40.437278642584054,
+        "pricing_plan_id": "free_streets_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 1,
+        "current_range_meters": 154462,
+        "lon": -3.623864841771822,
+        "bike_id": "free_streets_MADRID203",
+        "lat": 40.47260539190319,
+        "pricing_plan_id": "free_streets_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 162423,
+        "lon": -3.718843660062754,
+        "bike_id": "free_streets_MADRID204",
+        "lat": 40.385491809388796,
+        "pricing_plan_id": "free_streets_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "free_streets_car",
+        "is_disabled": 0,
+        "current_range_meters": 394407,
+        "lon": -3.67263621066605,
+        "bike_id": "free_streets_MADRID205",
+        "lat": 40.39047173681743,
+        "pricing_plan_id": "free_streets_plan_1"
+      }
+    ]
+  },
+  "ttl": 180,
+  "version": "2.3"
+}

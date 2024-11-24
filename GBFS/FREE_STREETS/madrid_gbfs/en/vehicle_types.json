@@ -1,0 +1,20 @@
+{
+  "last_updated": 1732463282,
+  "data": {
+    "vehicle_types": [
+      {
+        "pricing_plans": [
+          "free_streets_plan_1",
+          "free_streets_plan_2"
+        ],
+        "vehicle_type_id": "free_streets_car",
+        "propulsion_type": "electric",
+        "default_pricing_plan_id": "free_streets_plan_1",
+        "max_range_meters": 390000,
+        "form_factor": "car"
+      }
+    ]
+  },
+  "ttl": 86400,
+  "version": "2.3"
+}

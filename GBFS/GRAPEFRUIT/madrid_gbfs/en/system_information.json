@@ -1,0 +1,19 @@
+{
+  "last_updated": 1732463291,
+  "data": {
+    "system_id": "grapefruit",
+    "timezone": "Europe/Paris",
+    "name": "GRAPEFRUIT",
+    "language": "en",
+    "short_name": "GRAPEFRUIT",
+    "phone_number": "666777888",
+    "feed_contact_email": "datafeed@grapefruit.es",
+    "operator": "GRAPEFRUIT",
+    "url": "http://www.exampleride.org",
+    "email": "customerservice@grapefruit.es",
+    "license_url": "https://exampleride.org/data-license.html",
+    "start_date": "2010-06-10"
+  },
+  "ttl": 180,
+  "version": "2.3"
+}

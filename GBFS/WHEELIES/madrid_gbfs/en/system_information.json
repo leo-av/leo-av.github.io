@@ -1,0 +1,19 @@
+{
+  "last_updated": 1732463274,
+  "data": {
+    "system_id": "wheelies",
+    "timezone": "Europe/Paris",
+    "name": "WHEELIES",
+    "language": "en",
+    "short_name": "WHEELIES",
+    "phone_number": "666777888",
+    "feed_contact_email": "datafeed@wheelies.es",
+    "operator": "WHEELIES",
+    "url": "http://www.exampleride.org",
+    "email": "customerservice@wheelies.es",
+    "license_url": "https://exampleride.org/data-license.html",
+    "start_date": "2010-06-10"
+  },
+  "ttl": 180,
+  "version": "2.3"
+}
