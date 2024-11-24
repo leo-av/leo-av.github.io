@@ -1,0 +1,723 @@
+{
+  "last_updated": 1732465042,
+  "data": {
+    "stations": [
+      {
+        "station_id": "grapefruit_station_MADRID001",
+        "name": "Station 1",
+        "lon": -3.7690737751630627,
+        "lat": 40.413150710737064,
+        "capacity": 30
+      },
+      {
+        "station_id": "grapefruit_station_MADRID002",
+        "name": "Station 2",
+        "lon": -3.7781419118797137,
+        "lat": 40.326762057565475,
+        "capacity": 20
+      },
+      {
+        "station_id": "grapefruit_station_MADRID003",
+        "name": "Station 3",
+        "lon": -3.7842654276186733,
+        "lat": 40.316380102366594,
+        "capacity": 33
+      },
+      {
+        "station_id": "grapefruit_station_MADRID004",
+        "name": "Station 4",
+        "lon": -3.7666587415695,
+        "lat": 40.48531044793245,
+        "capacity": 32
+      },
+      {
+        "station_id": "grapefruit_station_MADRID005",
+        "name": "Station 5",
+        "lon": -3.654732770904734,
+        "lat": 40.41341054767146,
+        "capacity": 47
+      },
+      {
+        "station_id": "grapefruit_station_MADRID006",
+        "name": "Station 6",
+        "lon": -3.7215950331530543,
+        "lat": 40.47056616097619,
+        "capacity": 16
+      },
+      {
+        "station_id": "grapefruit_station_MADRID007",
+        "name": "Station 7",
+        "lon": -3.7511390663962594,
+        "lat": 40.45549641623983,
+        "capacity": 38
+      },
+      {
+        "station_id": "grapefruit_station_MADRID008",
+        "name": "Station 8",
+        "lon": -3.6645039994909205,
+        "lat": 40.37431703554649,
+        "capacity": 30
+      },
+      {
+        "station_id": "grapefruit_station_MADRID009",
+        "name": "Station 9",
+        "lon": -3.7950323662653287,
+        "lat": 40.33284631211121,
+        "capacity": 33
+      },
+      {
+        "station_id": "grapefruit_station_MADRID010",
+        "name": "Station 10",
+        "lon": -3.757984137629453,
+        "lat": 40.34472364051437,
+        "capacity": 29
+      },
+      {
+        "station_id": "grapefruit_station_MADRID011",
+        "name": "Station 11",
+        "lon": -3.6729944040032416,
+        "lat": 40.45681137348539,
+        "capacity": 10
+      },
+      {
+        "station_id": "grapefruit_station_MADRID012",
+        "name": "Station 12",
+        "lon": -3.6573967351284282,
+        "lat": 40.38179835919482,
+        "capacity": 20
+      },
+      {
+        "station_id": "grapefruit_station_MADRID013",
+        "name": "Station 13",
+        "lon": -3.771557659835026,
+        "lat": 40.34974653156782,
+        "capacity": 35
+      },
+      {
+        "station_id": "grapefruit_station_MADRID014",
+        "name": "Station 14",
+        "lon": -3.7094768171770647,
+        "lat": 40.43054928466432,
+        "capacity": 36
+      },
+      {
+        "station_id": "grapefruit_station_MADRID015",
+        "name": "Station 15",
+        "lon": -3.642325638143576,
+        "lat": 40.31134663549537,
+        "capacity": 32
+      },
+      {
+        "station_id": "grapefruit_station_MADRID016",
+        "name": "Station 16",
+        "lon": -3.782905024389075,
+        "lat": 40.455903597818256,
+        "capacity": 25
+      },
+      {
+        "station_id": "grapefruit_station_MADRID017",
+        "name": "Station 17",
+        "lon": -3.767598913345585,
+        "lat": 40.31171154681905,
+        "capacity": 31
+      },
+      {
+        "station_id": "grapefruit_station_MADRID018",
+        "name": "Station 18",
+        "lon": -3.7714493219311995,
+        "lat": 40.33956669408592,
+        "capacity": 40
+      },
+      {
+        "station_id": "grapefruit_station_MADRID019",
+        "name": "Station 19",
+        "lon": -3.7850778710228616,
+        "lat": 40.41444994809246,
+        "capacity": 49
+      },
+      {
+        "station_id": "grapefruit_station_MADRID020",
+        "name": "Station 20",
+        "lon": -3.7095502275590775,
+        "lat": 40.481171075630414,
+        "capacity": 32
+      },
+      {
+        "station_id": "grapefruit_station_MADRID021",
+        "name": "Station 21",
+        "lon": -3.6938100767606685,
+        "lat": 40.46163724089455,
+        "capacity": 14
+      },
+      {
+        "station_id": "grapefruit_station_MADRID022",
+        "name": "Station 22",
+        "lon": -3.634923977686825,
+        "lat": 40.44596074110708,
+        "capacity": 15
+      },
+      {
+        "station_id": "grapefruit_station_MADRID023",
+        "name": "Station 23",
+        "lon": -3.7725699223460403,
+        "lat": 40.389580667609785,
+        "capacity": 30
+      },
+      {
+        "station_id": "grapefruit_station_MADRID024",
+        "name": "Station 24",
+        "lon": -3.7517602862649793,
+        "lat": 40.4748167849872,
+        "capacity": 28
+      },
+      {
+        "station_id": "grapefruit_station_MADRID025",
+        "name": "Station 25",
+        "lon": -3.6977287220635593,
+        "lat": 40.32891352550771,
+        "capacity": 43
+      },
+      {
+        "station_id": "grapefruit_station_MADRID026",
+        "name": "Station 26",
+        "lon": -3.7566303718912395,
+        "lat": 40.473254621747515,
+        "capacity": 18
+      },
+      {
+        "station_id": "grapefruit_station_MADRID027",
+        "name": "Station 27",
+        "lon": -3.7953514136953452,
+        "lat": 40.36330328999939,
+        "capacity": 42
+      },
+      {
+        "station_id": "grapefruit_station_MADRID028",
+        "name": "Station 28",
+        "lon": -3.732784726307317,
+        "lat": 40.36056819692633,
+        "capacity": 10
+      },
+      {
+        "station_id": "grapefruit_station_MADRID029",
+        "name": "Station 29",
+        "lon": -3.6671679937598314,
+        "lat": 40.33619034375691,
+        "capacity": 22
+      },
+      {
+        "station_id": "grapefruit_station_MADRID030",
+        "name": "Station 30",
+        "lon": -3.616247514916287,
+        "lat": 40.33407103033195,
+        "capacity": 49
+      },
+      {
+        "station_id": "grapefruit_station_MADRID031",
+        "name": "Station 31",
+        "lon": -3.7752657237724487,
+        "lat": 40.48988440407913,
+        "capacity": 37
+      },
+      {
+        "station_id": "grapefruit_station_MADRID032",
+        "name": "Station 32",
+        "lon": -3.6082939429798677,
+        "lat": 40.46825628645033,
+        "capacity": 10
+      },
+      {
+        "station_id": "grapefruit_station_MADRID033",
+        "name": "Station 33",
+        "lon": -3.773098424163675,
+        "lat": 40.374414483319775,
+        "capacity": 31
+      },
+      {
+        "station_id": "grapefruit_station_MADRID034",
+        "name": "Station 34",
+        "lon": -3.6849201768198796,
+        "lat": 40.352724409146894,
+        "capacity": 38
+      },
+      {
+        "station_id": "grapefruit_station_MADRID035",
+        "name": "Station 35",
+        "lon": -3.6111851761245615,
+        "lat": 40.44553223961986,
+        "capacity": 44
+      },
+      {
+        "station_id": "grapefruit_station_MADRID036",
+        "name": "Station 36",
+        "lon": -3.746768049526851,
+        "lat": 40.41515220114634,
+        "capacity": 35
+      },
+      {
+        "station_id": "grapefruit_station_MADRID037",
+        "name": "Station 37",
+        "lon": -3.646464820278057,
+        "lat": 40.31052956754137,
+        "capacity": 43
+      },
+      {
+        "station_id": "grapefruit_station_MADRID038",
+        "name": "Station 38",
+        "lon": -3.6201116836432288,
+        "lat": 40.400920183863,
+        "capacity": 36
+      },
+      {
+        "station_id": "grapefruit_station_MADRID039",
+        "name": "Station 39",
+        "lon": -3.7654990484428352,
+        "lat": 40.48206978284408,
+        "capacity": 21
+      },
+      {
+        "station_id": "grapefruit_station_MADRID040",
+        "name": "Station 40",
+        "lon": -3.7837481910952095,
+        "lat": 40.36739110605893,
+        "capacity": 34
+      },
+      {
+        "station_id": "grapefruit_station_MADRID041",
+        "name": "Station 41",
+        "lon": -3.6249230949740143,
+        "lat": 40.413454199684466,
+        "capacity": 36
+      },
+      {
+        "station_id": "grapefruit_station_MADRID042",
+        "name": "Station 42",
+        "lon": -3.6482811306767564,
+        "lat": 40.35892048498054,
+        "capacity": 19
+      },
+      {
+        "station_id": "grapefruit_station_MADRID043",
+        "name": "Station 43",
+        "lon": -3.792898393041165,
+        "lat": 40.474449943826755,
+        "capacity": 31
+      },
+      {
+        "station_id": "grapefruit_station_MADRID044",
+        "name": "Station 44",
+        "lon": -3.7417876744731733,
+        "lat": 40.48899098668432,
+        "capacity": 23
+      },
+      {
+        "station_id": "grapefruit_station_MADRID045",
+        "name": "Station 45",
+        "lon": -3.728601409308413,
+        "lat": 40.380530000229086,
+        "capacity": 10
+      },
+      {
+        "station_id": "grapefruit_station_MADRID046",
+        "name": "Station 46",
+        "lon": -3.6196534228760933,
+        "lat": 40.39321433451581,
+        "capacity": 10
+      },
+      {
+        "station_id": "grapefruit_station_MADRID047",
+        "name": "Station 47",
+        "lon": -3.765118735220392,
+        "lat": 40.43338711586896,
+        "capacity": 22
+      },
+      {
+        "station_id": "grapefruit_station_MADRID048",
+        "name": "Station 48",
+        "lon": -3.7995866809857084,
+        "lat": 40.3223000210546,
+        "capacity": 29
+      },
+      {
+        "station_id": "grapefruit_station_MADRID049",
+        "name": "Station 49",
+        "lon": -3.776931053547488,
+        "lat": 40.300007233484585,
+        "capacity": 38
+      },
+      {
+        "station_id": "grapefruit_station_MADRID050",
+        "name": "Station 50",
+        "lon": -3.6612598385661728,
+        "lat": 40.385166367372456,
+        "capacity": 25
+      },
+      {
+        "station_id": "grapefruit_station_MADRID051",
+        "name": "Station 51",
+        "lon": -3.7642524330771634,
+        "lat": 40.44150196775161,
+        "capacity": 20
+      },
+      {
+        "station_id": "grapefruit_station_MADRID052",
+        "name": "Station 52",
+        "lon": -3.662284302375228,
+        "lat": 40.44566908565604,
+        "capacity": 11
+      },
+      {
+        "station_id": "grapefruit_station_MADRID053",
+        "name": "Station 53",
+        "lon": -3.6989725369793063,
+        "lat": 40.342381353719276,
+        "capacity": 13
+      },
+      {
+        "station_id": "grapefruit_station_MADRID054",
+        "name": "Station 54",
+        "lon": -3.730112419982806,
+        "lat": 40.3246022182853,
+        "capacity": 26
+      },
+      {
+        "station_id": "grapefruit_station_MADRID055",
+        "name": "Station 55",
+        "lon": -3.7965813073433847,
+        "lat": 40.457387664888756,
+        "capacity": 28
+      },
+      {
+        "station_id": "grapefruit_station_MADRID056",
+        "name": "Station 56",
+        "lon": -3.637050558631791,
+        "lat": 40.48834792511917,
+        "capacity": 43
+      },
+      {
+        "station_id": "grapefruit_station_MADRID057",
+        "name": "Station 57",
+        "lon": -3.734473715210408,
+        "lat": 40.49720445681777,
+        "capacity": 43
+      },
+      {
+        "station_id": "grapefruit_station_MADRID058",
+        "name": "Station 58",
+        "lon": -3.614361891445282,
+        "lat": 40.42223377460666,
+        "capacity": 20
+      },
+      {
+        "station_id": "grapefruit_station_MADRID059",
+        "name": "Station 59",
+        "lon": -3.7465368129252705,
+        "lat": 40.4061643754906,
+        "capacity": 34
+      },
+      {
+        "station_id": "grapefruit_station_MADRID060",
+        "name": "Station 60",
+        "lon": -3.657680320563806,
+        "lat": 40.4937704881173,
+        "capacity": 46
+      },
+      {
+        "station_id": "grapefruit_station_MADRID061",
+        "name": "Station 61",
+        "lon": -3.6985063235980573,
+        "lat": 40.39069131691499,
+        "capacity": 14
+      },
+      {
+        "station_id": "grapefruit_station_MADRID062",
+        "name": "Station 62",
+        "lon": -3.654973554572157,
+        "lat": 40.322773250469666,
+        "capacity": 19
+      },
+      {
+        "station_id": "grapefruit_station_MADRID063",
+        "name": "Station 63",
+        "lon": -3.6586743367441166,
+        "lat": 40.317276980267486,
+        "capacity": 21
+      },
+      {
+        "station_id": "grapefruit_station_MADRID064",
+        "name": "Station 64",
+        "lon": -3.679426257437369,
+        "lat": 40.38337914835414,
+        "capacity": 41
+      },
+      {
+        "station_id": "grapefruit_station_MADRID065",
+        "name": "Station 65",
+        "lon": -3.674677361846797,
+        "lat": 40.376966215168856,
+        "capacity": 26
+      },
+      {
+        "station_id": "grapefruit_station_MADRID066",
+        "name": "Station 66",
+        "lon": -3.6941127673308216,
+        "lat": 40.397195313409405,
+        "capacity": 39
+      },
+      {
+        "station_id": "grapefruit_station_MADRID067",
+        "name": "Station 67",
+        "lon": -3.7511297433377853,
+        "lat": 40.301016894260066,
+        "capacity": 37
+      },
+      {
+        "station_id": "grapefruit_station_MADRID068",
+        "name": "Station 68",
+        "lon": -3.7282802174082197,
+        "lat": 40.4349148692885,
+        "capacity": 16
+      },
+      {
+        "station_id": "grapefruit_station_MADRID069",
+        "name": "Station 69",
+        "lon": -3.705719647631802,
+        "lat": 40.301724000398906,
+        "capacity": 43
+      },
+      {
+        "station_id": "grapefruit_station_MADRID070",
+        "name": "Station 70",
+        "lon": -3.7012093183457235,
+        "lat": 40.44167036377278,
+        "capacity": 23
+      },
+      {
+        "station_id": "grapefruit_station_MADRID071",
+        "name": "Station 71",
+        "lon": -3.657964639390724,
+        "lat": 40.485645173361725,
+        "capacity": 23
+      },
+      {
+        "station_id": "grapefruit_station_MADRID072",
+        "name": "Station 72",
+        "lon": -3.631657612464122,
+        "lat": 40.330772967878175,
+        "capacity": 22
+      },
+      {
+        "station_id": "grapefruit_station_MADRID073",
+        "name": "Station 73",
+        "lon": -3.720223625085649,
+        "lat": 40.41660221497661,
+        "capacity": 29
+      },
+      {
+        "station_id": "grapefruit_station_MADRID074",
+        "name": "Station 74",
+        "lon": -3.707591593248524,
+        "lat": 40.34912353344966,
+        "capacity": 49
+      },
+      {
+        "station_id": "grapefruit_station_MADRID075",
+        "name": "Station 75",
+        "lon": -3.6355319933099888,
+        "lat": 40.418818497673215,
+        "capacity": 22
+      },
+      {
+        "station_id": "grapefruit_station_MADRID076",
+        "name": "Station 76",
+        "lon": -3.771168557988522,
+        "lat": 40.310818252654286,
+        "capacity": 46
+      },
+      {
+        "station_id": "grapefruit_station_MADRID077",
+        "name": "Station 77",
+        "lon": -3.6342472537577275,
+        "lat": 40.36650123991635,
+        "capacity": 32
+      },
+      {
+        "station_id": "grapefruit_station_MADRID078",
+        "name": "Station 78",
+        "lon": -3.6915458289433594,
+        "lat": 40.38721244128537,
+        "capacity": 49
+      },
+      {
+        "station_id": "grapefruit_station_MADRID079",
+        "name": "Station 79",
+        "lon": -3.799310077316897,
+        "lat": 40.412655247227576,
+        "capacity": 21
+      },
+      {
+        "station_id": "grapefruit_station_MADRID080",
+        "name": "Station 80",
+        "lon": -3.620958315818211,
+        "lat": 40.36532047270772,
+        "capacity": 16
+      },
+      {
+        "station_id": "grapefruit_station_MADRID081",
+        "name": "Station 81",
+        "lon": -3.719774944623027,
+        "lat": 40.386891087343,
+        "capacity": 25
+      },
+      {
+        "station_id": "grapefruit_station_MADRID082",
+        "name": "Station 82",
+        "lon": -3.715435675360886,
+        "lat": 40.406925621184484,
+        "capacity": 27
+      },
+      {
+        "station_id": "grapefruit_station_MADRID083",
+        "name": "Station 83",
+        "lon": -3.7667400527977772,
+        "lat": 40.46423316545152,
+        "capacity": 47
+      },
+      {
+        "station_id": "grapefruit_station_MADRID084",
+        "name": "Station 84",
+        "lon": -3.7019294173351236,
+        "lat": 40.39088803725355,
+        "capacity": 19
+      },
+      {
+        "station_id": "grapefruit_station_MADRID085",
+        "name": "Station 85",
+        "lon": -3.771107123974006,
+        "lat": 40.40587735842069,
+        "capacity": 35
+      },
+      {
+        "station_id": "grapefruit_station_MADRID086",
+        "name": "Station 86",
+        "lon": -3.7147619415441238,
+        "lat": 40.31527262095789,
+        "capacity": 15
+      },
+      {
+        "station_id": "grapefruit_station_MADRID087",
+        "name": "Station 87",
+        "lon": -3.7370156519780413,
+        "lat": 40.38621622889349,
+        "capacity": 48
+      },
+      {
+        "station_id": "grapefruit_station_MADRID088",
+        "name": "Station 88",
+        "lon": -3.7748541010633465,
+        "lat": 40.49704613395514,
+        "capacity": 19
+      },
+      {
+        "station_id": "grapefruit_station_MADRID089",
+        "name": "Station 89",
+        "lon": -3.7172411026664016,
+        "lat": 40.43416043045199,
+        "capacity": 10
+      },
+      {
+        "station_id": "grapefruit_station_MADRID090",
+        "name": "Station 90",
+        "lon": -3.7872744870244346,
+        "lat": 40.323079648306724,
+        "capacity": 31
+      },
+      {
+        "station_id": "grapefruit_station_MADRID091",
+        "name": "Station 91",
+        "lon": -3.6434417160767514,
+        "lat": 40.44992379372922,
+        "capacity": 45
+      },
+      {
+        "station_id": "grapefruit_station_MADRID092",
+        "name": "Station 92",
+        "lon": -3.7926597478242514,
+        "lat": 40.463151499489946,
+        "capacity": 15
+      },
+      {
+        "station_id": "grapefruit_station_MADRID093",
+        "name": "Station 93",
+        "lon": -3.6245191439624924,
+        "lat": 40.49833078479483,
+        "capacity": 40
+      },
+      {
+        "station_id": "grapefruit_station_MADRID094",
+        "name": "Station 94",
+        "lon": -3.6118669321943173,
+        "lat": 40.47726040171777,
+        "capacity": 40
+      },
+      {
+        "station_id": "grapefruit_station_MADRID095",
+        "name": "Station 95",
+        "lon": -3.755206962270094,
+        "lat": 40.380362930691994,
+        "capacity": 24
+      },
+      {
+        "station_id": "grapefruit_station_MADRID096",
+        "name": "Station 96",
+        "lon": -3.7596076523701254,
+        "lat": 40.40251139122728,
+        "capacity": 18
+      },
+      {
+        "station_id": "grapefruit_station_MADRID097",
+        "name": "Station 97",
+        "lon": -3.6700125379676067,
+        "lat": 40.39814580538255,
+        "capacity": 10
+      },
+      {
+        "station_id": "grapefruit_station_MADRID098",
+        "name": "Station 98",
+        "lon": -3.7472627830727676,
+        "lat": 40.31176476799148,
+        "capacity": 19
+      },
+      {
+        "station_id": "grapefruit_station_MADRID099",
+        "name": "Station 99",
+        "lon": -3.7048844731939887,
+        "lat": 40.39505264448705,
+        "capacity": 31
+      },
+      {
+        "station_id": "grapefruit_station_MADRID100",
+        "name": "Station 100",
+        "lon": -3.6251474914845687,
+        "lat": 40.36885593412392,
+        "capacity": 36
+      },
+      {
+        "station_id": "grapefruit_station_MADRID101",
+        "name": "Station 101",
+        "lon": -3.612398945195805,
+        "lat": 40.48109877200761,
+        "capacity": 34
+      },
+      {
+        "station_id": "grapefruit_station_MADRID102",
+        "name": "Station 102",
+        "lon": -3.79658811462203,
+        "lat": 40.3115070169248,
+        "capacity": 22
+      }
+    ]
+  },
+  "ttl": 180,
+  "version": "2.3"
+}

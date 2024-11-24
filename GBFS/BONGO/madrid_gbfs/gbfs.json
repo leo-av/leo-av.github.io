@@ -1,5 +1,5 @@
 {
-  "last_updated": 1732464322,
+  "last_updated": 1732465048,
   "data": {
     "en": {
       "feeds": [
@@ -25,7 +25,7 @@
         },
         {
           "name": "gbfs_versions",
-          "url": "https://leo-av.github.io/GBFS/BONGO/madrid_gbfs/en/gbfs_versions.json"
+          "url": "https://leo-av.github.io/GBFS/BONGO/madrid_gbfs/gbfs_versions.json"
         }
       ]
     }

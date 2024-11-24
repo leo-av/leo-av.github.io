@@ -1,2337 +1,3470 @@
 {
-  "last_updated": 1732464348,
+  "last_updated": 1732465033,
   "data": {
     "bikes": [
       {
         "is_reserved": true,
-        "vehicle_type_id": "penguin_electric_bike",
+        "vehicle_type_id": "penguin_car",
         "is_disabled": true,
-        "current_range_meters": 5531,
-        "lon": -3.6316691520832842,
+        "current_range_meters": 190673,
+        "lon": -3.6093748724421473,
         "bike_id": "penguin_MADRID001",
-        "lat": 40.380401251854984,
-        "pricing_plan_id": "penguin_plan_3"
+        "lat": 40.483827718897665,
+        "pricing_plan_id": "penguin_plan_1"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "penguin_electric_bike",
+        "vehicle_type_id": "penguin_car",
         "is_disabled": true,
-        "current_range_meters": 41133,
-        "lon": -3.6412664928836738,
+        "current_range_meters": 210252,
+        "lon": -3.65952091241936,
         "bike_id": "penguin_MADRID002",
-        "lat": 40.38098918382553,
+        "lat": 40.40069520062039,
         "pricing_plan_id": "penguin_plan_3"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "penguin_electric_bike",
-        "is_disabled": true,
-        "current_range_meters": 36691,
-        "lon": -3.612300843504092,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 191172,
+        "lon": -3.6586817943203176,
         "bike_id": "penguin_MADRID003",
-        "lat": 40.32693643688489,
-        "pricing_plan_id": "penguin_plan_3"
+        "lat": 40.350526151142326,
+        "pricing_plan_id": "penguin_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "penguin_electric_bike",
+        "vehicle_type_id": "penguin_car",
         "is_disabled": true,
-        "current_range_meters": 43350,
-        "lon": -3.71470548631823,
+        "current_range_meters": 75748,
+        "lon": -3.74301474694903,
         "bike_id": "penguin_MADRID004",
-        "lat": 40.45404631031375,
-        "pricing_plan_id": "penguin_plan_3"
+        "lat": 40.32003194748318,
+        "pricing_plan_id": "penguin_plan_2"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "penguin_bike",
-        "is_disabled": false,
-        "lon": -3.785016909599233,
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 99606,
+        "lon": -3.790534962468962,
         "bike_id": "penguin_MADRID005",
-        "lat": 40.33857077034449,
+        "lat": 40.449386342282196,
         "pricing_plan_id": "penguin_plan_2"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "penguin_bike",
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
         "is_disabled": false,
-        "lon": -3.6923383553398654,
+        "current_range_meters": 109544,
+        "lon": -3.719417246318922,
         "bike_id": "penguin_MADRID006",
-        "lat": 40.31410125267305,
-        "pricing_plan_id": "penguin_plan_1"
+        "lat": 40.46857775972334,
+        "pricing_plan_id": "penguin_plan_2"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "penguin_bike",
-        "is_disabled": false,
-        "lon": -3.627095112113003,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 69081,
+        "lon": -3.6731849684112037,
         "bike_id": "penguin_MADRID007",
-        "lat": 40.374114272865356,
-        "pricing_plan_id": "penguin_plan_1"
+        "lat": 40.46860237172311,
+        "pricing_plan_id": "penguin_plan_2"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "penguin_bike",
-        "is_disabled": true,
-        "lon": -3.6768100928369836,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 66380,
+        "lon": -3.613717663846728,
         "bike_id": "penguin_MADRID008",
-        "lat": 40.407071020371575,
+        "lat": 40.44259831029706,
         "pricing_plan_id": "penguin_plan_2"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "penguin_bike",
-        "is_disabled": false,
-        "lon": -3.7846624491493213,
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 72270,
+        "lon": -3.6985469534094784,
         "bike_id": "penguin_MADRID009",
-        "lat": 40.43173264671932,
-        "pricing_plan_id": "penguin_plan_2"
+        "lat": 40.413691335964636,
+        "pricing_plan_id": "penguin_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "penguin_electric_bike",
-        "is_disabled": false,
-        "current_range_meters": 56930,
-        "lon": -3.7369287058438454,
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 133329,
+        "lon": -3.719994758603797,
         "bike_id": "penguin_MADRID010",
-        "lat": 40.38217906947853,
-        "pricing_plan_id": "penguin_plan_2"
+        "lat": 40.32067705460022,
+        "pricing_plan_id": "penguin_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "penguin_bike",
+        "vehicle_type_id": "penguin_car",
         "is_disabled": true,
-        "lon": -3.728031043432726,
+        "current_range_meters": 373352,
+        "lon": -3.7762745389356867,
         "bike_id": "penguin_MADRID011",
-        "lat": 40.403638616837526,
-        "pricing_plan_id": "penguin_plan_2"
+        "lat": 40.364377152079456,
+        "pricing_plan_id": "penguin_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "penguin_bike",
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
         "is_disabled": true,
-        "lon": -3.7695396183356165,
+        "current_range_meters": 22911,
+        "lon": -3.6614568658899795,
         "bike_id": "penguin_MADRID012",
-        "lat": 40.43593662245384,
-        "pricing_plan_id": "penguin_plan_3"
+        "lat": 40.459285557081884,
+        "pricing_plan_id": "penguin_plan_1"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "penguin_bike",
+        "vehicle_type_id": "penguin_car",
         "is_disabled": true,
-        "lon": -3.657010923605256,
+        "current_range_meters": 388270,
+        "lon": -3.6549643452979246,
         "bike_id": "penguin_MADRID013",
-        "lat": 40.38158263831081,
-        "pricing_plan_id": "penguin_plan_1"
+        "lat": 40.4878080133481,
+        "pricing_plan_id": "penguin_plan_3"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "penguin_bike",
-        "is_disabled": false,
-        "lon": -3.643371539592925,
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 404989,
+        "lon": -3.7199071873292677,
         "bike_id": "penguin_MADRID014",
-        "lat": 40.434549323875366,
-        "pricing_plan_id": "penguin_plan_2"
+        "lat": 40.39943713495118,
+        "pricing_plan_id": "penguin_plan_1"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "penguin_electric_bike",
-        "is_disabled": false,
-        "current_range_meters": 73196,
-        "lon": -3.673306303009119,
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 356649,
+        "lon": -3.7854259534640495,
         "bike_id": "penguin_MADRID015",
-        "lat": 40.31167490463449,
-        "pricing_plan_id": "penguin_plan_3"
+        "lat": 40.4728673350002,
+        "pricing_plan_id": "penguin_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "penguin_electric_bike",
-        "is_disabled": false,
-        "current_range_meters": 72395,
-        "lon": -3.6897140080616824,
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 276458,
+        "lon": -3.6526112926172125,
         "bike_id": "penguin_MADRID016",
-        "lat": 40.315925436488605,
+        "lat": 40.32310361436368,
         "pricing_plan_id": "penguin_plan_3"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "penguin_electric_bike",
-        "is_disabled": false,
-        "current_range_meters": 51752,
-        "lon": -3.6225551174980306,
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 332509,
+        "lon": -3.6265990540381146,
         "bike_id": "penguin_MADRID017",
-        "lat": 40.48080299744252,
-        "pricing_plan_id": "penguin_plan_2"
+        "lat": 40.41829844995629,
+        "pricing_plan_id": "penguin_plan_3"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "penguin_bike",
-        "is_disabled": true,
-        "lon": -3.7536401843630998,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 316542,
+        "lon": -3.7313614713650787,
         "bike_id": "penguin_MADRID018",
-        "lat": 40.306060192323045,
-        "pricing_plan_id": "penguin_plan_3"
+        "lat": 40.35356609846853,
+        "pricing_plan_id": "penguin_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "penguin_electric_bike",
-        "is_disabled": true,
-        "current_range_meters": 59385,
-        "lon": -3.727613797295173,
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 42258,
+        "lon": -3.797521526740937,
         "bike_id": "penguin_MADRID019",
-        "lat": 40.30968060885159,
+        "lat": 40.463910023974755,
         "pricing_plan_id": "penguin_plan_2"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "penguin_electric_bike",
+        "vehicle_type_id": "penguin_car",
         "is_disabled": true,
-        "current_range_meters": 6978,
-        "lon": -3.6005019950668045,
+        "current_range_meters": 307740,
+        "lon": -3.764615089010688,
         "bike_id": "penguin_MADRID020",
-        "lat": 40.392674331850905,
-        "pricing_plan_id": "penguin_plan_2"
+        "lat": 40.379451711664366,
+        "pricing_plan_id": "penguin_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "penguin_electric_bike",
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
         "is_disabled": true,
-        "current_range_meters": 54777,
-        "lon": -3.6811267821070923,
+        "current_range_meters": 166211,
+        "lon": -3.7571481608185477,
         "bike_id": "penguin_MADRID021",
-        "lat": 40.36437045665647,
-        "pricing_plan_id": "penguin_plan_1"
+        "lat": 40.37680155225482,
+        "pricing_plan_id": "penguin_plan_2"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "penguin_electric_bike",
-        "is_disabled": true,
-        "current_range_meters": 77414,
-        "lon": -3.6396766126462476,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 306238,
+        "lon": -3.7995178038332527,
         "bike_id": "penguin_MADRID022",
-        "lat": 40.307763601251466,
-        "pricing_plan_id": "penguin_plan_2"
+        "lat": 40.320731458329725,
+        "pricing_plan_id": "penguin_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "penguin_bike",
+        "vehicle_type_id": "penguin_car",
         "is_disabled": true,
-        "lon": -3.7121611672724377,
+        "current_range_meters": 135886,
+        "lon": -3.7280626214667,
         "bike_id": "penguin_MADRID023",
-        "lat": 40.358770584965484,
-        "pricing_plan_id": "penguin_plan_3"
+        "lat": 40.42400996311199,
+        "pricing_plan_id": "penguin_plan_2"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "penguin_electric_bike",
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
         "is_disabled": false,
-        "current_range_meters": 74800,
-        "lon": -3.7273304107430696,
+        "current_range_meters": 177619,
+        "lon": -3.643868226257361,
         "bike_id": "penguin_MADRID024",
-        "lat": 40.32818976950662,
+        "lat": 40.44739588471324,
         "pricing_plan_id": "penguin_plan_1"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "penguin_electric_bike",
-        "is_disabled": true,
-        "current_range_meters": 15592,
-        "lon": -3.7725716713163244,
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 46299,
+        "lon": -3.7223640081878857,
         "bike_id": "penguin_MADRID025",
-        "lat": 40.445424470573094,
-        "pricing_plan_id": "penguin_plan_1"
+        "lat": 40.41301892923995,
+        "pricing_plan_id": "penguin_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "penguin_electric_bike",
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
         "is_disabled": false,
-        "current_range_meters": 77838,
-        "lon": -3.783125937952124,
+        "current_range_meters": 379797,
+        "lon": -3.642974234181813,
         "bike_id": "penguin_MADRID026",
-        "lat": 40.479294087313725,
-        "pricing_plan_id": "penguin_plan_2"
+        "lat": 40.43698676936099,
+        "pricing_plan_id": "penguin_plan_1"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "penguin_bike",
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
         "is_disabled": false,
-        "lon": -3.6028968267959396,
+        "current_range_meters": 199961,
+        "lon": -3.6522668504999265,
         "bike_id": "penguin_MADRID027",
-        "lat": 40.43656625566269,
+        "lat": 40.34910554218013,
         "pricing_plan_id": "penguin_plan_2"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "penguin_bike",
-        "is_disabled": true,
-        "lon": -3.6225621680791993,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 178259,
+        "lon": -3.734103639383021,
         "bike_id": "penguin_MADRID028",
-        "lat": 40.372486401195026,
-        "pricing_plan_id": "penguin_plan_2"
+        "lat": 40.42287127790646,
+        "pricing_plan_id": "penguin_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "penguin_bike",
-        "is_disabled": true,
-        "lon": -3.7603622324447135,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 179842,
+        "lon": -3.7601287377868875,
         "bike_id": "penguin_MADRID029",
-        "lat": 40.4989660363313,
-        "pricing_plan_id": "penguin_plan_1"
+        "lat": 40.33356382120782,
+        "pricing_plan_id": "penguin_plan_2"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "penguin_bike",
-        "is_disabled": true,
-        "lon": -3.691245077480482,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 177582,
+        "lon": -3.7699293658261035,
         "bike_id": "penguin_MADRID030",
-        "lat": 40.46122544936671,
+        "lat": 40.47645131355711,
         "pricing_plan_id": "penguin_plan_3"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "penguin_electric_bike",
-        "is_disabled": true,
-        "current_range_meters": 68415,
-        "lon": -3.600779204459264,
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 189119,
+        "lon": -3.7504856100115425,
         "bike_id": "penguin_MADRID031",
-        "lat": 40.31847968518461,
-        "pricing_plan_id": "penguin_plan_1"
+        "lat": 40.35260524098878,
+        "pricing_plan_id": "penguin_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "penguin_bike",
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
         "is_disabled": true,
-        "lon": -3.6097844260039973,
+        "current_range_meters": 216288,
+        "lon": -3.7369723242962207,
         "bike_id": "penguin_MADRID032",
-        "lat": 40.49960325457927,
-        "pricing_plan_id": "penguin_plan_3"
+        "lat": 40.396881749138224,
+        "pricing_plan_id": "penguin_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "penguin_bike",
-        "is_disabled": false,
-        "lon": -3.710240355049196,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 297895,
+        "lon": -3.7898803152917786,
         "bike_id": "penguin_MADRID033",
-        "lat": 40.30120791056259,
-        "pricing_plan_id": "penguin_plan_3"
+        "lat": 40.42948195444807,
+        "pricing_plan_id": "penguin_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "penguin_bike",
+        "vehicle_type_id": "penguin_car",
         "is_disabled": false,
-        "lon": -3.70011996953805,
+        "current_range_meters": 339848,
+        "lon": -3.6273900140184208,
         "bike_id": "penguin_MADRID034",
-        "lat": 40.354294237123426,
-        "pricing_plan_id": "penguin_plan_2"
+        "lat": 40.49292860726044,
+        "pricing_plan_id": "penguin_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "penguin_bike",
+        "vehicle_type_id": "penguin_car",
         "is_disabled": true,
-        "lon": -3.622977717590919,
+        "current_range_meters": 156898,
+        "lon": -3.6203382045645305,
         "bike_id": "penguin_MADRID035",
-        "lat": 40.3537796635509,
+        "lat": 40.33152282119882,
         "pricing_plan_id": "penguin_plan_2"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "penguin_bike",
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
         "is_disabled": true,
-        "lon": -3.760688366411055,
+        "current_range_meters": 70321,
+        "lon": -3.6812563591656273,
         "bike_id": "penguin_MADRID036",
-        "lat": 40.32478724549708,
-        "pricing_plan_id": "penguin_plan_1"
+        "lat": 40.35305830493512,
+        "pricing_plan_id": "penguin_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "penguin_bike",
-        "is_disabled": true,
-        "lon": -3.6436549431250738,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 161146,
+        "lon": -3.742672929438773,
         "bike_id": "penguin_MADRID037",
-        "lat": 40.35782477387091,
+        "lat": 40.34185472568156,
         "pricing_plan_id": "penguin_plan_3"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "penguin_bike",
-        "is_disabled": false,
-        "lon": -3.7144298885378517,
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 250800,
+        "lon": -3.677314289737129,
         "bike_id": "penguin_MADRID038",
-        "lat": 40.498465391028866,
-        "pricing_plan_id": "penguin_plan_1"
+        "lat": 40.35956355124266,
+        "pricing_plan_id": "penguin_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "penguin_electric_bike",
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
         "is_disabled": false,
-        "current_range_meters": 55973,
-        "lon": -3.722379981701947,
+        "current_range_meters": 47810,
+        "lon": -3.7216697283875577,
         "bike_id": "penguin_MADRID039",
-        "lat": 40.428498758530054,
-        "pricing_plan_id": "penguin_plan_1"
+        "lat": 40.47826630564926,
+        "pricing_plan_id": "penguin_plan_2"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "penguin_electric_bike",
+        "vehicle_type_id": "penguin_car",
         "is_disabled": false,
-        "current_range_meters": 14922,
-        "lon": -3.6795872299657097,
+        "current_range_meters": 102637,
+        "lon": -3.6855181365553014,
         "bike_id": "penguin_MADRID040",
-        "lat": 40.41104915309298,
-        "pricing_plan_id": "penguin_plan_3"
+        "lat": 40.336477077050894,
+        "pricing_plan_id": "penguin_plan_1"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "penguin_electric_bike",
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
         "is_disabled": false,
-        "current_range_meters": 63754,
-        "lon": -3.7085462198041386,
+        "current_range_meters": 138175,
+        "lon": -3.6737407685200347,
         "bike_id": "penguin_MADRID041",
-        "lat": 40.47188454410287,
-        "pricing_plan_id": "penguin_plan_2"
+        "lat": 40.42774661462445,
+        "pricing_plan_id": "penguin_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "penguin_bike",
-        "is_disabled": true,
-        "lon": -3.622950417386328,
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 329497,
+        "lon": -3.7238538668521417,
         "bike_id": "penguin_MADRID042",
-        "lat": 40.331473591986956,
-        "pricing_plan_id": "penguin_plan_1"
+        "lat": 40.383302204176914,
+        "pricing_plan_id": "penguin_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "penguin_bike",
-        "is_disabled": false,
-        "lon": -3.7687873345800518,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 273028,
+        "lon": -3.767900775899909,
         "bike_id": "penguin_MADRID043",
-        "lat": 40.39095308390071,
-        "pricing_plan_id": "penguin_plan_1"
+        "lat": 40.37661212064369,
+        "pricing_plan_id": "penguin_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "penguin_electric_bike",
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
         "is_disabled": true,
-        "current_range_meters": 29550,
-        "lon": -3.7367428001508642,
+        "current_range_meters": 108671,
+        "lon": -3.7011426335697406,
         "bike_id": "penguin_MADRID044",
-        "lat": 40.33880269559279,
-        "pricing_plan_id": "penguin_plan_2"
+        "lat": 40.36942646714891,
+        "pricing_plan_id": "penguin_plan_1"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "penguin_electric_bike",
-        "is_disabled": true,
-        "current_range_meters": 38772,
-        "lon": -3.6789728071601018,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 115099,
+        "lon": -3.6237699078562216,
         "bike_id": "penguin_MADRID045",
-        "lat": 40.46223755521072,
-        "pricing_plan_id": "penguin_plan_1"
+        "lat": 40.46786045427324,
+        "pricing_plan_id": "penguin_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "penguin_bike",
-        "is_disabled": true,
-        "lon": -3.6080891630026684,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 57974,
+        "lon": -3.7398827140268724,
         "bike_id": "penguin_MADRID046",
-        "lat": 40.48682508379852,
-        "pricing_plan_id": "penguin_plan_2"
+        "lat": 40.307832103630716,
+        "pricing_plan_id": "penguin_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "penguin_electric_bike",
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
         "is_disabled": false,
-        "current_range_meters": 75479,
-        "lon": -3.704970935089507,
+        "current_range_meters": 325326,
+        "lon": -3.768548123801031,
         "bike_id": "penguin_MADRID047",
-        "lat": 40.37917154293969,
-        "pricing_plan_id": "penguin_plan_3"
+        "lat": 40.47762254384654,
+        "pricing_plan_id": "penguin_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "penguin_electric_bike",
+        "vehicle_type_id": "penguin_car",
         "is_disabled": true,
-        "current_range_meters": 18162,
-        "lon": -3.668084269541637,
+        "current_range_meters": 360355,
+        "lon": -3.718627961707374,
         "bike_id": "penguin_MADRID048",
-        "lat": 40.4895331930898,
+        "lat": 40.329852240554416,
         "pricing_plan_id": "penguin_plan_1"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "penguin_bike",
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
         "is_disabled": false,
-        "lon": -3.753945319697472,
+        "current_range_meters": 123059,
+        "lon": -3.733169115616724,
         "bike_id": "penguin_MADRID049",
-        "lat": 40.35128698130333,
-        "pricing_plan_id": "penguin_plan_1"
+        "lat": 40.442615557339394,
+        "pricing_plan_id": "penguin_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "penguin_electric_bike",
-        "is_disabled": false,
-        "current_range_meters": 59168,
-        "lon": -3.685172145865983,
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 225052,
+        "lon": -3.658772998951719,
         "bike_id": "penguin_MADRID050",
-        "lat": 40.40481103307604,
-        "pricing_plan_id": "penguin_plan_2"
+        "lat": 40.41184519802402,
+        "pricing_plan_id": "penguin_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "penguin_bike",
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
         "is_disabled": true,
-        "lon": -3.751563649136469,
+        "current_range_meters": 236839,
+        "lon": -3.762656303765566,
         "bike_id": "penguin_MADRID051",
-        "lat": 40.48895728208487,
+        "lat": 40.31474104252206,
         "pricing_plan_id": "penguin_plan_1"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "penguin_bike",
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
         "is_disabled": false,
-        "lon": -3.761230636646599,
+        "current_range_meters": 302039,
+        "lon": -3.709627761950369,
         "bike_id": "penguin_MADRID052",
-        "lat": 40.49476217885903,
-        "pricing_plan_id": "penguin_plan_3"
+        "lat": 40.30449843037316,
+        "pricing_plan_id": "penguin_plan_1"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "penguin_bike",
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
         "is_disabled": true,
-        "lon": -3.688518757018064,
+        "current_range_meters": 282466,
+        "lon": -3.7954663519608203,
         "bike_id": "penguin_MADRID053",
-        "lat": 40.44116473768649,
-        "pricing_plan_id": "penguin_plan_3"
+        "lat": 40.39496538917275,
+        "pricing_plan_id": "penguin_plan_2"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "penguin_bike",
-        "is_disabled": false,
-        "lon": -3.7911506228883884,
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 322786,
+        "lon": -3.7089022303731434,
         "bike_id": "penguin_MADRID054",
-        "lat": 40.335873154778064,
-        "pricing_plan_id": "penguin_plan_1"
+        "lat": 40.45887950187879,
+        "pricing_plan_id": "penguin_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "penguin_bike",
+        "vehicle_type_id": "penguin_car",
         "is_disabled": false,
-        "lon": -3.712635705718522,
+        "current_range_meters": 289976,
+        "lon": -3.6615909905244637,
         "bike_id": "penguin_MADRID055",
-        "lat": 40.360366935618835,
-        "pricing_plan_id": "penguin_plan_2"
+        "lat": 40.48702668362491,
+        "pricing_plan_id": "penguin_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "penguin_bike",
-        "is_disabled": true,
-        "lon": -3.675402948734786,
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 334093,
+        "lon": -3.760647705766084,
         "bike_id": "penguin_MADRID056",
-        "lat": 40.34812179776952,
-        "pricing_plan_id": "penguin_plan_1"
+        "lat": 40.38130087186337,
+        "pricing_plan_id": "penguin_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "penguin_bike",
+        "vehicle_type_id": "penguin_car",
         "is_disabled": true,
-        "lon": -3.695974456802504,
+        "current_range_meters": 61217,
+        "lon": -3.661543472641406,
         "bike_id": "penguin_MADRID057",
-        "lat": 40.38132536205747,
+        "lat": 40.49612299777996,
         "pricing_plan_id": "penguin_plan_2"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "penguin_electric_bike",
+        "vehicle_type_id": "penguin_car",
         "is_disabled": false,
-        "current_range_meters": 13182,
-        "lon": -3.7271547198519817,
+        "current_range_meters": 275746,
+        "lon": -3.6736493088901025,
         "bike_id": "penguin_MADRID058",
-        "lat": 40.4094588971933,
-        "pricing_plan_id": "penguin_plan_3"
+        "lat": 40.3606596285842,
+        "pricing_plan_id": "penguin_plan_2"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "penguin_electric_bike",
-        "is_disabled": true,
-        "current_range_meters": 17799,
-        "lon": -3.6604415108180315,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 217279,
+        "lon": -3.642106156248518,
         "bike_id": "penguin_MADRID059",
-        "lat": 40.34832597869706,
-        "pricing_plan_id": "penguin_plan_3"
+        "lat": 40.415465355003995,
+        "pricing_plan_id": "penguin_plan_1"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "penguin_electric_bike",
-        "is_disabled": true,
-        "current_range_meters": 63931,
-        "lon": -3.6693996668533098,
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 167013,
+        "lon": -3.6314464725067586,
         "bike_id": "penguin_MADRID060",
-        "lat": 40.48856026281429,
-        "pricing_plan_id": "penguin_plan_3"
+        "lat": 40.45437936654165,
+        "pricing_plan_id": "penguin_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "penguin_electric_bike",
-        "is_disabled": false,
-        "current_range_meters": 43096,
-        "lon": -3.726786212636513,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 27261,
+        "lon": -3.6757578294604216,
         "bike_id": "penguin_MADRID061",
-        "lat": 40.359697882505486,
-        "pricing_plan_id": "penguin_plan_3"
+        "lat": 40.33446397176576,
+        "pricing_plan_id": "penguin_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "penguin_electric_bike",
-        "is_disabled": false,
-        "current_range_meters": 59896,
-        "lon": -3.6774723976374797,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 124743,
+        "lon": -3.758660420549948,
         "bike_id": "penguin_MADRID062",
-        "lat": 40.449407834258764,
-        "pricing_plan_id": "penguin_plan_3"
+        "lat": 40.37777040173463,
+        "pricing_plan_id": "penguin_plan_2"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "penguin_bike",
-        "is_disabled": true,
-        "lon": -3.794531173914617,
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 78856,
+        "lon": -3.7968076519160707,
         "bike_id": "penguin_MADRID063",
-        "lat": 40.47108729225205,
-        "pricing_plan_id": "penguin_plan_3"
+        "lat": 40.3595221480994,
+        "pricing_plan_id": "penguin_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "penguin_electric_bike",
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
         "is_disabled": false,
-        "current_range_meters": 26027,
-        "lon": -3.619237658922501,
+        "current_range_meters": 275605,
+        "lon": -3.742090296222369,
         "bike_id": "penguin_MADRID064",
-        "lat": 40.41593720387729,
-        "pricing_plan_id": "penguin_plan_1"
+        "lat": 40.38001345290672,
+        "pricing_plan_id": "penguin_plan_2"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "penguin_electric_bike",
-        "is_disabled": true,
-        "current_range_meters": 6965,
-        "lon": -3.7113206381993726,
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 100406,
+        "lon": -3.6380852846092164,
         "bike_id": "penguin_MADRID065",
-        "lat": 40.42644947575131,
-        "pricing_plan_id": "penguin_plan_2"
+        "lat": 40.35822825249581,
+        "pricing_plan_id": "penguin_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "penguin_bike",
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
         "is_disabled": true,
-        "lon": -3.793332964103393,
+        "current_range_meters": 181263,
+        "lon": -3.740939191152875,
         "bike_id": "penguin_MADRID066",
-        "lat": 40.39825274472725,
-        "pricing_plan_id": "penguin_plan_2"
+        "lat": 40.499661914096386,
+        "pricing_plan_id": "penguin_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "penguin_electric_bike",
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
         "is_disabled": true,
-        "current_range_meters": 45898,
-        "lon": -3.6299483525529617,
+        "current_range_meters": 138388,
+        "lon": -3.659097104206841,
         "bike_id": "penguin_MADRID067",
-        "lat": 40.39433522244905,
+        "lat": 40.369575684536805,
         "pricing_plan_id": "penguin_plan_1"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "penguin_electric_bike",
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
         "is_disabled": true,
-        "current_range_meters": 50247,
-        "lon": -3.6984467415722935,
+        "current_range_meters": 241091,
+        "lon": -3.7572584193820946,
         "bike_id": "penguin_MADRID068",
-        "lat": 40.3767591796255,
+        "lat": 40.3432758815848,
         "pricing_plan_id": "penguin_plan_3"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "penguin_electric_bike",
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
         "is_disabled": true,
-        "current_range_meters": 39785,
-        "lon": -3.673633811606985,
+        "current_range_meters": 378109,
+        "lon": -3.6432550084176656,
         "bike_id": "penguin_MADRID069",
-        "lat": 40.4527799008929,
-        "pricing_plan_id": "penguin_plan_2"
+        "lat": 40.31924374306729,
+        "pricing_plan_id": "penguin_plan_3"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "penguin_bike",
-        "is_disabled": false,
-        "lon": -3.681783588332572,
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 157224,
+        "lon": -3.760839095717541,
         "bike_id": "penguin_MADRID070",
-        "lat": 40.31795996977941,
-        "pricing_plan_id": "penguin_plan_2"
+        "lat": 40.32039829307137,
+        "pricing_plan_id": "penguin_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "penguin_electric_bike",
-        "is_disabled": false,
-        "current_range_meters": 23519,
-        "lon": -3.7987382029773635,
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 311908,
+        "lon": -3.773390695495615,
         "bike_id": "penguin_MADRID071",
-        "lat": 40.31021360984726,
+        "lat": 40.34560191965382,
         "pricing_plan_id": "penguin_plan_1"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "penguin_electric_bike",
-        "is_disabled": true,
-        "current_range_meters": 35265,
-        "lon": -3.7766423918697263,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 293511,
+        "lon": -3.694795379976524,
         "bike_id": "penguin_MADRID072",
-        "lat": 40.42465395302489,
-        "pricing_plan_id": "penguin_plan_3"
+        "lat": 40.37253690977846,
+        "pricing_plan_id": "penguin_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "penguin_electric_bike",
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
         "is_disabled": true,
-        "current_range_meters": 43968,
-        "lon": -3.7522628506186586,
+        "current_range_meters": 329715,
+        "lon": -3.7484325756137338,
         "bike_id": "penguin_MADRID073",
-        "lat": 40.41402327617024,
+        "lat": 40.487746110257376,
         "pricing_plan_id": "penguin_plan_1"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "penguin_bike",
-        "is_disabled": false,
-        "lon": -3.613134388885926,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 288036,
+        "lon": -3.698309312913705,
         "bike_id": "penguin_MADRID074",
-        "lat": 40.39386373192864,
-        "pricing_plan_id": "penguin_plan_3"
+        "lat": 40.457226654099905,
+        "pricing_plan_id": "penguin_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "penguin_electric_bike",
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
         "is_disabled": true,
-        "current_range_meters": 62461,
-        "lon": -3.786932901863375,
+        "current_range_meters": 70669,
+        "lon": -3.6788685260809695,
         "bike_id": "penguin_MADRID075",
-        "lat": 40.46861804854519,
-        "pricing_plan_id": "penguin_plan_1"
+        "lat": 40.37345133977482,
+        "pricing_plan_id": "penguin_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "penguin_bike",
-        "is_disabled": true,
-        "lon": -3.7520320193479018,
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 68811,
+        "lon": -3.6376543243736412,
         "bike_id": "penguin_MADRID076",
-        "lat": 40.43317759637396,
-        "pricing_plan_id": "penguin_plan_1"
+        "lat": 40.37284161598897,
+        "pricing_plan_id": "penguin_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "penguin_electric_bike",
-        "is_disabled": false,
-        "current_range_meters": 63520,
-        "lon": -3.674167597409389,
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 364350,
+        "lon": -3.7653435896637597,
         "bike_id": "penguin_MADRID077",
-        "lat": 40.44011335175708,
+        "lat": 40.33747085989392,
         "pricing_plan_id": "penguin_plan_2"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "penguin_electric_bike",
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
         "is_disabled": false,
-        "current_range_meters": 70104,
-        "lon": -3.7978947419842632,
+        "current_range_meters": 307126,
+        "lon": -3.7487688539549495,
         "bike_id": "penguin_MADRID078",
-        "lat": 40.38648192272019,
-        "pricing_plan_id": "penguin_plan_1"
+        "lat": 40.34595670359559,
+        "pricing_plan_id": "penguin_plan_2"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "penguin_bike",
-        "is_disabled": true,
-        "lon": -3.7419879769833355,
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 346243,
+        "lon": -3.7162210044300057,
         "bike_id": "penguin_MADRID079",
-        "lat": 40.48648719186575,
-        "pricing_plan_id": "penguin_plan_1"
+        "lat": 40.417290145616356,
+        "pricing_plan_id": "penguin_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "penguin_bike",
-        "is_disabled": false,
-        "lon": -3.7938819821686156,
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 307900,
+        "lon": -3.674274139758067,
         "bike_id": "penguin_MADRID080",
-        "lat": 40.41101659149969,
-        "pricing_plan_id": "penguin_plan_3"
+        "lat": 40.439201501675356,
+        "pricing_plan_id": "penguin_plan_2"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "penguin_bike",
-        "is_disabled": false,
-        "lon": -3.612105055044034,
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 94132,
+        "lon": -3.760816194509119,
         "bike_id": "penguin_MADRID081",
-        "lat": 40.45162428006233,
-        "pricing_plan_id": "penguin_plan_3"
+        "lat": 40.33554526382126,
+        "pricing_plan_id": "penguin_plan_1"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "penguin_electric_bike",
+        "vehicle_type_id": "penguin_car",
         "is_disabled": false,
-        "current_range_meters": 62670,
-        "lon": -3.7325497444112545,
+        "current_range_meters": 163492,
+        "lon": -3.781757155269341,
         "bike_id": "penguin_MADRID082",
-        "lat": 40.442622262511456,
-        "pricing_plan_id": "penguin_plan_2"
+        "lat": 40.49030551855826,
+        "pricing_plan_id": "penguin_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "penguin_electric_bike",
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
         "is_disabled": true,
-        "current_range_meters": 27576,
-        "lon": -3.6663027819815497,
+        "current_range_meters": 304319,
+        "lon": -3.7518198865536725,
         "bike_id": "penguin_MADRID083",
-        "lat": 40.4237124576146,
-        "pricing_plan_id": "penguin_plan_1"
+        "lat": 40.46025253749932,
+        "pricing_plan_id": "penguin_plan_3"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "penguin_bike",
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
         "is_disabled": true,
-        "lon": -3.712064274265352,
+        "current_range_meters": 140344,
+        "lon": -3.6320815707508527,
         "bike_id": "penguin_MADRID084",
-        "lat": 40.44744277783973,
-        "pricing_plan_id": "penguin_plan_2"
+        "lat": 40.35713071565151,
+        "pricing_plan_id": "penguin_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "penguin_bike",
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
         "is_disabled": true,
-        "lon": -3.7110209999144512,
+        "current_range_meters": 137983,
+        "lon": -3.6815566031766016,
         "bike_id": "penguin_MADRID085",
-        "lat": 40.35234830912171,
-        "pricing_plan_id": "penguin_plan_2"
+        "lat": 40.413309260278346,
+        "pricing_plan_id": "penguin_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "penguin_bike",
-        "is_disabled": true,
-        "lon": -3.7761637874107885,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 231669,
+        "lon": -3.7270327499351783,
         "bike_id": "penguin_MADRID086",
-        "lat": 40.372614700894964,
+        "lat": 40.34177611838113,
         "pricing_plan_id": "penguin_plan_3"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "penguin_bike",
-        "is_disabled": false,
-        "lon": -3.6454566805931865,
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 359818,
+        "lon": -3.6424523015394135,
         "bike_id": "penguin_MADRID087",
-        "lat": 40.40931815335376,
-        "pricing_plan_id": "penguin_plan_2"
+        "lat": 40.305077761920685,
+        "pricing_plan_id": "penguin_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "penguin_electric_bike",
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
         "is_disabled": true,
-        "current_range_meters": 11996,
-        "lon": -3.7825998091258577,
+        "current_range_meters": 311935,
+        "lon": -3.702207851383995,
         "bike_id": "penguin_MADRID088",
-        "lat": 40.335477147977485,
-        "pricing_plan_id": "penguin_plan_2"
+        "lat": 40.300296238081906,
+        "pricing_plan_id": "penguin_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "penguin_electric_bike",
-        "is_disabled": false,
-        "current_range_meters": 47893,
-        "lon": -3.661194048308374,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 337049,
+        "lon": -3.694557859830637,
         "bike_id": "penguin_MADRID089",
-        "lat": 40.344956554089876,
-        "pricing_plan_id": "penguin_plan_3"
+        "lat": 40.442046065885954,
+        "pricing_plan_id": "penguin_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "penguin_electric_bike",
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
         "is_disabled": true,
-        "current_range_meters": 30138,
-        "lon": -3.6006838227861317,
+        "current_range_meters": 76963,
+        "lon": -3.7880650588176534,
         "bike_id": "penguin_MADRID090",
-        "lat": 40.303772903311476,
-        "pricing_plan_id": "penguin_plan_3"
+        "lat": 40.342302507872816,
+        "pricing_plan_id": "penguin_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "penguin_bike",
-        "is_disabled": false,
-        "lon": -3.798636509830655,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 84929,
+        "lon": -3.6362171345992347,
         "bike_id": "penguin_MADRID091",
-        "lat": 40.478591849522516,
-        "pricing_plan_id": "penguin_plan_1"
+        "lat": 40.472482218001986,
+        "pricing_plan_id": "penguin_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "penguin_bike",
+        "vehicle_type_id": "penguin_car",
         "is_disabled": false,
-        "lon": -3.6146512542545124,
+        "current_range_meters": 405684,
+        "lon": -3.7806579814281207,
         "bike_id": "penguin_MADRID092",
-        "lat": 40.403901037616784,
-        "pricing_plan_id": "penguin_plan_2"
+        "lat": 40.39394052041319,
+        "pricing_plan_id": "penguin_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "penguin_bike",
-        "is_disabled": false,
-        "lon": -3.7553007026488725,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 87871,
+        "lon": -3.7538778687495933,
         "bike_id": "penguin_MADRID093",
-        "lat": 40.425710764602094,
-        "pricing_plan_id": "penguin_plan_1"
+        "lat": 40.39170478946536,
+        "pricing_plan_id": "penguin_plan_2"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "penguin_electric_bike",
-        "is_disabled": false,
-        "current_range_meters": 66674,
-        "lon": -3.7067221310355865,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 303959,
+        "lon": -3.731887890759887,
         "bike_id": "penguin_MADRID094",
-        "lat": 40.374584904258015,
+        "lat": 40.47380788233004,
         "pricing_plan_id": "penguin_plan_1"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "penguin_bike",
+        "vehicle_type_id": "penguin_car",
         "is_disabled": false,
-        "lon": -3.686915166187044,
+        "current_range_meters": 303761,
+        "lon": -3.721394116232566,
         "bike_id": "penguin_MADRID095",
-        "lat": 40.30347844620754,
-        "pricing_plan_id": "penguin_plan_1"
+        "lat": 40.3672433524006,
+        "pricing_plan_id": "penguin_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "penguin_electric_bike",
-        "is_disabled": true,
-        "current_range_meters": 34281,
-        "lon": -3.656585326795837,
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 391611,
+        "lon": -3.672069044859792,
         "bike_id": "penguin_MADRID096",
-        "lat": 40.388516460302824,
-        "pricing_plan_id": "penguin_plan_1"
+        "lat": 40.42777408850992,
+        "pricing_plan_id": "penguin_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "penguin_bike",
-        "is_disabled": true,
-        "lon": -3.6258119599783196,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 139872,
+        "lon": -3.7676087264213285,
         "bike_id": "penguin_MADRID097",
-        "lat": 40.473647550323065,
-        "pricing_plan_id": "penguin_plan_3"
+        "lat": 40.411048831542544,
+        "pricing_plan_id": "penguin_plan_1"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "penguin_electric_bike",
+        "vehicle_type_id": "penguin_car",
         "is_disabled": false,
-        "current_range_meters": 30755,
-        "lon": -3.782962391036957,
+        "current_range_meters": 349057,
+        "lon": -3.647056485895083,
         "bike_id": "penguin_MADRID098",
-        "lat": 40.32562377375625,
+        "lat": 40.326986818478,
         "pricing_plan_id": "penguin_plan_3"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "penguin_bike",
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
         "is_disabled": true,
-        "lon": -3.676197465675362,
+        "current_range_meters": 402090,
+        "lon": -3.7950568296300866,
         "bike_id": "penguin_MADRID099",
-        "lat": 40.41477782230219,
+        "lat": 40.320448775240784,
         "pricing_plan_id": "penguin_plan_2"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "penguin_electric_bike",
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
         "is_disabled": true,
-        "current_range_meters": 69617,
-        "lon": -3.763766015328122,
+        "current_range_meters": 206474,
+        "lon": -3.6168425278949177,
         "bike_id": "penguin_MADRID100",
-        "lat": 40.42420867473255,
-        "pricing_plan_id": "penguin_plan_3"
+        "lat": 40.37332462169884,
+        "pricing_plan_id": "penguin_plan_2"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "penguin_electric_bike",
-        "is_disabled": true,
-        "current_range_meters": 17682,
-        "lon": -3.7366020895881733,
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 347229,
+        "lon": -3.745695351987092,
         "bike_id": "penguin_MADRID101",
-        "lat": 40.45942883999567,
-        "pricing_plan_id": "penguin_plan_3"
+        "lat": 40.43426553300856,
+        "pricing_plan_id": "penguin_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "penguin_bike",
-        "is_disabled": true,
-        "lon": -3.755302342051179,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 160671,
+        "lon": -3.7979735953915643,
         "bike_id": "penguin_MADRID102",
-        "lat": 40.44266764215231,
-        "pricing_plan_id": "penguin_plan_3"
+        "lat": 40.426036302743334,
+        "pricing_plan_id": "penguin_plan_1"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "penguin_electric_bike",
-        "is_disabled": true,
-        "current_range_meters": 20259,
-        "lon": -3.673997574836876,
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 347902,
+        "lon": -3.6269117860116182,
         "bike_id": "penguin_MADRID103",
-        "lat": 40.46932057046865,
-        "pricing_plan_id": "penguin_plan_1"
+        "lat": 40.461090521716116,
+        "pricing_plan_id": "penguin_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "penguin_bike",
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
         "is_disabled": true,
-        "lon": -3.7880130612093397,
+        "current_range_meters": 308586,
+        "lon": -3.7108339617092425,
         "bike_id": "penguin_MADRID104",
-        "lat": 40.39070204875245,
-        "pricing_plan_id": "penguin_plan_3"
+        "lat": 40.48826823494402,
+        "pricing_plan_id": "penguin_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "penguin_electric_bike",
-        "is_disabled": false,
-        "current_range_meters": 44624,
-        "lon": -3.733713323228017,
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 42392,
+        "lon": -3.65984722827012,
         "bike_id": "penguin_MADRID105",
-        "lat": 40.451935262644724,
+        "lat": 40.49192398477618,
         "pricing_plan_id": "penguin_plan_3"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "penguin_bike",
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
         "is_disabled": false,
-        "lon": -3.6990219087822838,
+        "current_range_meters": 269378,
+        "lon": -3.7341233034320056,
         "bike_id": "penguin_MADRID106",
-        "lat": 40.43537413383975,
-        "pricing_plan_id": "penguin_plan_2"
+        "lat": 40.32672450773099,
+        "pricing_plan_id": "penguin_plan_3"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "penguin_bike",
-        "is_disabled": false,
-        "lon": -3.6981014693537637,
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 133345,
+        "lon": -3.7413067440994388,
         "bike_id": "penguin_MADRID107",
-        "lat": 40.39480299987441,
-        "pricing_plan_id": "penguin_plan_3"
+        "lat": 40.42116089967265,
+        "pricing_plan_id": "penguin_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "penguin_bike",
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
         "is_disabled": false,
-        "lon": -3.7377730401789897,
+        "current_range_meters": 38532,
+        "lon": -3.688931709600585,
         "bike_id": "penguin_MADRID108",
-        "lat": 40.37046372744375,
-        "pricing_plan_id": "penguin_plan_3"
+        "lat": 40.47405758151369,
+        "pricing_plan_id": "penguin_plan_1"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "penguin_bike",
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
         "is_disabled": false,
-        "lon": -3.6961307598950794,
+        "current_range_meters": 71718,
+        "lon": -3.6411231906208608,
         "bike_id": "penguin_MADRID109",
-        "lat": 40.404247244268504,
-        "pricing_plan_id": "penguin_plan_3"
+        "lat": 40.48326955952846,
+        "pricing_plan_id": "penguin_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "penguin_electric_bike",
-        "is_disabled": false,
-        "current_range_meters": 66046,
-        "lon": -3.741497605178063,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 217422,
+        "lon": -3.636774960012186,
         "bike_id": "penguin_MADRID110",
-        "lat": 40.36990278570906,
-        "pricing_plan_id": "penguin_plan_1"
+        "lat": 40.44210025933585,
+        "pricing_plan_id": "penguin_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "penguin_bike",
+        "vehicle_type_id": "penguin_car",
         "is_disabled": false,
-        "lon": -3.7342906657999597,
+        "current_range_meters": 200504,
+        "lon": -3.7315622911965587,
         "bike_id": "penguin_MADRID111",
-        "lat": 40.33094723235318,
-        "pricing_plan_id": "penguin_plan_2"
+        "lat": 40.43563304277266,
+        "pricing_plan_id": "penguin_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "penguin_electric_bike",
-        "is_disabled": false,
-        "current_range_meters": 14859,
-        "lon": -3.6889851682738986,
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 119078,
+        "lon": -3.63975506871939,
         "bike_id": "penguin_MADRID112",
-        "lat": 40.419918325816305,
-        "pricing_plan_id": "penguin_plan_2"
+        "lat": 40.393200582126816,
+        "pricing_plan_id": "penguin_plan_3"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "penguin_electric_bike",
-        "is_disabled": false,
-        "current_range_meters": 40691,
-        "lon": -3.738795923263167,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 408575,
+        "lon": -3.77885495132157,
         "bike_id": "penguin_MADRID113",
-        "lat": 40.31264316576616,
-        "pricing_plan_id": "penguin_plan_2"
+        "lat": 40.35219524003052,
+        "pricing_plan_id": "penguin_plan_3"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "penguin_bike",
-        "is_disabled": false,
-        "lon": -3.6670814187264504,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 196872,
+        "lon": -3.6034928032127143,
         "bike_id": "penguin_MADRID114",
-        "lat": 40.485205465041574,
-        "pricing_plan_id": "penguin_plan_2"
+        "lat": 40.443310319447335,
+        "pricing_plan_id": "penguin_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "penguin_bike",
-        "is_disabled": true,
-        "lon": -3.7752003219880588,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 119403,
+        "lon": -3.7557416603710676,
         "bike_id": "penguin_MADRID115",
-        "lat": 40.38547995657247,
-        "pricing_plan_id": "penguin_plan_1"
+        "lat": 40.4621857830759,
+        "pricing_plan_id": "penguin_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "penguin_electric_bike",
+        "vehicle_type_id": "penguin_car",
         "is_disabled": false,
-        "current_range_meters": 69271,
-        "lon": -3.768894193531975,
+        "current_range_meters": 41774,
+        "lon": -3.7083503963901334,
         "bike_id": "penguin_MADRID116",
-        "lat": 40.41191859413687,
-        "pricing_plan_id": "penguin_plan_3"
+        "lat": 40.44883258492559,
+        "pricing_plan_id": "penguin_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "penguin_bike",
-        "is_disabled": false,
-        "lon": -3.7744775918879996,
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 386394,
+        "lon": -3.7664111057921965,
         "bike_id": "penguin_MADRID117",
-        "lat": 40.48700570142975,
-        "pricing_plan_id": "penguin_plan_2"
+        "lat": 40.40083138372618,
+        "pricing_plan_id": "penguin_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "penguin_bike",
+        "vehicle_type_id": "penguin_car",
         "is_disabled": false,
-        "lon": -3.658569564526652,
+        "current_range_meters": 173240,
+        "lon": -3.782310524860919,
         "bike_id": "penguin_MADRID118",
-        "lat": 40.41804119956676,
-        "pricing_plan_id": "penguin_plan_2"
+        "lat": 40.43240549268436,
+        "pricing_plan_id": "penguin_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "penguin_electric_bike",
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
         "is_disabled": true,
-        "current_range_meters": 59913,
-        "lon": -3.7880200787815173,
+        "current_range_meters": 212356,
+        "lon": -3.641684744615916,
         "bike_id": "penguin_MADRID119",
-        "lat": 40.343936637112805,
-        "pricing_plan_id": "penguin_plan_3"
+        "lat": 40.31525895977355,
+        "pricing_plan_id": "penguin_plan_2"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "penguin_electric_bike",
-        "is_disabled": true,
-        "current_range_meters": 73630,
-        "lon": -3.641388928879743,
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 248267,
+        "lon": -3.7271623666802984,
         "bike_id": "penguin_MADRID120",
-        "lat": 40.45808911722376,
-        "pricing_plan_id": "penguin_plan_2"
+        "lat": 40.48176383990985,
+        "pricing_plan_id": "penguin_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "penguin_electric_bike",
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
         "is_disabled": false,
-        "current_range_meters": 7746,
-        "lon": -3.740465667889227,
+        "current_range_meters": 247011,
+        "lon": -3.764889280331723,
         "bike_id": "penguin_MADRID121",
-        "lat": 40.4122592518903,
-        "pricing_plan_id": "penguin_plan_1"
+        "lat": 40.4725471447032,
+        "pricing_plan_id": "penguin_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "penguin_electric_bike",
+        "vehicle_type_id": "penguin_car",
         "is_disabled": false,
-        "current_range_meters": 40783,
-        "lon": -3.7880027624486434,
+        "current_range_meters": 157350,
+        "lon": -3.77270322028515,
         "bike_id": "penguin_MADRID122",
-        "lat": 40.40816449360768,
-        "pricing_plan_id": "penguin_plan_1"
+        "lat": 40.48968080568107,
+        "pricing_plan_id": "penguin_plan_3"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "penguin_electric_bike",
+        "vehicle_type_id": "penguin_car",
         "is_disabled": false,
-        "current_range_meters": 8511,
-        "lon": -3.732318710251311,
+        "current_range_meters": 111231,
+        "lon": -3.7515931593886416,
         "bike_id": "penguin_MADRID123",
-        "lat": 40.300531531229645,
-        "pricing_plan_id": "penguin_plan_1"
+        "lat": 40.485001998005615,
+        "pricing_plan_id": "penguin_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "penguin_electric_bike",
-        "is_disabled": false,
-        "current_range_meters": 31026,
-        "lon": -3.6662189248861194,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 156880,
+        "lon": -3.7927058215342293,
         "bike_id": "penguin_MADRID124",
-        "lat": 40.363992545422704,
+        "lat": 40.348973245264865,
         "pricing_plan_id": "penguin_plan_1"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "penguin_bike",
+        "vehicle_type_id": "penguin_car",
         "is_disabled": false,
-        "lon": -3.6930003790129677,
+        "current_range_meters": 43479,
+        "lon": -3.7251599628632786,
         "bike_id": "penguin_MADRID125",
-        "lat": 40.46886912813261,
+        "lat": 40.34025835370368,
         "pricing_plan_id": "penguin_plan_1"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "penguin_bike",
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
         "is_disabled": true,
-        "lon": -3.6285312587086,
+        "current_range_meters": 146926,
+        "lon": -3.7095128386862575,
         "bike_id": "penguin_MADRID126",
-        "lat": 40.3273884754303,
-        "pricing_plan_id": "penguin_plan_3"
+        "lat": 40.46000891271604,
+        "pricing_plan_id": "penguin_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "penguin_electric_bike",
-        "is_disabled": true,
-        "current_range_meters": 17258,
-        "lon": -3.755666893888962,
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 96970,
+        "lon": -3.722664145668976,
         "bike_id": "penguin_MADRID127",
-        "lat": 40.43199115983009,
-        "pricing_plan_id": "penguin_plan_3"
+        "lat": 40.493904992704074,
+        "pricing_plan_id": "penguin_plan_2"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "penguin_electric_bike",
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
         "is_disabled": true,
-        "current_range_meters": 29561,
-        "lon": -3.6403113607328708,
+        "current_range_meters": 60546,
+        "lon": -3.676262294539097,
         "bike_id": "penguin_MADRID128",
-        "lat": 40.488052911073616,
-        "pricing_plan_id": "penguin_plan_3"
+        "lat": 40.412558364492014,
+        "pricing_plan_id": "penguin_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "penguin_electric_bike",
-        "is_disabled": true,
-        "current_range_meters": 75532,
-        "lon": -3.634476073084428,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 299684,
+        "lon": -3.62177157800063,
         "bike_id": "penguin_MADRID129",
-        "lat": 40.42837514090475,
-        "pricing_plan_id": "penguin_plan_1"
+        "lat": 40.446288130371144,
+        "pricing_plan_id": "penguin_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "penguin_bike",
-        "is_disabled": true,
-        "lon": -3.786460328786081,
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 143358,
+        "lon": -3.738756494619311,
         "bike_id": "penguin_MADRID130",
-        "lat": 40.30779744922658,
-        "pricing_plan_id": "penguin_plan_2"
+        "lat": 40.36079007778836,
+        "pricing_plan_id": "penguin_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "penguin_electric_bike",
-        "is_disabled": true,
-        "current_range_meters": 23873,
-        "lon": -3.6597550628993303,
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 239589,
+        "lon": -3.610232090643541,
         "bike_id": "penguin_MADRID131",
-        "lat": 40.31747325622769,
-        "pricing_plan_id": "penguin_plan_1"
+        "lat": 40.33237820731776,
+        "pricing_plan_id": "penguin_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "penguin_bike",
-        "is_disabled": true,
-        "lon": -3.6604288177541795,
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 160070,
+        "lon": -3.6215735283805546,
         "bike_id": "penguin_MADRID132",
-        "lat": 40.30079324813393,
-        "pricing_plan_id": "penguin_plan_3"
+        "lat": 40.38944079691926,
+        "pricing_plan_id": "penguin_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "penguin_electric_bike",
+        "vehicle_type_id": "penguin_car",
         "is_disabled": true,
-        "current_range_meters": 27299,
-        "lon": -3.7462066398241727,
+        "current_range_meters": 97387,
+        "lon": -3.6090622485564814,
         "bike_id": "penguin_MADRID133",
-        "lat": 40.36648953649054,
+        "lat": 40.35662822699099,
         "pricing_plan_id": "penguin_plan_2"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "penguin_bike",
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
         "is_disabled": true,
-        "lon": -3.67234110045732,
+        "current_range_meters": 262325,
+        "lon": -3.7807705940134015,
         "bike_id": "penguin_MADRID134",
-        "lat": 40.39347443404162,
-        "pricing_plan_id": "penguin_plan_3"
+        "lat": 40.368556081834924,
+        "pricing_plan_id": "penguin_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "penguin_electric_bike",
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
         "is_disabled": true,
-        "current_range_meters": 48243,
-        "lon": -3.7892569446029087,
+        "current_range_meters": 259936,
+        "lon": -3.6135872666998834,
         "bike_id": "penguin_MADRID135",
-        "lat": 40.464239443233694,
-        "pricing_plan_id": "penguin_plan_2"
+        "lat": 40.30927241395656,
+        "pricing_plan_id": "penguin_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "penguin_electric_bike",
-        "is_disabled": true,
-        "current_range_meters": 47853,
-        "lon": -3.7757518606370573,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 232182,
+        "lon": -3.74090290347296,
         "bike_id": "penguin_MADRID136",
-        "lat": 40.435549479461315,
-        "pricing_plan_id": "penguin_plan_1"
+        "lat": 40.3896650295581,
+        "pricing_plan_id": "penguin_plan_2"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "penguin_bike",
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
         "is_disabled": false,
-        "lon": -3.7596071386520644,
+        "current_range_meters": 300927,
+        "lon": -3.6104096330054154,
         "bike_id": "penguin_MADRID137",
-        "lat": 40.425015088232044,
-        "pricing_plan_id": "penguin_plan_1"
+        "lat": 40.315300426925916,
+        "pricing_plan_id": "penguin_plan_3"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "penguin_electric_bike",
-        "is_disabled": false,
-        "current_range_meters": 58294,
-        "lon": -3.7908672112136554,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 80051,
+        "lon": -3.7564170263286427,
         "bike_id": "penguin_MADRID138",
-        "lat": 40.48715658076539,
-        "pricing_plan_id": "penguin_plan_3"
+        "lat": 40.371929392408894,
+        "pricing_plan_id": "penguin_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "penguin_bike",
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
         "is_disabled": true,
-        "lon": -3.6993059935414374,
+        "current_range_meters": 230945,
+        "lon": -3.662102525443893,
         "bike_id": "penguin_MADRID139",
-        "lat": 40.45844480000281,
-        "pricing_plan_id": "penguin_plan_2"
+        "lat": 40.35430903577665,
+        "pricing_plan_id": "penguin_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "penguin_electric_bike",
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
         "is_disabled": true,
-        "current_range_meters": 53329,
-        "lon": -3.645166612146311,
+        "current_range_meters": 92427,
+        "lon": -3.672984001383079,
         "bike_id": "penguin_MADRID140",
-        "lat": 40.4708491965104,
-        "pricing_plan_id": "penguin_plan_2"
+        "lat": 40.30491797095132,
+        "pricing_plan_id": "penguin_plan_3"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "penguin_electric_bike",
+        "vehicle_type_id": "penguin_car",
         "is_disabled": false,
-        "current_range_meters": 54794,
-        "lon": -3.6066528521808103,
+        "current_range_meters": 266085,
+        "lon": -3.6958861947125294,
         "bike_id": "penguin_MADRID141",
-        "lat": 40.433351176225194,
-        "pricing_plan_id": "penguin_plan_1"
+        "lat": 40.313619200426125,
+        "pricing_plan_id": "penguin_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "penguin_bike",
+        "vehicle_type_id": "penguin_car",
         "is_disabled": false,
-        "lon": -3.6623477941531797,
+        "current_range_meters": 354157,
+        "lon": -3.6261012083384343,
         "bike_id": "penguin_MADRID142",
-        "lat": 40.42128448647423,
-        "pricing_plan_id": "penguin_plan_3"
+        "lat": 40.36555321876402,
+        "pricing_plan_id": "penguin_plan_2"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "penguin_electric_bike",
-        "is_disabled": false,
-        "current_range_meters": 57880,
-        "lon": -3.6778966228397834,
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 122637,
+        "lon": -3.6805093630452164,
         "bike_id": "penguin_MADRID143",
-        "lat": 40.37485868346646,
-        "pricing_plan_id": "penguin_plan_1"
+        "lat": 40.41661570564186,
+        "pricing_plan_id": "penguin_plan_2"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "penguin_bike",
+        "vehicle_type_id": "penguin_car",
         "is_disabled": false,
-        "lon": -3.7040853525563877,
+        "current_range_meters": 320434,
+        "lon": -3.612274111731329,
         "bike_id": "penguin_MADRID144",
-        "lat": 40.46272050273479,
-        "pricing_plan_id": "penguin_plan_2"
+        "lat": 40.39893541695717,
+        "pricing_plan_id": "penguin_plan_1"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "penguin_bike",
-        "is_disabled": true,
-        "lon": -3.786232763133402,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 162196,
+        "lon": -3.7916731455952695,
         "bike_id": "penguin_MADRID145",
-        "lat": 40.44553538611239,
-        "pricing_plan_id": "penguin_plan_1"
+        "lat": 40.32450802467091,
+        "pricing_plan_id": "penguin_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "penguin_electric_bike",
-        "is_disabled": true,
-        "current_range_meters": 23401,
-        "lon": -3.619465856579626,
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 362183,
+        "lon": -3.659125194885313,
         "bike_id": "penguin_MADRID146",
-        "lat": 40.42484386985359,
-        "pricing_plan_id": "penguin_plan_2"
+        "lat": 40.30277183536849,
+        "pricing_plan_id": "penguin_plan_1"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "penguin_bike",
-        "is_disabled": true,
-        "lon": -3.7972390496522963,
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 352571,
+        "lon": -3.737125947058774,
         "bike_id": "penguin_MADRID147",
-        "lat": 40.315797686210935,
-        "pricing_plan_id": "penguin_plan_1"
+        "lat": 40.31703929941474,
+        "pricing_plan_id": "penguin_plan_2"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "penguin_electric_bike",
-        "is_disabled": false,
-        "current_range_meters": 46149,
-        "lon": -3.6702548170567058,
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 23432,
+        "lon": -3.6585787294021346,
         "bike_id": "penguin_MADRID148",
-        "lat": 40.37647803259765,
-        "pricing_plan_id": "penguin_plan_1"
+        "lat": 40.39775078692594,
+        "pricing_plan_id": "penguin_plan_2"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "penguin_electric_bike",
-        "is_disabled": true,
-        "current_range_meters": 21403,
-        "lon": -3.63686359122129,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 195396,
+        "lon": -3.796422305035415,
         "bike_id": "penguin_MADRID149",
-        "lat": 40.490798880592074,
-        "pricing_plan_id": "penguin_plan_2"
+        "lat": 40.39362364189701,
+        "pricing_plan_id": "penguin_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "penguin_bike",
-        "is_disabled": false,
-        "lon": -3.663707096240471,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 300809,
+        "lon": -3.7124224454739423,
         "bike_id": "penguin_MADRID150",
-        "lat": 40.48214873619037,
-        "pricing_plan_id": "penguin_plan_3"
+        "lat": 40.42425489409185,
+        "pricing_plan_id": "penguin_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "penguin_electric_bike",
-        "is_disabled": true,
-        "current_range_meters": 7809,
-        "lon": -3.6019557898082395,
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 105462,
+        "lon": -3.7075504927390215,
         "bike_id": "penguin_MADRID151",
-        "lat": 40.468787068654066,
-        "pricing_plan_id": "penguin_plan_1"
+        "lat": 40.43163519064828,
+        "pricing_plan_id": "penguin_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "penguin_electric_bike",
-        "is_disabled": false,
-        "current_range_meters": 35361,
-        "lon": -3.6066852838082015,
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 150335,
+        "lon": -3.6695117639258505,
         "bike_id": "penguin_MADRID152",
-        "lat": 40.32676693632295,
-        "pricing_plan_id": "penguin_plan_2"
+        "lat": 40.38028050405618,
+        "pricing_plan_id": "penguin_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "penguin_bike",
-        "is_disabled": true,
-        "lon": -3.779500392888806,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 23632,
+        "lon": -3.6553409829018904,
         "bike_id": "penguin_MADRID153",
-        "lat": 40.38809274340603,
-        "pricing_plan_id": "penguin_plan_2"
+        "lat": 40.326893947663415,
+        "pricing_plan_id": "penguin_plan_1"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "penguin_bike",
-        "is_disabled": false,
-        "lon": -3.632223998977699,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 114989,
+        "lon": -3.7529943494303164,
         "bike_id": "penguin_MADRID154",
-        "lat": 40.429508649724184,
-        "pricing_plan_id": "penguin_plan_2"
+        "lat": 40.33542334340981,
+        "pricing_plan_id": "penguin_plan_1"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "penguin_bike",
+        "vehicle_type_id": "penguin_car",
         "is_disabled": true,
-        "lon": -3.7931274115642952,
+        "current_range_meters": 72298,
+        "lon": -3.758794350100206,
         "bike_id": "penguin_MADRID155",
-        "lat": 40.450627695287544,
-        "pricing_plan_id": "penguin_plan_2"
+        "lat": 40.30970788442612,
+        "pricing_plan_id": "penguin_plan_3"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "penguin_electric_bike",
-        "is_disabled": true,
-        "current_range_meters": 55631,
-        "lon": -3.752593143525921,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 229705,
+        "lon": -3.6254044186207883,
         "bike_id": "penguin_MADRID156",
-        "lat": 40.38593210069638,
-        "pricing_plan_id": "penguin_plan_2"
+        "lat": 40.328529477198984,
+        "pricing_plan_id": "penguin_plan_3"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "penguin_bike",
-        "is_disabled": true,
-        "lon": -3.680603583055466,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 67157,
+        "lon": -3.7621110255457775,
         "bike_id": "penguin_MADRID157",
-        "lat": 40.32046661692923,
+        "lat": 40.36817672203578,
         "pricing_plan_id": "penguin_plan_3"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "penguin_electric_bike",
-        "is_disabled": false,
-        "current_range_meters": 75633,
-        "lon": -3.7674875517319726,
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 244605,
+        "lon": -3.6073919715291476,
         "bike_id": "penguin_MADRID158",
-        "lat": 40.412712093902975,
-        "pricing_plan_id": "penguin_plan_2"
+        "lat": 40.41744868462498,
+        "pricing_plan_id": "penguin_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "penguin_bike",
-        "is_disabled": false,
-        "lon": -3.64276109840226,
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 394452,
+        "lon": -3.6750401417072553,
         "bike_id": "penguin_MADRID159",
-        "lat": 40.37188524400537,
-        "pricing_plan_id": "penguin_plan_3"
+        "lat": 40.36200494450339,
+        "pricing_plan_id": "penguin_plan_2"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "penguin_electric_bike",
-        "is_disabled": true,
-        "current_range_meters": 29667,
-        "lon": -3.661014356658733,
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 118554,
+        "lon": -3.737174235582884,
         "bike_id": "penguin_MADRID160",
-        "lat": 40.3881150628419,
+        "lat": 40.31173916274039,
         "pricing_plan_id": "penguin_plan_3"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "penguin_electric_bike",
-        "is_disabled": true,
-        "current_range_meters": 28186,
-        "lon": -3.692452704657545,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 174210,
+        "lon": -3.6218389651761798,
         "bike_id": "penguin_MADRID161",
-        "lat": 40.43078276650359,
+        "lat": 40.32109811723078,
         "pricing_plan_id": "penguin_plan_3"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "penguin_electric_bike",
-        "is_disabled": true,
-        "current_range_meters": 11156,
-        "lon": -3.7883876884210848,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 87783,
+        "lon": -3.764360051040115,
         "bike_id": "penguin_MADRID162",
-        "lat": 40.328509988049355,
-        "pricing_plan_id": "penguin_plan_3"
+        "lat": 40.32476135506694,
+        "pricing_plan_id": "penguin_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "penguin_bike",
+        "vehicle_type_id": "penguin_car",
         "is_disabled": false,
-        "lon": -3.6197593640983907,
+        "current_range_meters": 150259,
+        "lon": -3.6061711174558293,
         "bike_id": "penguin_MADRID163",
-        "lat": 40.321730548693964,
-        "pricing_plan_id": "penguin_plan_2"
+        "lat": 40.49314247871345,
+        "pricing_plan_id": "penguin_plan_3"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "penguin_electric_bike",
-        "is_disabled": false,
-        "current_range_meters": 18646,
-        "lon": -3.7246742373363944,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 82168,
+        "lon": -3.7423142147291113,
         "bike_id": "penguin_MADRID164",
-        "lat": 40.32976506890398,
-        "pricing_plan_id": "penguin_plan_2"
+        "lat": 40.35008984411001,
+        "pricing_plan_id": "penguin_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "penguin_electric_bike",
+        "vehicle_type_id": "penguin_car",
         "is_disabled": false,
-        "current_range_meters": 65781,
-        "lon": -3.687253339148475,
+        "current_range_meters": 252120,
+        "lon": -3.6150703315019412,
         "bike_id": "penguin_MADRID165",
-        "lat": 40.39560089330464,
+        "lat": 40.43573127285093,
         "pricing_plan_id": "penguin_plan_2"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "penguin_bike",
-        "is_disabled": true,
-        "lon": -3.6503191924274274,
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 251402,
+        "lon": -3.793283494883497,
         "bike_id": "penguin_MADRID166",
-        "lat": 40.34643879468804,
-        "pricing_plan_id": "penguin_plan_3"
+        "lat": 40.34641811101728,
+        "pricing_plan_id": "penguin_plan_1"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "penguin_bike",
-        "is_disabled": true,
-        "lon": -3.765260060826181,
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 148587,
+        "lon": -3.6239289896094355,
         "bike_id": "penguin_MADRID167",
-        "lat": 40.31198748108124,
+        "lat": 40.39706719451081,
         "pricing_plan_id": "penguin_plan_2"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "penguin_bike",
+        "vehicle_type_id": "penguin_car",
         "is_disabled": true,
-        "lon": -3.710183489912453,
+        "current_range_meters": 199099,
+        "lon": -3.64256037369228,
         "bike_id": "penguin_MADRID168",
-        "lat": 40.32346048898274,
-        "pricing_plan_id": "penguin_plan_2"
+        "lat": 40.431107675508365,
+        "pricing_plan_id": "penguin_plan_1"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "penguin_electric_bike",
-        "is_disabled": true,
-        "current_range_meters": 49971,
-        "lon": -3.7707195755608742,
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 245289,
+        "lon": -3.7534869255355297,
         "bike_id": "penguin_MADRID169",
-        "lat": 40.49239045119532,
-        "pricing_plan_id": "penguin_plan_1"
+        "lat": 40.453626998908184,
+        "pricing_plan_id": "penguin_plan_2"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "penguin_electric_bike",
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
         "is_disabled": false,
-        "current_range_meters": 42896,
-        "lon": -3.6250695752602047,
+        "current_range_meters": 405687,
+        "lon": -3.7713503321652984,
         "bike_id": "penguin_MADRID170",
-        "lat": 40.35055427192885,
-        "pricing_plan_id": "penguin_plan_1"
+        "lat": 40.489342287377234,
+        "pricing_plan_id": "penguin_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "penguin_bike",
-        "is_disabled": false,
-        "lon": -3.682904164371853,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 113854,
+        "lon": -3.718018306901743,
         "bike_id": "penguin_MADRID171",
-        "lat": 40.43794510355912,
-        "pricing_plan_id": "penguin_plan_2"
+        "lat": 40.38533646426084,
+        "pricing_plan_id": "penguin_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "penguin_bike",
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
         "is_disabled": true,
-        "lon": -3.785296930101157,
+        "current_range_meters": 324591,
+        "lon": -3.7389445220817366,
         "bike_id": "penguin_MADRID172",
-        "lat": 40.36730149930822,
-        "pricing_plan_id": "penguin_plan_3"
+        "lat": 40.33571627378068,
+        "pricing_plan_id": "penguin_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "penguin_electric_bike",
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
         "is_disabled": false,
-        "current_range_meters": 13491,
-        "lon": -3.6818474262701817,
+        "current_range_meters": 143402,
+        "lon": -3.712241964059726,
         "bike_id": "penguin_MADRID173",
-        "lat": 40.33378617159579,
+        "lat": 40.48381008777902,
         "pricing_plan_id": "penguin_plan_3"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "penguin_electric_bike",
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
         "is_disabled": false,
-        "current_range_meters": 21813,
-        "lon": -3.777716121963886,
+        "current_range_meters": 403907,
+        "lon": -3.6363682847989875,
         "bike_id": "penguin_MADRID174",
-        "lat": 40.390429987668064,
-        "pricing_plan_id": "penguin_plan_2"
+        "lat": 40.47836497527575,
+        "pricing_plan_id": "penguin_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "penguin_bike",
+        "vehicle_type_id": "penguin_car",
         "is_disabled": true,
-        "lon": -3.7429890496306966,
+        "current_range_meters": 339842,
+        "lon": -3.7556864480844716,
         "bike_id": "penguin_MADRID175",
-        "lat": 40.433160111331496,
-        "pricing_plan_id": "penguin_plan_1"
+        "lat": 40.47522448192477,
+        "pricing_plan_id": "penguin_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "penguin_bike",
+        "vehicle_type_id": "penguin_car",
         "is_disabled": false,
-        "lon": -3.748660062750785,
+        "current_range_meters": 211310,
+        "lon": -3.615837470853908,
         "bike_id": "penguin_MADRID176",
-        "lat": 40.4153575114583,
-        "pricing_plan_id": "penguin_plan_1"
+        "lat": 40.47091154638007,
+        "pricing_plan_id": "penguin_plan_2"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "penguin_bike",
+        "vehicle_type_id": "penguin_car",
         "is_disabled": false,
-        "lon": -3.6888868916928117,
+        "current_range_meters": 126579,
+        "lon": -3.7619738118830823,
         "bike_id": "penguin_MADRID177",
-        "lat": 40.404528005626965,
-        "pricing_plan_id": "penguin_plan_2"
+        "lat": 40.46770633407889,
+        "pricing_plan_id": "penguin_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "penguin_electric_bike",
-        "is_disabled": true,
-        "current_range_meters": 62294,
-        "lon": -3.740492163356871,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 78257,
+        "lon": -3.799945678107035,
         "bike_id": "penguin_MADRID178",
-        "lat": 40.45462568406985,
-        "pricing_plan_id": "penguin_plan_1"
+        "lat": 40.461159089513124,
+        "pricing_plan_id": "penguin_plan_2"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "penguin_bike",
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
         "is_disabled": true,
-        "lon": -3.744871894239859,
+        "current_range_meters": 313728,
+        "lon": -3.6632691963369,
         "bike_id": "penguin_MADRID179",
-        "lat": 40.309931980499975,
-        "pricing_plan_id": "penguin_plan_1"
+        "lat": 40.42813915110066,
+        "pricing_plan_id": "penguin_plan_2"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "penguin_electric_bike",
+        "vehicle_type_id": "penguin_car",
         "is_disabled": false,
-        "current_range_meters": 11795,
-        "lon": -3.7190654731578774,
+        "current_range_meters": 151016,
+        "lon": -3.715236331634369,
         "bike_id": "penguin_MADRID180",
-        "lat": 40.4460227087711,
-        "pricing_plan_id": "penguin_plan_3"
+        "lat": 40.40232764586702,
+        "pricing_plan_id": "penguin_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "penguin_bike",
-        "is_disabled": true,
-        "lon": -3.7125906739969357,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 377547,
+        "lon": -3.705375055157561,
         "bike_id": "penguin_MADRID181",
-        "lat": 40.38734583453834,
-        "pricing_plan_id": "penguin_plan_3"
+        "lat": 40.482566884343015,
+        "pricing_plan_id": "penguin_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "penguin_bike",
-        "is_disabled": true,
-        "lon": -3.7609533305882503,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 132106,
+        "lon": -3.6672708357493553,
         "bike_id": "penguin_MADRID182",
-        "lat": 40.47708948069631,
-        "pricing_plan_id": "penguin_plan_1"
+        "lat": 40.455572471787484,
+        "pricing_plan_id": "penguin_plan_3"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "penguin_bike",
+        "vehicle_type_id": "penguin_car",
         "is_disabled": false,
-        "lon": -3.7185839425829403,
+        "current_range_meters": 243969,
+        "lon": -3.6669028527520693,
         "bike_id": "penguin_MADRID183",
-        "lat": 40.38603587804325,
-        "pricing_plan_id": "penguin_plan_2"
+        "lat": 40.49856082194691,
+        "pricing_plan_id": "penguin_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "penguin_bike",
+        "vehicle_type_id": "penguin_car",
         "is_disabled": true,
-        "lon": -3.6562049034032817,
+        "current_range_meters": 324013,
+        "lon": -3.725948053324831,
         "bike_id": "penguin_MADRID184",
-        "lat": 40.43755059305662,
+        "lat": 40.43250085527921,
         "pricing_plan_id": "penguin_plan_1"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "penguin_electric_bike",
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
         "is_disabled": true,
-        "current_range_meters": 50627,
-        "lon": -3.6652651477546523,
+        "current_range_meters": 357407,
+        "lon": -3.7487795333501635,
         "bike_id": "penguin_MADRID185",
-        "lat": 40.46386585629646,
-        "pricing_plan_id": "penguin_plan_1"
+        "lat": 40.43080819277806,
+        "pricing_plan_id": "penguin_plan_3"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "penguin_electric_bike",
-        "is_disabled": false,
-        "current_range_meters": 53356,
-        "lon": -3.7810337511088843,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 220599,
+        "lon": -3.7149975091578544,
         "bike_id": "penguin_MADRID186",
-        "lat": 40.41649857106719,
-        "pricing_plan_id": "penguin_plan_1"
+        "lat": 40.48253019072674,
+        "pricing_plan_id": "penguin_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "penguin_electric_bike",
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
         "is_disabled": true,
-        "current_range_meters": 9962,
-        "lon": -3.7698402823264265,
+        "current_range_meters": 254224,
+        "lon": -3.6520647570214395,
         "bike_id": "penguin_MADRID187",
-        "lat": 40.38216332685322,
-        "pricing_plan_id": "penguin_plan_1"
+        "lat": 40.429690683398675,
+        "pricing_plan_id": "penguin_plan_2"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "penguin_bike",
-        "is_disabled": false,
-        "lon": -3.739563838539747,
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 198975,
+        "lon": -3.7894696647361497,
         "bike_id": "penguin_MADRID188",
-        "lat": 40.351918931785946,
-        "pricing_plan_id": "penguin_plan_2"
+        "lat": 40.37942743300255,
+        "pricing_plan_id": "penguin_plan_3"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "penguin_bike",
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
         "is_disabled": true,
-        "lon": -3.790679532056416,
+        "current_range_meters": 29881,
+        "lon": -3.6085659200916123,
         "bike_id": "penguin_MADRID189",
-        "lat": 40.44692125642488,
-        "pricing_plan_id": "penguin_plan_1"
+        "lat": 40.3667872556579,
+        "pricing_plan_id": "penguin_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "penguin_bike",
-        "is_disabled": false,
-        "lon": -3.6238951511363036,
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 309858,
+        "lon": -3.677767360352699,
         "bike_id": "penguin_MADRID190",
-        "lat": 40.46284744803944,
-        "pricing_plan_id": "penguin_plan_2"
+        "lat": 40.489590246582026,
+        "pricing_plan_id": "penguin_plan_3"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "penguin_electric_bike",
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
         "is_disabled": false,
-        "current_range_meters": 13499,
-        "lon": -3.651061424726425,
+        "current_range_meters": 226061,
+        "lon": -3.767814963078417,
         "bike_id": "penguin_MADRID191",
-        "lat": 40.360706765412694,
-        "pricing_plan_id": "penguin_plan_1"
+        "lat": 40.31422311495639,
+        "pricing_plan_id": "penguin_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "penguin_bike",
+        "vehicle_type_id": "penguin_car",
         "is_disabled": false,
-        "lon": -3.7941315417030608,
+        "current_range_meters": 220675,
+        "lon": -3.6952642386831305,
         "bike_id": "penguin_MADRID192",
-        "lat": 40.40122883742382,
-        "pricing_plan_id": "penguin_plan_2"
+        "lat": 40.4750503725137,
+        "pricing_plan_id": "penguin_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "penguin_bike",
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
         "is_disabled": false,
-        "lon": -3.697745322785796,
+        "current_range_meters": 38826,
+        "lon": -3.6652623750575697,
         "bike_id": "penguin_MADRID193",
-        "lat": 40.34614520918546,
-        "pricing_plan_id": "penguin_plan_2"
+        "lat": 40.42288359380661,
+        "pricing_plan_id": "penguin_plan_3"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "penguin_bike",
+        "vehicle_type_id": "penguin_car",
         "is_disabled": true,
-        "lon": -3.6058651854718304,
+        "current_range_meters": 387450,
+        "lon": -3.78667392638706,
         "bike_id": "penguin_MADRID194",
-        "lat": 40.353190979460834,
-        "pricing_plan_id": "penguin_plan_2"
+        "lat": 40.38840100577306,
+        "pricing_plan_id": "penguin_plan_1"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "penguin_bike",
-        "is_disabled": true,
-        "lon": -3.6619191459322282,
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 87670,
+        "lon": -3.711572887369058,
         "bike_id": "penguin_MADRID195",
-        "lat": 40.341697568597716,
+        "lat": 40.32713279097476,
         "pricing_plan_id": "penguin_plan_3"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "penguin_bike",
-        "is_disabled": true,
-        "lon": -3.6141265396071214,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 290398,
+        "lon": -3.602780004350403,
         "bike_id": "penguin_MADRID196",
-        "lat": 40.311555235905985,
+        "lat": 40.424599171166015,
         "pricing_plan_id": "penguin_plan_2"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "penguin_electric_bike",
-        "is_disabled": false,
-        "current_range_meters": 63582,
-        "lon": -3.7885658582212827,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 103171,
+        "lon": -3.6350727458366427,
         "bike_id": "penguin_MADRID197",
-        "lat": 40.46326542162137,
-        "pricing_plan_id": "penguin_plan_3"
+        "lat": 40.4133607559746,
+        "pricing_plan_id": "penguin_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "penguin_electric_bike",
-        "is_disabled": false,
-        "current_range_meters": 68915,
-        "lon": -3.6546906195433655,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 116526,
+        "lon": -3.6894959480211145,
         "bike_id": "penguin_MADRID198",
-        "lat": 40.34251131928059,
-        "pricing_plan_id": "penguin_plan_1"
+        "lat": 40.403722684596616,
+        "pricing_plan_id": "penguin_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "penguin_bike",
-        "is_disabled": false,
-        "lon": -3.7463870688273615,
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 295181,
+        "lon": -3.683973545659315,
         "bike_id": "penguin_MADRID199",
-        "lat": 40.33485958749965,
+        "lat": 40.43209408101064,
         "pricing_plan_id": "penguin_plan_1"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "penguin_electric_bike",
+        "vehicle_type_id": "penguin_car",
         "is_disabled": false,
-        "current_range_meters": 53985,
-        "lon": -3.7597487907818885,
+        "current_range_meters": 137754,
+        "lon": -3.785958397217674,
         "bike_id": "penguin_MADRID200",
-        "lat": 40.3107772138639,
-        "pricing_plan_id": "penguin_plan_3"
+        "lat": 40.34524573714959,
+        "pricing_plan_id": "penguin_plan_1"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "penguin_bike",
-        "is_disabled": true,
-        "lon": -3.7195182896202974,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 395749,
+        "lon": -3.6291306611951764,
         "bike_id": "penguin_MADRID201",
-        "lat": 40.423588293005885,
-        "pricing_plan_id": "penguin_plan_1"
+        "lat": 40.317331909244565,
+        "pricing_plan_id": "penguin_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "penguin_electric_bike",
-        "is_disabled": true,
-        "current_range_meters": 4654,
-        "lon": -3.6101931441961335,
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 393055,
+        "lon": -3.662801420721146,
         "bike_id": "penguin_MADRID202",
-        "lat": 40.30371285124774,
+        "lat": 40.46233931371446,
         "pricing_plan_id": "penguin_plan_2"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "penguin_bike",
-        "is_disabled": false,
-        "lon": -3.6630822793975044,
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 136950,
+        "lon": -3.600809048363619,
         "bike_id": "penguin_MADRID203",
-        "lat": 40.34591322102735,
-        "pricing_plan_id": "penguin_plan_3"
+        "lat": 40.36412666164936,
+        "pricing_plan_id": "penguin_plan_2"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "penguin_bike",
+        "vehicle_type_id": "penguin_car",
         "is_disabled": false,
-        "lon": -3.6572270216499367,
+        "current_range_meters": 317888,
+        "lon": -3.6481253967765888,
         "bike_id": "penguin_MADRID204",
-        "lat": 40.35439517859856,
+        "lat": 40.33632862600319,
         "pricing_plan_id": "penguin_plan_2"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "penguin_electric_bike",
-        "is_disabled": true,
-        "current_range_meters": 32549,
-        "lon": -3.648816982856572,
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 124326,
+        "lon": -3.615123932225581,
         "bike_id": "penguin_MADRID205",
-        "lat": 40.3310168851381,
+        "lat": 40.371255465874285,
         "pricing_plan_id": "penguin_plan_2"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "penguin_bike",
-        "is_disabled": false,
-        "lon": -3.789299446770933,
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 64512,
+        "lon": -3.6000470498621726,
         "bike_id": "penguin_MADRID206",
-        "lat": 40.43379302881577,
-        "pricing_plan_id": "penguin_plan_2"
+        "lat": 40.33710167565428,
+        "pricing_plan_id": "penguin_plan_1"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "penguin_bike",
-        "is_disabled": true,
-        "lon": -3.64174046672178,
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 246744,
+        "lon": -3.7902718246695457,
         "bike_id": "penguin_MADRID207",
-        "lat": 40.4768834149549,
-        "pricing_plan_id": "penguin_plan_3"
+        "lat": 40.49828792185387,
+        "pricing_plan_id": "penguin_plan_1"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "penguin_electric_bike",
-        "is_disabled": false,
-        "current_range_meters": 18656,
-        "lon": -3.615167873258588,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 220188,
+        "lon": -3.6010588533883285,
         "bike_id": "penguin_MADRID208",
-        "lat": 40.41071445084264,
-        "pricing_plan_id": "penguin_plan_1"
+        "lat": 40.42343689951108,
+        "pricing_plan_id": "penguin_plan_2"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "penguin_bike",
+        "vehicle_type_id": "penguin_car",
         "is_disabled": false,
-        "lon": -3.678060176577892,
+        "current_range_meters": 324572,
+        "lon": -3.784017447002162,
         "bike_id": "penguin_MADRID209",
-        "lat": 40.42774027757714,
-        "pricing_plan_id": "penguin_plan_2"
+        "lat": 40.43673837848672,
+        "pricing_plan_id": "penguin_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "penguin_electric_bike",
+        "vehicle_type_id": "penguin_car",
         "is_disabled": true,
-        "current_range_meters": 67080,
-        "lon": -3.7867001760308066,
+        "current_range_meters": 147350,
+        "lon": -3.6275713634338294,
         "bike_id": "penguin_MADRID210",
-        "lat": 40.34537391071003,
-        "pricing_plan_id": "penguin_plan_1"
+        "lat": 40.30450572244609,
+        "pricing_plan_id": "penguin_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "penguin_electric_bike",
+        "vehicle_type_id": "penguin_car",
         "is_disabled": false,
-        "current_range_meters": 71419,
-        "lon": -3.7565356982305564,
+        "current_range_meters": 193929,
+        "lon": -3.688677185304148,
         "bike_id": "penguin_MADRID211",
-        "lat": 40.39747746352548,
-        "pricing_plan_id": "penguin_plan_2"
+        "lat": 40.42770925227417,
+        "pricing_plan_id": "penguin_plan_3"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "penguin_electric_bike",
+        "vehicle_type_id": "penguin_car",
         "is_disabled": false,
-        "current_range_meters": 26812,
-        "lon": -3.670239270692727,
+        "current_range_meters": 96686,
+        "lon": -3.741672953884959,
         "bike_id": "penguin_MADRID212",
-        "lat": 40.481783664473234,
-        "pricing_plan_id": "penguin_plan_3"
+        "lat": 40.36493385272756,
+        "pricing_plan_id": "penguin_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "penguin_bike",
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
         "is_disabled": true,
-        "lon": -3.7024254474606977,
+        "current_range_meters": 286449,
+        "lon": -3.756438842355704,
         "bike_id": "penguin_MADRID213",
-        "lat": 40.469851114772226,
-        "pricing_plan_id": "penguin_plan_2"
+        "lat": 40.45102624637923,
+        "pricing_plan_id": "penguin_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "penguin_electric_bike",
-        "is_disabled": false,
-        "current_range_meters": 38674,
-        "lon": -3.662565575682379,
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 348810,
+        "lon": -3.6619031135347813,
         "bike_id": "penguin_MADRID214",
-        "lat": 40.329484125294805,
-        "pricing_plan_id": "penguin_plan_2"
+        "lat": 40.373625107629884,
+        "pricing_plan_id": "penguin_plan_3"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "penguin_electric_bike",
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
         "is_disabled": false,
-        "current_range_meters": 29995,
-        "lon": -3.754534980554944,
+        "current_range_meters": 196739,
+        "lon": -3.7765535020159655,
         "bike_id": "penguin_MADRID215",
-        "lat": 40.4604919013539,
-        "pricing_plan_id": "penguin_plan_3"
+        "lat": 40.39399999588192,
+        "pricing_plan_id": "penguin_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "penguin_bike",
-        "is_disabled": false,
-        "lon": -3.662409975709719,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 206036,
+        "lon": -3.7931594315013677,
         "bike_id": "penguin_MADRID216",
-        "lat": 40.34028929303904,
+        "lat": 40.3120401032898,
         "pricing_plan_id": "penguin_plan_3"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "penguin_electric_bike",
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
         "is_disabled": true,
-        "current_range_meters": 7386,
-        "lon": -3.7398746587939735,
+        "current_range_meters": 255551,
+        "lon": -3.738877016504877,
         "bike_id": "penguin_MADRID217",
-        "lat": 40.379040566146564,
-        "pricing_plan_id": "penguin_plan_2"
+        "lat": 40.31541092355804,
+        "pricing_plan_id": "penguin_plan_3"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "penguin_bike",
+        "vehicle_type_id": "penguin_car",
         "is_disabled": true,
-        "lon": -3.728856763389137,
+        "current_range_meters": 38675,
+        "lon": -3.7770799702454836,
         "bike_id": "penguin_MADRID218",
-        "lat": 40.439519608249746,
-        "pricing_plan_id": "penguin_plan_1"
+        "lat": 40.49988047971076,
+        "pricing_plan_id": "penguin_plan_2"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "penguin_electric_bike",
-        "is_disabled": true,
-        "current_range_meters": 77945,
-        "lon": -3.71312161020785,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 221731,
+        "lon": -3.769449545655977,
         "bike_id": "penguin_MADRID219",
-        "lat": 40.41715315941161,
-        "pricing_plan_id": "penguin_plan_2"
+        "lat": 40.33901914545419,
+        "pricing_plan_id": "penguin_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "penguin_bike",
+        "vehicle_type_id": "penguin_car",
         "is_disabled": false,
-        "lon": -3.7234487009567125,
+        "current_range_meters": 83587,
+        "lon": -3.704573586458235,
         "bike_id": "penguin_MADRID220",
-        "lat": 40.34120156763097,
-        "pricing_plan_id": "penguin_plan_3"
+        "lat": 40.37238439863373,
+        "pricing_plan_id": "penguin_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "penguin_bike",
-        "is_disabled": false,
-        "lon": -3.769821018837443,
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 87268,
+        "lon": -3.6591796880419962,
         "bike_id": "penguin_MADRID221",
-        "lat": 40.36737910081736,
-        "pricing_plan_id": "penguin_plan_1"
+        "lat": 40.33088793073464,
+        "pricing_plan_id": "penguin_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "penguin_electric_bike",
-        "is_disabled": false,
-        "current_range_meters": 74443,
-        "lon": -3.691525076858055,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 59375,
+        "lon": -3.6996961016099386,
         "bike_id": "penguin_MADRID222",
-        "lat": 40.4014744702886,
-        "pricing_plan_id": "penguin_plan_3"
+        "lat": 40.40904229728102,
+        "pricing_plan_id": "penguin_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "penguin_electric_bike",
+        "vehicle_type_id": "penguin_car",
         "is_disabled": false,
-        "current_range_meters": 28076,
-        "lon": -3.691484050888596,
+        "current_range_meters": 49398,
+        "lon": -3.6940191056111393,
         "bike_id": "penguin_MADRID223",
-        "lat": 40.47390019010342,
-        "pricing_plan_id": "penguin_plan_2"
+        "lat": 40.47924176543474,
+        "pricing_plan_id": "penguin_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "penguin_electric_bike",
+        "vehicle_type_id": "penguin_car",
         "is_disabled": false,
-        "current_range_meters": 60350,
-        "lon": -3.6708939441200945,
+        "current_range_meters": 101693,
+        "lon": -3.6237515327707364,
         "bike_id": "penguin_MADRID224",
-        "lat": 40.37217507766635,
-        "pricing_plan_id": "penguin_plan_1"
+        "lat": 40.3419696745511,
+        "pricing_plan_id": "penguin_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "penguin_bike",
-        "is_disabled": false,
-        "lon": -3.786446637580181,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 326397,
+        "lon": -3.7739218667568695,
         "bike_id": "penguin_MADRID225",
-        "lat": 40.46998194129656,
+        "lat": 40.450747508875146,
         "pricing_plan_id": "penguin_plan_1"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "penguin_bike",
-        "is_disabled": false,
-        "lon": -3.7720785777794896,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 69673,
+        "lon": -3.6921705139332146,
         "bike_id": "penguin_MADRID226",
-        "lat": 40.37340418614933,
+        "lat": 40.32502788615609,
         "pricing_plan_id": "penguin_plan_1"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "penguin_electric_bike",
+        "vehicle_type_id": "penguin_car",
         "is_disabled": false,
-        "current_range_meters": 42126,
-        "lon": -3.659494407262025,
+        "current_range_meters": 113117,
+        "lon": -3.7399042702616145,
         "bike_id": "penguin_MADRID227",
-        "lat": 40.33748718687847,
-        "pricing_plan_id": "penguin_plan_3"
+        "lat": 40.34242335773636,
+        "pricing_plan_id": "penguin_plan_1"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "penguin_electric_bike",
-        "is_disabled": false,
-        "current_range_meters": 40495,
-        "lon": -3.6911847405243874,
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 353882,
+        "lon": -3.6730936435175114,
         "bike_id": "penguin_MADRID228",
-        "lat": 40.3925817145115,
-        "pricing_plan_id": "penguin_plan_1"
+        "lat": 40.44179096356725,
+        "pricing_plan_id": "penguin_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "penguin_bike",
-        "is_disabled": true,
-        "lon": -3.703018114144161,
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 82123,
+        "lon": -3.6470533409582444,
         "bike_id": "penguin_MADRID229",
-        "lat": 40.460277295395855,
+        "lat": 40.3863846854795,
         "pricing_plan_id": "penguin_plan_3"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "penguin_bike",
-        "is_disabled": false,
-        "lon": -3.6532324221772354,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 298017,
+        "lon": -3.721251581538362,
         "bike_id": "penguin_MADRID230",
-        "lat": 40.43790713991114,
+        "lat": 40.41946769811594,
         "pricing_plan_id": "penguin_plan_2"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "penguin_bike",
+        "vehicle_type_id": "penguin_car",
         "is_disabled": true,
-        "lon": -3.788700364619304,
+        "current_range_meters": 181495,
+        "lon": -3.6816494681427727,
         "bike_id": "penguin_MADRID231",
-        "lat": 40.39476514849883,
-        "pricing_plan_id": "penguin_plan_1"
+        "lat": 40.350992219908726,
+        "pricing_plan_id": "penguin_plan_3"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "penguin_bike",
-        "is_disabled": false,
-        "lon": -3.6299492414222563,
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 339633,
+        "lon": -3.6661475136372563,
         "bike_id": "penguin_MADRID232",
-        "lat": 40.34886280576878,
-        "pricing_plan_id": "penguin_plan_2"
+        "lat": 40.42288079030263,
+        "pricing_plan_id": "penguin_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "penguin_bike",
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
         "is_disabled": true,
-        "lon": -3.6459917853985653,
+        "current_range_meters": 196147,
+        "lon": -3.7498189926909977,
         "bike_id": "penguin_MADRID233",
-        "lat": 40.4680141197498,
+        "lat": 40.37546535195034,
+        "pricing_plan_id": "penguin_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 81241,
+        "lon": -3.7390465417263608,
+        "bike_id": "penguin_MADRID234",
+        "lat": 40.381679560771715,
+        "pricing_plan_id": "penguin_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 81947,
+        "lon": -3.6123394138826894,
+        "bike_id": "penguin_MADRID235",
+        "lat": 40.48757621968296,
+        "pricing_plan_id": "penguin_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 75885,
+        "lon": -3.6050722301121687,
+        "bike_id": "penguin_MADRID236",
+        "lat": 40.487346673507616,
+        "pricing_plan_id": "penguin_plan_3"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 93575,
+        "lon": -3.6262817788951547,
+        "bike_id": "penguin_MADRID237",
+        "lat": 40.400686856615906,
+        "pricing_plan_id": "penguin_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 391508,
+        "lon": -3.727888247435369,
+        "bike_id": "penguin_MADRID238",
+        "lat": 40.34460403170028,
+        "pricing_plan_id": "penguin_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 110109,
+        "lon": -3.721865012799387,
+        "bike_id": "penguin_MADRID239",
+        "lat": 40.335297071313086,
         "pricing_plan_id": "penguin_plan_2"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "penguin_electric_bike",
-        "is_disabled": true,
-        "current_range_meters": 52623,
-        "lon": -3.6037636376795144,
-        "bike_id": "penguin_MADRID234",
-        "lat": 40.48839591016157,
-        "pricing_plan_id": "penguin_plan_3"
-      },
-      {
-        "is_reserved": true,
-        "vehicle_type_id": "penguin_bike",
+        "vehicle_type_id": "penguin_car",
         "is_disabled": false,
-        "lon": -3.758165898439033,
-        "bike_id": "penguin_MADRID235",
-        "lat": 40.337441378817765,
-        "pricing_plan_id": "penguin_plan_1"
-      },
-      {
-        "is_reserved": false,
-        "vehicle_type_id": "penguin_bike",
-        "is_disabled": false,
-        "lon": -3.6398763613295806,
-        "bike_id": "penguin_MADRID236",
-        "lat": 40.40447327714697,
-        "pricing_plan_id": "penguin_plan_3"
-      },
-      {
-        "is_reserved": false,
-        "vehicle_type_id": "penguin_bike",
-        "is_disabled": true,
-        "lon": -3.6215529217786493,
-        "bike_id": "penguin_MADRID237",
-        "lat": 40.38250313193557,
-        "pricing_plan_id": "penguin_plan_1"
-      },
-      {
-        "is_reserved": false,
-        "vehicle_type_id": "penguin_bike",
-        "is_disabled": false,
-        "lon": -3.7574256493159517,
-        "bike_id": "penguin_MADRID238",
-        "lat": 40.42026051295575,
-        "pricing_plan_id": "penguin_plan_3"
-      },
-      {
-        "is_reserved": false,
-        "vehicle_type_id": "penguin_electric_bike",
-        "is_disabled": true,
-        "current_range_meters": 65370,
-        "lon": -3.7306961497596465,
-        "bike_id": "penguin_MADRID239",
-        "lat": 40.3652828552741,
-        "pricing_plan_id": "penguin_plan_1"
-      },
-      {
-        "is_reserved": true,
-        "vehicle_type_id": "penguin_bike",
-        "is_disabled": false,
-        "lon": -3.636365313161248,
+        "current_range_meters": 284507,
+        "lon": -3.6949641732158445,
         "bike_id": "penguin_MADRID240",
-        "lat": 40.48641792255071,
-        "pricing_plan_id": "penguin_plan_1"
+        "lat": 40.313004614612275,
+        "pricing_plan_id": "penguin_plan_2"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "penguin_bike",
-        "is_disabled": false,
-        "lon": -3.7770363479291422,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 258576,
+        "lon": -3.606864205482206,
         "bike_id": "penguin_MADRID241",
-        "lat": 40.45062355283179,
-        "pricing_plan_id": "penguin_plan_1"
+        "lat": 40.43272318499118,
+        "pricing_plan_id": "penguin_plan_3"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "penguin_bike",
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
         "is_disabled": true,
-        "lon": -3.7567026644382393,
+        "current_range_meters": 245878,
+        "lon": -3.6781248410962237,
         "bike_id": "penguin_MADRID242",
-        "lat": 40.45507736363986,
+        "lat": 40.49541777998676,
+        "pricing_plan_id": "penguin_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 397205,
+        "lon": -3.6876821933504056,
+        "bike_id": "penguin_MADRID243",
+        "lat": 40.44894169635223,
+        "pricing_plan_id": "penguin_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 344200,
+        "lon": -3.700672996170179,
+        "bike_id": "penguin_MADRID244",
+        "lat": 40.465501290058626,
+        "pricing_plan_id": "penguin_plan_3"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 239365,
+        "lon": -3.6341599354243197,
+        "bike_id": "penguin_MADRID245",
+        "lat": 40.46254645351887,
+        "pricing_plan_id": "penguin_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 331593,
+        "lon": -3.6794415126111533,
+        "bike_id": "penguin_MADRID246",
+        "lat": 40.44895617730459,
+        "pricing_plan_id": "penguin_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 84526,
+        "lon": -3.724639625975742,
+        "bike_id": "penguin_MADRID247",
+        "lat": 40.38284693917354,
+        "pricing_plan_id": "penguin_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 280677,
+        "lon": -3.7551349692410962,
+        "bike_id": "penguin_MADRID248",
+        "lat": 40.434356890004246,
+        "pricing_plan_id": "penguin_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 263426,
+        "lon": -3.690853216574508,
+        "bike_id": "penguin_MADRID249",
+        "lat": 40.48616781279715,
+        "pricing_plan_id": "penguin_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 296835,
+        "lon": -3.6115968759421375,
+        "bike_id": "penguin_MADRID250",
+        "lat": 40.46774021676121,
         "pricing_plan_id": "penguin_plan_1"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "penguin_bike",
-        "is_disabled": false,
-        "lon": -3.6896973636714137,
-        "bike_id": "penguin_MADRID243",
-        "lat": 40.44348942888764,
-        "pricing_plan_id": "penguin_plan_1"
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 116770,
+        "lon": -3.662912180390609,
+        "bike_id": "penguin_MADRID251",
+        "lat": 40.377310258173445,
+        "pricing_plan_id": "penguin_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "penguin_electric_bike",
+        "vehicle_type_id": "penguin_car",
         "is_disabled": true,
-        "current_range_meters": 48771,
-        "lon": -3.7978751926104426,
-        "bike_id": "penguin_MADRID244",
-        "lat": 40.46224068312698,
+        "current_range_meters": 39315,
+        "lon": -3.605399057129882,
+        "bike_id": "penguin_MADRID252",
+        "lat": 40.43814955719637,
+        "pricing_plan_id": "penguin_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 307092,
+        "lon": -3.788919705610677,
+        "bike_id": "penguin_MADRID253",
+        "lat": 40.40894263855017,
+        "pricing_plan_id": "penguin_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 60018,
+        "lon": -3.719480001764408,
+        "bike_id": "penguin_MADRID254",
+        "lat": 40.47431701248797,
+        "pricing_plan_id": "penguin_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 100928,
+        "lon": -3.7892878932562346,
+        "bike_id": "penguin_MADRID255",
+        "lat": 40.48756581395693,
+        "pricing_plan_id": "penguin_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 390601,
+        "lon": -3.7534198761795423,
+        "bike_id": "penguin_MADRID256",
+        "lat": 40.40910136466956,
+        "pricing_plan_id": "penguin_plan_3"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 82777,
+        "lon": -3.6923682307015655,
+        "bike_id": "penguin_MADRID257",
+        "lat": 40.44693628164547,
+        "pricing_plan_id": "penguin_plan_3"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 255555,
+        "lon": -3.6501675068181325,
+        "bike_id": "penguin_MADRID258",
+        "lat": 40.31978719813344,
         "pricing_plan_id": "penguin_plan_3"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "penguin_electric_bike",
+        "vehicle_type_id": "penguin_car",
         "is_disabled": true,
-        "current_range_meters": 25715,
-        "lon": -3.6829229012219,
-        "bike_id": "penguin_MADRID245",
-        "lat": 40.374263640931254,
+        "current_range_meters": 232903,
+        "lon": -3.7970172537921782,
+        "bike_id": "penguin_MADRID259",
+        "lat": 40.42784171991276,
+        "pricing_plan_id": "penguin_plan_3"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 64763,
+        "lon": -3.6133398702420365,
+        "bike_id": "penguin_MADRID260",
+        "lat": 40.38861500359882,
         "pricing_plan_id": "penguin_plan_1"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "penguin_bike",
+        "vehicle_type_id": "penguin_car",
         "is_disabled": false,
-        "lon": -3.761496569910513,
-        "bike_id": "penguin_MADRID246",
-        "lat": 40.41790531953669,
+        "current_range_meters": 357538,
+        "lon": -3.702618871591949,
+        "bike_id": "penguin_MADRID261",
+        "lat": 40.41944833776529,
+        "pricing_plan_id": "penguin_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 77444,
+        "lon": -3.716183648822658,
+        "bike_id": "penguin_MADRID262",
+        "lat": 40.346806481405196,
+        "pricing_plan_id": "penguin_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 264954,
+        "lon": -3.6431444116445517,
+        "bike_id": "penguin_MADRID263",
+        "lat": 40.397740993568256,
+        "pricing_plan_id": "penguin_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 268722,
+        "lon": -3.6653814914679037,
+        "bike_id": "penguin_MADRID264",
+        "lat": 40.3428492311368,
         "pricing_plan_id": "penguin_plan_3"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 324418,
+        "lon": -3.736198873931725,
+        "bike_id": "penguin_MADRID265",
+        "lat": 40.34964482261132,
+        "pricing_plan_id": "penguin_plan_1"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 292807,
+        "lon": -3.6294396680284864,
+        "bike_id": "penguin_MADRID266",
+        "lat": 40.31601289249408,
+        "pricing_plan_id": "penguin_plan_2"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 202268,
+        "lon": -3.6097009758307843,
+        "bike_id": "penguin_MADRID267",
+        "lat": 40.45916511748398,
+        "pricing_plan_id": "penguin_plan_1"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 405705,
+        "lon": -3.638618824120794,
+        "bike_id": "penguin_MADRID268",
+        "lat": 40.34121034379276,
+        "pricing_plan_id": "penguin_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 394798,
+        "lon": -3.768773633612469,
+        "bike_id": "penguin_MADRID269",
+        "lat": 40.419349360048415,
+        "pricing_plan_id": "penguin_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 38991,
+        "lon": -3.7243521891141094,
+        "bike_id": "penguin_MADRID270",
+        "lat": 40.45174513260664,
+        "pricing_plan_id": "penguin_plan_1"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 69075,
+        "lon": -3.606353940926761,
+        "bike_id": "penguin_MADRID271",
+        "lat": 40.439225801465376,
+        "pricing_plan_id": "penguin_plan_2"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 185179,
+        "lon": -3.6007962245694833,
+        "bike_id": "penguin_MADRID272",
+        "lat": 40.330675863062005,
+        "pricing_plan_id": "penguin_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 293389,
+        "lon": -3.707616076387261,
+        "bike_id": "penguin_MADRID273",
+        "lat": 40.359395888484656,
+        "pricing_plan_id": "penguin_plan_3"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 33234,
+        "lon": -3.756413837588148,
+        "bike_id": "penguin_MADRID274",
+        "lat": 40.30608154951884,
+        "pricing_plan_id": "penguin_plan_2"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 138710,
+        "lon": -3.737060197185909,
+        "bike_id": "penguin_MADRID275",
+        "lat": 40.44806705371146,
+        "pricing_plan_id": "penguin_plan_2"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 320375,
+        "lon": -3.673010226851591,
+        "bike_id": "penguin_MADRID276",
+        "lat": 40.38515583667501,
+        "pricing_plan_id": "penguin_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 147927,
+        "lon": -3.6864536042072125,
+        "bike_id": "penguin_MADRID277",
+        "lat": 40.3985471445351,
+        "pricing_plan_id": "penguin_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 31479,
+        "lon": -3.724012744403814,
+        "bike_id": "penguin_MADRID278",
+        "lat": 40.33964341056884,
+        "pricing_plan_id": "penguin_plan_1"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 68864,
+        "lon": -3.781991141408793,
+        "bike_id": "penguin_MADRID279",
+        "lat": 40.320246273492096,
+        "pricing_plan_id": "penguin_plan_1"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 306510,
+        "lon": -3.7204692955074306,
+        "bike_id": "penguin_MADRID280",
+        "lat": 40.31163607793751,
+        "pricing_plan_id": "penguin_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 251463,
+        "lon": -3.652217790802983,
+        "bike_id": "penguin_MADRID281",
+        "lat": 40.341834490942354,
+        "pricing_plan_id": "penguin_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 265127,
+        "lon": -3.616570947544352,
+        "bike_id": "penguin_MADRID282",
+        "lat": 40.37327007737065,
+        "pricing_plan_id": "penguin_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 299805,
+        "lon": -3.7184516223184043,
+        "bike_id": "penguin_MADRID283",
+        "lat": 40.41429958130948,
+        "pricing_plan_id": "penguin_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 405361,
+        "lon": -3.7976944576851794,
+        "bike_id": "penguin_MADRID284",
+        "lat": 40.45363679381767,
+        "pricing_plan_id": "penguin_plan_1"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 363258,
+        "lon": -3.7325578959891295,
+        "bike_id": "penguin_MADRID285",
+        "lat": 40.4032765102464,
+        "pricing_plan_id": "penguin_plan_2"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 363389,
+        "lon": -3.7410952820283656,
+        "bike_id": "penguin_MADRID286",
+        "lat": 40.37658785778842,
+        "pricing_plan_id": "penguin_plan_1"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 66122,
+        "lon": -3.7207286713463033,
+        "bike_id": "penguin_MADRID287",
+        "lat": 40.4373431592279,
+        "pricing_plan_id": "penguin_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 310437,
+        "lon": -3.7474222836897053,
+        "bike_id": "penguin_MADRID288",
+        "lat": 40.44755918406662,
+        "pricing_plan_id": "penguin_plan_3"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 230528,
+        "lon": -3.636065200846626,
+        "bike_id": "penguin_MADRID289",
+        "lat": 40.47828510498385,
+        "pricing_plan_id": "penguin_plan_1"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 47096,
+        "lon": -3.7220075930071617,
+        "bike_id": "penguin_MADRID290",
+        "lat": 40.42765825742758,
+        "pricing_plan_id": "penguin_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 240998,
+        "lon": -3.6387661052738007,
+        "bike_id": "penguin_MADRID291",
+        "lat": 40.300039061635545,
+        "pricing_plan_id": "penguin_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 209713,
+        "lon": -3.767120127068232,
+        "bike_id": "penguin_MADRID292",
+        "lat": 40.35878147541493,
+        "pricing_plan_id": "penguin_plan_3"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 299351,
+        "lon": -3.643991162225719,
+        "bike_id": "penguin_MADRID293",
+        "lat": 40.40766954716553,
+        "pricing_plan_id": "penguin_plan_1"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 179973,
+        "lon": -3.60564473755901,
+        "bike_id": "penguin_MADRID294",
+        "lat": 40.302305599594064,
+        "pricing_plan_id": "penguin_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 228389,
+        "lon": -3.7592723421340377,
+        "bike_id": "penguin_MADRID295",
+        "lat": 40.45198034597895,
+        "pricing_plan_id": "penguin_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 270076,
+        "lon": -3.7654219968978366,
+        "bike_id": "penguin_MADRID296",
+        "lat": 40.45190509175783,
+        "pricing_plan_id": "penguin_plan_1"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 307685,
+        "lon": -3.6028282333109583,
+        "bike_id": "penguin_MADRID297",
+        "lat": 40.458000408383676,
+        "pricing_plan_id": "penguin_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 169495,
+        "lon": -3.7310921858951307,
+        "bike_id": "penguin_MADRID298",
+        "lat": 40.43238777236827,
+        "pricing_plan_id": "penguin_plan_3"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 35321,
+        "lon": -3.7003293855269046,
+        "bike_id": "penguin_MADRID299",
+        "lat": 40.498527060031506,
+        "pricing_plan_id": "penguin_plan_3"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 350017,
+        "lon": -3.7329418356961455,
+        "bike_id": "penguin_MADRID300",
+        "lat": 40.43334067207925,
+        "pricing_plan_id": "penguin_plan_2"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": true,
+        "current_range_meters": 39052,
+        "lon": -3.7214582519503843,
+        "bike_id": "penguin_MADRID301",
+        "lat": 40.32219696754671,
+        "pricing_plan_id": "penguin_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "penguin_car",
+        "is_disabled": false,
+        "current_range_meters": 85169,
+        "lon": -3.753038431725661,
+        "bike_id": "penguin_MADRID302",
+        "lat": 40.309188267019145,
+        "pricing_plan_id": "penguin_plan_2"
       }
     ]
   },
