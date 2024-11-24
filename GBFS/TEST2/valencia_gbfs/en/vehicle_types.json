@@ -1,24 +1,24 @@
 {
-    "last_updated": 1732386558,
+    "last_updated": 1732445403,
     "data": {"vehicle_types": [
         {
             "pricing_plans": [
-                "wheelies_plan_1",
-                "wheelies_plan_3"
+                "test2_plan_1",
+                "test2_plan_3"
             ],
-            "vehicle_type_id": "wheelies_bike",
+            "vehicle_type_id": "test2_bike",
             "propulsion_type": "human",
-            "default_pricing_plan_id": "wheelies_plan_1",
+            "default_pricing_plan_id": "test2_plan_1",
             "form_factor": "bicycle"
         },
         {
             "pricing_plans": [
-                "wheelies_plan_1",
-                "wheelies_plan_3"
+                "test2_plan_1",
+                "test2_plan_3"
             ],
-            "vehicle_type_id": "wheelies_electric_bike",
+            "vehicle_type_id": "test2_electric_bike",
             "propulsion_type": "electric",
-            "default_pricing_plan_id": "wheelies_plan_1",
+            "default_pricing_plan_id": "test2_plan_1",
             "max_range_meters": 75000,
             "form_factor": "bicycle"
         }

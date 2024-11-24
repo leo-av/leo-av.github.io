@@ -1,0 +1,3313 @@
+{
+    "last_updated": 1732445403,
+    "data": {"bikes": [
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 0,
+            "lon": -3.78909071332378,
+            "bike_id": "test2_MADRID001",
+            "lat": 40.3753232203957,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.7801201070433597,
+            "bike_id": "test2_MADRID002",
+            "lat": 40.34670254940896,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.7519518073255314,
+            "bike_id": "test2_MADRID003",
+            "lat": 40.32923213712299,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.64916015633739,
+            "bike_id": "test2_MADRID004",
+            "lat": 40.35215808753408,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.6958445522641434,
+            "bike_id": "test2_MADRID005",
+            "lat": 40.49503687860405,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.7573948886884283,
+            "bike_id": "test2_MADRID006",
+            "lat": 40.391506724617415,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.7198723235930116,
+            "bike_id": "test2_MADRID007",
+            "lat": 40.43323998358579,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 0,
+            "lon": -3.6521115858598208,
+            "bike_id": "test2_MADRID008",
+            "lat": 40.36009338458773,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.6818618963461076,
+            "bike_id": "test2_MADRID009",
+            "lat": 40.30469954300713,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.6522446702704605,
+            "bike_id": "test2_MADRID010",
+            "lat": 40.32321968563679,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.728516929374621,
+            "bike_id": "test2_MADRID011",
+            "lat": 40.38870417256206,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 0,
+            "lon": -3.797590438812479,
+            "bike_id": "test2_MADRID012",
+            "lat": 40.34948383457814,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 0,
+            "lon": -3.7439674167901624,
+            "bike_id": "test2_MADRID013",
+            "lat": 40.46224186814363,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 0,
+            "lon": -3.695714664853568,
+            "bike_id": "test2_MADRID014",
+            "lat": 40.39789246338755,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.71280889199314,
+            "bike_id": "test2_MADRID015",
+            "lat": 40.48811893150238,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.7376468653509667,
+            "bike_id": "test2_MADRID016",
+            "lat": 40.43140072676178,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.743725142097788,
+            "bike_id": "test2_MADRID017",
+            "lat": 40.309585240624514,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.703454868326515,
+            "bike_id": "test2_MADRID018",
+            "lat": 40.37953683424553,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.649788160017922,
+            "bike_id": "test2_MADRID019",
+            "lat": 40.49912215200149,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 0,
+            "lon": -3.728793583428048,
+            "bike_id": "test2_MADRID020",
+            "lat": 40.422767331292675,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.731529066692927,
+            "bike_id": "test2_MADRID021",
+            "lat": 40.35904921839907,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.753521576553865,
+            "bike_id": "test2_MADRID022",
+            "lat": 40.321259351985695,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.7588738365162992,
+            "bike_id": "test2_MADRID023",
+            "lat": 40.321605998866694,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.723479290170786,
+            "bike_id": "test2_MADRID024",
+            "lat": 40.36069606390197,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.69803744668754,
+            "bike_id": "test2_MADRID025",
+            "lat": 40.44616527125523,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.7665226548437922,
+            "bike_id": "test2_MADRID026",
+            "lat": 40.33780163960955,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.679470353585175,
+            "bike_id": "test2_MADRID027",
+            "lat": 40.36123375262037,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.713905774165339,
+            "bike_id": "test2_MADRID028",
+            "lat": 40.45823188736433,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.652950888569495,
+            "bike_id": "test2_MADRID029",
+            "lat": 40.4488967525189,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.6881065373808157,
+            "bike_id": "test2_MADRID030",
+            "lat": 40.46948691870445,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.7259174480005854,
+            "bike_id": "test2_MADRID031",
+            "lat": 40.31936288394648,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.6281888135860334,
+            "bike_id": "test2_MADRID032",
+            "lat": 40.40150197508318,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.731134169718019,
+            "bike_id": "test2_MADRID033",
+            "lat": 40.473265112382975,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 0,
+            "lon": -3.7737950177182205,
+            "bike_id": "test2_MADRID034",
+            "lat": 40.3375727897459,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.7197838411276782,
+            "bike_id": "test2_MADRID035",
+            "lat": 40.49937443607701,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.6788628258960467,
+            "bike_id": "test2_MADRID036",
+            "lat": 40.48827162040351,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 0,
+            "lon": -3.6260818220391613,
+            "bike_id": "test2_MADRID037",
+            "lat": 40.40538237223764,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.676159736452843,
+            "bike_id": "test2_MADRID038",
+            "lat": 40.49101027377363,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 0,
+            "lon": -3.6995047050475023,
+            "bike_id": "test2_MADRID039",
+            "lat": 40.32940859441884,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.6637292497481826,
+            "bike_id": "test2_MADRID040",
+            "lat": 40.3079063782412,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.6507274653102155,
+            "bike_id": "test2_MADRID041",
+            "lat": 40.32988984659081,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.6343424450583828,
+            "bike_id": "test2_MADRID042",
+            "lat": 40.34460908116876,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.607362859766303,
+            "bike_id": "test2_MADRID043",
+            "lat": 40.40150653729848,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.7190486665363287,
+            "bike_id": "test2_MADRID044",
+            "lat": 40.46274050608403,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.72559684999997,
+            "bike_id": "test2_MADRID045",
+            "lat": 40.314803111088764,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 0,
+            "lon": -3.6659190473673506,
+            "bike_id": "test2_MADRID046",
+            "lat": 40.40860915968616,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 0,
+            "lon": -3.653813720878842,
+            "bike_id": "test2_MADRID047",
+            "lat": 40.32715854547291,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.625076716731886,
+            "bike_id": "test2_MADRID048",
+            "lat": 40.43085158664535,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 0,
+            "lon": -3.794304730264188,
+            "bike_id": "test2_MADRID049",
+            "lat": 40.46276321514664,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.6611073278045745,
+            "bike_id": "test2_MADRID050",
+            "lat": 40.30965846958787,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.6591539991758473,
+            "bike_id": "test2_MADRID051",
+            "lat": 40.30925831825235,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.7639437230883206,
+            "bike_id": "test2_MADRID052",
+            "lat": 40.4702414618103,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 0,
+            "lon": -3.7663953987332026,
+            "bike_id": "test2_MADRID053",
+            "lat": 40.32869417644182,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.6793184900518976,
+            "bike_id": "test2_MADRID054",
+            "lat": 40.30319701418992,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.6725341626264183,
+            "bike_id": "test2_MADRID055",
+            "lat": 40.33046360501355,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.62987808776907,
+            "bike_id": "test2_MADRID056",
+            "lat": 40.464423381017276,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.6875270395538093,
+            "bike_id": "test2_MADRID057",
+            "lat": 40.40386667531395,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.7480524122667545,
+            "bike_id": "test2_MADRID058",
+            "lat": 40.37724713625315,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.768314632423168,
+            "bike_id": "test2_MADRID059",
+            "lat": 40.4579630224635,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.791773417205189,
+            "bike_id": "test2_MADRID060",
+            "lat": 40.40941540132728,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.63699979090699,
+            "bike_id": "test2_MADRID061",
+            "lat": 40.366368039968265,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.664136656107529,
+            "bike_id": "test2_MADRID062",
+            "lat": 40.44761003700491,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 0,
+            "lon": -3.7197657175604593,
+            "bike_id": "test2_MADRID063",
+            "lat": 40.36464915749127,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 0,
+            "lon": -3.6080994178961214,
+            "bike_id": "test2_MADRID064",
+            "lat": 40.442140064513424,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.652627578096222,
+            "bike_id": "test2_MADRID065",
+            "lat": 40.39797846436821,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.6973092429767376,
+            "bike_id": "test2_MADRID066",
+            "lat": 40.344468563985025,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.6501113460602586,
+            "bike_id": "test2_MADRID067",
+            "lat": 40.36669793325627,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.7941565467623017,
+            "bike_id": "test2_MADRID068",
+            "lat": 40.310230290075495,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.78295367995347,
+            "bike_id": "test2_MADRID069",
+            "lat": 40.46745348116868,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.6961451483082075,
+            "bike_id": "test2_MADRID070",
+            "lat": 40.49039625132493,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.7609164959880617,
+            "bike_id": "test2_MADRID071",
+            "lat": 40.47755416847745,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.7416743817769347,
+            "bike_id": "test2_MADRID072",
+            "lat": 40.38324153633399,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 0,
+            "lon": -3.7668100747564672,
+            "bike_id": "test2_MADRID073",
+            "lat": 40.48021267925933,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.696326589894171,
+            "bike_id": "test2_MADRID074",
+            "lat": 40.36977258712782,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.637818402254816,
+            "bike_id": "test2_MADRID075",
+            "lat": 40.37832345956366,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.690753768011232,
+            "bike_id": "test2_MADRID076",
+            "lat": 40.3052702102318,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.6402204986020497,
+            "bike_id": "test2_MADRID077",
+            "lat": 40.39443466740787,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.7312570223354227,
+            "bike_id": "test2_MADRID078",
+            "lat": 40.489604563084235,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.6336015019519294,
+            "bike_id": "test2_MADRID079",
+            "lat": 40.40457024402393,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.654152707800678,
+            "bike_id": "test2_MADRID080",
+            "lat": 40.38897833627459,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.7706472654093828,
+            "bike_id": "test2_MADRID081",
+            "lat": 40.40355831231578,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.7450189016895403,
+            "bike_id": "test2_MADRID082",
+            "lat": 40.33175444820858,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.6286161495118114,
+            "bike_id": "test2_MADRID083",
+            "lat": 40.44952217777821,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.7939160024829035,
+            "bike_id": "test2_MADRID084",
+            "lat": 40.45102443841613,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 0,
+            "lon": -3.6185818709048236,
+            "bike_id": "test2_MADRID085",
+            "lat": 40.48519019297167,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.7076752098863457,
+            "bike_id": "test2_MADRID086",
+            "lat": 40.39657382394931,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.66854105252011,
+            "bike_id": "test2_MADRID087",
+            "lat": 40.48368069970855,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 0,
+            "lon": -3.750348629315888,
+            "bike_id": "test2_MADRID088",
+            "lat": 40.388900722805516,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 0,
+            "lon": -3.7264792926715584,
+            "bike_id": "test2_MADRID089",
+            "lat": 40.41641832941702,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.6329147165588704,
+            "bike_id": "test2_MADRID090",
+            "lat": 40.437943876202645,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.779489477353478,
+            "bike_id": "test2_MADRID091",
+            "lat": 40.3908379041502,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.6233328938096245,
+            "bike_id": "test2_MADRID092",
+            "lat": 40.399176476459594,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 0,
+            "lon": -3.6350360801413437,
+            "bike_id": "test2_MADRID093",
+            "lat": 40.35553215761193,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 0,
+            "lon": -3.798040982760178,
+            "bike_id": "test2_MADRID094",
+            "lat": 40.38972190399652,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 0,
+            "lon": -3.660459211231827,
+            "bike_id": "test2_MADRID095",
+            "lat": 40.420499615524434,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 0,
+            "lon": -3.705989305317189,
+            "bike_id": "test2_MADRID096",
+            "lat": 40.337147725074004,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 0,
+            "lon": -3.6268121674731146,
+            "bike_id": "test2_MADRID097",
+            "lat": 40.49014873997025,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.6663051289177737,
+            "bike_id": "test2_MADRID098",
+            "lat": 40.48359413872215,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.7531262404519237,
+            "bike_id": "test2_MADRID099",
+            "lat": 40.35671475004952,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.670681231019505,
+            "bike_id": "test2_MADRID100",
+            "lat": 40.317893148482725,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.7971964763736903,
+            "bike_id": "test2_MADRID101",
+            "lat": 40.45174523689582,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 0,
+            "lon": -3.6115823565947993,
+            "bike_id": "test2_MADRID102",
+            "lat": 40.45833473831267,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.7889822327191918,
+            "bike_id": "test2_MADRID103",
+            "lat": 40.30331090343536,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.7073632701892736,
+            "bike_id": "test2_MADRID104",
+            "lat": 40.45873622545387,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.752716206042567,
+            "bike_id": "test2_MADRID105",
+            "lat": 40.39659763484972,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.7453922017062657,
+            "bike_id": "test2_MADRID106",
+            "lat": 40.360471106870506,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.713815708838772,
+            "bike_id": "test2_MADRID107",
+            "lat": 40.38553619287376,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.7142733979079114,
+            "bike_id": "test2_MADRID108",
+            "lat": 40.46311364507466,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.636689942861126,
+            "bike_id": "test2_MADRID109",
+            "lat": 40.45312571753735,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.746262553462998,
+            "bike_id": "test2_MADRID110",
+            "lat": 40.43635539818251,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.6895370155245457,
+            "bike_id": "test2_MADRID111",
+            "lat": 40.46810736375523,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 0,
+            "lon": -3.640968861844201,
+            "bike_id": "test2_MADRID112",
+            "lat": 40.34584998025528,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.7822244572059316,
+            "bike_id": "test2_MADRID113",
+            "lat": 40.43564427276473,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 0,
+            "lon": -3.791437422652007,
+            "bike_id": "test2_MADRID114",
+            "lat": 40.41564231786177,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.673346999488354,
+            "bike_id": "test2_MADRID115",
+            "lat": 40.38966412981998,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.683705803782468,
+            "bike_id": "test2_MADRID116",
+            "lat": 40.399838583118424,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.6925553110657456,
+            "bike_id": "test2_MADRID117",
+            "lat": 40.324520584138014,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.6909284398817914,
+            "bike_id": "test2_MADRID118",
+            "lat": 40.486173151100374,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.6742495005285694,
+            "bike_id": "test2_MADRID119",
+            "lat": 40.413629760153945,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.6331626699752606,
+            "bike_id": "test2_MADRID120",
+            "lat": 40.30412873654712,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.648731149802401,
+            "bike_id": "test2_MADRID121",
+            "lat": 40.4127381286298,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.7239101359466225,
+            "bike_id": "test2_MADRID122",
+            "lat": 40.46026604136521,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.7869075160965395,
+            "bike_id": "test2_MADRID123",
+            "lat": 40.3954779473027,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.674507325383926,
+            "bike_id": "test2_MADRID124",
+            "lat": 40.473419081262584,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.6446418076956224,
+            "bike_id": "test2_MADRID125",
+            "lat": 40.41886657090962,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.6774589432150564,
+            "bike_id": "test2_MADRID126",
+            "lat": 40.43241252748726,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.7028431610205317,
+            "bike_id": "test2_MADRID127",
+            "lat": 40.36640586858633,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.7398079627041563,
+            "bike_id": "test2_MADRID128",
+            "lat": 40.3489572513766,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.7493901214735663,
+            "bike_id": "test2_MADRID129",
+            "lat": 40.46643796354134,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.7876359731769695,
+            "bike_id": "test2_MADRID130",
+            "lat": 40.42838032871363,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.798981379173811,
+            "bike_id": "test2_MADRID131",
+            "lat": 40.43341357621578,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.7127877301805885,
+            "bike_id": "test2_MADRID132",
+            "lat": 40.33084580335528,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.797007498022663,
+            "bike_id": "test2_MADRID133",
+            "lat": 40.42972923202358,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.682913512034589,
+            "bike_id": "test2_MADRID134",
+            "lat": 40.345722382192655,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.7035373847351187,
+            "bike_id": "test2_MADRID135",
+            "lat": 40.49578955080792,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.7859231303645218,
+            "bike_id": "test2_MADRID136",
+            "lat": 40.451754368358515,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 0,
+            "lon": -3.703513258628515,
+            "bike_id": "test2_MADRID137",
+            "lat": 40.345950886558875,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 0,
+            "lon": -3.6299453013927394,
+            "bike_id": "test2_MADRID138",
+            "lat": 40.48569210457992,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.6392478702944415,
+            "bike_id": "test2_MADRID139",
+            "lat": 40.478002568800946,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 0,
+            "lon": -3.669886143621151,
+            "bike_id": "test2_MADRID140",
+            "lat": 40.4920380503071,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.711317704613549,
+            "bike_id": "test2_MADRID141",
+            "lat": 40.39384199184366,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.7816805369930875,
+            "bike_id": "test2_MADRID142",
+            "lat": 40.37656494780057,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.643945950511641,
+            "bike_id": "test2_MADRID143",
+            "lat": 40.3789997988335,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.7553301255601466,
+            "bike_id": "test2_MADRID144",
+            "lat": 40.43626209500937,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 0,
+            "lon": -3.6609689446045603,
+            "bike_id": "test2_MADRID145",
+            "lat": 40.338671405310265,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.727821652547604,
+            "bike_id": "test2_MADRID146",
+            "lat": 40.38836618191271,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.768479872620383,
+            "bike_id": "test2_MADRID147",
+            "lat": 40.43791114347889,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.727019450077383,
+            "bike_id": "test2_MADRID148",
+            "lat": 40.371132793094354,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.7902434700191,
+            "bike_id": "test2_MADRID149",
+            "lat": 40.34364522272585,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 0,
+            "lon": -3.6476258037346274,
+            "bike_id": "test2_MADRID150",
+            "lat": 40.43900491252258,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.7519754565244585,
+            "bike_id": "test2_MADRID151",
+            "lat": 40.316159824844156,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.7303028935374507,
+            "bike_id": "test2_MADRID152",
+            "lat": 40.32483463612325,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.7605804802608276,
+            "bike_id": "test2_MADRID153",
+            "lat": 40.447720510124604,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.765050158155773,
+            "bike_id": "test2_MADRID154",
+            "lat": 40.49181437596466,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 0,
+            "lon": -3.6744423047196335,
+            "bike_id": "test2_MADRID155",
+            "lat": 40.39597925426724,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.7899307615870903,
+            "bike_id": "test2_MADRID156",
+            "lat": 40.34777374525038,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.6108599710348663,
+            "bike_id": "test2_MADRID157",
+            "lat": 40.40982528780053,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.606240909297299,
+            "bike_id": "test2_MADRID158",
+            "lat": 40.34449846903358,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.6867237477683577,
+            "bike_id": "test2_MADRID159",
+            "lat": 40.49533610117551,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 0,
+            "lon": -3.781215810753592,
+            "bike_id": "test2_MADRID160",
+            "lat": 40.3347274874973,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.738524536609336,
+            "bike_id": "test2_MADRID161",
+            "lat": 40.41948472314734,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.7593660100255835,
+            "bike_id": "test2_MADRID162",
+            "lat": 40.40948452965891,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.7177905476790767,
+            "bike_id": "test2_MADRID163",
+            "lat": 40.499259657963364,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.653537838168303,
+            "bike_id": "test2_MADRID164",
+            "lat": 40.488400430141546,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.608044967979448,
+            "bike_id": "test2_MADRID165",
+            "lat": 40.37385362622294,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.636791722474262,
+            "bike_id": "test2_MADRID166",
+            "lat": 40.385682384914226,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.659378360680255,
+            "bike_id": "test2_MADRID167",
+            "lat": 40.407577430853244,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.606192125679753,
+            "bike_id": "test2_MADRID168",
+            "lat": 40.32438647079761,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.6867295768987,
+            "bike_id": "test2_MADRID169",
+            "lat": 40.421155157141214,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.739602860643381,
+            "bike_id": "test2_MADRID170",
+            "lat": 40.321649602285426,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 0,
+            "lon": -3.7279689102152886,
+            "bike_id": "test2_MADRID171",
+            "lat": 40.49905697611177,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.716581528250028,
+            "bike_id": "test2_MADRID172",
+            "lat": 40.31753724600795,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.707877250247527,
+            "bike_id": "test2_MADRID173",
+            "lat": 40.47052579744543,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.7244668076669627,
+            "bike_id": "test2_MADRID174",
+            "lat": 40.37016306191747,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.7041149640356155,
+            "bike_id": "test2_MADRID175",
+            "lat": 40.31195400695281,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.720752395879134,
+            "bike_id": "test2_MADRID176",
+            "lat": 40.48973680791327,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 0,
+            "lon": -3.7612743047748607,
+            "bike_id": "test2_MADRID177",
+            "lat": 40.368266580992646,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.7728412883774602,
+            "bike_id": "test2_MADRID178",
+            "lat": 40.33419670529824,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.749109027475174,
+            "bike_id": "test2_MADRID179",
+            "lat": 40.340966745795626,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.6462742023974872,
+            "bike_id": "test2_MADRID180",
+            "lat": 40.43908251684813,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.711035048335282,
+            "bike_id": "test2_MADRID181",
+            "lat": 40.4405005530569,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.7625258658746814,
+            "bike_id": "test2_MADRID182",
+            "lat": 40.30430559896043,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.6989957901591155,
+            "bike_id": "test2_MADRID183",
+            "lat": 40.35059649058559,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 0,
+            "lon": -3.7974629303003566,
+            "bike_id": "test2_MADRID184",
+            "lat": 40.31047219903555,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.6407861027560657,
+            "bike_id": "test2_MADRID185",
+            "lat": 40.302236491923715,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.741557226174153,
+            "bike_id": "test2_MADRID186",
+            "lat": 40.487416192501925,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 0,
+            "lon": -3.7359283365775813,
+            "bike_id": "test2_MADRID187",
+            "lat": 40.40491449799548,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.7929482071539153,
+            "bike_id": "test2_MADRID188",
+            "lat": 40.407597561930146,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.6261944928044643,
+            "bike_id": "test2_MADRID189",
+            "lat": 40.432838894466116,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.6044481779192568,
+            "bike_id": "test2_MADRID190",
+            "lat": 40.327022858841566,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 0,
+            "lon": -3.736868083271639,
+            "bike_id": "test2_MADRID191",
+            "lat": 40.31373504492662,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 0,
+            "lon": -3.755584209964177,
+            "bike_id": "test2_MADRID192",
+            "lat": 40.346343853798636,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.7348394640023246,
+            "bike_id": "test2_MADRID193",
+            "lat": 40.41790417056777,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.670770404410023,
+            "bike_id": "test2_MADRID194",
+            "lat": 40.41479069137846,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 0,
+            "lon": -3.7996284888249856,
+            "bike_id": "test2_MADRID195",
+            "lat": 40.3951948068906,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.754704282374516,
+            "bike_id": "test2_MADRID196",
+            "lat": 40.449595760087306,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 0,
+            "lon": -3.7534280576002534,
+            "bike_id": "test2_MADRID197",
+            "lat": 40.35754314325098,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.6660810201026597,
+            "bike_id": "test2_MADRID198",
+            "lat": 40.49356451782143,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 0,
+            "lon": -3.646262511329432,
+            "bike_id": "test2_MADRID199",
+            "lat": 40.45473842363151,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 0,
+            "lon": -3.600719343667935,
+            "bike_id": "test2_MADRID200",
+            "lat": 40.48344957382916,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.7423544352607356,
+            "bike_id": "test2_MADRID201",
+            "lat": 40.34106973977031,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 0,
+            "lon": -3.605192778097843,
+            "bike_id": "test2_MADRID202",
+            "lat": 40.45178420072433,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 0,
+            "lon": -3.6037937909724365,
+            "bike_id": "test2_MADRID203",
+            "lat": 40.480510363747364,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.6920600135781463,
+            "bike_id": "test2_MADRID204",
+            "lat": 40.43483160283799,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 0,
+            "lon": -3.7176029698415007,
+            "bike_id": "test2_MADRID205",
+            "lat": 40.48809598841108,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.677788132763693,
+            "bike_id": "test2_MADRID206",
+            "lat": 40.40930614873114,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.6622916337426066,
+            "bike_id": "test2_MADRID207",
+            "lat": 40.355153015295045,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.6144624991030816,
+            "bike_id": "test2_MADRID208",
+            "lat": 40.430522818159574,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 0,
+            "lon": -3.7599950501250565,
+            "bike_id": "test2_MADRID209",
+            "lat": 40.4560332271152,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.6363769682486717,
+            "bike_id": "test2_MADRID210",
+            "lat": 40.394631126447734,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.7102896636328344,
+            "bike_id": "test2_MADRID211",
+            "lat": 40.48401103069101,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.7925982537516227,
+            "bike_id": "test2_MADRID212",
+            "lat": 40.4975897720924,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.651779669529861,
+            "bike_id": "test2_MADRID213",
+            "lat": 40.31399957012802,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.786598140405913,
+            "bike_id": "test2_MADRID214",
+            "lat": 40.31353826310258,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.6475483266253432,
+            "bike_id": "test2_MADRID215",
+            "lat": 40.43974192143729,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.6940473391881183,
+            "bike_id": "test2_MADRID216",
+            "lat": 40.465221751505034,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.74056776155022,
+            "bike_id": "test2_MADRID217",
+            "lat": 40.48313364309706,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.6798647084493377,
+            "bike_id": "test2_MADRID218",
+            "lat": 40.30912535685387,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.675161048273212,
+            "bike_id": "test2_MADRID219",
+            "lat": 40.32333291012357,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.685615583151984,
+            "bike_id": "test2_MADRID220",
+            "lat": 40.307974191782286,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.730610247652244,
+            "bike_id": "test2_MADRID221",
+            "lat": 40.443314525527775,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.6083529830014256,
+            "bike_id": "test2_MADRID222",
+            "lat": 40.41325538682625,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.6630042132614906,
+            "bike_id": "test2_MADRID223",
+            "lat": 40.34152400841269,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 0,
+            "lon": -3.6419954576564733,
+            "bike_id": "test2_MADRID224",
+            "lat": 40.43041832010758,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.701419891503182,
+            "bike_id": "test2_MADRID225",
+            "lat": 40.30628801831553,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.602335269833243,
+            "bike_id": "test2_MADRID226",
+            "lat": 40.389409317813744,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.694530858169431,
+            "bike_id": "test2_MADRID227",
+            "lat": 40.300637397005595,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.606770726640449,
+            "bike_id": "test2_MADRID228",
+            "lat": 40.393197089176425,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.6537368596963455,
+            "bike_id": "test2_MADRID229",
+            "lat": 40.35519905903005,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.629856379332176,
+            "bike_id": "test2_MADRID230",
+            "lat": 40.466945115692546,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.68890811468674,
+            "bike_id": "test2_MADRID231",
+            "lat": 40.31681297198523,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.605764822840019,
+            "bike_id": "test2_MADRID232",
+            "lat": 40.380487304483374,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.68283806198732,
+            "bike_id": "test2_MADRID233",
+            "lat": 40.45053048611796,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.6987539002072634,
+            "bike_id": "test2_MADRID234",
+            "lat": 40.46676304357908,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.6004984256355934,
+            "bike_id": "test2_MADRID235",
+            "lat": 40.442650246783955,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.712733000073636,
+            "bike_id": "test2_MADRID236",
+            "lat": 40.308868056941144,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 0,
+            "lon": -3.679190203986233,
+            "bike_id": "test2_MADRID237",
+            "lat": 40.402447989600745,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.7610222240210724,
+            "bike_id": "test2_MADRID238",
+            "lat": 40.41837718359902,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.6956844756838803,
+            "bike_id": "test2_MADRID239",
+            "lat": 40.31025640562878,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.6673982058063688,
+            "bike_id": "test2_MADRID240",
+            "lat": 40.47759538185582,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.6564466342624686,
+            "bike_id": "test2_MADRID241",
+            "lat": 40.409551342145456,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.719520274354528,
+            "bike_id": "test2_MADRID242",
+            "lat": 40.36839323046097,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.6070379216863047,
+            "bike_id": "test2_MADRID243",
+            "lat": 40.49070065598571,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.7458307440287952,
+            "bike_id": "test2_MADRID244",
+            "lat": 40.46028313680753,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.6067879158263687,
+            "bike_id": "test2_MADRID245",
+            "lat": 40.46403184941347,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 0,
+            "lon": -3.637023064284325,
+            "bike_id": "test2_MADRID246",
+            "lat": 40.480392519581756,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 0,
+            "lon": -3.664831810894622,
+            "bike_id": "test2_MADRID247",
+            "lat": 40.469874845730715,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 0,
+            "lon": -3.7831716286127444,
+            "bike_id": "test2_MADRID248",
+            "lat": 40.33799020125457,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 0,
+            "lon": -3.7836061443396654,
+            "bike_id": "test2_MADRID249",
+            "lat": 40.42323609568313,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 0,
+            "lon": -3.6476169197502744,
+            "bike_id": "test2_MADRID250",
+            "lat": 40.32622230913496,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.6058968047562003,
+            "bike_id": "test2_MADRID251",
+            "lat": 40.34076028693262,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.6486997657246825,
+            "bike_id": "test2_MADRID252",
+            "lat": 40.37371385033954,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.7115330324261504,
+            "bike_id": "test2_MADRID253",
+            "lat": 40.447635896829404,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.6704385133538415,
+            "bike_id": "test2_MADRID254",
+            "lat": 40.468692311552296,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.7598211293247354,
+            "bike_id": "test2_MADRID255",
+            "lat": 40.31210085926379,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.673242796913621,
+            "bike_id": "test2_MADRID256",
+            "lat": 40.42828943253756,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.6238117347506096,
+            "bike_id": "test2_MADRID257",
+            "lat": 40.3052045396369,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.625757644512884,
+            "bike_id": "test2_MADRID258",
+            "lat": 40.43567748788886,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 0,
+            "lon": -3.6124942656941808,
+            "bike_id": "test2_MADRID259",
+            "lat": 40.33348235578555,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 0,
+            "lon": -3.728931774236907,
+            "bike_id": "test2_MADRID260",
+            "lat": 40.417696275150625,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 0,
+            "lon": -3.6270124213166044,
+            "bike_id": "test2_MADRID261",
+            "lat": 40.44219922548957,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.6534037108382926,
+            "bike_id": "test2_MADRID262",
+            "lat": 40.38562707077961,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.6469943998273857,
+            "bike_id": "test2_MADRID263",
+            "lat": 40.336818087499665,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.6612995318233152,
+            "bike_id": "test2_MADRID264",
+            "lat": 40.311769837019696,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.6930916094139126,
+            "bike_id": "test2_MADRID265",
+            "lat": 40.32034981827511,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 0,
+            "lon": -3.6335360063331072,
+            "bike_id": "test2_MADRID266",
+            "lat": 40.364479850259784,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.761819639230037,
+            "bike_id": "test2_MADRID267",
+            "lat": 40.394240706432825,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.773722823908919,
+            "bike_id": "test2_MADRID268",
+            "lat": 40.37432011590496,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.7787952259034165,
+            "bike_id": "test2_MADRID269",
+            "lat": 40.32045379368597,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.709757722734462,
+            "bike_id": "test2_MADRID270",
+            "lat": 40.45398570009737,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.766462950276296,
+            "bike_id": "test2_MADRID271",
+            "lat": 40.4924003202697,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.664208215934676,
+            "bike_id": "test2_MADRID272",
+            "lat": 40.344656317985006,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.7724054490132812,
+            "bike_id": "test2_MADRID273",
+            "lat": 40.31237748081401,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 0,
+            "lon": -3.7145737150931244,
+            "bike_id": "test2_MADRID274",
+            "lat": 40.31143337593026,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.6543308653599635,
+            "bike_id": "test2_MADRID275",
+            "lat": 40.42316883445966,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 0,
+            "lon": -3.714521733176085,
+            "bike_id": "test2_MADRID276",
+            "lat": 40.46051775222188,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.7678312864330454,
+            "bike_id": "test2_MADRID277",
+            "lat": 40.391463508121966,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.797192018179586,
+            "bike_id": "test2_MADRID278",
+            "lat": 40.40078453901436,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.7530059345392,
+            "bike_id": "test2_MADRID279",
+            "lat": 40.49075054414884,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.7316622356124847,
+            "bike_id": "test2_MADRID280",
+            "lat": 40.42241100174615,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 0,
+            "lon": -3.766042873314352,
+            "bike_id": "test2_MADRID281",
+            "lat": 40.48134454766921,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.7536690973254228,
+            "bike_id": "test2_MADRID282",
+            "lat": 40.41521403985536,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 0,
+            "lon": -3.6518529231649226,
+            "bike_id": "test2_MADRID283",
+            "lat": 40.33519898338822,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 0,
+            "lon": -3.641678553308645,
+            "bike_id": "test2_MADRID284",
+            "lat": 40.399353317127684,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.703849590016101,
+            "bike_id": "test2_MADRID285",
+            "lat": 40.303163269674606,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.759398882873756,
+            "bike_id": "test2_MADRID286",
+            "lat": 40.39105644235263,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.6069687629434437,
+            "bike_id": "test2_MADRID287",
+            "lat": 40.372340015226314,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.735830395719711,
+            "bike_id": "test2_MADRID288",
+            "lat": 40.376022289646635,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.7100218550527533,
+            "bike_id": "test2_MADRID289",
+            "lat": 40.41119857149182,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.6039455122429005,
+            "bike_id": "test2_MADRID290",
+            "lat": 40.41315884060938,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.723476251963024,
+            "bike_id": "test2_MADRID291",
+            "lat": 40.35010119397904,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.7690929678642773,
+            "bike_id": "test2_MADRID292",
+            "lat": 40.34131174645017,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 0,
+            "lon": -3.6887567109649675,
+            "bike_id": "test2_MADRID293",
+            "lat": 40.394898049704416,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.7282198645398097,
+            "bike_id": "test2_MADRID294",
+            "lat": 40.41163984472938,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.6151615260360654,
+            "bike_id": "test2_MADRID295",
+            "lat": 40.32124733262146,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.6110053783021887,
+            "bike_id": "test2_MADRID296",
+            "lat": 40.41829391378841,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.730487165859663,
+            "bike_id": "test2_MADRID297",
+            "lat": 40.34731670789023,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.7639998057669324,
+            "bike_id": "test2_MADRID298",
+            "lat": 40.35005489504265,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.6414552164203293,
+            "bike_id": "test2_MADRID299",
+            "lat": 40.33252237215892,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.748862762921178,
+            "bike_id": "test2_MADRID300",
+            "lat": 40.43558783491873,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.6500352414456736,
+            "bike_id": "test2_MADRID301",
+            "lat": 40.499961943268396,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.6757942146579454,
+            "bike_id": "test2_MADRID302",
+            "lat": 40.304967795981746,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 0,
+            "lon": -3.6217574503813785,
+            "bike_id": "test2_MADRID303",
+            "lat": 40.33019747102133,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.743252176686376,
+            "bike_id": "test2_MADRID304",
+            "lat": 40.440134011385794,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.7521088214423135,
+            "bike_id": "test2_MADRID305",
+            "lat": 40.32404476305517,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.6050507399685205,
+            "bike_id": "test2_MADRID306",
+            "lat": 40.3369284830195,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.727106517272416,
+            "bike_id": "test2_MADRID307",
+            "lat": 40.38202534279262,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.7359322459021307,
+            "bike_id": "test2_MADRID308",
+            "lat": 40.45137532579199,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 0,
+            "lon": -3.7241422243649325,
+            "bike_id": "test2_MADRID309",
+            "lat": 40.3981372409594,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 0,
+            "lon": -3.7167073205145713,
+            "bike_id": "test2_MADRID310",
+            "lat": 40.45285706290162,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 0,
+            "lon": -3.64919132977163,
+            "bike_id": "test2_MADRID311",
+            "lat": 40.315600867607515,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.710056531812296,
+            "bike_id": "test2_MADRID312",
+            "lat": 40.356844181983185,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.756480517078733,
+            "bike_id": "test2_MADRID313",
+            "lat": 40.34223626001118,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.7480874336853107,
+            "bike_id": "test2_MADRID314",
+            "lat": 40.35983410780234,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.746707640043905,
+            "bike_id": "test2_MADRID315",
+            "lat": 40.473127919100904,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 0,
+            "lon": -3.6027406934558446,
+            "bike_id": "test2_MADRID316",
+            "lat": 40.44915594162597,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.789907603393524,
+            "bike_id": "test2_MADRID317",
+            "lat": 40.31823347466854,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.7601391335258683,
+            "bike_id": "test2_MADRID318",
+            "lat": 40.31029716913072,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.6690579646333035,
+            "bike_id": "test2_MADRID319",
+            "lat": 40.482592476945506,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.7699733618609486,
+            "bike_id": "test2_MADRID320",
+            "lat": 40.30440855435844,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.790518047466276,
+            "bike_id": "test2_MADRID321",
+            "lat": 40.39679152349454,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.791017793452863,
+            "bike_id": "test2_MADRID322",
+            "lat": 40.33864356910188,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.75739530302293,
+            "bike_id": "test2_MADRID323",
+            "lat": 40.34534196388283,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 0,
+            "lon": -3.7038707807118363,
+            "bike_id": "test2_MADRID324",
+            "lat": 40.30198848135225,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 0,
+            "lon": -3.7519326484027533,
+            "bike_id": "test2_MADRID325",
+            "lat": 40.490626502835646,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.7120126295988474,
+            "bike_id": "test2_MADRID326",
+            "lat": 40.38923944772165,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.723010582806966,
+            "bike_id": "test2_MADRID327",
+            "lat": 40.34007083854004,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.7022752060378266,
+            "bike_id": "test2_MADRID328",
+            "lat": 40.485782842250416,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 0,
+            "lon": -3.724857767548341,
+            "bike_id": "test2_MADRID329",
+            "lat": 40.354196702991416,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.7858169585920174,
+            "bike_id": "test2_MADRID330",
+            "lat": 40.43583501899088,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.7030638717079922,
+            "bike_id": "test2_MADRID331",
+            "lat": 40.44321245148321,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.7906970246914224,
+            "bike_id": "test2_MADRID332",
+            "lat": 40.46679784061533,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 0,
+            "lon": -3.773988403997715,
+            "bike_id": "test2_MADRID333",
+            "lat": 40.34979755174131,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.6271422240438707,
+            "bike_id": "test2_MADRID334",
+            "lat": 40.49238613020676,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.79365930726578,
+            "bike_id": "test2_MADRID335",
+            "lat": 40.36573713023433,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.796600664631144,
+            "bike_id": "test2_MADRID336",
+            "lat": 40.46718340679204,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.7622550198134785,
+            "bike_id": "test2_MADRID337",
+            "lat": 40.48006286804657,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 0,
+            "lon": -3.665675739590739,
+            "bike_id": "test2_MADRID338",
+            "lat": 40.41528202750371,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.7602638172132408,
+            "bike_id": "test2_MADRID339",
+            "lat": 40.30635652752477,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.6760342210131816,
+            "bike_id": "test2_MADRID340",
+            "lat": 40.40566411034099,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.662414116443871,
+            "bike_id": "test2_MADRID341",
+            "lat": 40.38687229628702,
+            "pricing_plan_id": "test2_plan_3"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 0,
+            "lon": -3.6113822274653566,
+            "bike_id": "test2_MADRID342",
+            "lat": 40.39697939468885,
+            "pricing_plan_id": "test2_plan_2"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.6254695634843013,
+            "bike_id": "test2_MADRID343",
+            "lat": 40.321134228314776,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 0,
+            "lon": -3.7926028383250037,
+            "bike_id": "test2_MADRID344",
+            "lat": 40.32437632862912,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_bike",
+            "is_disabled": 1,
+            "lon": -3.6959825668099064,
+            "bike_id": "test2_MADRID345",
+            "lat": 40.41666505663348,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 0,
+            "current_range_meters": 0,
+            "lon": -3.6221490527606757,
+            "bike_id": "test2_MADRID346",
+            "lat": 40.451042640040306,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 1,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.6341001441263776,
+            "bike_id": "test2_MADRID347",
+            "lat": 40.409502578326176,
+            "pricing_plan_id": "test2_plan_1"
+        },
+        {
+            "is_reserved": 0,
+            "vehicle_type_id": "test2_electric_bike",
+            "is_disabled": 1,
+            "current_range_meters": 0,
+            "lon": -3.648785870912665,
+            "bike_id": "test2_MADRID348",
+            "lat": 40.45711162836598,
+            "pricing_plan_id": "test2_plan_3"
+        }
+    ]},
+    "ttl": 180,
+    "version": "2.2"
+}
