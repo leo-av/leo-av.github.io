@@ -1,0 +1,31 @@
+{
+  "last_updated": 1732454536,
+  "data": {
+    "vehicle_types": [
+      {
+        "pricing_plans": [
+          "penguin_plan_1",
+          "penguin_plan_2"
+        ],
+        "vehicle_type_id": "penguin_motorbike",
+        "propulsion_type": "combustion",
+        "default_pricing_plan_id": "penguin_plan_1",
+        "max_range_meters": 250000,
+        "form_factor": "moped"
+      },
+      {
+        "pricing_plans": [
+          "penguin_plan_1",
+          "penguin_plan_3"
+        ],
+        "vehicle_type_id": "penguin_scooter",
+        "propulsion_type": "electric",
+        "default_pricing_plan_id": "penguin_plan_1",
+        "max_range_meters": 20000,
+        "form_factor": "scooter"
+      }
+    ]
+  },
+  "ttl": 86400,
+  "version": "2.2"
+}

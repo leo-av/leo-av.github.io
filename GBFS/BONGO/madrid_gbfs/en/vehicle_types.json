@@ -1,0 +1,20 @@
+{
+  "last_updated": 1732454512,
+  "data": {
+    "vehicle_types": [
+      {
+        "pricing_plans": [
+          "bongo_plan_1",
+          "bongo_plan_2"
+        ],
+        "vehicle_type_id": "bongo_car",
+        "propulsion_type": "combustion",
+        "default_pricing_plan_id": "bongo_plan_1",
+        "max_range_meters": 500000,
+        "form_factor": "car"
+      }
+    ]
+  },
+  "ttl": 86400,
+  "version": "2.2"
+}

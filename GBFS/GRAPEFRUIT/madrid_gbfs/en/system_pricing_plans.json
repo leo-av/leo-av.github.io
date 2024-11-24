@@ -1,0 +1,72 @@
+{
+  "last_updated": 1732454484,
+  "data": [
+    {
+      "price": 2.15,
+      "name": "Simple rate",
+      "description": "1.80 € per kilometer",
+      "currency": "EUR",
+      "per_km_pricing": [
+        {
+          "rate": 1.8,
+          "start": 0,
+          "interval": 1
+        }
+      ],
+      "plan_id": "grapefruit_plan_1",
+      "is_taxable": false
+    },
+    {
+      "price": 2.0,
+      "name": "One-Way",
+      "description": "Includes 26km, overage fees apply after 26km",
+      "currency": "EUR",
+      "per_km_pricing": [
+        {
+          "rate": 2.05,
+          "start": 26,
+          "interval": 1,
+          "end": 55
+        },
+        {
+          "rate": 1.15,
+          "start": 55,
+          "interval": 1,
+          "end": 84
+        },
+        {
+          "rate": 4.5,
+          "start": 84,
+          "interval": 5,
+          "end": 113
+        }
+      ],
+      "plan_id": "grapefruit_plan_2",
+      "is_taxable": false
+    },
+    {
+      "per_min_pricing": [
+        {
+          "rate": 1.35,
+          "start": 0,
+          "interval": 1
+        }
+      ],
+      "price": 2.7,
+      "name": "Simple rate",
+      "description": "2.70 € unlock fee, 0.60 € per kilometer and 1.35 € per minute.",
+      "currency": "EUR",
+      "per_km_pricing": [
+        {
+          "rate": 0.6,
+          "start": 0,
+          "interval": 1
+        }
+      ],
+      "plan_id": "grapefruit_plan_3",
+      "is_taxable": true
+    }
+  ],
+  "ttl": 180,
+  "version": "2.2"
+}

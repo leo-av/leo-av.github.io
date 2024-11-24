@@ -1,0 +1,450 @@
+{
+  "last_updated": 1732454526,
+  "data": {
+    "stationList": [
+      {
+        "num_docks_available": 28,
+        "is_installed": 1,
+        "is_returning": 1,
+        "num_bikes_available": 1,
+        "is_renting": 1,
+        "station_id": "free_streets_station_MADRID001",
+        "num_ebikes_available": 4
+      },
+      {
+        "num_docks_available": 21,
+        "is_installed": 1,
+        "is_returning": 1,
+        "num_bikes_available": 16,
+        "is_renting": 1,
+        "station_id": "free_streets_station_MADRID002",
+        "num_ebikes_available": 0
+      },
+      {
+        "num_docks_available": 10,
+        "is_installed": 1,
+        "is_returning": 1,
+        "num_bikes_available": 19,
+        "is_renting": 1,
+        "station_id": "free_streets_station_MADRID003",
+        "num_ebikes_available": 7
+      },
+      {
+        "num_docks_available": 18,
+        "is_installed": 1,
+        "is_returning": 1,
+        "num_bikes_available": 20,
+        "is_renting": 1,
+        "station_id": "free_streets_station_MADRID004",
+        "num_ebikes_available": 4
+      },
+      {
+        "num_docks_available": 8,
+        "is_installed": 1,
+        "is_returning": 1,
+        "num_bikes_available": 18,
+        "is_renting": 1,
+        "station_id": "free_streets_station_MADRID005",
+        "num_ebikes_available": 0
+      },
+      {
+        "num_docks_available": 27,
+        "is_installed": 1,
+        "is_returning": 1,
+        "num_bikes_available": 11,
+        "is_renting": 1,
+        "station_id": "free_streets_station_MADRID006",
+        "num_ebikes_available": 5
+      },
+      {
+        "num_docks_available": 1,
+        "is_installed": 1,
+        "is_returning": 1,
+        "num_bikes_available": 7,
+        "is_renting": 1,
+        "station_id": "free_streets_station_MADRID007",
+        "num_ebikes_available": 6
+      },
+      {
+        "num_docks_available": 4,
+        "is_installed": 1,
+        "is_returning": 1,
+        "num_bikes_available": 14,
+        "is_renting": 1,
+        "station_id": "free_streets_station_MADRID008",
+        "num_ebikes_available": 6
+      },
+      {
+        "num_docks_available": 7,
+        "is_installed": 1,
+        "is_returning": 1,
+        "num_bikes_available": 2,
+        "is_renting": 1,
+        "station_id": "free_streets_station_MADRID009",
+        "num_ebikes_available": 0
+      },
+      {
+        "num_docks_available": 4,
+        "is_installed": 1,
+        "is_returning": 1,
+        "num_bikes_available": 10,
+        "is_renting": 1,
+        "station_id": "free_streets_station_MADRID010",
+        "num_ebikes_available": 2
+      },
+      {
+        "num_docks_available": 1,
+        "is_installed": 1,
+        "is_returning": 1,
+        "num_bikes_available": 2,
+        "is_renting": 1,
+        "station_id": "free_streets_station_MADRID011",
+        "num_ebikes_available": 3
+      },
+      {
+        "num_docks_available": 30,
+        "is_installed": 1,
+        "is_returning": 1,
+        "num_bikes_available": 6,
+        "is_renting": 1,
+        "station_id": "free_streets_station_MADRID012",
+        "num_ebikes_available": 2
+      },
+      {
+        "num_docks_available": 18,
+        "is_installed": 1,
+        "is_returning": 1,
+        "num_bikes_available": 11,
+        "is_renting": 1,
+        "station_id": "free_streets_station_MADRID013",
+        "num_ebikes_available": 7
+      },
+      {
+        "num_docks_available": 8,
+        "is_installed": 1,
+        "is_returning": 1,
+        "num_bikes_available": 9,
+        "is_renting": 1,
+        "station_id": "free_streets_station_MADRID014",
+        "num_ebikes_available": 3
+      },
+      {
+        "num_docks_available": 22,
+        "is_installed": 1,
+        "is_returning": 1,
+        "num_bikes_available": 13,
+        "is_renting": 1,
+        "station_id": "free_streets_station_MADRID015",
+        "num_ebikes_available": 0
+      },
+      {
+        "num_docks_available": 15,
+        "is_installed": 1,
+        "is_returning": 1,
+        "num_bikes_available": 2,
+        "is_renting": 1,
+        "station_id": "free_streets_station_MADRID016",
+        "num_ebikes_available": 0
+      },
+      {
+        "num_docks_available": 24,
+        "is_installed": 1,
+        "is_returning": 1,
+        "num_bikes_available": 5,
+        "is_renting": 1,
+        "station_id": "free_streets_station_MADRID017",
+        "num_ebikes_available": 5
+      },
+      {
+        "num_docks_available": 29,
+        "is_installed": 1,
+        "is_returning": 1,
+        "num_bikes_available": 17,
+        "is_renting": 1,
+        "station_id": "free_streets_station_MADRID018",
+        "num_ebikes_available": 4
+      },
+      {
+        "num_docks_available": 16,
+        "is_installed": 1,
+        "is_returning": 1,
+        "num_bikes_available": 11,
+        "is_renting": 1,
+        "station_id": "free_streets_station_MADRID019",
+        "num_ebikes_available": 1
+      },
+      {
+        "num_docks_available": 2,
+        "is_installed": 1,
+        "is_returning": 1,
+        "num_bikes_available": 2,
+        "is_renting": 1,
+        "station_id": "free_streets_station_MADRID020",
+        "num_ebikes_available": 0
+      },
+      {
+        "num_docks_available": 8,
+        "is_installed": 1,
+        "is_returning": 1,
+        "num_bikes_available": 6,
+        "is_renting": 1,
+        "station_id": "free_streets_station_MADRID021",
+        "num_ebikes_available": 9
+      },
+      {
+        "num_docks_available": 1,
+        "is_installed": 1,
+        "is_returning": 1,
+        "num_bikes_available": 9,
+        "is_renting": 1,
+        "station_id": "free_streets_station_MADRID022",
+        "num_ebikes_available": 4
+      },
+      {
+        "num_docks_available": 16,
+        "is_installed": 1,
+        "is_returning": 1,
+        "num_bikes_available": 2,
+        "is_renting": 1,
+        "station_id": "free_streets_station_MADRID023",
+        "num_ebikes_available": 8
+      },
+      {
+        "num_docks_available": 30,
+        "is_installed": 1,
+        "is_returning": 1,
+        "num_bikes_available": 16,
+        "is_renting": 1,
+        "station_id": "free_streets_station_MADRID024",
+        "num_ebikes_available": 2
+      },
+      {
+        "num_docks_available": 25,
+        "is_installed": 1,
+        "is_returning": 1,
+        "num_bikes_available": 17,
+        "is_renting": 1,
+        "station_id": "free_streets_station_MADRID025",
+        "num_ebikes_available": 4
+      },
+      {
+        "num_docks_available": 23,
+        "is_installed": 1,
+        "is_returning": 1,
+        "num_bikes_available": 6,
+        "is_renting": 1,
+        "station_id": "free_streets_station_MADRID026",
+        "num_ebikes_available": 1
+      },
+      {
+        "num_docks_available": 13,
+        "is_installed": 1,
+        "is_returning": 1,
+        "num_bikes_available": 17,
+        "is_renting": 1,
+        "station_id": "free_streets_station_MADRID027",
+        "num_ebikes_available": 8
+      },
+      {
+        "num_docks_available": 9,
+        "is_installed": 1,
+        "is_returning": 1,
+        "num_bikes_available": 17,
+        "is_renting": 1,
+        "station_id": "free_streets_station_MADRID028",
+        "num_ebikes_available": 5
+      },
+      {
+        "num_docks_available": 13,
+        "is_installed": 1,
+        "is_returning": 1,
+        "num_bikes_available": 7,
+        "is_renting": 1,
+        "station_id": "free_streets_station_MADRID029",
+        "num_ebikes_available": 7
+      },
+      {
+        "num_docks_available": 21,
+        "is_installed": 1,
+        "is_returning": 1,
+        "num_bikes_available": 3,
+        "is_renting": 1,
+        "station_id": "free_streets_station_MADRID030",
+        "num_ebikes_available": 4
+      },
+      {
+        "num_docks_available": 20,
+        "is_installed": 1,
+        "is_returning": 1,
+        "num_bikes_available": 15,
+        "is_renting": 1,
+        "station_id": "free_streets_station_MADRID031",
+        "num_ebikes_available": 7
+      },
+      {
+        "num_docks_available": 28,
+        "is_installed": 1,
+        "is_returning": 1,
+        "num_bikes_available": 17,
+        "is_renting": 1,
+        "station_id": "free_streets_station_MADRID032",
+        "num_ebikes_available": 1
+      },
+      {
+        "num_docks_available": 2,
+        "is_installed": 1,
+        "is_returning": 1,
+        "num_bikes_available": 9,
+        "is_renting": 1,
+        "station_id": "free_streets_station_MADRID033",
+        "num_ebikes_available": 4
+      },
+      {
+        "num_docks_available": 13,
+        "is_installed": 1,
+        "is_returning": 1,
+        "num_bikes_available": 20,
+        "is_renting": 1,
+        "station_id": "free_streets_station_MADRID034",
+        "num_ebikes_available": 9
+      },
+      {
+        "num_docks_available": 3,
+        "is_installed": 1,
+        "is_returning": 1,
+        "num_bikes_available": 6,
+        "is_renting": 1,
+        "station_id": "free_streets_station_MADRID035",
+        "num_ebikes_available": 8
+      },
+      {
+        "num_docks_available": 14,
+        "is_installed": 1,
+        "is_returning": 1,
+        "num_bikes_available": 15,
+        "is_renting": 1,
+        "station_id": "free_streets_station_MADRID036",
+        "num_ebikes_available": 6
+      },
+      {
+        "num_docks_available": 13,
+        "is_installed": 1,
+        "is_returning": 1,
+        "num_bikes_available": 18,
+        "is_renting": 1,
+        "station_id": "free_streets_station_MADRID037",
+        "num_ebikes_available": 2
+      },
+      {
+        "num_docks_available": 22,
+        "is_installed": 1,
+        "is_returning": 1,
+        "num_bikes_available": 19,
+        "is_renting": 1,
+        "station_id": "free_streets_station_MADRID038",
+        "num_ebikes_available": 0
+      },
+      {
+        "num_docks_available": 4,
+        "is_installed": 1,
+        "is_returning": 1,
+        "num_bikes_available": 7,
+        "is_renting": 1,
+        "station_id": "free_streets_station_MADRID039",
+        "num_ebikes_available": 9
+      },
+      {
+        "num_docks_available": 9,
+        "is_installed": 1,
+        "is_returning": 1,
+        "num_bikes_available": 11,
+        "is_renting": 1,
+        "station_id": "free_streets_station_MADRID040",
+        "num_ebikes_available": 2
+      },
+      {
+        "num_docks_available": 30,
+        "is_installed": 1,
+        "is_returning": 1,
+        "num_bikes_available": 20,
+        "is_renting": 1,
+        "station_id": "free_streets_station_MADRID041",
+        "num_ebikes_available": 4
+      },
+      {
+        "num_docks_available": 28,
+        "is_installed": 1,
+        "is_returning": 1,
+        "num_bikes_available": 13,
+        "is_renting": 1,
+        "station_id": "free_streets_station_MADRID042",
+        "num_ebikes_available": 6
+      },
+      {
+        "num_docks_available": 17,
+        "is_installed": 1,
+        "is_returning": 1,
+        "num_bikes_available": 5,
+        "is_renting": 1,
+        "station_id": "free_streets_station_MADRID043",
+        "num_ebikes_available": 6
+      },
+      {
+        "num_docks_available": 15,
+        "is_installed": 1,
+        "is_returning": 1,
+        "num_bikes_available": 4,
+        "is_renting": 1,
+        "station_id": "free_streets_station_MADRID044",
+        "num_ebikes_available": 0
+      },
+      {
+        "num_docks_available": 5,
+        "is_installed": 1,
+        "is_returning": 1,
+        "num_bikes_available": 11,
+        "is_renting": 1,
+        "station_id": "free_streets_station_MADRID045",
+        "num_ebikes_available": 5
+      },
+      {
+        "num_docks_available": 20,
+        "is_installed": 1,
+        "is_returning": 1,
+        "num_bikes_available": 2,
+        "is_renting": 1,
+        "station_id": "free_streets_station_MADRID046",
+        "num_ebikes_available": 2
+      },
+      {
+        "num_docks_available": 10,
+        "is_installed": 1,
+        "is_returning": 1,
+        "num_bikes_available": 1,
+        "is_renting": 1,
+        "station_id": "free_streets_station_MADRID047",
+        "num_ebikes_available": 3
+      },
+      {
+        "num_docks_available": 2,
+        "is_installed": 1,
+        "is_returning": 1,
+        "num_bikes_available": 3,
+        "is_renting": 1,
+        "station_id": "free_streets_station_MADRID048",
+        "num_ebikes_available": 4
+      },
+      {
+        "num_docks_available": 19,
+        "is_installed": 1,
+        "is_returning": 1,
+        "num_bikes_available": 7,
+        "is_renting": 1,
+        "station_id": "free_streets_station_MADRID049",
+        "num_ebikes_available": 6
+      }
+    ]
+  },
+  "ttl": 180,
+  "version": "2.2"
+}

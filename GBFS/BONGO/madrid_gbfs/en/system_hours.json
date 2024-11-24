@@ -1,0 +1,46 @@
+{
+  "last_updated": 1732454512,
+  "data": {
+    "rental_hours": [
+      {
+        "start_time": "00:00:00",
+        "user_types": [
+          "member"
+        ],
+        "end_time": "23:59:59",
+        "days": [
+          "sat",
+          "sun"
+        ]
+      },
+      {
+        "start_time": "05:00:00",
+        "user_types": [
+          "nonmember"
+        ],
+        "end_time": "23:59:59",
+        "days": [
+          "sat",
+          "sun"
+        ]
+      },
+      {
+        "start_time": "00:00:00",
+        "user_types": [
+          "member",
+          "nonmember"
+        ],
+        "end_time": "23:59:59",
+        "days": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ]
+      }
+    ]
+  },
+  "ttl": 86400,
+  "version": "2.2"
+}

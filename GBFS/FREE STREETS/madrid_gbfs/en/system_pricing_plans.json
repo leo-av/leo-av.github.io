@@ -1,0 +1,72 @@
+{
+  "last_updated": 1732454526,
+  "data": [
+    {
+      "price": 1.35,
+      "name": "Simple rate",
+      "description": "2.25 € per kilometer",
+      "currency": "EUR",
+      "per_km_pricing": [
+        {
+          "rate": 2.25,
+          "start": 0,
+          "interval": 1
+        }
+      ],
+      "plan_id": "free_streets_plan_1",
+      "is_taxable": false
+    },
+    {
+      "price": 2.95,
+      "name": "One-Way",
+      "description": "Includes 26km, overage fees apply after 26km",
+      "currency": "EUR",
+      "per_km_pricing": [
+        {
+          "rate": 2.05,
+          "start": 26,
+          "interval": 1,
+          "end": 52
+        },
+        {
+          "rate": 0.7,
+          "start": 52,
+          "interval": 1,
+          "end": 79
+        },
+        {
+          "rate": 3.15,
+          "start": 79,
+          "interval": 5,
+          "end": 104
+        }
+      ],
+      "plan_id": "free_streets_plan_2",
+      "is_taxable": false
+    },
+    {
+      "per_min_pricing": [
+        {
+          "rate": 1.45,
+          "start": 0,
+          "interval": 1
+        }
+      ],
+      "price": 4.3,
+      "name": "Simple rate",
+      "description": "4.30 € unlock fee, 0.60 € per kilometer and 1.45 € per minute.",
+      "currency": "EUR",
+      "per_km_pricing": [
+        {
+          "rate": 0.6,
+          "start": 0,
+          "interval": 1
+        }
+      ],
+      "plan_id": "free_streets_plan_3",
+      "is_taxable": true
+    }
+  ],
+  "ttl": 180,
+  "version": "2.2"
+}
