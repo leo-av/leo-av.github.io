@@ -1,20 +1,19 @@
 {
-  "last_updated": 1732454493,
+  "last_updated": 1732461892,
   "data": {
-    "timezone": "Europe/Paris",
     "system_id": "flash",
-    "purchase_url": "https://www.exampleride.org",
+    "timezone": "Europe/Paris",
+    "name": "FLASH",
     "language": "en",
+    "short_name": "FLASH",
+    "phone_number": "666777888",
+    "feed_contact_email": "datafeed@flash.es",
     "operator": "FLASH",
     "url": "http://www.exampleride.org",
-    "name": "FLASH",
-    "phone_number": "666777888",
-    "short_name": "FLASH",
-    "feed_contact_email": "datafeed@flash.es",
-    "license_url": "https://exampleride.org/data-license.html",
     "email": "customerservice@flash.es",
+    "license_url": "https://exampleride.org/data-license.html",
     "start_date": "2010-06-10"
   },
   "ttl": 180,
-  "version": "2.2"
+  "version": "2.3"
 }

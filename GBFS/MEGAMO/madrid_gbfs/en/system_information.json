@@ -1,20 +1,19 @@
 {
-  "last_updated": 1732454498,
+  "last_updated": 1732461883,
   "data": {
-    "timezone": "Europe/Paris",
     "system_id": "megamo",
-    "purchase_url": "https://www.exampleride.org",
+    "timezone": "Europe/Paris",
+    "name": "MEGAMO",
     "language": "en",
+    "short_name": "MEGAMO",
+    "phone_number": "666777888",
+    "feed_contact_email": "datafeed@megamo.es",
     "operator": "MEGAMO",
     "url": "http://www.exampleride.org",
-    "name": "MEGAMO",
-    "phone_number": "666777888",
-    "short_name": "MEGAMO",
-    "feed_contact_email": "datafeed@megamo.es",
-    "license_url": "https://exampleride.org/data-license.html",
     "email": "customerservice@megamo.es",
+    "license_url": "https://exampleride.org/data-license.html",
     "start_date": "2010-06-10"
   },
   "ttl": 180,
-  "version": "2.2"
+  "version": "2.3"
 }

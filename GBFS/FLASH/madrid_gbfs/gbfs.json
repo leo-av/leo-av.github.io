@@ -1,5 +1,5 @@
 {
-  "last_updated": 1732454493,
+  "last_updated": 1732461892,
   "data": {
     "en": {
       "feeds": [
@@ -27,5 +27,5 @@
     }
   },
   "ttl": 180,
-  "version": "2.2"
+  "version": "2.3"
 }

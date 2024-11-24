@@ -1,14 +1,14 @@
 {
-  "last_updated": 1732454498,
+  "last_updated": 1732461883,
   "data": [
     {
-      "price": 2.2,
+      "price": 2.3,
       "name": "Simple rate",
-      "description": "1.70 € per kilometer",
+      "description": "1.10 € per kilometer",
       "currency": "EUR",
       "per_km_pricing": [
         {
-          "rate": 1.7,
+          "rate": 1.1,
           "start": 0,
           "interval": 1
         }
@@ -17,28 +17,28 @@
       "is_taxable": false
     },
     {
-      "price": 3.05,
+      "price": 1.45,
       "name": "One-Way",
-      "description": "Includes 25km, overage fees apply after 25km",
+      "description": "Includes 26km, overage fees apply after 26km",
       "currency": "EUR",
       "per_km_pricing": [
         {
-          "rate": 1.95,
-          "start": 25,
+          "rate": 2.3,
+          "start": 26,
           "interval": 1,
-          "end": 50
+          "end": 52
         },
         {
-          "rate": 0.65,
-          "start": 50,
+          "rate": 1.1,
+          "start": 52,
           "interval": 1,
           "end": 79
         },
         {
-          "rate": 6.35,
+          "rate": 3.15,
           "start": 79,
           "interval": 5,
-          "end": 107
+          "end": 105
         }
       ],
       "plan_id": "megamo_plan_2",
@@ -47,18 +47,18 @@
     {
       "per_min_pricing": [
         {
-          "rate": 0.9,
+          "rate": 0.7,
           "start": 0,
           "interval": 1
         }
       ],
-      "price": 1.5,
+      "price": 3.85,
       "name": "Simple rate",
-      "description": "1.50 € unlock fee, 1.30 € per kilometer and 0.90 € per minute.",
+      "description": "3.85 € unlock fee, 1.45 € per kilometer and 0.70 € per minute.",
       "currency": "EUR",
       "per_km_pricing": [
         {
-          "rate": 1.3,
+          "rate": 1.45,
           "start": 0,
           "interval": 1
         }
@@ -68,5 +68,5 @@
     }
   ],
   "ttl": 180,
-  "version": "2.2"
+  "version": "2.3"
 }

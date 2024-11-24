@@ -1,5 +1,5 @@
 {
-  "last_updated": 1732454493,
+  "last_updated": 1732461892,
   "data": {
     "rental_hours": [
       {
@@ -42,5 +42,5 @@
     ]
   },
   "ttl": 86400,
-  "version": "2.2"
+  "version": "2.3"
 }

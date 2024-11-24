@@ -1,14 +1,14 @@
 {
-  "last_updated": 1732454493,
+  "last_updated": 1732461892,
   "data": [
     {
-      "price": 0.95,
+      "price": 2.0,
       "name": "Simple rate",
-      "description": "0.90 € per kilometer",
+      "description": "1.70 € per kilometer",
       "currency": "EUR",
       "per_km_pricing": [
         {
-          "rate": 0.9,
+          "rate": 1.7,
           "start": 0,
           "interval": 1
         }
@@ -17,28 +17,28 @@
       "is_taxable": false
     },
     {
-      "price": 2.6,
+      "price": 1.45,
       "name": "One-Way",
-      "description": "Includes 29km, overage fees apply after 29km",
+      "description": "Includes 26km, overage fees apply after 26km",
       "currency": "EUR",
       "per_km_pricing": [
         {
-          "rate": 1.4,
-          "start": 29,
+          "rate": 1.8,
+          "start": 26,
           "interval": 1,
-          "end": 57
+          "end": 53
         },
         {
-          "rate": 0.95,
-          "start": 57,
+          "rate": 0.55,
+          "start": 53,
           "interval": 1,
-          "end": 84
+          "end": 80
         },
         {
-          "rate": 8.0,
-          "start": 84,
+          "rate": 4.0,
+          "start": 80,
           "interval": 5,
-          "end": 113
+          "end": 105
         }
       ],
       "plan_id": "flash_plan_2",
@@ -47,18 +47,18 @@
     {
       "per_min_pricing": [
         {
-          "rate": 0.7,
+          "rate": 1.3,
           "start": 0,
           "interval": 1
         }
       ],
-      "price": 3.85,
+      "price": 3.95,
       "name": "Simple rate",
-      "description": "3.85 € unlock fee, 0.90 € per kilometer and 0.70 € per minute.",
+      "description": "3.95 € unlock fee, 1.20 € per kilometer and 1.30 € per minute.",
       "currency": "EUR",
       "per_km_pricing": [
         {
-          "rate": 0.9,
+          "rate": 1.2,
           "start": 0,
           "interval": 1
         }
@@ -68,5 +68,5 @@
     }
   ],
   "ttl": 180,
-  "version": "2.2"
+  "version": "2.3"
 }
