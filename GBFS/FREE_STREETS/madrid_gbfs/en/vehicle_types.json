@@ -1,5 +1,5 @@
 {
-  "last_updated": 1732465381,
+  "last_updated": 1732466773,
   "data": {
     "vehicle_types": [
       {
@@ -8,9 +8,9 @@
           "free_streets_plan_2"
         ],
         "vehicle_type_id": "free_streets_car",
-        "propulsion_type": "electric",
+        "propulsion_type": "combustion",
         "default_pricing_plan_id": "free_streets_plan_1",
-        "max_range_meters": 390000,
+        "max_range_meters": 500000,
         "form_factor": "car"
       }
     ]

@@ -1,0 +1,380 @@
+{
+  "last_updated": 1732466797,
+  "data": {
+    "stations": [
+      {
+        "station_id": "penguin_station_MADRID001",
+        "name": "Station 1",
+        "lon": -3.6088103321723346,
+        "lat": 40.40452135341888,
+        "capacity": 13
+      },
+      {
+        "station_id": "penguin_station_MADRID002",
+        "name": "Station 2",
+        "lon": -3.6719506957807684,
+        "lat": 40.44131864250684,
+        "capacity": 42
+      },
+      {
+        "station_id": "penguin_station_MADRID003",
+        "name": "Station 3",
+        "lon": -3.650027083548382,
+        "lat": 40.38730646912768,
+        "capacity": 21
+      },
+      {
+        "station_id": "penguin_station_MADRID004",
+        "name": "Station 4",
+        "lon": -3.735395806099402,
+        "lat": 40.4164588731213,
+        "capacity": 10
+      },
+      {
+        "station_id": "penguin_station_MADRID005",
+        "name": "Station 5",
+        "lon": -3.613540828152172,
+        "lat": 40.490258625390375,
+        "capacity": 34
+      },
+      {
+        "station_id": "penguin_station_MADRID006",
+        "name": "Station 6",
+        "lon": -3.721154076639075,
+        "lat": 40.483005982886134,
+        "capacity": 40
+      },
+      {
+        "station_id": "penguin_station_MADRID007",
+        "name": "Station 7",
+        "lon": -3.6939496841319697,
+        "lat": 40.41195785000313,
+        "capacity": 41
+      },
+      {
+        "station_id": "penguin_station_MADRID008",
+        "name": "Station 8",
+        "lon": -3.660702587272687,
+        "lat": 40.39131515929916,
+        "capacity": 11
+      },
+      {
+        "station_id": "penguin_station_MADRID009",
+        "name": "Station 9",
+        "lon": -3.6321210170458733,
+        "lat": 40.47746219200486,
+        "capacity": 16
+      },
+      {
+        "station_id": "penguin_station_MADRID010",
+        "name": "Station 10",
+        "lon": -3.6300517040761973,
+        "lat": 40.403206995321156,
+        "capacity": 47
+      },
+      {
+        "station_id": "penguin_station_MADRID011",
+        "name": "Station 11",
+        "lon": -3.733148626093761,
+        "lat": 40.34773996212822,
+        "capacity": 25
+      },
+      {
+        "station_id": "penguin_station_MADRID012",
+        "name": "Station 12",
+        "lon": -3.7728768210556765,
+        "lat": 40.37553953734162,
+        "capacity": 26
+      },
+      {
+        "station_id": "penguin_station_MADRID013",
+        "name": "Station 13",
+        "lon": -3.6369138671124603,
+        "lat": 40.33851790473504,
+        "capacity": 19
+      },
+      {
+        "station_id": "penguin_station_MADRID014",
+        "name": "Station 14",
+        "lon": -3.6342335526842535,
+        "lat": 40.427160099267745,
+        "capacity": 17
+      },
+      {
+        "station_id": "penguin_station_MADRID015",
+        "name": "Station 15",
+        "lon": -3.678079894845754,
+        "lat": 40.437098926568396,
+        "capacity": 29
+      },
+      {
+        "station_id": "penguin_station_MADRID016",
+        "name": "Station 16",
+        "lon": -3.711574516622664,
+        "lat": 40.31450785555341,
+        "capacity": 32
+      },
+      {
+        "station_id": "penguin_station_MADRID017",
+        "name": "Station 17",
+        "lon": -3.713739916246988,
+        "lat": 40.492462675093165,
+        "capacity": 16
+      },
+      {
+        "station_id": "penguin_station_MADRID018",
+        "name": "Station 18",
+        "lon": -3.7678138013610436,
+        "lat": 40.47074162354666,
+        "capacity": 18
+      },
+      {
+        "station_id": "penguin_station_MADRID019",
+        "name": "Station 19",
+        "lon": -3.7178660066408207,
+        "lat": 40.33238085785349,
+        "capacity": 31
+      },
+      {
+        "station_id": "penguin_station_MADRID020",
+        "name": "Station 20",
+        "lon": -3.70211712926808,
+        "lat": 40.47584906192277,
+        "capacity": 36
+      },
+      {
+        "station_id": "penguin_station_MADRID021",
+        "name": "Station 21",
+        "lon": -3.790787607658569,
+        "lat": 40.30098160970657,
+        "capacity": 16
+      },
+      {
+        "station_id": "penguin_station_MADRID022",
+        "name": "Station 22",
+        "lon": -3.644541461168655,
+        "lat": 40.35227064962339,
+        "capacity": 27
+      },
+      {
+        "station_id": "penguin_station_MADRID023",
+        "name": "Station 23",
+        "lon": -3.6904977815781073,
+        "lat": 40.38060923081591,
+        "capacity": 39
+      },
+      {
+        "station_id": "penguin_station_MADRID024",
+        "name": "Station 24",
+        "lon": -3.757357472142799,
+        "lat": 40.316468555275215,
+        "capacity": 31
+      },
+      {
+        "station_id": "penguin_station_MADRID025",
+        "name": "Station 25",
+        "lon": -3.695515765199763,
+        "lat": 40.43858087750997,
+        "capacity": 49
+      },
+      {
+        "station_id": "penguin_station_MADRID026",
+        "name": "Station 26",
+        "lon": -3.606833352875808,
+        "lat": 40.40964719287992,
+        "capacity": 13
+      },
+      {
+        "station_id": "penguin_station_MADRID027",
+        "name": "Station 27",
+        "lon": -3.680718947804309,
+        "lat": 40.35112481514902,
+        "capacity": 36
+      },
+      {
+        "station_id": "penguin_station_MADRID028",
+        "name": "Station 28",
+        "lon": -3.6180537242450006,
+        "lat": 40.3334712933232,
+        "capacity": 26
+      },
+      {
+        "station_id": "penguin_station_MADRID029",
+        "name": "Station 29",
+        "lon": -3.701613316755601,
+        "lat": 40.40715689990317,
+        "capacity": 10
+      },
+      {
+        "station_id": "penguin_station_MADRID030",
+        "name": "Station 30",
+        "lon": -3.673230204279578,
+        "lat": 40.442999866712725,
+        "capacity": 18
+      },
+      {
+        "station_id": "penguin_station_MADRID031",
+        "name": "Station 31",
+        "lon": -3.722557009865759,
+        "lat": 40.37667830250476,
+        "capacity": 36
+      },
+      {
+        "station_id": "penguin_station_MADRID032",
+        "name": "Station 32",
+        "lon": -3.727298724214947,
+        "lat": 40.33545903720778,
+        "capacity": 38
+      },
+      {
+        "station_id": "penguin_station_MADRID033",
+        "name": "Station 33",
+        "lon": -3.642054564992636,
+        "lat": 40.4784980380844,
+        "capacity": 35
+      },
+      {
+        "station_id": "penguin_station_MADRID034",
+        "name": "Station 34",
+        "lon": -3.6296444037992055,
+        "lat": 40.45276977107306,
+        "capacity": 40
+      },
+      {
+        "station_id": "penguin_station_MADRID035",
+        "name": "Station 35",
+        "lon": -3.6028751867550755,
+        "lat": 40.40084762822921,
+        "capacity": 16
+      },
+      {
+        "station_id": "penguin_station_MADRID036",
+        "name": "Station 36",
+        "lon": -3.6811514667941014,
+        "lat": 40.467356718777935,
+        "capacity": 26
+      },
+      {
+        "station_id": "penguin_station_MADRID037",
+        "name": "Station 37",
+        "lon": -3.6193626341221217,
+        "lat": 40.33326247933022,
+        "capacity": 22
+      },
+      {
+        "station_id": "penguin_station_MADRID038",
+        "name": "Station 38",
+        "lon": -3.631800492347887,
+        "lat": 40.46611331241347,
+        "capacity": 24
+      },
+      {
+        "station_id": "penguin_station_MADRID039",
+        "name": "Station 39",
+        "lon": -3.618828924076137,
+        "lat": 40.41247305896598,
+        "capacity": 14
+      },
+      {
+        "station_id": "penguin_station_MADRID040",
+        "name": "Station 40",
+        "lon": -3.7071443482253423,
+        "lat": 40.416515877767075,
+        "capacity": 34
+      },
+      {
+        "station_id": "penguin_station_MADRID041",
+        "name": "Station 41",
+        "lon": -3.637830033115797,
+        "lat": 40.322651928708844,
+        "capacity": 37
+      },
+      {
+        "station_id": "penguin_station_MADRID042",
+        "name": "Station 42",
+        "lon": -3.7605854228643674,
+        "lat": 40.40023878068284,
+        "capacity": 28
+      },
+      {
+        "station_id": "penguin_station_MADRID043",
+        "name": "Station 43",
+        "lon": -3.7878646879064743,
+        "lat": 40.334952951694326,
+        "capacity": 44
+      },
+      {
+        "station_id": "penguin_station_MADRID044",
+        "name": "Station 44",
+        "lon": -3.7758486744517685,
+        "lat": 40.481481554593614,
+        "capacity": 11
+      },
+      {
+        "station_id": "penguin_station_MADRID045",
+        "name": "Station 45",
+        "lon": -3.758979572088845,
+        "lat": 40.43844662074377,
+        "capacity": 49
+      },
+      {
+        "station_id": "penguin_station_MADRID046",
+        "name": "Station 46",
+        "lon": -3.6031159956504024,
+        "lat": 40.3749944914596,
+        "capacity": 13
+      },
+      {
+        "station_id": "penguin_station_MADRID047",
+        "name": "Station 47",
+        "lon": -3.617922051840599,
+        "lat": 40.311635593469,
+        "capacity": 29
+      },
+      {
+        "station_id": "penguin_station_MADRID048",
+        "name": "Station 48",
+        "lon": -3.7636011283229953,
+        "lat": 40.49925082761538,
+        "capacity": 43
+      },
+      {
+        "station_id": "penguin_station_MADRID049",
+        "name": "Station 49",
+        "lon": -3.782191966013581,
+        "lat": 40.34550983143039,
+        "capacity": 45
+      },
+      {
+        "station_id": "penguin_station_MADRID050",
+        "name": "Station 50",
+        "lon": -3.7340635817994356,
+        "lat": 40.3995211238664,
+        "capacity": 19
+      },
+      {
+        "station_id": "penguin_station_MADRID051",
+        "name": "Station 51",
+        "lon": -3.7636908966223417,
+        "lat": 40.37821674157022,
+        "capacity": 36
+      },
+      {
+        "station_id": "penguin_station_MADRID052",
+        "name": "Station 52",
+        "lon": -3.656630734791713,
+        "lat": 40.49447869545682,
+        "capacity": 38
+      },
+      {
+        "station_id": "penguin_station_MADRID053",
+        "name": "Station 53",
+        "lon": -3.765264528527909,
+        "lat": 40.44366056183541,
+        "capacity": 21
+      }
+    ]
+  },
+  "ttl": 180,
+  "version": "2.3"
+}

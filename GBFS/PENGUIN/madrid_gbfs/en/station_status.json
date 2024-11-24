@@ -1,0 +1,1917 @@
+{
+  "last_updated": 1732466797,
+  "data": {
+    "stations": [
+      {
+        "is_installed": true,
+        "num_bikes_disabled": 1,
+        "num_docks_available": 20,
+        "vehicle_types_available": [
+          {
+            "count": 6,
+            "vehicle_type_id": "penguin_bike"
+          },
+          {
+            "count": 3,
+            "vehicle_type_id": "penguin_electric_bike"
+          }
+        ],
+        "is_returning": true,
+        "vehicle_docks_available": [
+          {
+            "vehicle_type_ids": [
+              "penguin_bike",
+              "penguin_electric_bike"
+            ],
+            "count": 12
+          },
+          {
+            "vehicle_type_ids": [
+              "penguin_bike"
+            ],
+            "count": 6
+          }
+        ],
+        "is_renting": true,
+        "num_bikes_available": 11,
+        "station_id": "penguin_station_MADRID001",
+        "last_reported": 1732466677,
+        "num_docks_disabled": 2
+      },
+      {
+        "is_installed": true,
+        "num_bikes_disabled": 0,
+        "num_docks_available": 8,
+        "vehicle_types_available": [
+          {
+            "count": 0,
+            "vehicle_type_id": "penguin_bike"
+          },
+          {
+            "count": 0,
+            "vehicle_type_id": "penguin_electric_bike"
+          }
+        ],
+        "is_returning": true,
+        "vehicle_docks_available": [
+          {
+            "vehicle_type_ids": [
+              "penguin_bike",
+              "penguin_electric_bike"
+            ],
+            "count": 4
+          },
+          {
+            "vehicle_type_ids": [
+              "penguin_bike"
+            ],
+            "count": 2
+          }
+        ],
+        "is_renting": true,
+        "num_bikes_available": 1,
+        "station_id": "penguin_station_MADRID002",
+        "last_reported": 1732466707,
+        "num_docks_disabled": 0
+      },
+      {
+        "is_installed": true,
+        "num_bikes_disabled": 0,
+        "num_docks_available": 11,
+        "vehicle_types_available": [
+          {
+            "count": 2,
+            "vehicle_type_id": "penguin_bike"
+          },
+          {
+            "count": 1,
+            "vehicle_type_id": "penguin_electric_bike"
+          }
+        ],
+        "is_returning": true,
+        "vehicle_docks_available": [
+          {
+            "vehicle_type_ids": [
+              "penguin_bike",
+              "penguin_electric_bike"
+            ],
+            "count": 6
+          },
+          {
+            "vehicle_type_ids": [
+              "penguin_bike"
+            ],
+            "count": 3
+          }
+        ],
+        "is_renting": true,
+        "num_bikes_available": 4,
+        "station_id": "penguin_station_MADRID003",
+        "last_reported": 1732466723,
+        "num_docks_disabled": 1
+      },
+      {
+        "is_installed": true,
+        "num_bikes_disabled": 1,
+        "num_docks_available": 8,
+        "vehicle_types_available": [
+          {
+            "count": 6,
+            "vehicle_type_id": "penguin_bike"
+          },
+          {
+            "count": 3,
+            "vehicle_type_id": "penguin_electric_bike"
+          }
+        ],
+        "is_returning": true,
+        "vehicle_docks_available": [
+          {
+            "vehicle_type_ids": [
+              "penguin_bike",
+              "penguin_electric_bike"
+            ],
+            "count": 4
+          },
+          {
+            "vehicle_type_ids": [
+              "penguin_bike"
+            ],
+            "count": 2
+          }
+        ],
+        "is_renting": true,
+        "num_bikes_available": 11,
+        "station_id": "penguin_station_MADRID004",
+        "last_reported": 1732466717,
+        "num_docks_disabled": 0
+      },
+      {
+        "is_installed": true,
+        "num_bikes_disabled": 0,
+        "num_docks_available": 23,
+        "vehicle_types_available": [
+          {
+            "count": 4,
+            "vehicle_type_id": "penguin_bike"
+          },
+          {
+            "count": 2,
+            "vehicle_type_id": "penguin_electric_bike"
+          }
+        ],
+        "is_returning": true,
+        "vehicle_docks_available": [
+          {
+            "vehicle_type_ids": [
+              "penguin_bike",
+              "penguin_electric_bike"
+            ],
+            "count": 14
+          },
+          {
+            "vehicle_type_ids": [
+              "penguin_bike"
+            ],
+            "count": 7
+          }
+        ],
+        "is_renting": true,
+        "num_bikes_available": 7,
+        "station_id": "penguin_station_MADRID005",
+        "last_reported": 1732466644,
+        "num_docks_disabled": 2
+      },
+      {
+        "is_installed": true,
+        "num_bikes_disabled": 0,
+        "num_docks_available": 2,
+        "vehicle_types_available": [
+          {
+            "count": 6,
+            "vehicle_type_id": "penguin_bike"
+          },
+          {
+            "count": 3,
+            "vehicle_type_id": "penguin_electric_bike"
+          }
+        ],
+        "is_returning": true,
+        "vehicle_docks_available": [
+          {
+            "vehicle_type_ids": [
+              "penguin_bike",
+              "penguin_electric_bike"
+            ],
+            "count": 0
+          },
+          {
+            "vehicle_type_ids": [
+              "penguin_bike"
+            ],
+            "count": 0
+          }
+        ],
+        "is_renting": true,
+        "num_bikes_available": 9,
+        "station_id": "penguin_station_MADRID006",
+        "last_reported": 1732466781,
+        "num_docks_disabled": 0
+      },
+      {
+        "is_installed": true,
+        "num_bikes_disabled": 2,
+        "num_docks_available": 9,
+        "vehicle_types_available": [
+          {
+            "count": 12,
+            "vehicle_type_id": "penguin_bike"
+          },
+          {
+            "count": 6,
+            "vehicle_type_id": "penguin_electric_bike"
+          }
+        ],
+        "is_returning": true,
+        "vehicle_docks_available": [
+          {
+            "vehicle_type_ids": [
+              "penguin_bike",
+              "penguin_electric_bike"
+            ],
+            "count": 6
+          },
+          {
+            "vehicle_type_ids": [
+              "penguin_bike"
+            ],
+            "count": 3
+          }
+        ],
+        "is_renting": true,
+        "num_bikes_available": 18,
+        "station_id": "penguin_station_MADRID007",
+        "last_reported": 1732466632,
+        "num_docks_disabled": 0
+      },
+      {
+        "is_installed": true,
+        "num_bikes_disabled": 0,
+        "num_docks_available": 25,
+        "vehicle_types_available": [
+          {
+            "count": 2,
+            "vehicle_type_id": "penguin_bike"
+          },
+          {
+            "count": 1,
+            "vehicle_type_id": "penguin_electric_bike"
+          }
+        ],
+        "is_returning": true,
+        "vehicle_docks_available": [
+          {
+            "vehicle_type_ids": [
+              "penguin_bike",
+              "penguin_electric_bike"
+            ],
+            "count": 16
+          },
+          {
+            "vehicle_type_ids": [
+              "penguin_bike"
+            ],
+            "count": 8
+          }
+        ],
+        "is_renting": true,
+        "num_bikes_available": 3,
+        "station_id": "penguin_station_MADRID008",
+        "last_reported": 1732466648,
+        "num_docks_disabled": 2
+      },
+      {
+        "is_installed": true,
+        "num_bikes_disabled": 1,
+        "num_docks_available": 21,
+        "vehicle_types_available": [
+          {
+            "count": 6,
+            "vehicle_type_id": "penguin_bike"
+          },
+          {
+            "count": 3,
+            "vehicle_type_id": "penguin_electric_bike"
+          }
+        ],
+        "is_returning": true,
+        "vehicle_docks_available": [
+          {
+            "vehicle_type_ids": [
+              "penguin_bike",
+              "penguin_electric_bike"
+            ],
+            "count": 14
+          },
+          {
+            "vehicle_type_ids": [
+              "penguin_bike"
+            ],
+            "count": 7
+          }
+        ],
+        "is_renting": true,
+        "num_bikes_available": 10,
+        "station_id": "penguin_station_MADRID009",
+        "last_reported": 1732466630,
+        "num_docks_disabled": 2
+      },
+      {
+        "is_installed": true,
+        "num_bikes_disabled": 1,
+        "num_docks_available": 21,
+        "vehicle_types_available": [
+          {
+            "count": 12,
+            "vehicle_type_id": "penguin_bike"
+          },
+          {
+            "count": 6,
+            "vehicle_type_id": "penguin_electric_bike"
+          }
+        ],
+        "is_returning": true,
+        "vehicle_docks_available": [
+          {
+            "vehicle_type_ids": [
+              "penguin_bike",
+              "penguin_electric_bike"
+            ],
+            "count": 14
+          },
+          {
+            "vehicle_type_ids": [
+              "penguin_bike"
+            ],
+            "count": 7
+          }
+        ],
+        "is_renting": true,
+        "num_bikes_available": 18,
+        "station_id": "penguin_station_MADRID010",
+        "last_reported": 1732466710,
+        "num_docks_disabled": 2
+      },
+      {
+        "is_installed": true,
+        "num_bikes_disabled": 1,
+        "num_docks_available": 19,
+        "vehicle_types_available": [
+          {
+            "count": 10,
+            "vehicle_type_id": "penguin_bike"
+          },
+          {
+            "count": 5,
+            "vehicle_type_id": "penguin_electric_bike"
+          }
+        ],
+        "is_returning": true,
+        "vehicle_docks_available": [
+          {
+            "vehicle_type_ids": [
+              "penguin_bike",
+              "penguin_electric_bike"
+            ],
+            "count": 12
+          },
+          {
+            "vehicle_type_ids": [
+              "penguin_bike"
+            ],
+            "count": 6
+          }
+        ],
+        "is_renting": true,
+        "num_bikes_available": 15,
+        "station_id": "penguin_station_MADRID011",
+        "last_reported": 1732466642,
+        "num_docks_disabled": 2
+      },
+      {
+        "is_installed": true,
+        "num_bikes_disabled": 1,
+        "num_docks_available": 18,
+        "vehicle_types_available": [
+          {
+            "count": 8,
+            "vehicle_type_id": "penguin_bike"
+          },
+          {
+            "count": 4,
+            "vehicle_type_id": "penguin_electric_bike"
+          }
+        ],
+        "is_returning": true,
+        "vehicle_docks_available": [
+          {
+            "vehicle_type_ids": [
+              "penguin_bike",
+              "penguin_electric_bike"
+            ],
+            "count": 12
+          },
+          {
+            "vehicle_type_ids": [
+              "penguin_bike"
+            ],
+            "count": 6
+          }
+        ],
+        "is_renting": true,
+        "num_bikes_available": 12,
+        "station_id": "penguin_station_MADRID012",
+        "last_reported": 1732466640,
+        "num_docks_disabled": 2
+      },
+      {
+        "is_installed": true,
+        "num_bikes_disabled": 1,
+        "num_docks_available": 6,
+        "vehicle_types_available": [
+          {
+            "count": 10,
+            "vehicle_type_id": "penguin_bike"
+          },
+          {
+            "count": 5,
+            "vehicle_type_id": "penguin_electric_bike"
+          }
+        ],
+        "is_returning": true,
+        "vehicle_docks_available": [
+          {
+            "vehicle_type_ids": [
+              "penguin_bike",
+              "penguin_electric_bike"
+            ],
+            "count": 4
+          },
+          {
+            "vehicle_type_ids": [
+              "penguin_bike"
+            ],
+            "count": 2
+          }
+        ],
+        "is_renting": true,
+        "num_bikes_available": 17,
+        "station_id": "penguin_station_MADRID013",
+        "last_reported": 1732466657,
+        "num_docks_disabled": 0
+      },
+      {
+        "is_installed": true,
+        "num_bikes_disabled": 1,
+        "num_docks_available": 20,
+        "vehicle_types_available": [
+          {
+            "count": 8,
+            "vehicle_type_id": "penguin_bike"
+          },
+          {
+            "count": 4,
+            "vehicle_type_id": "penguin_electric_bike"
+          }
+        ],
+        "is_returning": true,
+        "vehicle_docks_available": [
+          {
+            "vehicle_type_ids": [
+              "penguin_bike",
+              "penguin_electric_bike"
+            ],
+            "count": 12
+          },
+          {
+            "vehicle_type_ids": [
+              "penguin_bike"
+            ],
+            "count": 6
+          }
+        ],
+        "is_renting": true,
+        "num_bikes_available": 14,
+        "station_id": "penguin_station_MADRID014",
+        "last_reported": 1732466626,
+        "num_docks_disabled": 2
+      },
+      {
+        "is_installed": true,
+        "num_bikes_disabled": 0,
+        "num_docks_available": 26,
+        "vehicle_types_available": [
+          {
+            "count": 2,
+            "vehicle_type_id": "penguin_bike"
+          },
+          {
+            "count": 1,
+            "vehicle_type_id": "penguin_electric_bike"
+          }
+        ],
+        "is_returning": true,
+        "vehicle_docks_available": [
+          {
+            "vehicle_type_ids": [
+              "penguin_bike",
+              "penguin_electric_bike"
+            ],
+            "count": 16
+          },
+          {
+            "vehicle_type_ids": [
+              "penguin_bike"
+            ],
+            "count": 8
+          }
+        ],
+        "is_renting": true,
+        "num_bikes_available": 4,
+        "station_id": "penguin_station_MADRID015",
+        "last_reported": 1732466773,
+        "num_docks_disabled": 2
+      },
+      {
+        "is_installed": true,
+        "num_bikes_disabled": 1,
+        "num_docks_available": 19,
+        "vehicle_types_available": [
+          {
+            "count": 6,
+            "vehicle_type_id": "penguin_bike"
+          },
+          {
+            "count": 3,
+            "vehicle_type_id": "penguin_electric_bike"
+          }
+        ],
+        "is_returning": true,
+        "vehicle_docks_available": [
+          {
+            "vehicle_type_ids": [
+              "penguin_bike",
+              "penguin_electric_bike"
+            ],
+            "count": 12
+          },
+          {
+            "vehicle_type_ids": [
+              "penguin_bike"
+            ],
+            "count": 6
+          }
+        ],
+        "is_renting": true,
+        "num_bikes_available": 11,
+        "station_id": "penguin_station_MADRID016",
+        "last_reported": 1732466652,
+        "num_docks_disabled": 2
+      },
+      {
+        "is_installed": true,
+        "num_bikes_disabled": 1,
+        "num_docks_available": 7,
+        "vehicle_types_available": [
+          {
+            "count": 6,
+            "vehicle_type_id": "penguin_bike"
+          },
+          {
+            "count": 3,
+            "vehicle_type_id": "penguin_electric_bike"
+          }
+        ],
+        "is_returning": true,
+        "vehicle_docks_available": [
+          {
+            "vehicle_type_ids": [
+              "penguin_bike",
+              "penguin_electric_bike"
+            ],
+            "count": 4
+          },
+          {
+            "vehicle_type_ids": [
+              "penguin_bike"
+            ],
+            "count": 2
+          }
+        ],
+        "is_renting": true,
+        "num_bikes_available": 9,
+        "station_id": "penguin_station_MADRID017",
+        "last_reported": 1732466778,
+        "num_docks_disabled": 0
+      },
+      {
+        "is_installed": true,
+        "num_bikes_disabled": 0,
+        "num_docks_available": 15,
+        "vehicle_types_available": [
+          {
+            "count": 0,
+            "vehicle_type_id": "penguin_bike"
+          },
+          {
+            "count": 0,
+            "vehicle_type_id": "penguin_electric_bike"
+          }
+        ],
+        "is_returning": true,
+        "vehicle_docks_available": [
+          {
+            "vehicle_type_ids": [
+              "penguin_bike",
+              "penguin_electric_bike"
+            ],
+            "count": 10
+          },
+          {
+            "vehicle_type_ids": [
+              "penguin_bike"
+            ],
+            "count": 5
+          }
+        ],
+        "is_renting": true,
+        "num_bikes_available": 2,
+        "station_id": "penguin_station_MADRID018",
+        "last_reported": 1732466635,
+        "num_docks_disabled": 1
+      },
+      {
+        "is_installed": true,
+        "num_bikes_disabled": 0,
+        "num_docks_available": 26,
+        "vehicle_types_available": [
+          {
+            "count": 2,
+            "vehicle_type_id": "penguin_bike"
+          },
+          {
+            "count": 1,
+            "vehicle_type_id": "penguin_electric_bike"
+          }
+        ],
+        "is_returning": true,
+        "vehicle_docks_available": [
+          {
+            "vehicle_type_ids": [
+              "penguin_bike",
+              "penguin_electric_bike"
+            ],
+            "count": 16
+          },
+          {
+            "vehicle_type_ids": [
+              "penguin_bike"
+            ],
+            "count": 8
+          }
+        ],
+        "is_renting": true,
+        "num_bikes_available": 5,
+        "station_id": "penguin_station_MADRID019",
+        "last_reported": 1732466702,
+        "num_docks_disabled": 2
+      },
+      {
+        "is_installed": true,
+        "num_bikes_disabled": 1,
+        "num_docks_available": 12,
+        "vehicle_types_available": [
+          {
+            "count": 6,
+            "vehicle_type_id": "penguin_bike"
+          },
+          {
+            "count": 3,
+            "vehicle_type_id": "penguin_electric_bike"
+          }
+        ],
+        "is_returning": true,
+        "vehicle_docks_available": [
+          {
+            "vehicle_type_ids": [
+              "penguin_bike",
+              "penguin_electric_bike"
+            ],
+            "count": 8
+          },
+          {
+            "vehicle_type_ids": [
+              "penguin_bike"
+            ],
+            "count": 4
+          }
+        ],
+        "is_renting": true,
+        "num_bikes_available": 10,
+        "station_id": "penguin_station_MADRID020",
+        "last_reported": 1732466648,
+        "num_docks_disabled": 1
+      },
+      {
+        "is_installed": true,
+        "num_bikes_disabled": 0,
+        "num_docks_available": 13,
+        "vehicle_types_available": [
+          {
+            "count": 4,
+            "vehicle_type_id": "penguin_bike"
+          },
+          {
+            "count": 2,
+            "vehicle_type_id": "penguin_electric_bike"
+          }
+        ],
+        "is_returning": true,
+        "vehicle_docks_available": [
+          {
+            "vehicle_type_ids": [
+              "penguin_bike",
+              "penguin_electric_bike"
+            ],
+            "count": 8
+          },
+          {
+            "vehicle_type_ids": [
+              "penguin_bike"
+            ],
+            "count": 4
+          }
+        ],
+        "is_renting": true,
+        "num_bikes_available": 6,
+        "station_id": "penguin_station_MADRID021",
+        "last_reported": 1732466709,
+        "num_docks_disabled": 1
+      },
+      {
+        "is_installed": true,
+        "num_bikes_disabled": 0,
+        "num_docks_available": 27,
+        "vehicle_types_available": [
+          {
+            "count": 2,
+            "vehicle_type_id": "penguin_bike"
+          },
+          {
+            "count": 1,
+            "vehicle_type_id": "penguin_electric_bike"
+          }
+        ],
+        "is_returning": true,
+        "vehicle_docks_available": [
+          {
+            "vehicle_type_ids": [
+              "penguin_bike",
+              "penguin_electric_bike"
+            ],
+            "count": 18
+          },
+          {
+            "vehicle_type_ids": [
+              "penguin_bike"
+            ],
+            "count": 9
+          }
+        ],
+        "is_renting": true,
+        "num_bikes_available": 3,
+        "station_id": "penguin_station_MADRID022",
+        "last_reported": 1732466721,
+        "num_docks_disabled": 3
+      },
+      {
+        "is_installed": true,
+        "num_bikes_disabled": 1,
+        "num_docks_available": 16,
+        "vehicle_types_available": [
+          {
+            "count": 8,
+            "vehicle_type_id": "penguin_bike"
+          },
+          {
+            "count": 4,
+            "vehicle_type_id": "penguin_electric_bike"
+          }
+        ],
+        "is_returning": true,
+        "vehicle_docks_available": [
+          {
+            "vehicle_type_ids": [
+              "penguin_bike",
+              "penguin_electric_bike"
+            ],
+            "count": 10
+          },
+          {
+            "vehicle_type_ids": [
+              "penguin_bike"
+            ],
+            "count": 5
+          }
+        ],
+        "is_renting": true,
+        "num_bikes_available": 14,
+        "station_id": "penguin_station_MADRID023",
+        "last_reported": 1732466675,
+        "num_docks_disabled": 1
+      },
+      {
+        "is_installed": true,
+        "num_bikes_disabled": 1,
+        "num_docks_available": 21,
+        "vehicle_types_available": [
+          {
+            "count": 10,
+            "vehicle_type_id": "penguin_bike"
+          },
+          {
+            "count": 5,
+            "vehicle_type_id": "penguin_electric_bike"
+          }
+        ],
+        "is_returning": true,
+        "vehicle_docks_available": [
+          {
+            "vehicle_type_ids": [
+              "penguin_bike",
+              "penguin_electric_bike"
+            ],
+            "count": 14
+          },
+          {
+            "vehicle_type_ids": [
+              "penguin_bike"
+            ],
+            "count": 7
+          }
+        ],
+        "is_renting": true,
+        "num_bikes_available": 15,
+        "station_id": "penguin_station_MADRID024",
+        "last_reported": 1732466784,
+        "num_docks_disabled": 2
+      },
+      {
+        "is_installed": true,
+        "num_bikes_disabled": 0,
+        "num_docks_available": 4,
+        "vehicle_types_available": [
+          {
+            "count": 2,
+            "vehicle_type_id": "penguin_bike"
+          },
+          {
+            "count": 1,
+            "vehicle_type_id": "penguin_electric_bike"
+          }
+        ],
+        "is_returning": true,
+        "vehicle_docks_available": [
+          {
+            "vehicle_type_ids": [
+              "penguin_bike",
+              "penguin_electric_bike"
+            ],
+            "count": 2
+          },
+          {
+            "vehicle_type_ids": [
+              "penguin_bike"
+            ],
+            "count": 1
+          }
+        ],
+        "is_renting": true,
+        "num_bikes_available": 5,
+        "station_id": "penguin_station_MADRID025",
+        "last_reported": 1732466668,
+        "num_docks_disabled": 0
+      },
+      {
+        "is_installed": true,
+        "num_bikes_disabled": 0,
+        "num_docks_available": 13,
+        "vehicle_types_available": [
+          {
+            "count": 6,
+            "vehicle_type_id": "penguin_bike"
+          },
+          {
+            "count": 3,
+            "vehicle_type_id": "penguin_electric_bike"
+          }
+        ],
+        "is_returning": true,
+        "vehicle_docks_available": [
+          {
+            "vehicle_type_ids": [
+              "penguin_bike",
+              "penguin_electric_bike"
+            ],
+            "count": 8
+          },
+          {
+            "vehicle_type_ids": [
+              "penguin_bike"
+            ],
+            "count": 4
+          }
+        ],
+        "is_renting": true,
+        "num_bikes_available": 9,
+        "station_id": "penguin_station_MADRID026",
+        "last_reported": 1732466684,
+        "num_docks_disabled": 1
+      },
+      {
+        "is_installed": true,
+        "num_bikes_disabled": 1,
+        "num_docks_available": 22,
+        "vehicle_types_available": [
+          {
+            "count": 8,
+            "vehicle_type_id": "penguin_bike"
+          },
+          {
+            "count": 4,
+            "vehicle_type_id": "penguin_electric_bike"
+          }
+        ],
+        "is_returning": true,
+        "vehicle_docks_available": [
+          {
+            "vehicle_type_ids": [
+              "penguin_bike",
+              "penguin_electric_bike"
+            ],
+            "count": 14
+          },
+          {
+            "vehicle_type_ids": [
+              "penguin_bike"
+            ],
+            "count": 7
+          }
+        ],
+        "is_renting": true,
+        "num_bikes_available": 13,
+        "station_id": "penguin_station_MADRID027",
+        "last_reported": 1732466717,
+        "num_docks_disabled": 2
+      },
+      {
+        "is_installed": true,
+        "num_bikes_disabled": 0,
+        "num_docks_available": 13,
+        "vehicle_types_available": [
+          {
+            "count": 2,
+            "vehicle_type_id": "penguin_bike"
+          },
+          {
+            "count": 1,
+            "vehicle_type_id": "penguin_electric_bike"
+          }
+        ],
+        "is_returning": true,
+        "vehicle_docks_available": [
+          {
+            "vehicle_type_ids": [
+              "penguin_bike",
+              "penguin_electric_bike"
+            ],
+            "count": 8
+          },
+          {
+            "vehicle_type_ids": [
+              "penguin_bike"
+            ],
+            "count": 4
+          }
+        ],
+        "is_renting": true,
+        "num_bikes_available": 3,
+        "station_id": "penguin_station_MADRID028",
+        "last_reported": 1732466721,
+        "num_docks_disabled": 1
+      },
+      {
+        "is_installed": true,
+        "num_bikes_disabled": 1,
+        "num_docks_available": 19,
+        "vehicle_types_available": [
+          {
+            "count": 10,
+            "vehicle_type_id": "penguin_bike"
+          },
+          {
+            "count": 5,
+            "vehicle_type_id": "penguin_electric_bike"
+          }
+        ],
+        "is_returning": true,
+        "vehicle_docks_available": [
+          {
+            "vehicle_type_ids": [
+              "penguin_bike",
+              "penguin_electric_bike"
+            ],
+            "count": 12
+          },
+          {
+            "vehicle_type_ids": [
+              "penguin_bike"
+            ],
+            "count": 6
+          }
+        ],
+        "is_renting": true,
+        "num_bikes_available": 15,
+        "station_id": "penguin_station_MADRID029",
+        "last_reported": 1732466763,
+        "num_docks_disabled": 2
+      },
+      {
+        "is_installed": true,
+        "num_bikes_disabled": 1,
+        "num_docks_available": 19,
+        "vehicle_types_available": [
+          {
+            "count": 10,
+            "vehicle_type_id": "penguin_bike"
+          },
+          {
+            "count": 5,
+            "vehicle_type_id": "penguin_electric_bike"
+          }
+        ],
+        "is_returning": true,
+        "vehicle_docks_available": [
+          {
+            "vehicle_type_ids": [
+              "penguin_bike",
+              "penguin_electric_bike"
+            ],
+            "count": 12
+          },
+          {
+            "vehicle_type_ids": [
+              "penguin_bike"
+            ],
+            "count": 6
+          }
+        ],
+        "is_renting": true,
+        "num_bikes_available": 17,
+        "station_id": "penguin_station_MADRID030",
+        "last_reported": 1732466637,
+        "num_docks_disabled": 2
+      },
+      {
+        "is_installed": true,
+        "num_bikes_disabled": 0,
+        "num_docks_available": 17,
+        "vehicle_types_available": [
+          {
+            "count": 2,
+            "vehicle_type_id": "penguin_bike"
+          },
+          {
+            "count": 1,
+            "vehicle_type_id": "penguin_electric_bike"
+          }
+        ],
+        "is_returning": true,
+        "vehicle_docks_available": [
+          {
+            "vehicle_type_ids": [
+              "penguin_bike",
+              "penguin_electric_bike"
+            ],
+            "count": 10
+          },
+          {
+            "vehicle_type_ids": [
+              "penguin_bike"
+            ],
+            "count": 5
+          }
+        ],
+        "is_renting": true,
+        "num_bikes_available": 3,
+        "station_id": "penguin_station_MADRID031",
+        "last_reported": 1732466708,
+        "num_docks_disabled": 1
+      },
+      {
+        "is_installed": true,
+        "num_bikes_disabled": 0,
+        "num_docks_available": 15,
+        "vehicle_types_available": [
+          {
+            "count": 2,
+            "vehicle_type_id": "penguin_bike"
+          },
+          {
+            "count": 1,
+            "vehicle_type_id": "penguin_electric_bike"
+          }
+        ],
+        "is_returning": true,
+        "vehicle_docks_available": [
+          {
+            "vehicle_type_ids": [
+              "penguin_bike",
+              "penguin_electric_bike"
+            ],
+            "count": 10
+          },
+          {
+            "vehicle_type_ids": [
+              "penguin_bike"
+            ],
+            "count": 5
+          }
+        ],
+        "is_renting": true,
+        "num_bikes_available": 3,
+        "station_id": "penguin_station_MADRID032",
+        "last_reported": 1732466787,
+        "num_docks_disabled": 1
+      },
+      {
+        "is_installed": true,
+        "num_bikes_disabled": 1,
+        "num_docks_available": 4,
+        "vehicle_types_available": [
+          {
+            "count": 8,
+            "vehicle_type_id": "penguin_bike"
+          },
+          {
+            "count": 4,
+            "vehicle_type_id": "penguin_electric_bike"
+          }
+        ],
+        "is_returning": true,
+        "vehicle_docks_available": [
+          {
+            "vehicle_type_ids": [
+              "penguin_bike",
+              "penguin_electric_bike"
+            ],
+            "count": 2
+          },
+          {
+            "vehicle_type_ids": [
+              "penguin_bike"
+            ],
+            "count": 1
+          }
+        ],
+        "is_renting": true,
+        "num_bikes_available": 14,
+        "station_id": "penguin_station_MADRID033",
+        "last_reported": 1732466676,
+        "num_docks_disabled": 0
+      },
+      {
+        "is_installed": true,
+        "num_bikes_disabled": 1,
+        "num_docks_available": 20,
+        "vehicle_types_available": [
+          {
+            "count": 8,
+            "vehicle_type_id": "penguin_bike"
+          },
+          {
+            "count": 4,
+            "vehicle_type_id": "penguin_electric_bike"
+          }
+        ],
+        "is_returning": true,
+        "vehicle_docks_available": [
+          {
+            "vehicle_type_ids": [
+              "penguin_bike",
+              "penguin_electric_bike"
+            ],
+            "count": 12
+          },
+          {
+            "vehicle_type_ids": [
+              "penguin_bike"
+            ],
+            "count": 6
+          }
+        ],
+        "is_renting": true,
+        "num_bikes_available": 14,
+        "station_id": "penguin_station_MADRID034",
+        "last_reported": 1732466736,
+        "num_docks_disabled": 2
+      },
+      {
+        "is_installed": true,
+        "num_bikes_disabled": 0,
+        "num_docks_available": 10,
+        "vehicle_types_available": [
+          {
+            "count": 4,
+            "vehicle_type_id": "penguin_bike"
+          },
+          {
+            "count": 2,
+            "vehicle_type_id": "penguin_electric_bike"
+          }
+        ],
+        "is_returning": true,
+        "vehicle_docks_available": [
+          {
+            "vehicle_type_ids": [
+              "penguin_bike",
+              "penguin_electric_bike"
+            ],
+            "count": 6
+          },
+          {
+            "vehicle_type_ids": [
+              "penguin_bike"
+            ],
+            "count": 3
+          }
+        ],
+        "is_renting": true,
+        "num_bikes_available": 8,
+        "station_id": "penguin_station_MADRID035",
+        "last_reported": 1732466739,
+        "num_docks_disabled": 1
+      },
+      {
+        "is_installed": true,
+        "num_bikes_disabled": 1,
+        "num_docks_available": 8,
+        "vehicle_types_available": [
+          {
+            "count": 6,
+            "vehicle_type_id": "penguin_bike"
+          },
+          {
+            "count": 3,
+            "vehicle_type_id": "penguin_electric_bike"
+          }
+        ],
+        "is_returning": true,
+        "vehicle_docks_available": [
+          {
+            "vehicle_type_ids": [
+              "penguin_bike",
+              "penguin_electric_bike"
+            ],
+            "count": 4
+          },
+          {
+            "vehicle_type_ids": [
+              "penguin_bike"
+            ],
+            "count": 2
+          }
+        ],
+        "is_renting": true,
+        "num_bikes_available": 10,
+        "station_id": "penguin_station_MADRID036",
+        "last_reported": 1732466774,
+        "num_docks_disabled": 0
+      },
+      {
+        "is_installed": true,
+        "num_bikes_disabled": 0,
+        "num_docks_available": 27,
+        "vehicle_types_available": [
+          {
+            "count": 4,
+            "vehicle_type_id": "penguin_bike"
+          },
+          {
+            "count": 2,
+            "vehicle_type_id": "penguin_electric_bike"
+          }
+        ],
+        "is_returning": true,
+        "vehicle_docks_available": [
+          {
+            "vehicle_type_ids": [
+              "penguin_bike",
+              "penguin_electric_bike"
+            ],
+            "count": 18
+          },
+          {
+            "vehicle_type_ids": [
+              "penguin_bike"
+            ],
+            "count": 9
+          }
+        ],
+        "is_renting": true,
+        "num_bikes_available": 7,
+        "station_id": "penguin_station_MADRID037",
+        "last_reported": 1732466719,
+        "num_docks_disabled": 3
+      },
+      {
+        "is_installed": true,
+        "num_bikes_disabled": 1,
+        "num_docks_available": 18,
+        "vehicle_types_available": [
+          {
+            "count": 8,
+            "vehicle_type_id": "penguin_bike"
+          },
+          {
+            "count": 4,
+            "vehicle_type_id": "penguin_electric_bike"
+          }
+        ],
+        "is_returning": true,
+        "vehicle_docks_available": [
+          {
+            "vehicle_type_ids": [
+              "penguin_bike",
+              "penguin_electric_bike"
+            ],
+            "count": 12
+          },
+          {
+            "vehicle_type_ids": [
+              "penguin_bike"
+            ],
+            "count": 6
+          }
+        ],
+        "is_renting": true,
+        "num_bikes_available": 13,
+        "station_id": "penguin_station_MADRID038",
+        "last_reported": 1732466769,
+        "num_docks_disabled": 2
+      },
+      {
+        "is_installed": true,
+        "num_bikes_disabled": 1,
+        "num_docks_available": 19,
+        "vehicle_types_available": [
+          {
+            "count": 6,
+            "vehicle_type_id": "penguin_bike"
+          },
+          {
+            "count": 3,
+            "vehicle_type_id": "penguin_electric_bike"
+          }
+        ],
+        "is_returning": true,
+        "vehicle_docks_available": [
+          {
+            "vehicle_type_ids": [
+              "penguin_bike",
+              "penguin_electric_bike"
+            ],
+            "count": 12
+          },
+          {
+            "vehicle_type_ids": [
+              "penguin_bike"
+            ],
+            "count": 6
+          }
+        ],
+        "is_renting": true,
+        "num_bikes_available": 10,
+        "station_id": "penguin_station_MADRID039",
+        "last_reported": 1732466663,
+        "num_docks_disabled": 2
+      },
+      {
+        "is_installed": true,
+        "num_bikes_disabled": 0,
+        "num_docks_available": 21,
+        "vehicle_types_available": [
+          {
+            "count": 4,
+            "vehicle_type_id": "penguin_bike"
+          },
+          {
+            "count": 2,
+            "vehicle_type_id": "penguin_electric_bike"
+          }
+        ],
+        "is_returning": true,
+        "vehicle_docks_available": [
+          {
+            "vehicle_type_ids": [
+              "penguin_bike",
+              "penguin_electric_bike"
+            ],
+            "count": 14
+          },
+          {
+            "vehicle_type_ids": [
+              "penguin_bike"
+            ],
+            "count": 7
+          }
+        ],
+        "is_renting": true,
+        "num_bikes_available": 6,
+        "station_id": "penguin_station_MADRID040",
+        "last_reported": 1732466632,
+        "num_docks_disabled": 2
+      },
+      {
+        "is_installed": true,
+        "num_bikes_disabled": 1,
+        "num_docks_available": 9,
+        "vehicle_types_available": [
+          {
+            "count": 8,
+            "vehicle_type_id": "penguin_bike"
+          },
+          {
+            "count": 4,
+            "vehicle_type_id": "penguin_electric_bike"
+          }
+        ],
+        "is_returning": true,
+        "vehicle_docks_available": [
+          {
+            "vehicle_type_ids": [
+              "penguin_bike",
+              "penguin_electric_bike"
+            ],
+            "count": 6
+          },
+          {
+            "vehicle_type_ids": [
+              "penguin_bike"
+            ],
+            "count": 3
+          }
+        ],
+        "is_renting": true,
+        "num_bikes_available": 12,
+        "station_id": "penguin_station_MADRID041",
+        "last_reported": 1732466697,
+        "num_docks_disabled": 0
+      },
+      {
+        "is_installed": true,
+        "num_bikes_disabled": 1,
+        "num_docks_available": 23,
+        "vehicle_types_available": [
+          {
+            "count": 8,
+            "vehicle_type_id": "penguin_bike"
+          },
+          {
+            "count": 4,
+            "vehicle_type_id": "penguin_electric_bike"
+          }
+        ],
+        "is_returning": true,
+        "vehicle_docks_available": [
+          {
+            "vehicle_type_ids": [
+              "penguin_bike",
+              "penguin_electric_bike"
+            ],
+            "count": 14
+          },
+          {
+            "vehicle_type_ids": [
+              "penguin_bike"
+            ],
+            "count": 7
+          }
+        ],
+        "is_renting": true,
+        "num_bikes_available": 13,
+        "station_id": "penguin_station_MADRID042",
+        "last_reported": 1732466759,
+        "num_docks_disabled": 2
+      },
+      {
+        "is_installed": true,
+        "num_bikes_disabled": 1,
+        "num_docks_available": 14,
+        "vehicle_types_available": [
+          {
+            "count": 8,
+            "vehicle_type_id": "penguin_bike"
+          },
+          {
+            "count": 4,
+            "vehicle_type_id": "penguin_electric_bike"
+          }
+        ],
+        "is_returning": true,
+        "vehicle_docks_available": [
+          {
+            "vehicle_type_ids": [
+              "penguin_bike",
+              "penguin_electric_bike"
+            ],
+            "count": 8
+          },
+          {
+            "vehicle_type_ids": [
+              "penguin_bike"
+            ],
+            "count": 4
+          }
+        ],
+        "is_renting": true,
+        "num_bikes_available": 13,
+        "station_id": "penguin_station_MADRID043",
+        "last_reported": 1732466755,
+        "num_docks_disabled": 1
+      },
+      {
+        "is_installed": true,
+        "num_bikes_disabled": 2,
+        "num_docks_available": 27,
+        "vehicle_types_available": [
+          {
+            "count": 12,
+            "vehicle_type_id": "penguin_bike"
+          },
+          {
+            "count": 6,
+            "vehicle_type_id": "penguin_electric_bike"
+          }
+        ],
+        "is_returning": true,
+        "vehicle_docks_available": [
+          {
+            "vehicle_type_ids": [
+              "penguin_bike",
+              "penguin_electric_bike"
+            ],
+            "count": 18
+          },
+          {
+            "vehicle_type_ids": [
+              "penguin_bike"
+            ],
+            "count": 9
+          }
+        ],
+        "is_renting": true,
+        "num_bikes_available": 18,
+        "station_id": "penguin_station_MADRID044",
+        "last_reported": 1732466685,
+        "num_docks_disabled": 3
+      },
+      {
+        "is_installed": true,
+        "num_bikes_disabled": 1,
+        "num_docks_available": 6,
+        "vehicle_types_available": [
+          {
+            "count": 10,
+            "vehicle_type_id": "penguin_bike"
+          },
+          {
+            "count": 5,
+            "vehicle_type_id": "penguin_electric_bike"
+          }
+        ],
+        "is_returning": true,
+        "vehicle_docks_available": [
+          {
+            "vehicle_type_ids": [
+              "penguin_bike",
+              "penguin_electric_bike"
+            ],
+            "count": 4
+          },
+          {
+            "vehicle_type_ids": [
+              "penguin_bike"
+            ],
+            "count": 2
+          }
+        ],
+        "is_renting": true,
+        "num_bikes_available": 15,
+        "station_id": "penguin_station_MADRID045",
+        "last_reported": 1732466657,
+        "num_docks_disabled": 0
+      },
+      {
+        "is_installed": true,
+        "num_bikes_disabled": 1,
+        "num_docks_available": 26,
+        "vehicle_types_available": [
+          {
+            "count": 10,
+            "vehicle_type_id": "penguin_bike"
+          },
+          {
+            "count": 5,
+            "vehicle_type_id": "penguin_electric_bike"
+          }
+        ],
+        "is_returning": true,
+        "vehicle_docks_available": [
+          {
+            "vehicle_type_ids": [
+              "penguin_bike",
+              "penguin_electric_bike"
+            ],
+            "count": 16
+          },
+          {
+            "vehicle_type_ids": [
+              "penguin_bike"
+            ],
+            "count": 8
+          }
+        ],
+        "is_renting": true,
+        "num_bikes_available": 15,
+        "station_id": "penguin_station_MADRID046",
+        "last_reported": 1732466671,
+        "num_docks_disabled": 2
+      },
+      {
+        "is_installed": true,
+        "num_bikes_disabled": 0,
+        "num_docks_available": 14,
+        "vehicle_types_available": [
+          {
+            "count": 0,
+            "vehicle_type_id": "penguin_bike"
+          },
+          {
+            "count": 0,
+            "vehicle_type_id": "penguin_electric_bike"
+          }
+        ],
+        "is_returning": true,
+        "vehicle_docks_available": [
+          {
+            "vehicle_type_ids": [
+              "penguin_bike",
+              "penguin_electric_bike"
+            ],
+            "count": 8
+          },
+          {
+            "vehicle_type_ids": [
+              "penguin_bike"
+            ],
+            "count": 4
+          }
+        ],
+        "is_renting": true,
+        "num_bikes_available": 1,
+        "station_id": "penguin_station_MADRID047",
+        "last_reported": 1732466690,
+        "num_docks_disabled": 1
+      },
+      {
+        "is_installed": true,
+        "num_bikes_disabled": 1,
+        "num_docks_available": 23,
+        "vehicle_types_available": [
+          {
+            "count": 8,
+            "vehicle_type_id": "penguin_bike"
+          },
+          {
+            "count": 4,
+            "vehicle_type_id": "penguin_electric_bike"
+          }
+        ],
+        "is_returning": true,
+        "vehicle_docks_available": [
+          {
+            "vehicle_type_ids": [
+              "penguin_bike",
+              "penguin_electric_bike"
+            ],
+            "count": 14
+          },
+          {
+            "vehicle_type_ids": [
+              "penguin_bike"
+            ],
+            "count": 7
+          }
+        ],
+        "is_renting": true,
+        "num_bikes_available": 14,
+        "station_id": "penguin_station_MADRID048",
+        "last_reported": 1732466647,
+        "num_docks_disabled": 2
+      },
+      {
+        "is_installed": true,
+        "num_bikes_disabled": 0,
+        "num_docks_available": 9,
+        "vehicle_types_available": [
+          {
+            "count": 4,
+            "vehicle_type_id": "penguin_bike"
+          },
+          {
+            "count": 2,
+            "vehicle_type_id": "penguin_electric_bike"
+          }
+        ],
+        "is_returning": true,
+        "vehicle_docks_available": [
+          {
+            "vehicle_type_ids": [
+              "penguin_bike",
+              "penguin_electric_bike"
+            ],
+            "count": 6
+          },
+          {
+            "vehicle_type_ids": [
+              "penguin_bike"
+            ],
+            "count": 3
+          }
+        ],
+        "is_renting": true,
+        "num_bikes_available": 6,
+        "station_id": "penguin_station_MADRID049",
+        "last_reported": 1732466749,
+        "num_docks_disabled": 0
+      },
+      {
+        "is_installed": true,
+        "num_bikes_disabled": 0,
+        "num_docks_available": 16,
+        "vehicle_types_available": [
+          {
+            "count": 2,
+            "vehicle_type_id": "penguin_bike"
+          },
+          {
+            "count": 1,
+            "vehicle_type_id": "penguin_electric_bike"
+          }
+        ],
+        "is_returning": true,
+        "vehicle_docks_available": [
+          {
+            "vehicle_type_ids": [
+              "penguin_bike",
+              "penguin_electric_bike"
+            ],
+            "count": 10
+          },
+          {
+            "vehicle_type_ids": [
+              "penguin_bike"
+            ],
+            "count": 5
+          }
+        ],
+        "is_renting": true,
+        "num_bikes_available": 5,
+        "station_id": "penguin_station_MADRID050",
+        "last_reported": 1732466653,
+        "num_docks_disabled": 1
+      },
+      {
+        "is_installed": true,
+        "num_bikes_disabled": 0,
+        "num_docks_available": 1,
+        "vehicle_types_available": [
+          {
+            "count": 0,
+            "vehicle_type_id": "penguin_bike"
+          },
+          {
+            "count": 0,
+            "vehicle_type_id": "penguin_electric_bike"
+          }
+        ],
+        "is_returning": true,
+        "vehicle_docks_available": [
+          {
+            "vehicle_type_ids": [
+              "penguin_bike",
+              "penguin_electric_bike"
+            ],
+            "count": 0
+          },
+          {
+            "vehicle_type_ids": [
+              "penguin_bike"
+            ],
+            "count": 0
+          }
+        ],
+        "is_renting": true,
+        "num_bikes_available": 1,
+        "station_id": "penguin_station_MADRID051",
+        "last_reported": 1732466787,
+        "num_docks_disabled": 0
+      },
+      {
+        "is_installed": true,
+        "num_bikes_disabled": 1,
+        "num_docks_available": 18,
+        "vehicle_types_available": [
+          {
+            "count": 8,
+            "vehicle_type_id": "penguin_bike"
+          },
+          {
+            "count": 4,
+            "vehicle_type_id": "penguin_electric_bike"
+          }
+        ],
+        "is_returning": true,
+        "vehicle_docks_available": [
+          {
+            "vehicle_type_ids": [
+              "penguin_bike",
+              "penguin_electric_bike"
+            ],
+            "count": 12
+          },
+          {
+            "vehicle_type_ids": [
+              "penguin_bike"
+            ],
+            "count": 6
+          }
+        ],
+        "is_renting": true,
+        "num_bikes_available": 14,
+        "station_id": "penguin_station_MADRID052",
+        "last_reported": 1732466692,
+        "num_docks_disabled": 2
+      },
+      {
+        "is_installed": true,
+        "num_bikes_disabled": 0,
+        "num_docks_available": 4,
+        "vehicle_types_available": [
+          {
+            "count": 4,
+            "vehicle_type_id": "penguin_bike"
+          },
+          {
+            "count": 2,
+            "vehicle_type_id": "penguin_electric_bike"
+          }
+        ],
+        "is_returning": true,
+        "vehicle_docks_available": [
+          {
+            "vehicle_type_ids": [
+              "penguin_bike",
+              "penguin_electric_bike"
+            ],
+            "count": 2
+          },
+          {
+            "vehicle_type_ids": [
+              "penguin_bike"
+            ],
+            "count": 1
+          }
+        ],
+        "is_renting": true,
+        "num_bikes_available": 7,
+        "station_id": "penguin_station_MADRID053",
+        "last_reported": 1732466686,
+        "num_docks_disabled": 0
+      }
+    ]
+  },
+  "ttl": 180,
+  "version": "2.3"
+}
