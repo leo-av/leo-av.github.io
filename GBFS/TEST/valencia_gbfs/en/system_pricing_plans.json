@@ -1,66 +1,72 @@
 {
-    "last_updated": 1732447248,
-    "data": [
+  "last_updated": 1732451939,
+  "data": [
+    {
+      "price": 1.7,
+      "name": "Simple rate",
+      "description": "0.80 € per kilometer",
+      "currency": "EUR",
+      "per_km_pricing": [
         {
-            "price": 1.45,
-            "name": "Simple rate",
-            "description": "1.35 \u20ac per kilometer",
-            "currency": "EUR",
-            "per_km_pricing": [{
-                "rate": 1.35,
-                "start": 0,
-                "interval": 1
-            }],
-            "plan_id": "test_plan_1",
-            "is_taxable": false
-        },
-        {
-            "price": 2.4,
-            "name": "One-Way",
-            "description": "Includes 28km, overage fees apply after 28km",
-            "currency": "EUR",
-            "per_km_pricing": [
-                {
-                    "rate": 2.45,
-                    "start": 28,
-                    "interval": 1,
-                    "end": 57
-                },
-                {
-                    "rate": 1.05,
-                    "start": 57,
-                    "interval": 1,
-                    "end": 85
-                },
-                {
-                    "rate": 5.25,
-                    "start": 85,
-                    "interval": 5,
-                    "end": 113
-                }
-            ],
-            "plan_id": "test_plan_2",
-            "is_taxable": false
-        },
-        {
-            "per_min_pricing": [{
-                "rate": 1,
-                "start": 0,
-                "interval": 1
-            }],
-            "price": 1.85,
-            "name": "Simple rate",
-            "description": "1.85 \u20ac unlock fee, 1.10 \u20ac per kilometer and 1.00 \u20ac per minute.",
-            "currency": "EUR",
-            "per_km_pricing": [{
-                "rate": 1.1,
-                "start": 0,
-                "interval": 1
-            }],
-            "plan_id": "test_plan_3",
-            "is_taxable": true
+          "rate": 0.8,
+          "start": 0,
+          "interval": 1
         }
-    ],
-    "ttl": 180,
-    "version": "2.2"
+      ],
+      "plan_id": "test_plan_1",
+      "is_taxable": false
+    },
+    {
+      "price": 2.4,
+      "name": "One-Way",
+      "description": "Includes 26km, overage fees apply after 26km",
+      "currency": "EUR",
+      "per_km_pricing": [
+        {
+          "rate": 1.95,
+          "start": 26,
+          "interval": 1,
+          "end": 53
+        },
+        {
+          "rate": 0.8,
+          "start": 53,
+          "interval": 1,
+          "end": 78
+        },
+        {
+          "rate": 6.35,
+          "start": 78,
+          "interval": 5,
+          "end": 105
+        }
+      ],
+      "plan_id": "test_plan_2",
+      "is_taxable": false
+    },
+    {
+      "per_min_pricing": [
+        {
+          "rate": 0.75,
+          "start": 0,
+          "interval": 1
+        }
+      ],
+      "price": 2.2,
+      "name": "Simple rate",
+      "description": "2.20 € unlock fee, 0.90 € per kilometer and 0.75 € per minute.",
+      "currency": "EUR",
+      "per_km_pricing": [
+        {
+          "rate": 0.9,
+          "start": 0,
+          "interval": 1
+        }
+      ],
+      "plan_id": "test_plan_3",
+      "is_taxable": true
+    }
+  ],
+  "ttl": 180,
+  "version": "2.2"
 }
