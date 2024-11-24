@@ -1,2232 +1,1866 @@
 {
-  "last_updated": 1732466773,
+  "last_updated": 1732467832,
   "data": {
     "bikes": [
       {
-        "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": false,
-        "current_range_meters": 237637,
-        "lon": -3.737067001029617,
+        "is_reserved": false,
+        "vehicle_type_id": "free_streets_scooter",
+        "is_disabled": true,
+        "current_range_meters": 17797,
+        "lon": -3.6685855974674113,
         "bike_id": "free_streets_MADRID001",
-        "lat": 40.46063415639309,
-        "pricing_plan_id": "free_streets_plan_1",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.364267143501614,
+        "pricing_plan_id": "free_streets_plan_1"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
+        "is_reserved": false,
+        "vehicle_type_id": "free_streets_motorbike",
         "is_disabled": false,
-        "current_range_meters": 260781,
-        "lon": -3.644626898978834,
+        "current_range_meters": 84993,
+        "lon": -3.601614506885809,
         "bike_id": "free_streets_MADRID002",
-        "lat": 40.49603750098173,
-        "pricing_plan_id": "free_streets_plan_2"
+        "lat": 40.31070013090151,
+        "pricing_plan_id": "free_streets_plan_3"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": false,
-        "current_range_meters": 329958,
-        "lon": -3.6045503284532248,
+        "vehicle_type_id": "free_streets_motorbike",
+        "is_disabled": true,
+        "current_range_meters": 153749,
+        "lon": -3.6572998900545586,
         "bike_id": "free_streets_MADRID003",
-        "lat": 40.34018775952994,
+        "lat": 40.48457678193431,
         "pricing_plan_id": "free_streets_plan_1"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": false,
-        "current_range_meters": 349709,
-        "lon": -3.777622295976646,
+        "vehicle_type_id": "free_streets_motorbike",
+        "is_disabled": true,
+        "current_range_meters": 160140,
+        "lon": -3.7074613801380036,
         "bike_id": "free_streets_MADRID004",
-        "lat": 40.31922836617744,
+        "lat": 40.45020907667134,
         "pricing_plan_id": "free_streets_plan_1"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
+        "is_reserved": true,
+        "vehicle_type_id": "free_streets_motorbike",
         "is_disabled": true,
-        "current_range_meters": 145226,
-        "lon": -3.636853975645645,
+        "current_range_meters": 60492,
+        "lon": -3.6144432721507043,
         "bike_id": "free_streets_MADRID005",
-        "lat": 40.32768420524465,
-        "pricing_plan_id": "free_streets_plan_1",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.31185167307557,
+        "pricing_plan_id": "free_streets_plan_3"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": false,
-        "current_range_meters": 372086,
-        "lon": -3.645961574378928,
+        "is_reserved": false,
+        "vehicle_type_id": "free_streets_scooter",
+        "is_disabled": true,
+        "current_range_meters": 8407,
+        "lon": -3.711289715482539,
         "bike_id": "free_streets_MADRID006",
-        "lat": 40.30868835992667,
-        "pricing_plan_id": "free_streets_plan_2",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.38595408205266,
+        "pricing_plan_id": "free_streets_plan_1"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
+        "is_reserved": false,
+        "vehicle_type_id": "free_streets_scooter",
         "is_disabled": false,
-        "current_range_meters": 94533,
-        "lon": -3.7661358331386467,
+        "current_range_meters": 13560,
+        "lon": -3.7528542413198216,
         "bike_id": "free_streets_MADRID007",
-        "lat": 40.475333825015376,
-        "pricing_plan_id": "free_streets_plan_2",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.35465104027529,
+        "pricing_plan_id": "free_streets_plan_1"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
+        "is_reserved": false,
+        "vehicle_type_id": "free_streets_motorbike",
         "is_disabled": true,
-        "current_range_meters": 147055,
-        "lon": -3.6760467030269552,
+        "current_range_meters": 159460,
+        "lon": -3.7565310511045897,
         "bike_id": "free_streets_MADRID008",
-        "lat": 40.49890538586541,
-        "pricing_plan_id": "free_streets_plan_3"
+        "lat": 40.30724866856132,
+        "pricing_plan_id": "free_streets_plan_1"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": false,
-        "current_range_meters": 289475,
-        "lon": -3.7392480971501616,
+        "vehicle_type_id": "free_streets_scooter",
+        "is_disabled": true,
+        "current_range_meters": 4262,
+        "lon": -3.6187553223938034,
         "bike_id": "free_streets_MADRID009",
-        "lat": 40.31733867386625,
-        "pricing_plan_id": "free_streets_plan_1",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.30307421806105,
+        "pricing_plan_id": "free_streets_plan_2"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": true,
-        "current_range_meters": 161304,
-        "lon": -3.6093912572959996,
+        "is_reserved": true,
+        "vehicle_type_id": "free_streets_motorbike",
+        "is_disabled": false,
+        "current_range_meters": 130201,
+        "lon": -3.6606896046691078,
         "bike_id": "free_streets_MADRID010",
-        "lat": 40.429439138382314,
-        "pricing_plan_id": "free_streets_plan_1"
+        "lat": 40.435000891654965,
+        "pricing_plan_id": "free_streets_plan_3"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
+        "vehicle_type_id": "free_streets_scooter",
         "is_disabled": true,
-        "current_range_meters": 119117,
-        "lon": -3.62664907772604,
+        "current_range_meters": 8951,
+        "lon": -3.7747959541323937,
         "bike_id": "free_streets_MADRID011",
-        "lat": 40.36040055163902,
-        "pricing_plan_id": "free_streets_plan_2"
+        "lat": 40.33161479505195,
+        "pricing_plan_id": "free_streets_plan_3"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": false,
-        "current_range_meters": 305668,
-        "lon": -3.7927125480435233,
+        "is_reserved": false,
+        "vehicle_type_id": "free_streets_motorbike",
+        "is_disabled": true,
+        "current_range_meters": 187997,
+        "lon": -3.727729308945706,
         "bike_id": "free_streets_MADRID012",
-        "lat": 40.40885198937538,
-        "pricing_plan_id": "free_streets_plan_3",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.32073633250177,
+        "pricing_plan_id": "free_streets_plan_2"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": false,
-        "current_range_meters": 393750,
-        "lon": -3.691526444718114,
+        "is_reserved": true,
+        "vehicle_type_id": "free_streets_scooter",
+        "is_disabled": true,
+        "current_range_meters": 15104,
+        "lon": -3.7892430820733742,
         "bike_id": "free_streets_MADRID013",
-        "lat": 40.455268881137684,
-        "pricing_plan_id": "free_streets_plan_1",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.39493275115956,
+        "pricing_plan_id": "free_streets_plan_2"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": true,
-        "current_range_meters": 277765,
-        "lon": -3.7669348821891546,
+        "vehicle_type_id": "free_streets_motorbike",
+        "is_disabled": false,
+        "current_range_meters": 76593,
+        "lon": -3.6131087196441074,
         "bike_id": "free_streets_MADRID014",
-        "lat": 40.307676464447226,
-        "pricing_plan_id": "free_streets_plan_2"
+        "lat": 40.33933407121842,
+        "pricing_plan_id": "free_streets_plan_3"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": false,
-        "current_range_meters": 72433,
-        "lon": -3.688315839373763,
+        "is_reserved": true,
+        "vehicle_type_id": "free_streets_scooter",
+        "is_disabled": true,
+        "current_range_meters": 10845,
+        "lon": -3.7226061090039897,
         "bike_id": "free_streets_MADRID015",
-        "lat": 40.42052188674186,
+        "lat": 40.45869163018443,
         "pricing_plan_id": "free_streets_plan_1"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": false,
-        "current_range_meters": 164036,
-        "lon": -3.777362141234592,
+        "vehicle_type_id": "free_streets_motorbike",
+        "is_disabled": true,
+        "current_range_meters": 65993,
+        "lon": -3.6785567187171067,
         "bike_id": "free_streets_MADRID016",
-        "lat": 40.4650637794277,
-        "pricing_plan_id": "free_streets_plan_3"
+        "lat": 40.33304998126997,
+        "pricing_plan_id": "free_streets_plan_1"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
+        "vehicle_type_id": "free_streets_scooter",
         "is_disabled": true,
-        "current_range_meters": 380851,
-        "lon": -3.7147112546212746,
+        "current_range_meters": 19979,
+        "lon": -3.667493814753437,
         "bike_id": "free_streets_MADRID017",
-        "lat": 40.34191166112959,
+        "lat": 40.46114131954855,
         "pricing_plan_id": "free_streets_plan_2"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
+        "vehicle_type_id": "free_streets_scooter",
         "is_disabled": true,
-        "current_range_meters": 300107,
-        "lon": -3.6819401315343363,
+        "current_range_meters": 13462,
+        "lon": -3.6945834357396174,
         "bike_id": "free_streets_MADRID018",
-        "lat": 40.37051046574105,
-        "pricing_plan_id": "free_streets_plan_2"
+        "lat": 40.36409592758782,
+        "pricing_plan_id": "free_streets_plan_3"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
+        "is_reserved": true,
+        "vehicle_type_id": "free_streets_motorbike",
         "is_disabled": false,
-        "current_range_meters": 389713,
-        "lon": -3.6647674862644415,
+        "current_range_meters": 142425,
+        "lon": -3.6133783923855898,
         "bike_id": "free_streets_MADRID019",
-        "lat": 40.44155172667822,
-        "pricing_plan_id": "free_streets_plan_2",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.463403009118466,
+        "pricing_plan_id": "free_streets_plan_2"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": true,
-        "current_range_meters": 364913,
-        "lon": -3.6174507226549717,
+        "vehicle_type_id": "free_streets_scooter",
+        "is_disabled": false,
+        "current_range_meters": 10599,
+        "lon": -3.75162396436696,
         "bike_id": "free_streets_MADRID020",
-        "lat": 40.45467444980871,
-        "pricing_plan_id": "free_streets_plan_3",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.479855340308816,
+        "pricing_plan_id": "free_streets_plan_1"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
+        "is_reserved": true,
+        "vehicle_type_id": "free_streets_scooter",
         "is_disabled": false,
-        "current_range_meters": 317493,
-        "lon": -3.6069699390729197,
+        "current_range_meters": 13706,
+        "lon": -3.642139097066437,
         "bike_id": "free_streets_MADRID021",
-        "lat": 40.48399245877742,
-        "pricing_plan_id": "free_streets_plan_1",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.47658053500561,
+        "pricing_plan_id": "free_streets_plan_3"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": true,
-        "current_range_meters": 127553,
-        "lon": -3.727277982066771,
+        "vehicle_type_id": "free_streets_motorbike",
+        "is_disabled": false,
+        "current_range_meters": 138769,
+        "lon": -3.635128321572104,
         "bike_id": "free_streets_MADRID022",
-        "lat": 40.36383828833789,
+        "lat": 40.308028202253205,
         "pricing_plan_id": "free_streets_plan_3"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
+        "is_reserved": true,
+        "vehicle_type_id": "free_streets_motorbike",
         "is_disabled": true,
-        "current_range_meters": 207938,
-        "lon": -3.6087473717564422,
+        "current_range_meters": 93677,
+        "lon": -3.6323709232451318,
         "bike_id": "free_streets_MADRID023",
-        "lat": 40.43444845740257,
-        "pricing_plan_id": "free_streets_plan_3",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.469510609955044,
+        "pricing_plan_id": "free_streets_plan_1"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
+        "is_reserved": false,
+        "vehicle_type_id": "free_streets_motorbike",
         "is_disabled": false,
-        "current_range_meters": 318487,
-        "lon": -3.651053088487202,
+        "current_range_meters": 66999,
+        "lon": -3.7453912068651842,
         "bike_id": "free_streets_MADRID024",
-        "lat": 40.48875112445613,
-        "pricing_plan_id": "free_streets_plan_2",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.34054856601927,
+        "pricing_plan_id": "free_streets_plan_3"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
+        "vehicle_type_id": "free_streets_scooter",
         "is_disabled": true,
-        "current_range_meters": 67201,
-        "lon": -3.650759418542963,
+        "current_range_meters": 12693,
+        "lon": -3.764727330961727,
         "bike_id": "free_streets_MADRID025",
-        "lat": 40.32236976467024,
+        "lat": 40.40577384259156,
         "pricing_plan_id": "free_streets_plan_3"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": true,
-        "current_range_meters": 63560,
-        "lon": -3.6273874409202596,
+        "vehicle_type_id": "free_streets_scooter",
+        "is_disabled": false,
+        "current_range_meters": 2952,
+        "lon": -3.7634233662628076,
         "bike_id": "free_streets_MADRID026",
-        "lat": 40.323702639337725,
-        "pricing_plan_id": "free_streets_plan_2",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.363874089990404,
+        "pricing_plan_id": "free_streets_plan_2"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": false,
-        "current_range_meters": 115383,
-        "lon": -3.7077064386226923,
+        "is_reserved": false,
+        "vehicle_type_id": "free_streets_scooter",
+        "is_disabled": true,
+        "current_range_meters": 9139,
+        "lon": -3.708404429610023,
         "bike_id": "free_streets_MADRID027",
-        "lat": 40.396069299691966,
-        "pricing_plan_id": "free_streets_plan_3",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.32710369878303,
+        "pricing_plan_id": "free_streets_plan_1"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": false,
-        "current_range_meters": 319724,
-        "lon": -3.7267839596360983,
+        "is_reserved": false,
+        "vehicle_type_id": "free_streets_motorbike",
+        "is_disabled": true,
+        "current_range_meters": 112226,
+        "lon": -3.6232914017963824,
         "bike_id": "free_streets_MADRID028",
-        "lat": 40.4146968106608,
-        "pricing_plan_id": "free_streets_plan_1"
+        "lat": 40.39204521176631,
+        "pricing_plan_id": "free_streets_plan_2"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": false,
-        "current_range_meters": 328326,
-        "lon": -3.7390650944588195,
+        "is_reserved": false,
+        "vehicle_type_id": "free_streets_scooter",
+        "is_disabled": true,
+        "current_range_meters": 13701,
+        "lon": -3.747166452262714,
         "bike_id": "free_streets_MADRID029",
-        "lat": 40.326739136861256,
-        "pricing_plan_id": "free_streets_plan_3",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.333934020674654,
+        "pricing_plan_id": "free_streets_plan_3"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": true,
-        "current_range_meters": 65306,
-        "lon": -3.682792355694965,
+        "vehicle_type_id": "free_streets_motorbike",
+        "is_disabled": false,
+        "current_range_meters": 145985,
+        "lon": -3.7594547831883127,
         "bike_id": "free_streets_MADRID030",
-        "lat": 40.35107148649732,
+        "lat": 40.45699723507394,
         "pricing_plan_id": "free_streets_plan_3"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": true,
-        "current_range_meters": 406972,
-        "lon": -3.6391032559677097,
+        "vehicle_type_id": "free_streets_scooter",
+        "is_disabled": false,
+        "current_range_meters": 15477,
+        "lon": -3.6729949529215706,
         "bike_id": "free_streets_MADRID031",
-        "lat": 40.369041655659366,
-        "pricing_plan_id": "free_streets_plan_3",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.41184126557039,
+        "pricing_plan_id": "free_streets_plan_2"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
+        "vehicle_type_id": "free_streets_motorbike",
         "is_disabled": true,
-        "current_range_meters": 66576,
-        "lon": -3.7550373714805643,
+        "current_range_meters": 118486,
+        "lon": -3.665761243450786,
         "bike_id": "free_streets_MADRID032",
-        "lat": 40.41304639137283,
-        "pricing_plan_id": "free_streets_plan_1"
+        "lat": 40.38039777731502,
+        "pricing_plan_id": "free_streets_plan_2"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": false,
-        "current_range_meters": 308379,
-        "lon": -3.7812020231657115,
+        "vehicle_type_id": "free_streets_scooter",
+        "is_disabled": true,
+        "current_range_meters": 4283,
+        "lon": -3.7531204255591493,
         "bike_id": "free_streets_MADRID033",
-        "lat": 40.48730551454557,
-        "pricing_plan_id": "free_streets_plan_2"
+        "lat": 40.324590218665804,
+        "pricing_plan_id": "free_streets_plan_3"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": true,
-        "current_range_meters": 206846,
-        "lon": -3.676766745336558,
+        "is_reserved": false,
+        "vehicle_type_id": "free_streets_motorbike",
+        "is_disabled": false,
+        "current_range_meters": 181442,
+        "lon": -3.7319678118954704,
         "bike_id": "free_streets_MADRID034",
-        "lat": 40.324298073384554,
-        "pricing_plan_id": "free_streets_plan_2",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.4645941239172,
+        "pricing_plan_id": "free_streets_plan_2"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
+        "is_reserved": true,
+        "vehicle_type_id": "free_streets_motorbike",
         "is_disabled": false,
-        "current_range_meters": 367829,
-        "lon": -3.6817158019019054,
+        "current_range_meters": 175527,
+        "lon": -3.6705862954625905,
         "bike_id": "free_streets_MADRID035",
-        "lat": 40.37857408784736,
-        "pricing_plan_id": "free_streets_plan_1",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.4105094308902,
+        "pricing_plan_id": "free_streets_plan_3"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
+        "is_reserved": false,
+        "vehicle_type_id": "free_streets_motorbike",
         "is_disabled": false,
-        "current_range_meters": 122141,
-        "lon": -3.710280283313993,
+        "current_range_meters": 38902,
+        "lon": -3.70197490339259,
         "bike_id": "free_streets_MADRID036",
-        "lat": 40.40520027774661,
-        "pricing_plan_id": "free_streets_plan_3",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.345425170217844,
+        "pricing_plan_id": "free_streets_plan_1"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": true,
-        "current_range_meters": 120019,
-        "lon": -3.662512997968587,
+        "is_reserved": false,
+        "vehicle_type_id": "free_streets_motorbike",
+        "is_disabled": false,
+        "current_range_meters": 93462,
+        "lon": -3.6521877008966572,
         "bike_id": "free_streets_MADRID037",
-        "lat": 40.37435275377075,
-        "pricing_plan_id": "free_streets_plan_1"
+        "lat": 40.49656537174545,
+        "pricing_plan_id": "free_streets_plan_2"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
+        "is_reserved": true,
+        "vehicle_type_id": "free_streets_motorbike",
         "is_disabled": false,
-        "current_range_meters": 140833,
-        "lon": -3.6636298976510497,
+        "current_range_meters": 36916,
+        "lon": -3.651251892953711,
         "bike_id": "free_streets_MADRID038",
-        "lat": 40.375902952348156,
-        "pricing_plan_id": "free_streets_plan_2",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.39717702245428,
+        "pricing_plan_id": "free_streets_plan_1"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
+        "is_reserved": false,
+        "vehicle_type_id": "free_streets_scooter",
         "is_disabled": true,
-        "current_range_meters": 318226,
-        "lon": -3.652514565320544,
+        "current_range_meters": 7034,
+        "lon": -3.7533294583103127,
         "bike_id": "free_streets_MADRID039",
-        "lat": 40.38051469219061,
-        "pricing_plan_id": "free_streets_plan_3"
+        "lat": 40.44154945862381,
+        "pricing_plan_id": "free_streets_plan_1"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": true,
-        "current_range_meters": 383752,
-        "lon": -3.6783151702062025,
+        "is_reserved": true,
+        "vehicle_type_id": "free_streets_motorbike",
+        "is_disabled": false,
+        "current_range_meters": 32207,
+        "lon": -3.7673370567270585,
         "bike_id": "free_streets_MADRID040",
-        "lat": 40.43164775387425,
-        "pricing_plan_id": "free_streets_plan_1",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.30058805045533,
+        "pricing_plan_id": "free_streets_plan_1"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
+        "is_reserved": true,
+        "vehicle_type_id": "free_streets_scooter",
         "is_disabled": false,
-        "current_range_meters": 337435,
-        "lon": -3.7149154202453594,
+        "current_range_meters": 10736,
+        "lon": -3.6286259937170406,
         "bike_id": "free_streets_MADRID041",
-        "lat": 40.45870963985076,
-        "pricing_plan_id": "free_streets_plan_2",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.4837590228912,
+        "pricing_plan_id": "free_streets_plan_2"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": false,
-        "current_range_meters": 206526,
-        "lon": -3.6567071030393565,
+        "is_reserved": false,
+        "vehicle_type_id": "free_streets_motorbike",
+        "is_disabled": true,
+        "current_range_meters": 207832,
+        "lon": -3.648957673966144,
         "bike_id": "free_streets_MADRID042",
-        "lat": 40.38395280752672,
-        "pricing_plan_id": "free_streets_plan_1",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.38022168240292,
+        "pricing_plan_id": "free_streets_plan_3"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": false,
-        "current_range_meters": 69870,
-        "lon": -3.7806387705075823,
+        "vehicle_type_id": "free_streets_motorbike",
+        "is_disabled": true,
+        "current_range_meters": 151495,
+        "lon": -3.7782853979352966,
         "bike_id": "free_streets_MADRID043",
-        "lat": 40.4926601339711,
-        "pricing_plan_id": "free_streets_plan_3",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.42499622163519,
+        "pricing_plan_id": "free_streets_plan_1"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": false,
-        "current_range_meters": 217662,
-        "lon": -3.7953560872960654,
+        "vehicle_type_id": "free_streets_scooter",
+        "is_disabled": true,
+        "current_range_meters": 15142,
+        "lon": -3.7586912185353163,
         "bike_id": "free_streets_MADRID044",
-        "lat": 40.324489858218556,
-        "pricing_plan_id": "free_streets_plan_2"
+        "lat": 40.330034424018514,
+        "pricing_plan_id": "free_streets_plan_3"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
+        "vehicle_type_id": "free_streets_scooter",
         "is_disabled": true,
-        "current_range_meters": 82665,
-        "lon": -3.6066160936717453,
+        "current_range_meters": 9469,
+        "lon": -3.6912455220478284,
         "bike_id": "free_streets_MADRID045",
-        "lat": 40.38943199226022,
-        "pricing_plan_id": "free_streets_plan_3"
+        "lat": 40.425560646979804,
+        "pricing_plan_id": "free_streets_plan_2"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": false,
-        "current_range_meters": 277190,
-        "lon": -3.671296628715849,
+        "vehicle_type_id": "free_streets_motorbike",
+        "is_disabled": true,
+        "current_range_meters": 74833,
+        "lon": -3.6959273349809325,
         "bike_id": "free_streets_MADRID046",
-        "lat": 40.48319349142381,
-        "pricing_plan_id": "free_streets_plan_1"
+        "lat": 40.32985946021639,
+        "pricing_plan_id": "free_streets_plan_2"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": false,
-        "current_range_meters": 237067,
-        "lon": -3.640759576770178,
+        "is_reserved": false,
+        "vehicle_type_id": "free_streets_motorbike",
+        "is_disabled": true,
+        "current_range_meters": 205173,
+        "lon": -3.7853210871559644,
         "bike_id": "free_streets_MADRID047",
-        "lat": 40.30026375054603,
-        "pricing_plan_id": "free_streets_plan_2"
+        "lat": 40.36341126262875,
+        "pricing_plan_id": "free_streets_plan_3"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
+        "is_reserved": false,
+        "vehicle_type_id": "free_streets_motorbike",
         "is_disabled": true,
-        "current_range_meters": 182168,
-        "lon": -3.6974423544166513,
+        "current_range_meters": 59535,
+        "lon": -3.700760576152183,
         "bike_id": "free_streets_MADRID048",
-        "lat": 40.39357935460245,
-        "pricing_plan_id": "free_streets_plan_1",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.47898291145698,
+        "pricing_plan_id": "free_streets_plan_3"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
+        "is_reserved": false,
+        "vehicle_type_id": "free_streets_scooter",
         "is_disabled": false,
-        "current_range_meters": 359023,
-        "lon": -3.7794301780536443,
+        "current_range_meters": 7618,
+        "lon": -3.6551763043594994,
         "bike_id": "free_streets_MADRID049",
-        "lat": 40.40959072648173,
-        "pricing_plan_id": "free_streets_plan_2"
+        "lat": 40.38865482728735,
+        "pricing_plan_id": "free_streets_plan_1"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": true,
-        "current_range_meters": 347672,
-        "lon": -3.6340381359166054,
+        "vehicle_type_id": "free_streets_scooter",
+        "is_disabled": false,
+        "current_range_meters": 3584,
+        "lon": -3.721365816100341,
         "bike_id": "free_streets_MADRID050",
-        "lat": 40.48722756603826,
-        "pricing_plan_id": "free_streets_plan_1"
+        "lat": 40.435723219799186,
+        "pricing_plan_id": "free_streets_plan_2"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": true,
-        "current_range_meters": 99846,
-        "lon": -3.6476064457648216,
+        "vehicle_type_id": "free_streets_scooter",
+        "is_disabled": false,
+        "current_range_meters": 4585,
+        "lon": -3.674818800745427,
         "bike_id": "free_streets_MADRID051",
-        "lat": 40.32688657751593,
-        "pricing_plan_id": "free_streets_plan_1"
+        "lat": 40.499094001312464,
+        "pricing_plan_id": "free_streets_plan_3"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": true,
-        "current_range_meters": 325479,
-        "lon": -3.789143773297553,
+        "vehicle_type_id": "free_streets_motorbike",
+        "is_disabled": false,
+        "current_range_meters": 98193,
+        "lon": -3.7029595411623815,
         "bike_id": "free_streets_MADRID052",
-        "lat": 40.47235331035119,
-        "pricing_plan_id": "free_streets_plan_2",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.30994689417492,
+        "pricing_plan_id": "free_streets_plan_2"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": false,
-        "current_range_meters": 114342,
-        "lon": -3.6510078159691965,
+        "is_reserved": true,
+        "vehicle_type_id": "free_streets_motorbike",
+        "is_disabled": true,
+        "current_range_meters": 136045,
+        "lon": -3.718704864166811,
         "bike_id": "free_streets_MADRID053",
-        "lat": 40.45687606727897,
+        "lat": 40.3504910363614,
         "pricing_plan_id": "free_streets_plan_3"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
+        "is_reserved": false,
+        "vehicle_type_id": "free_streets_scooter",
         "is_disabled": true,
-        "current_range_meters": 108250,
-        "lon": -3.7448825590534254,
+        "current_range_meters": 13478,
+        "lon": -3.6614264137034973,
         "bike_id": "free_streets_MADRID054",
-        "lat": 40.330409425138164,
-        "pricing_plan_id": "free_streets_plan_3"
+        "lat": 40.30063256107796,
+        "pricing_plan_id": "free_streets_plan_1"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": false,
-        "current_range_meters": 209305,
-        "lon": -3.7616749383369825,
+        "vehicle_type_id": "free_streets_motorbike",
+        "is_disabled": true,
+        "current_range_meters": 133273,
+        "lon": -3.6269924047586772,
         "bike_id": "free_streets_MADRID055",
-        "lat": 40.44318038967989,
+        "lat": 40.32642987063888,
         "pricing_plan_id": "free_streets_plan_1"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
+        "vehicle_type_id": "free_streets_motorbike",
         "is_disabled": true,
-        "current_range_meters": 218119,
-        "lon": -3.649690841497236,
+        "current_range_meters": 193156,
+        "lon": -3.6431691513080287,
         "bike_id": "free_streets_MADRID056",
-        "lat": 40.32744150175554,
-        "pricing_plan_id": "free_streets_plan_2"
+        "lat": 40.31889458622606,
+        "pricing_plan_id": "free_streets_plan_3"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": true,
-        "current_range_meters": 233331,
-        "lon": -3.7568890119292595,
+        "is_reserved": true,
+        "vehicle_type_id": "free_streets_scooter",
+        "is_disabled": false,
+        "current_range_meters": 4086,
+        "lon": -3.7703254250273432,
         "bike_id": "free_streets_MADRID057",
-        "lat": 40.342798492350816,
-        "pricing_plan_id": "free_streets_plan_1"
+        "lat": 40.39190955105407,
+        "pricing_plan_id": "free_streets_plan_3"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
+        "vehicle_type_id": "free_streets_scooter",
         "is_disabled": false,
-        "current_range_meters": 162158,
-        "lon": -3.7714180444533634,
+        "current_range_meters": 5971,
+        "lon": -3.7761410134271305,
         "bike_id": "free_streets_MADRID058",
-        "lat": 40.38676392999528,
-        "pricing_plan_id": "free_streets_plan_2",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.33545278421707,
+        "pricing_plan_id": "free_streets_plan_2"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": false,
-        "current_range_meters": 310355,
-        "lon": -3.7731264803801747,
+        "is_reserved": false,
+        "vehicle_type_id": "free_streets_motorbike",
+        "is_disabled": true,
+        "current_range_meters": 79300,
+        "lon": -3.7573441988085983,
         "bike_id": "free_streets_MADRID059",
-        "lat": 40.44888717453967,
-        "pricing_plan_id": "free_streets_plan_1",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.34312957926828,
+        "pricing_plan_id": "free_streets_plan_1"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
+        "is_reserved": true,
+        "vehicle_type_id": "free_streets_motorbike",
         "is_disabled": true,
-        "current_range_meters": 148335,
-        "lon": -3.622593279291664,
+        "current_range_meters": 115331,
+        "lon": -3.7415058494788775,
         "bike_id": "free_streets_MADRID060",
-        "lat": 40.32539168591825,
+        "lat": 40.46107751634735,
         "pricing_plan_id": "free_streets_plan_3"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
+        "vehicle_type_id": "free_streets_motorbike",
         "is_disabled": false,
-        "current_range_meters": 28629,
-        "lon": -3.6336747126721627,
+        "current_range_meters": 111321,
+        "lon": -3.685490777131655,
         "bike_id": "free_streets_MADRID061",
-        "lat": 40.33258715010544,
+        "lat": 40.31559907255219,
         "pricing_plan_id": "free_streets_plan_1"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
+        "vehicle_type_id": "free_streets_scooter",
         "is_disabled": false,
-        "current_range_meters": 240398,
-        "lon": -3.667611295532367,
+        "current_range_meters": 13805,
+        "lon": -3.788678831017519,
         "bike_id": "free_streets_MADRID062",
-        "lat": 40.40311729158268,
-        "pricing_plan_id": "free_streets_plan_2",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.45353503678929,
+        "pricing_plan_id": "free_streets_plan_1"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": false,
-        "current_range_meters": 252722,
-        "lon": -3.616632741957809,
+        "is_reserved": false,
+        "vehicle_type_id": "free_streets_motorbike",
+        "is_disabled": true,
+        "current_range_meters": 18329,
+        "lon": -3.6307185331380056,
         "bike_id": "free_streets_MADRID063",
-        "lat": 40.30728476995564,
+        "lat": 40.47990095991547,
         "pricing_plan_id": "free_streets_plan_3"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
+        "is_reserved": false,
+        "vehicle_type_id": "free_streets_scooter",
         "is_disabled": false,
-        "current_range_meters": 260111,
-        "lon": -3.6814897270365647,
+        "current_range_meters": 6902,
+        "lon": -3.719055309887624,
         "bike_id": "free_streets_MADRID064",
-        "lat": 40.37036064173683,
+        "lat": 40.35035665168514,
         "pricing_plan_id": "free_streets_plan_1"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
+        "is_reserved": true,
+        "vehicle_type_id": "free_streets_motorbike",
         "is_disabled": false,
-        "current_range_meters": 236468,
-        "lon": -3.739719017102223,
+        "current_range_meters": 167094,
+        "lon": -3.6340829584563212,
         "bike_id": "free_streets_MADRID065",
-        "lat": 40.45745695595762,
-        "pricing_plan_id": "free_streets_plan_2"
+        "lat": 40.495593955753606,
+        "pricing_plan_id": "free_streets_plan_1"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": false,
-        "current_range_meters": 50735,
-        "lon": -3.640078319784517,
+        "vehicle_type_id": "free_streets_motorbike",
+        "is_disabled": true,
+        "current_range_meters": 191277,
+        "lon": -3.652628724838733,
         "bike_id": "free_streets_MADRID066",
-        "lat": 40.394761689805776,
-        "pricing_plan_id": "free_streets_plan_1",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.37861920723252,
+        "pricing_plan_id": "free_streets_plan_2"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
+        "is_reserved": false,
+        "vehicle_type_id": "free_streets_scooter",
         "is_disabled": false,
-        "current_range_meters": 285961,
-        "lon": -3.6244095335475572,
+        "current_range_meters": 15009,
+        "lon": -3.6515067157980527,
         "bike_id": "free_streets_MADRID067",
-        "lat": 40.33650376439192,
-        "pricing_plan_id": "free_streets_plan_1"
+        "lat": 40.34246789998208,
+        "pricing_plan_id": "free_streets_plan_2"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
+        "vehicle_type_id": "free_streets_scooter",
         "is_disabled": true,
-        "current_range_meters": 39761,
-        "lon": -3.630401252372382,
+        "current_range_meters": 13576,
+        "lon": -3.7198886612491164,
         "bike_id": "free_streets_MADRID068",
-        "lat": 40.47837770483627,
-        "pricing_plan_id": "free_streets_plan_2",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.45845086548484,
+        "pricing_plan_id": "free_streets_plan_2"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": true,
-        "current_range_meters": 179827,
-        "lon": -3.6736147922407136,
+        "is_reserved": false,
+        "vehicle_type_id": "free_streets_motorbike",
+        "is_disabled": false,
+        "current_range_meters": 61839,
+        "lon": -3.76503313707508,
         "bike_id": "free_streets_MADRID069",
-        "lat": 40.38173580357797,
-        "pricing_plan_id": "free_streets_plan_1",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.3914071126921,
+        "pricing_plan_id": "free_streets_plan_2"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": true,
-        "current_range_meters": 94497,
-        "lon": -3.734803287718256,
+        "vehicle_type_id": "free_streets_scooter",
+        "is_disabled": false,
+        "current_range_meters": 10971,
+        "lon": -3.798205105023112,
         "bike_id": "free_streets_MADRID070",
-        "lat": 40.39435799273476,
+        "lat": 40.3895575945128,
         "pricing_plan_id": "free_streets_plan_3"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
+        "vehicle_type_id": "free_streets_motorbike",
         "is_disabled": true,
-        "current_range_meters": 226186,
-        "lon": -3.647927266562171,
+        "current_range_meters": 104492,
+        "lon": -3.698698147356983,
         "bike_id": "free_streets_MADRID071",
-        "lat": 40.468585918733645,
-        "pricing_plan_id": "free_streets_plan_3",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.49863109452509,
+        "pricing_plan_id": "free_streets_plan_1"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": false,
-        "current_range_meters": 213272,
-        "lon": -3.7807409326824235,
+        "is_reserved": false,
+        "vehicle_type_id": "free_streets_motorbike",
+        "is_disabled": true,
+        "current_range_meters": 181519,
+        "lon": -3.6147016394002045,
         "bike_id": "free_streets_MADRID072",
-        "lat": 40.33679520334815,
-        "pricing_plan_id": "free_streets_plan_3",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.357290294444475,
+        "pricing_plan_id": "free_streets_plan_2"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
+        "vehicle_type_id": "free_streets_scooter",
         "is_disabled": false,
-        "current_range_meters": 180446,
-        "lon": -3.7833620704746385,
+        "current_range_meters": 12772,
+        "lon": -3.6823588250103385,
         "bike_id": "free_streets_MADRID073",
-        "lat": 40.41941365873334,
-        "pricing_plan_id": "free_streets_plan_1"
+        "lat": 40.35227168650712,
+        "pricing_plan_id": "free_streets_plan_3"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
+        "vehicle_type_id": "free_streets_motorbike",
         "is_disabled": true,
-        "current_range_meters": 56924,
-        "lon": -3.7857789024507658,
+        "current_range_meters": 36200,
+        "lon": -3.7381870471688323,
         "bike_id": "free_streets_MADRID074",
-        "lat": 40.41841378298651,
-        "pricing_plan_id": "free_streets_plan_3",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.43192282373862,
+        "pricing_plan_id": "free_streets_plan_2"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": false,
-        "current_range_meters": 71997,
-        "lon": -3.7707772370470702,
+        "vehicle_type_id": "free_streets_motorbike",
+        "is_disabled": true,
+        "current_range_meters": 119413,
+        "lon": -3.6173980606109946,
         "bike_id": "free_streets_MADRID075",
-        "lat": 40.47484991300375,
-        "pricing_plan_id": "free_streets_plan_1",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.440197395110914,
+        "pricing_plan_id": "free_streets_plan_1"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
+        "is_reserved": true,
+        "vehicle_type_id": "free_streets_scooter",
         "is_disabled": true,
-        "current_range_meters": 380739,
-        "lon": -3.6503615703109564,
+        "current_range_meters": 19897,
+        "lon": -3.715765697427899,
         "bike_id": "free_streets_MADRID076",
-        "lat": 40.41179822037495,
-        "pricing_plan_id": "free_streets_plan_2"
+        "lat": 40.3898669027611,
+        "pricing_plan_id": "free_streets_plan_1"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": true,
-        "current_range_meters": 254413,
-        "lon": -3.7604758497337163,
+        "vehicle_type_id": "free_streets_scooter",
+        "is_disabled": false,
+        "current_range_meters": 16294,
+        "lon": -3.717583947627346,
         "bike_id": "free_streets_MADRID077",
-        "lat": 40.347995620505536,
-        "pricing_plan_id": "free_streets_plan_3"
+        "lat": 40.369088112486715,
+        "pricing_plan_id": "free_streets_plan_1"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
+        "vehicle_type_id": "free_streets_motorbike",
         "is_disabled": false,
-        "current_range_meters": 194500,
-        "lon": -3.754346347041684,
+        "current_range_meters": 108515,
+        "lon": -3.7046001138463236,
         "bike_id": "free_streets_MADRID078",
-        "lat": 40.42055655343163,
-        "pricing_plan_id": "free_streets_plan_2"
+        "lat": 40.37834950691125,
+        "pricing_plan_id": "free_streets_plan_1"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": false,
-        "current_range_meters": 160533,
-        "lon": -3.6959151405234376,
+        "is_reserved": true,
+        "vehicle_type_id": "free_streets_motorbike",
+        "is_disabled": true,
+        "current_range_meters": 201746,
+        "lon": -3.6457591633879765,
         "bike_id": "free_streets_MADRID079",
-        "lat": 40.42507529412165,
-        "pricing_plan_id": "free_streets_plan_2",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.417158985155645,
+        "pricing_plan_id": "free_streets_plan_2"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": true,
-        "current_range_meters": 341482,
-        "lon": -3.751603076381686,
+        "vehicle_type_id": "free_streets_scooter",
+        "is_disabled": false,
+        "current_range_meters": 4643,
+        "lon": -3.6895782455889634,
         "bike_id": "free_streets_MADRID080",
-        "lat": 40.412353713761,
-        "pricing_plan_id": "free_streets_plan_2",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.40954974710986,
+        "pricing_plan_id": "free_streets_plan_2"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
+        "vehicle_type_id": "free_streets_scooter",
         "is_disabled": true,
-        "current_range_meters": 408078,
-        "lon": -3.7834070348377518,
+        "current_range_meters": 18094,
+        "lon": -3.6493683623969027,
         "bike_id": "free_streets_MADRID081",
-        "lat": 40.402111313918745,
-        "pricing_plan_id": "free_streets_plan_2",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.38392614664008,
+        "pricing_plan_id": "free_streets_plan_1"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
+        "is_reserved": true,
+        "vehicle_type_id": "free_streets_scooter",
         "is_disabled": true,
-        "current_range_meters": 294726,
-        "lon": -3.694067557590283,
+        "current_range_meters": 11045,
+        "lon": -3.6476020493279955,
         "bike_id": "free_streets_MADRID082",
-        "lat": 40.336954975463485,
-        "pricing_plan_id": "free_streets_plan_1"
+        "lat": 40.404802422593605,
+        "pricing_plan_id": "free_streets_plan_2"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": false,
-        "current_range_meters": 255506,
-        "lon": -3.6199954792289137,
+        "is_reserved": true,
+        "vehicle_type_id": "free_streets_motorbike",
+        "is_disabled": true,
+        "current_range_meters": 163683,
+        "lon": -3.62749582469707,
         "bike_id": "free_streets_MADRID083",
-        "lat": 40.3982109753413,
-        "pricing_plan_id": "free_streets_plan_2"
+        "lat": 40.47967581620479,
+        "pricing_plan_id": "free_streets_plan_3"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
+        "vehicle_type_id": "free_streets_scooter",
         "is_disabled": false,
-        "current_range_meters": 289311,
-        "lon": -3.7757310431920317,
+        "current_range_meters": 14045,
+        "lon": -3.6390443207754157,
         "bike_id": "free_streets_MADRID084",
-        "lat": 40.39573700715782,
-        "pricing_plan_id": "free_streets_plan_1"
+        "lat": 40.347312748867914,
+        "pricing_plan_id": "free_streets_plan_2"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
+        "vehicle_type_id": "free_streets_scooter",
         "is_disabled": true,
-        "current_range_meters": 95102,
-        "lon": -3.6135175252769964,
+        "current_range_meters": 20169,
+        "lon": -3.7563777340613513,
         "bike_id": "free_streets_MADRID085",
-        "lat": 40.44515338325682,
-        "pricing_plan_id": "free_streets_plan_3",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.37232168043098,
+        "pricing_plan_id": "free_streets_plan_3"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
+        "is_reserved": true,
+        "vehicle_type_id": "free_streets_scooter",
         "is_disabled": false,
-        "current_range_meters": 168216,
-        "lon": -3.600767293438293,
+        "current_range_meters": 19407,
+        "lon": -3.653072311410995,
         "bike_id": "free_streets_MADRID086",
-        "lat": 40.39662376847801,
-        "pricing_plan_id": "free_streets_plan_3"
+        "lat": 40.447965675982346,
+        "pricing_plan_id": "free_streets_plan_1"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
+        "is_reserved": false,
+        "vehicle_type_id": "free_streets_motorbike",
         "is_disabled": true,
-        "current_range_meters": 83833,
-        "lon": -3.7057526540087546,
+        "current_range_meters": 118677,
+        "lon": -3.7116317239979786,
         "bike_id": "free_streets_MADRID087",
-        "lat": 40.3937599091932,
-        "pricing_plan_id": "free_streets_plan_3",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.350524828966414,
+        "pricing_plan_id": "free_streets_plan_1"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
+        "is_reserved": false,
+        "vehicle_type_id": "free_streets_motorbike",
         "is_disabled": true,
-        "current_range_meters": 372318,
-        "lon": -3.6403374004880065,
+        "current_range_meters": 73032,
+        "lon": -3.683988577517475,
         "bike_id": "free_streets_MADRID088",
-        "lat": 40.30778133988557,
-        "pricing_plan_id": "free_streets_plan_1",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.41887158793141,
+        "pricing_plan_id": "free_streets_plan_3"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
+        "vehicle_type_id": "free_streets_scooter",
         "is_disabled": true,
-        "current_range_meters": 196128,
-        "lon": -3.7544675860147803,
+        "current_range_meters": 8282,
+        "lon": -3.620026951008864,
         "bike_id": "free_streets_MADRID089",
-        "lat": 40.414288026002666,
-        "pricing_plan_id": "free_streets_plan_1",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.30826822353617,
+        "pricing_plan_id": "free_streets_plan_3"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
+        "vehicle_type_id": "free_streets_scooter",
         "is_disabled": true,
-        "current_range_meters": 354461,
-        "lon": -3.6509371580673333,
+        "current_range_meters": 8611,
+        "lon": -3.6537427030731684,
         "bike_id": "free_streets_MADRID090",
-        "lat": 40.46798055866616,
-        "pricing_plan_id": "free_streets_plan_3"
+        "lat": 40.33933461461502,
+        "pricing_plan_id": "free_streets_plan_1"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": false,
-        "current_range_meters": 371197,
-        "lon": -3.730376717662058,
+        "is_reserved": false,
+        "vehicle_type_id": "free_streets_motorbike",
+        "is_disabled": true,
+        "current_range_meters": 146652,
+        "lon": -3.796117723355338,
         "bike_id": "free_streets_MADRID091",
-        "lat": 40.3056868173492,
-        "pricing_plan_id": "free_streets_plan_2"
+        "lat": 40.393172996815714,
+        "pricing_plan_id": "free_streets_plan_3"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
+        "is_reserved": false,
+        "vehicle_type_id": "free_streets_motorbike",
         "is_disabled": false,
-        "current_range_meters": 132270,
-        "lon": -3.7442039916598553,
+        "current_range_meters": 68073,
+        "lon": -3.6494321865900443,
         "bike_id": "free_streets_MADRID092",
-        "lat": 40.49025411684252,
-        "pricing_plan_id": "free_streets_plan_1"
+        "lat": 40.403133390132496,
+        "pricing_plan_id": "free_streets_plan_2"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": false,
-        "current_range_meters": 372484,
-        "lon": -3.7622408451311857,
+        "is_reserved": true,
+        "vehicle_type_id": "free_streets_scooter",
+        "is_disabled": true,
+        "current_range_meters": 20387,
+        "lon": -3.747660154939965,
         "bike_id": "free_streets_MADRID093",
-        "lat": 40.312500947041585,
+        "lat": 40.49499107134312,
         "pricing_plan_id": "free_streets_plan_3"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": true,
-        "current_range_meters": 172894,
-        "lon": -3.793998356514627,
+        "vehicle_type_id": "free_streets_scooter",
+        "is_disabled": false,
+        "current_range_meters": 16999,
+        "lon": -3.6334279235769698,
         "bike_id": "free_streets_MADRID094",
-        "lat": 40.34290603288188,
-        "pricing_plan_id": "free_streets_plan_3",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.48471600279629,
+        "pricing_plan_id": "free_streets_plan_3"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": true,
-        "current_range_meters": 104185,
-        "lon": -3.723574025512158,
+        "vehicle_type_id": "free_streets_motorbike",
+        "is_disabled": false,
+        "current_range_meters": 138187,
+        "lon": -3.6505631774771623,
         "bike_id": "free_streets_MADRID095",
-        "lat": 40.31464124992181,
-        "pricing_plan_id": "free_streets_plan_2"
+        "lat": 40.42307812456864,
+        "pricing_plan_id": "free_streets_plan_3"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
+        "vehicle_type_id": "free_streets_motorbike",
         "is_disabled": false,
-        "current_range_meters": 149629,
-        "lon": -3.7708094404841677,
+        "current_range_meters": 39039,
+        "lon": -3.786898075464083,
         "bike_id": "free_streets_MADRID096",
-        "lat": 40.45827114361273,
-        "pricing_plan_id": "free_streets_plan_3"
+        "lat": 40.45904158375759,
+        "pricing_plan_id": "free_streets_plan_1"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
+        "is_reserved": true,
+        "vehicle_type_id": "free_streets_motorbike",
         "is_disabled": true,
-        "current_range_meters": 89265,
-        "lon": -3.6381494290297565,
+        "current_range_meters": 100313,
+        "lon": -3.763792720346897,
         "bike_id": "free_streets_MADRID097",
-        "lat": 40.48091238344571,
-        "pricing_plan_id": "free_streets_plan_3",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.38869076475245,
+        "pricing_plan_id": "free_streets_plan_2"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
+        "is_reserved": false,
+        "vehicle_type_id": "free_streets_scooter",
         "is_disabled": false,
-        "current_range_meters": 85041,
-        "lon": -3.7449747242464193,
+        "current_range_meters": 17757,
+        "lon": -3.7024814973671076,
         "bike_id": "free_streets_MADRID098",
-        "lat": 40.32069131754937,
-        "pricing_plan_id": "free_streets_plan_2"
+        "lat": 40.32467946182863,
+        "pricing_plan_id": "free_streets_plan_1"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
+        "is_reserved": false,
+        "vehicle_type_id": "free_streets_motorbike",
         "is_disabled": false,
-        "current_range_meters": 380131,
-        "lon": -3.613495099027643,
+        "current_range_meters": 204816,
+        "lon": -3.6225429981823094,
         "bike_id": "free_streets_MADRID099",
-        "lat": 40.32948350103968,
-        "pricing_plan_id": "free_streets_plan_2",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.444917545215844,
+        "pricing_plan_id": "free_streets_plan_3"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": false,
-        "current_range_meters": 221431,
-        "lon": -3.6970894363029707,
+        "vehicle_type_id": "free_streets_scooter",
+        "is_disabled": true,
+        "current_range_meters": 14807,
+        "lon": -3.625927812086675,
         "bike_id": "free_streets_MADRID100",
-        "lat": 40.45241811268015,
-        "pricing_plan_id": "free_streets_plan_1"
+        "lat": 40.31488834191123,
+        "pricing_plan_id": "free_streets_plan_3"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": false,
-        "current_range_meters": 125115,
-        "lon": -3.75102899767594,
+        "vehicle_type_id": "free_streets_scooter",
+        "is_disabled": true,
+        "current_range_meters": 8771,
+        "lon": -3.7389146432346565,
         "bike_id": "free_streets_MADRID101",
-        "lat": 40.42541510378794,
-        "pricing_plan_id": "free_streets_plan_2",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.40295962600833,
+        "pricing_plan_id": "free_streets_plan_1"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": true,
-        "current_range_meters": 347301,
-        "lon": -3.723932237690341,
+        "is_reserved": false,
+        "vehicle_type_id": "free_streets_motorbike",
+        "is_disabled": false,
+        "current_range_meters": 80815,
+        "lon": -3.6868505603383763,
         "bike_id": "free_streets_MADRID102",
-        "lat": 40.4466395287686,
+        "lat": 40.41365531551299,
         "pricing_plan_id": "free_streets_plan_3"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
+        "vehicle_type_id": "free_streets_scooter",
         "is_disabled": false,
-        "current_range_meters": 202875,
-        "lon": -3.671954309881227,
+        "current_range_meters": 6088,
+        "lon": -3.7556421016260364,
         "bike_id": "free_streets_MADRID103",
-        "lat": 40.36554625360635,
-        "pricing_plan_id": "free_streets_plan_1",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.37700982874781,
+        "pricing_plan_id": "free_streets_plan_2"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
+        "is_reserved": true,
+        "vehicle_type_id": "free_streets_scooter",
         "is_disabled": false,
-        "current_range_meters": 397839,
-        "lon": -3.698240202747625,
+        "current_range_meters": 5440,
+        "lon": -3.761278312348603,
         "bike_id": "free_streets_MADRID104",
-        "lat": 40.303256298426085,
-        "pricing_plan_id": "free_streets_plan_2"
+        "lat": 40.39313190334906,
+        "pricing_plan_id": "free_streets_plan_3"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
+        "is_reserved": false,
+        "vehicle_type_id": "free_streets_scooter",
         "is_disabled": true,
-        "current_range_meters": 198909,
-        "lon": -3.7174505464680396,
+        "current_range_meters": 14390,
+        "lon": -3.6855959218400516,
         "bike_id": "free_streets_MADRID105",
-        "lat": 40.493759689415626,
-        "pricing_plan_id": "free_streets_plan_2"
+        "lat": 40.407143455566434,
+        "pricing_plan_id": "free_streets_plan_1"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
+        "vehicle_type_id": "free_streets_scooter",
         "is_disabled": true,
-        "current_range_meters": 338931,
-        "lon": -3.607095868699872,
+        "current_range_meters": 14663,
+        "lon": -3.689242870048101,
         "bike_id": "free_streets_MADRID106",
-        "lat": 40.48372104032306,
-        "pricing_plan_id": "free_streets_plan_2",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.47506770094887,
+        "pricing_plan_id": "free_streets_plan_1"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": true,
-        "current_range_meters": 161801,
-        "lon": -3.692358098526893,
+        "vehicle_type_id": "free_streets_scooter",
+        "is_disabled": false,
+        "current_range_meters": 6996,
+        "lon": -3.736320173370049,
         "bike_id": "free_streets_MADRID107",
-        "lat": 40.3847601149387,
-        "pricing_plan_id": "free_streets_plan_3"
+        "lat": 40.46517458305993,
+        "pricing_plan_id": "free_streets_plan_2"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": false,
-        "current_range_meters": 91139,
-        "lon": -3.792284697525847,
+        "vehicle_type_id": "free_streets_scooter",
+        "is_disabled": true,
+        "current_range_meters": 15058,
+        "lon": -3.7155643919158323,
         "bike_id": "free_streets_MADRID108",
-        "lat": 40.410147316084476,
-        "pricing_plan_id": "free_streets_plan_1"
+        "lat": 40.320985330580875,
+        "pricing_plan_id": "free_streets_plan_3"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": false,
-        "current_range_meters": 180271,
-        "lon": -3.7201430690600295,
+        "vehicle_type_id": "free_streets_motorbike",
+        "is_disabled": true,
+        "current_range_meters": 196055,
+        "lon": -3.7656716376276624,
         "bike_id": "free_streets_MADRID109",
-        "lat": 40.402531693204615,
-        "pricing_plan_id": "free_streets_plan_3",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.42429807142745,
+        "pricing_plan_id": "free_streets_plan_2"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
+        "vehicle_type_id": "free_streets_scooter",
         "is_disabled": true,
-        "current_range_meters": 326799,
-        "lon": -3.6918594082164855,
+        "current_range_meters": 18308,
+        "lon": -3.69953746050796,
         "bike_id": "free_streets_MADRID110",
-        "lat": 40.350565071418345,
-        "pricing_plan_id": "free_streets_plan_3"
+        "lat": 40.499978831491305,
+        "pricing_plan_id": "free_streets_plan_1"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
+        "is_reserved": false,
+        "vehicle_type_id": "free_streets_motorbike",
         "is_disabled": true,
-        "current_range_meters": 368130,
-        "lon": -3.7445007059281434,
+        "current_range_meters": 103182,
+        "lon": -3.6484403459383716,
         "bike_id": "free_streets_MADRID111",
-        "lat": 40.341716561663844,
-        "pricing_plan_id": "free_streets_plan_2"
+        "lat": 40.48873992306285,
+        "pricing_plan_id": "free_streets_plan_1"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": true,
-        "current_range_meters": 340283,
-        "lon": -3.739800616062508,
+        "vehicle_type_id": "free_streets_motorbike",
+        "is_disabled": false,
+        "current_range_meters": 178049,
+        "lon": -3.626447878986008,
         "bike_id": "free_streets_MADRID112",
-        "lat": 40.331839509665855,
-        "pricing_plan_id": "free_streets_plan_1",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.33445052702415,
+        "pricing_plan_id": "free_streets_plan_2"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": true,
-        "current_range_meters": 34305,
-        "lon": -3.6649383807293083,
+        "is_reserved": false,
+        "vehicle_type_id": "free_streets_motorbike",
+        "is_disabled": false,
+        "current_range_meters": 118125,
+        "lon": -3.6074229874775714,
         "bike_id": "free_streets_MADRID113",
-        "lat": 40.39803550957924,
-        "pricing_plan_id": "free_streets_plan_3"
+        "lat": 40.498459616448955,
+        "pricing_plan_id": "free_streets_plan_1"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": true,
-        "current_range_meters": 177092,
-        "lon": -3.6339584513440815,
+        "is_reserved": true,
+        "vehicle_type_id": "free_streets_scooter",
+        "is_disabled": false,
+        "current_range_meters": 12905,
+        "lon": -3.737627354824718,
         "bike_id": "free_streets_MADRID114",
-        "lat": 40.34520275200805,
-        "pricing_plan_id": "free_streets_plan_3"
+        "lat": 40.370676477106066,
+        "pricing_plan_id": "free_streets_plan_1"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
+        "is_reserved": true,
+        "vehicle_type_id": "free_streets_scooter",
         "is_disabled": true,
-        "current_range_meters": 216706,
-        "lon": -3.6298784737747933,
+        "current_range_meters": 6332,
+        "lon": -3.7033977091133905,
         "bike_id": "free_streets_MADRID115",
-        "lat": 40.37993703715358,
-        "pricing_plan_id": "free_streets_plan_2"
+        "lat": 40.44655207805227,
+        "pricing_plan_id": "free_streets_plan_3"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": true,
-        "current_range_meters": 253883,
-        "lon": -3.704639147886437,
+        "is_reserved": false,
+        "vehicle_type_id": "free_streets_scooter",
+        "is_disabled": false,
+        "current_range_meters": 19975,
+        "lon": -3.7502434416247925,
         "bike_id": "free_streets_MADRID116",
-        "lat": 40.41301646730758,
-        "pricing_plan_id": "free_streets_plan_2",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.38859611550622,
+        "pricing_plan_id": "free_streets_plan_3"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
+        "vehicle_type_id": "free_streets_motorbike",
         "is_disabled": true,
-        "current_range_meters": 167262,
-        "lon": -3.765416542988037,
+        "current_range_meters": 35186,
+        "lon": -3.6370896049540575,
         "bike_id": "free_streets_MADRID117",
-        "lat": 40.30092021346134,
-        "pricing_plan_id": "free_streets_plan_2"
+        "lat": 40.39471674206689,
+        "pricing_plan_id": "free_streets_plan_1"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": true,
-        "current_range_meters": 350443,
-        "lon": -3.689881553990761,
+        "is_reserved": true,
+        "vehicle_type_id": "free_streets_scooter",
+        "is_disabled": false,
+        "current_range_meters": 5991,
+        "lon": -3.6747145827643974,
         "bike_id": "free_streets_MADRID118",
-        "lat": 40.39135985205197,
-        "pricing_plan_id": "free_streets_plan_3",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.41256456374856,
+        "pricing_plan_id": "free_streets_plan_1"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
+        "vehicle_type_id": "free_streets_motorbike",
         "is_disabled": false,
-        "current_range_meters": 19539,
-        "lon": -3.6094160954767736,
+        "current_range_meters": 76983,
+        "lon": -3.681574573569104,
         "bike_id": "free_streets_MADRID119",
-        "lat": 40.304062365719496,
-        "pricing_plan_id": "free_streets_plan_1"
+        "lat": 40.3839868131843,
+        "pricing_plan_id": "free_streets_plan_2"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": true,
-        "current_range_meters": 85612,
-        "lon": -3.690642976132782,
+        "vehicle_type_id": "free_streets_scooter",
+        "is_disabled": false,
+        "current_range_meters": 18112,
+        "lon": -3.6677896238919456,
         "bike_id": "free_streets_MADRID120",
-        "lat": 40.42901589041182,
+        "lat": 40.33288373200652,
         "pricing_plan_id": "free_streets_plan_3"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
+        "is_reserved": false,
+        "vehicle_type_id": "free_streets_motorbike",
         "is_disabled": true,
-        "current_range_meters": 387961,
-        "lon": -3.602047568006713,
+        "current_range_meters": 189438,
+        "lon": -3.765803121431087,
         "bike_id": "free_streets_MADRID121",
-        "lat": 40.431452874693136,
-        "pricing_plan_id": "free_streets_plan_1",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.38017423372917,
+        "pricing_plan_id": "free_streets_plan_1"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": true,
-        "current_range_meters": 214692,
-        "lon": -3.7911491841893787,
+        "is_reserved": false,
+        "vehicle_type_id": "free_streets_scooter",
+        "is_disabled": false,
+        "current_range_meters": 8986,
+        "lon": -3.7023954701449577,
         "bike_id": "free_streets_MADRID122",
-        "lat": 40.39273002455443,
-        "pricing_plan_id": "free_streets_plan_1",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.45234213614129,
+        "pricing_plan_id": "free_streets_plan_1"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
+        "vehicle_type_id": "free_streets_scooter",
         "is_disabled": false,
-        "current_range_meters": 70020,
-        "lon": -3.792490261840591,
+        "current_range_meters": 17200,
+        "lon": -3.7655811683180564,
         "bike_id": "free_streets_MADRID123",
-        "lat": 40.41637187734862,
-        "pricing_plan_id": "free_streets_plan_2",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.414553569329826,
+        "pricing_plan_id": "free_streets_plan_3"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": true,
-        "current_range_meters": 310743,
-        "lon": -3.797301789588236,
+        "is_reserved": false,
+        "vehicle_type_id": "free_streets_motorbike",
+        "is_disabled": false,
+        "current_range_meters": 28501,
+        "lon": -3.6507684269398024,
         "bike_id": "free_streets_MADRID124",
-        "lat": 40.420184884178646,
-        "pricing_plan_id": "free_streets_plan_2"
+        "lat": 40.456023646670786,
+        "pricing_plan_id": "free_streets_plan_3"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": true,
-        "current_range_meters": 34483,
-        "lon": -3.6289922402193477,
+        "is_reserved": true,
+        "vehicle_type_id": "free_streets_motorbike",
+        "is_disabled": false,
+        "current_range_meters": 36503,
+        "lon": -3.744051714635087,
         "bike_id": "free_streets_MADRID125",
-        "lat": 40.44066514890268,
-        "pricing_plan_id": "free_streets_plan_1"
+        "lat": 40.42358975967841,
+        "pricing_plan_id": "free_streets_plan_3"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": true,
-        "current_range_meters": 55354,
-        "lon": -3.7893947882630625,
+        "is_reserved": true,
+        "vehicle_type_id": "free_streets_motorbike",
+        "is_disabled": false,
+        "current_range_meters": 69681,
+        "lon": -3.690763762493027,
         "bike_id": "free_streets_MADRID126",
-        "lat": 40.36054232169586,
-        "pricing_plan_id": "free_streets_plan_1",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.32313064471789,
+        "pricing_plan_id": "free_streets_plan_2"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
+        "vehicle_type_id": "free_streets_motorbike",
         "is_disabled": true,
-        "current_range_meters": 236402,
-        "lon": -3.7618784333558266,
+        "current_range_meters": 83527,
+        "lon": -3.762530710227405,
         "bike_id": "free_streets_MADRID127",
-        "lat": 40.34998700573558,
-        "pricing_plan_id": "free_streets_plan_3"
+        "lat": 40.31129026228493,
+        "pricing_plan_id": "free_streets_plan_1"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": true,
-        "current_range_meters": 368138,
-        "lon": -3.683963173131816,
+        "vehicle_type_id": "free_streets_motorbike",
+        "is_disabled": false,
+        "current_range_meters": 142523,
+        "lon": -3.6838723423815507,
         "bike_id": "free_streets_MADRID128",
-        "lat": 40.30784554569798,
-        "pricing_plan_id": "free_streets_plan_1"
+        "lat": 40.42460170927276,
+        "pricing_plan_id": "free_streets_plan_3"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
+        "vehicle_type_id": "free_streets_motorbike",
         "is_disabled": true,
-        "current_range_meters": 209074,
-        "lon": -3.696842052677306,
+        "current_range_meters": 32801,
+        "lon": -3.6758748823346514,
         "bike_id": "free_streets_MADRID129",
-        "lat": 40.38216932448858,
+        "lat": 40.363630288743686,
         "pricing_plan_id": "free_streets_plan_3"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
+        "vehicle_type_id": "free_streets_scooter",
         "is_disabled": true,
-        "current_range_meters": 178595,
-        "lon": -3.642236962886551,
+        "current_range_meters": 14982,
+        "lon": -3.619681159968783,
         "bike_id": "free_streets_MADRID130",
-        "lat": 40.49086950540753,
-        "pricing_plan_id": "free_streets_plan_3",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.48391002820051,
+        "pricing_plan_id": "free_streets_plan_1"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
+        "vehicle_type_id": "free_streets_motorbike",
         "is_disabled": false,
-        "current_range_meters": 149731,
-        "lon": -3.763752553311606,
+        "current_range_meters": 168656,
+        "lon": -3.7434377730232447,
         "bike_id": "free_streets_MADRID131",
-        "lat": 40.45630935658088,
-        "pricing_plan_id": "free_streets_plan_1",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.33146546577528,
+        "pricing_plan_id": "free_streets_plan_2"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
+        "vehicle_type_id": "free_streets_scooter",
         "is_disabled": true,
-        "current_range_meters": 168079,
-        "lon": -3.6976465496075663,
+        "current_range_meters": 1982,
+        "lon": -3.6362119190181454,
         "bike_id": "free_streets_MADRID132",
-        "lat": 40.335602528453315,
-        "pricing_plan_id": "free_streets_plan_2",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.373603794530105,
+        "pricing_plan_id": "free_streets_plan_3"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": false,
-        "current_range_meters": 32187,
-        "lon": -3.6234455305623676,
+        "vehicle_type_id": "free_streets_motorbike",
+        "is_disabled": true,
+        "current_range_meters": 107997,
+        "lon": -3.670826803847738,
         "bike_id": "free_streets_MADRID133",
-        "lat": 40.350260283619654,
-        "pricing_plan_id": "free_streets_plan_2",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.40084089185234,
+        "pricing_plan_id": "free_streets_plan_1"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
+        "vehicle_type_id": "free_streets_scooter",
         "is_disabled": false,
-        "current_range_meters": 191358,
-        "lon": -3.759736490998145,
+        "current_range_meters": 12725,
+        "lon": -3.788155952929698,
         "bike_id": "free_streets_MADRID134",
-        "lat": 40.41050647312233,
-        "pricing_plan_id": "free_streets_plan_3"
+        "lat": 40.377952281847065,
+        "pricing_plan_id": "free_streets_plan_1"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
+        "vehicle_type_id": "free_streets_scooter",
         "is_disabled": false,
-        "current_range_meters": 341509,
-        "lon": -3.7150798395612292,
+        "current_range_meters": 9244,
+        "lon": -3.7115870062395477,
         "bike_id": "free_streets_MADRID135",
-        "lat": 40.410688670401505,
-        "pricing_plan_id": "free_streets_plan_2"
+        "lat": 40.408954979529234,
+        "pricing_plan_id": "free_streets_plan_1"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": true,
-        "current_range_meters": 136108,
-        "lon": -3.7036874200529333,
+        "vehicle_type_id": "free_streets_motorbike",
+        "is_disabled": false,
+        "current_range_meters": 74270,
+        "lon": -3.789403411670188,
         "bike_id": "free_streets_MADRID136",
-        "lat": 40.46273211851642,
-        "pricing_plan_id": "free_streets_plan_3",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.41063621713735,
+        "pricing_plan_id": "free_streets_plan_1"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": true,
-        "current_range_meters": 183624,
-        "lon": -3.777585299775218,
+        "is_reserved": true,
+        "vehicle_type_id": "free_streets_motorbike",
+        "is_disabled": false,
+        "current_range_meters": 62880,
+        "lon": -3.671889973669429,
         "bike_id": "free_streets_MADRID137",
-        "lat": 40.48199007545857,
-        "pricing_plan_id": "free_streets_plan_2"
+        "lat": 40.440178398457306,
+        "pricing_plan_id": "free_streets_plan_3"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": false,
-        "current_range_meters": 367475,
-        "lon": -3.799786588259074,
+        "is_reserved": false,
+        "vehicle_type_id": "free_streets_scooter",
+        "is_disabled": true,
+        "current_range_meters": 14153,
+        "lon": -3.7466406428650045,
         "bike_id": "free_streets_MADRID138",
-        "lat": 40.38388100086687,
+        "lat": 40.350123015140056,
         "pricing_plan_id": "free_streets_plan_2"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": false,
-        "current_range_meters": 376275,
-        "lon": -3.772784815254789,
+        "is_reserved": true,
+        "vehicle_type_id": "free_streets_scooter",
+        "is_disabled": true,
+        "current_range_meters": 6857,
+        "lon": -3.7341363704792414,
         "bike_id": "free_streets_MADRID139",
-        "lat": 40.38801132210887,
-        "pricing_plan_id": "free_streets_plan_2",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.345987287962025,
+        "pricing_plan_id": "free_streets_plan_2"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": false,
-        "current_range_meters": 115357,
-        "lon": -3.7613688980894397,
+        "is_reserved": false,
+        "vehicle_type_id": "free_streets_motorbike",
+        "is_disabled": true,
+        "current_range_meters": 80764,
+        "lon": -3.72452324567906,
         "bike_id": "free_streets_MADRID140",
-        "lat": 40.35065009502266,
-        "pricing_plan_id": "free_streets_plan_1",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.39038899443296,
+        "pricing_plan_id": "free_streets_plan_1"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
+        "is_reserved": false,
+        "vehicle_type_id": "free_streets_scooter",
         "is_disabled": true,
-        "current_range_meters": 24786,
-        "lon": -3.6416375003902304,
+        "current_range_meters": 17484,
+        "lon": -3.7223978432223372,
         "bike_id": "free_streets_MADRID141",
-        "lat": 40.4742222942905,
+        "lat": 40.47609371902637,
         "pricing_plan_id": "free_streets_plan_3"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
+        "vehicle_type_id": "free_streets_motorbike",
         "is_disabled": true,
-        "current_range_meters": 77414,
-        "lon": -3.6880894213206976,
+        "current_range_meters": 109360,
+        "lon": -3.781595626638719,
         "bike_id": "free_streets_MADRID142",
-        "lat": 40.37834175178513,
-        "pricing_plan_id": "free_streets_plan_1",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.37380932741503,
+        "pricing_plan_id": "free_streets_plan_3"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
+        "vehicle_type_id": "free_streets_motorbike",
         "is_disabled": false,
-        "current_range_meters": 81104,
-        "lon": -3.669769101014617,
+        "current_range_meters": 88959,
+        "lon": -3.714913628748172,
         "bike_id": "free_streets_MADRID143",
-        "lat": 40.42884534511576,
-        "pricing_plan_id": "free_streets_plan_2",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.481827098688356,
+        "pricing_plan_id": "free_streets_plan_2"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": false,
-        "current_range_meters": 163035,
-        "lon": -3.608377237623524,
+        "vehicle_type_id": "free_streets_scooter",
+        "is_disabled": true,
+        "current_range_meters": 13293,
+        "lon": -3.769587337613952,
         "bike_id": "free_streets_MADRID144",
-        "lat": 40.3289635309512,
-        "pricing_plan_id": "free_streets_plan_1",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.43862850988763,
+        "pricing_plan_id": "free_streets_plan_1"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
+        "vehicle_type_id": "free_streets_motorbike",
         "is_disabled": true,
-        "current_range_meters": 238344,
-        "lon": -3.7894623552565405,
+        "current_range_meters": 149346,
+        "lon": -3.786941082667955,
         "bike_id": "free_streets_MADRID145",
-        "lat": 40.401243542255834,
-        "pricing_plan_id": "free_streets_plan_2",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.3005324649544,
+        "pricing_plan_id": "free_streets_plan_1"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": true,
-        "current_range_meters": 43475,
-        "lon": -3.744426736960444,
+        "is_reserved": false,
+        "vehicle_type_id": "free_streets_scooter",
+        "is_disabled": false,
+        "current_range_meters": 12560,
+        "lon": -3.770828364281145,
         "bike_id": "free_streets_MADRID146",
-        "lat": 40.32130130529689,
-        "pricing_plan_id": "free_streets_plan_1"
+        "lat": 40.34330182355585,
+        "pricing_plan_id": "free_streets_plan_3"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": false,
-        "current_range_meters": 323465,
-        "lon": -3.6523775133437755,
+        "vehicle_type_id": "free_streets_motorbike",
+        "is_disabled": true,
+        "current_range_meters": 185064,
+        "lon": -3.680828040427339,
         "bike_id": "free_streets_MADRID147",
-        "lat": 40.46697325894417,
-        "pricing_plan_id": "free_streets_plan_3"
+        "lat": 40.36058370968459,
+        "pricing_plan_id": "free_streets_plan_2"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": true,
-        "current_range_meters": 121800,
-        "lon": -3.658347639279344,
+        "vehicle_type_id": "free_streets_scooter",
+        "is_disabled": false,
+        "current_range_meters": 13932,
+        "lon": -3.64680705925125,
         "bike_id": "free_streets_MADRID148",
-        "lat": 40.304369469454095,
-        "pricing_plan_id": "free_streets_plan_1"
+        "lat": 40.358275151762776,
+        "pricing_plan_id": "free_streets_plan_3"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": false,
-        "current_range_meters": 48373,
-        "lon": -3.6546418384254777,
+        "is_reserved": true,
+        "vehicle_type_id": "free_streets_motorbike",
+        "is_disabled": true,
+        "current_range_meters": 181572,
+        "lon": -3.6043659449565504,
         "bike_id": "free_streets_MADRID149",
-        "lat": 40.33432977637583,
-        "pricing_plan_id": "free_streets_plan_1"
+        "lat": 40.30887147684235,
+        "pricing_plan_id": "free_streets_plan_3"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": true,
-        "current_range_meters": 374546,
-        "lon": -3.7217369424381577,
+        "vehicle_type_id": "free_streets_motorbike",
+        "is_disabled": false,
+        "current_range_meters": 128284,
+        "lon": -3.6662422644029715,
         "bike_id": "free_streets_MADRID150",
-        "lat": 40.45009488403897,
-        "pricing_plan_id": "free_streets_plan_1"
+        "lat": 40.39581228805278,
+        "pricing_plan_id": "free_streets_plan_2"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": false,
-        "current_range_meters": 378950,
-        "lon": -3.6521413462242243,
+        "is_reserved": true,
+        "vehicle_type_id": "free_streets_motorbike",
+        "is_disabled": true,
+        "current_range_meters": 37522,
+        "lon": -3.625918793551631,
         "bike_id": "free_streets_MADRID151",
-        "lat": 40.32058936225225,
-        "pricing_plan_id": "free_streets_plan_1"
+        "lat": 40.392011338171564,
+        "pricing_plan_id": "free_streets_plan_2"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": true,
-        "current_range_meters": 131521,
-        "lon": -3.6749464657013644,
+        "is_reserved": true,
+        "vehicle_type_id": "free_streets_motorbike",
+        "is_disabled": false,
+        "current_range_meters": 70342,
+        "lon": -3.7273636103109737,
         "bike_id": "free_streets_MADRID152",
-        "lat": 40.38367119923207,
-        "pricing_plan_id": "free_streets_plan_3"
+        "lat": 40.452084577253196,
+        "pricing_plan_id": "free_streets_plan_2"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": false,
-        "current_range_meters": 70702,
-        "lon": -3.6717975477232936,
+        "vehicle_type_id": "free_streets_scooter",
+        "is_disabled": true,
+        "current_range_meters": 19133,
+        "lon": -3.781380314846832,
         "bike_id": "free_streets_MADRID153",
-        "lat": 40.46173547891852,
-        "pricing_plan_id": "free_streets_plan_1",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.365851842736475,
+        "pricing_plan_id": "free_streets_plan_2"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": false,
-        "current_range_meters": 321060,
-        "lon": -3.708065878718354,
+        "vehicle_type_id": "free_streets_scooter",
+        "is_disabled": true,
+        "current_range_meters": 2046,
+        "lon": -3.7264278124121186,
         "bike_id": "free_streets_MADRID154",
-        "lat": 40.35404806932143,
-        "pricing_plan_id": "free_streets_plan_3",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.30867195832238,
+        "pricing_plan_id": "free_streets_plan_2"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": true,
-        "current_range_meters": 192121,
-        "lon": -3.6916217826741438,
+        "vehicle_type_id": "free_streets_scooter",
+        "is_disabled": false,
+        "current_range_meters": 16931,
+        "lon": -3.7790397683889814,
         "bike_id": "free_streets_MADRID155",
-        "lat": 40.362133386480366,
-        "pricing_plan_id": "free_streets_plan_1"
+        "lat": 40.45435736747119,
+        "pricing_plan_id": "free_streets_plan_2"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
+        "is_reserved": false,
+        "vehicle_type_id": "free_streets_motorbike",
         "is_disabled": false,
-        "current_range_meters": 315210,
-        "lon": -3.663865553640005,
+        "current_range_meters": 58574,
+        "lon": -3.7029766981707932,
         "bike_id": "free_streets_MADRID156",
-        "lat": 40.42144074808964,
-        "pricing_plan_id": "free_streets_plan_3"
+        "lat": 40.33089728525519,
+        "pricing_plan_id": "free_streets_plan_2"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": false,
-        "current_range_meters": 154641,
-        "lon": -3.6500892435193792,
+        "vehicle_type_id": "free_streets_motorbike",
+        "is_disabled": true,
+        "current_range_meters": 70962,
+        "lon": -3.6108924463735073,
         "bike_id": "free_streets_MADRID157",
-        "lat": 40.48589404327332,
-        "pricing_plan_id": "free_streets_plan_1",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.412264806529976,
+        "pricing_plan_id": "free_streets_plan_1"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": false,
-        "current_range_meters": 147796,
-        "lon": -3.6037630486799133,
+        "vehicle_type_id": "free_streets_motorbike",
+        "is_disabled": true,
+        "current_range_meters": 173056,
+        "lon": -3.678085869745667,
         "bike_id": "free_streets_MADRID158",
-        "lat": 40.33812984313192,
-        "pricing_plan_id": "free_streets_plan_1"
+        "lat": 40.33198098370281,
+        "pricing_plan_id": "free_streets_plan_3"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": true,
-        "current_range_meters": 286829,
-        "lon": -3.659918640508218,
+        "is_reserved": false,
+        "vehicle_type_id": "free_streets_motorbike",
+        "is_disabled": false,
+        "current_range_meters": 143265,
+        "lon": -3.6036537661463517,
         "bike_id": "free_streets_MADRID159",
-        "lat": 40.37567771245288,
-        "pricing_plan_id": "free_streets_plan_1"
+        "lat": 40.3615817024834,
+        "pricing_plan_id": "free_streets_plan_2"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": false,
-        "current_range_meters": 269925,
-        "lon": -3.62078401966281,
+        "is_reserved": false,
+        "vehicle_type_id": "free_streets_scooter",
+        "is_disabled": true,
+        "current_range_meters": 3952,
+        "lon": -3.779645665982174,
         "bike_id": "free_streets_MADRID160",
-        "lat": 40.37336393071669,
-        "pricing_plan_id": "free_streets_plan_3"
+        "lat": 40.44276398776013,
+        "pricing_plan_id": "free_streets_plan_1"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": true,
-        "current_range_meters": 174183,
-        "lon": -3.783111475517211,
+        "vehicle_type_id": "free_streets_motorbike",
+        "is_disabled": false,
+        "current_range_meters": 70720,
+        "lon": -3.7698244693094183,
         "bike_id": "free_streets_MADRID161",
-        "lat": 40.43418798006296,
-        "pricing_plan_id": "free_streets_plan_1",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.38587852208743,
+        "pricing_plan_id": "free_streets_plan_2"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
+        "is_reserved": true,
+        "vehicle_type_id": "free_streets_scooter",
         "is_disabled": true,
-        "current_range_meters": 261094,
-        "lon": -3.6673498517835985,
+        "current_range_meters": 1221,
+        "lon": -3.7300507292797422,
         "bike_id": "free_streets_MADRID162",
-        "lat": 40.49869991743227,
-        "pricing_plan_id": "free_streets_plan_2"
+        "lat": 40.36604353174923,
+        "pricing_plan_id": "free_streets_plan_3"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
+        "vehicle_type_id": "free_streets_motorbike",
         "is_disabled": true,
-        "current_range_meters": 322760,
-        "lon": -3.6979018602817204,
+        "current_range_meters": 177501,
+        "lon": -3.618170760841792,
         "bike_id": "free_streets_MADRID163",
-        "lat": 40.48598076604442,
-        "pricing_plan_id": "free_streets_plan_2"
+        "lat": 40.3713119120295,
+        "pricing_plan_id": "free_streets_plan_3"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
+        "vehicle_type_id": "free_streets_scooter",
         "is_disabled": true,
-        "current_range_meters": 179370,
-        "lon": -3.7887827329698838,
+        "current_range_meters": 6306,
+        "lon": -3.660509601360386,
         "bike_id": "free_streets_MADRID164",
-        "lat": 40.43806211699983,
-        "pricing_plan_id": "free_streets_plan_1",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.321533346727456,
+        "pricing_plan_id": "free_streets_plan_1"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": true,
-        "current_range_meters": 359394,
-        "lon": -3.7132730292565195,
+        "vehicle_type_id": "free_streets_motorbike",
+        "is_disabled": false,
+        "current_range_meters": 39387,
+        "lon": -3.7884465269943406,
         "bike_id": "free_streets_MADRID165",
-        "lat": 40.46046791063154,
-        "pricing_plan_id": "free_streets_plan_2",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.392368440722336,
+        "pricing_plan_id": "free_streets_plan_1"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
+        "is_reserved": false,
+        "vehicle_type_id": "free_streets_motorbike",
         "is_disabled": true,
-        "current_range_meters": 101019,
-        "lon": -3.6232909878546242,
+        "current_range_meters": 187120,
+        "lon": -3.778514374159958,
         "bike_id": "free_streets_MADRID166",
-        "lat": 40.39424219804616,
-        "pricing_plan_id": "free_streets_plan_3"
+        "lat": 40.36792669149135,
+        "pricing_plan_id": "free_streets_plan_2"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
+        "vehicle_type_id": "free_streets_scooter",
         "is_disabled": false,
-        "current_range_meters": 278746,
-        "lon": -3.7064652278338506,
+        "current_range_meters": 12531,
+        "lon": -3.656581111417644,
         "bike_id": "free_streets_MADRID167",
-        "lat": 40.399764416504524,
-        "pricing_plan_id": "free_streets_plan_2",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.48553412592028,
+        "pricing_plan_id": "free_streets_plan_1"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": false,
-        "current_range_meters": 91519,
-        "lon": -3.612876172132329,
+        "vehicle_type_id": "free_streets_motorbike",
+        "is_disabled": true,
+        "current_range_meters": 57526,
+        "lon": -3.6420812167296113,
         "bike_id": "free_streets_MADRID168",
-        "lat": 40.303192815863774,
-        "pricing_plan_id": "free_streets_plan_1",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.39436759804159,
+        "pricing_plan_id": "free_streets_plan_3"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": false,
-        "current_range_meters": 176351,
-        "lon": -3.751361178648965,
+        "is_reserved": false,
+        "vehicle_type_id": "free_streets_scooter",
+        "is_disabled": true,
+        "current_range_meters": 11233,
+        "lon": -3.6308231221139997,
         "bike_id": "free_streets_MADRID169",
-        "lat": 40.33656960677038,
-        "pricing_plan_id": "free_streets_plan_3"
+        "lat": 40.49246538293646,
+        "pricing_plan_id": "free_streets_plan_1"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": false,
-        "current_range_meters": 110059,
-        "lon": -3.643454947527426,
+        "vehicle_type_id": "free_streets_motorbike",
+        "is_disabled": true,
+        "current_range_meters": 62576,
+        "lon": -3.6431543661801085,
         "bike_id": "free_streets_MADRID170",
-        "lat": 40.417609109633915,
-        "pricing_plan_id": "free_streets_plan_3",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.40465181751321,
+        "pricing_plan_id": "free_streets_plan_2"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
+        "vehicle_type_id": "free_streets_motorbike",
         "is_disabled": false,
-        "current_range_meters": 203147,
-        "lon": -3.733094116803487,
+        "current_range_meters": 93544,
+        "lon": -3.7325482032710187,
         "bike_id": "free_streets_MADRID171",
-        "lat": 40.33746853005634,
-        "pricing_plan_id": "free_streets_plan_2",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.462194967927466,
+        "pricing_plan_id": "free_streets_plan_2"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": true,
-        "current_range_meters": 146402,
-        "lon": -3.632256240978867,
+        "vehicle_type_id": "free_streets_motorbike",
+        "is_disabled": false,
+        "current_range_meters": 29963,
+        "lon": -3.7408055503353195,
         "bike_id": "free_streets_MADRID172",
-        "lat": 40.375888773588045,
-        "pricing_plan_id": "free_streets_plan_1",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.45241986890199,
+        "pricing_plan_id": "free_streets_plan_2"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": true,
-        "current_range_meters": 101492,
-        "lon": -3.7033597067585835,
+        "is_reserved": false,
+        "vehicle_type_id": "free_streets_scooter",
+        "is_disabled": false,
+        "current_range_meters": 14064,
+        "lon": -3.649180273130794,
         "bike_id": "free_streets_MADRID173",
-        "lat": 40.33639869664964,
-        "pricing_plan_id": "free_streets_plan_1"
+        "lat": 40.32192064730048,
+        "pricing_plan_id": "free_streets_plan_2"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": true,
-        "current_range_meters": 23353,
-        "lon": -3.7513541730346645,
+        "is_reserved": true,
+        "vehicle_type_id": "free_streets_motorbike",
+        "is_disabled": false,
+        "current_range_meters": 134707,
+        "lon": -3.7618216049318636,
         "bike_id": "free_streets_MADRID174",
-        "lat": 40.33118412379046,
-        "pricing_plan_id": "free_streets_plan_2",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.384715182175945,
+        "pricing_plan_id": "free_streets_plan_3"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": false,
-        "current_range_meters": 202879,
-        "lon": -3.6027812131260797,
+        "vehicle_type_id": "free_streets_scooter",
+        "is_disabled": true,
+        "current_range_meters": 4720,
+        "lon": -3.683252863730238,
         "bike_id": "free_streets_MADRID175",
-        "lat": 40.35268122532083,
-        "pricing_plan_id": "free_streets_plan_3"
+        "lat": 40.35967457814325,
+        "pricing_plan_id": "free_streets_plan_2"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
+        "vehicle_type_id": "free_streets_scooter",
         "is_disabled": false,
-        "current_range_meters": 215594,
-        "lon": -3.722522091974079,
+        "current_range_meters": 15043,
+        "lon": -3.694002717070268,
         "bike_id": "free_streets_MADRID176",
-        "lat": 40.47310328893332,
-        "pricing_plan_id": "free_streets_plan_2",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.43947846732443,
+        "pricing_plan_id": "free_streets_plan_1"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": false,
-        "current_range_meters": 241618,
-        "lon": -3.7767071081811086,
+        "vehicle_type_id": "free_streets_scooter",
+        "is_disabled": true,
+        "current_range_meters": 10082,
+        "lon": -3.611195040543241,
         "bike_id": "free_streets_MADRID177",
-        "lat": 40.49972285197493,
-        "pricing_plan_id": "free_streets_plan_1"
-      },
-      {
-        "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": true,
-        "current_range_meters": 114530,
-        "lon": -3.6543101308685864,
-        "bike_id": "free_streets_MADRID178",
-        "lat": 40.31250294712401,
-        "pricing_plan_id": "free_streets_plan_2",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
-      },
-      {
-        "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": true,
-        "current_range_meters": 23477,
-        "lon": -3.738816300458154,
-        "bike_id": "free_streets_MADRID179",
-        "lat": 40.436638555824494,
-        "pricing_plan_id": "free_streets_plan_3",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
-      },
-      {
-        "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": true,
-        "current_range_meters": 52185,
-        "lon": -3.79059995752918,
-        "bike_id": "free_streets_MADRID180",
-        "lat": 40.47418719459396,
-        "pricing_plan_id": "free_streets_plan_1"
-      },
-      {
-        "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": true,
-        "current_range_meters": 277780,
-        "lon": -3.7270483233359775,
-        "bike_id": "free_streets_MADRID181",
-        "lat": 40.428631744439926,
-        "pricing_plan_id": "free_streets_plan_1"
-      },
-      {
-        "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": false,
-        "current_range_meters": 165694,
-        "lon": -3.683493220182781,
-        "bike_id": "free_streets_MADRID182",
-        "lat": 40.47525628394725,
-        "pricing_plan_id": "free_streets_plan_1"
-      },
-      {
-        "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": false,
-        "current_range_meters": 99315,
-        "lon": -3.667218418549597,
-        "bike_id": "free_streets_MADRID183",
-        "lat": 40.486632820926914,
-        "pricing_plan_id": "free_streets_plan_2"
-      },
-      {
-        "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": true,
-        "current_range_meters": 261836,
-        "lon": -3.634236389602571,
-        "bike_id": "free_streets_MADRID184",
-        "lat": 40.49603066302568,
-        "pricing_plan_id": "free_streets_plan_3",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
-      },
-      {
-        "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": true,
-        "current_range_meters": 354510,
-        "lon": -3.764150740376306,
-        "bike_id": "free_streets_MADRID185",
-        "lat": 40.41669524137208,
-        "pricing_plan_id": "free_streets_plan_3",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
-      },
-      {
-        "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": false,
-        "current_range_meters": 260764,
-        "lon": -3.615342257904616,
-        "bike_id": "free_streets_MADRID186",
-        "lat": 40.379230218121684,
+        "lat": 40.38608957582639,
         "pricing_plan_id": "free_streets_plan_3"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
+        "vehicle_type_id": "free_streets_scooter",
         "is_disabled": true,
-        "current_range_meters": 223308,
-        "lon": -3.6155709216830423,
-        "bike_id": "free_streets_MADRID187",
-        "lat": 40.47986381536169,
+        "current_range_meters": 20351,
+        "lon": -3.7812122200470255,
+        "bike_id": "free_streets_MADRID178",
+        "lat": 40.35831795807077,
+        "pricing_plan_id": "free_streets_plan_3"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "free_streets_scooter",
+        "is_disabled": true,
+        "current_range_meters": 9690,
+        "lon": -3.6566164330859774,
+        "bike_id": "free_streets_MADRID179",
+        "lat": 40.35268096419035,
         "pricing_plan_id": "free_streets_plan_2"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": false,
-        "current_range_meters": 214792,
-        "lon": -3.6058782762498884,
-        "bike_id": "free_streets_MADRID188",
-        "lat": 40.440361025188075,
-        "pricing_plan_id": "free_streets_plan_2",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
-      },
-      {
         "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
+        "vehicle_type_id": "free_streets_scooter",
         "is_disabled": true,
-        "current_range_meters": 209647,
-        "lon": -3.7620222653455224,
-        "bike_id": "free_streets_MADRID189",
-        "lat": 40.4391706630072,
-        "pricing_plan_id": "free_streets_plan_3",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
-      },
-      {
-        "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": false,
-        "current_range_meters": 35258,
-        "lon": -3.6601727446352075,
-        "bike_id": "free_streets_MADRID190",
-        "lat": 40.32262287450842,
-        "pricing_plan_id": "free_streets_plan_2",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
-      },
-      {
-        "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": false,
-        "current_range_meters": 191546,
-        "lon": -3.7027621197010836,
-        "bike_id": "free_streets_MADRID191",
-        "lat": 40.43821287388452,
+        "current_range_meters": 19344,
+        "lon": -3.6491718539691926,
+        "bike_id": "free_streets_MADRID180",
+        "lat": 40.37729698691699,
         "pricing_plan_id": "free_streets_plan_1"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
+        "vehicle_type_id": "free_streets_scooter",
         "is_disabled": true,
-        "current_range_meters": 80238,
-        "lon": -3.7674324318255414,
-        "bike_id": "free_streets_MADRID192",
-        "lat": 40.48329537429033,
-        "pricing_plan_id": "free_streets_plan_3",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
-      },
-      {
-        "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": false,
-        "current_range_meters": 43519,
-        "lon": -3.6133865063436623,
-        "bike_id": "free_streets_MADRID193",
-        "lat": 40.342180289125544,
-        "pricing_plan_id": "free_streets_plan_3",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
-      },
-      {
-        "is_reserved": true,
-        "vehicle_type_id": "free_streets_car",
-        "is_disabled": true,
-        "current_range_meters": 279450,
-        "lon": -3.634837987464069,
-        "bike_id": "free_streets_MADRID194",
-        "lat": 40.421308897254406,
-        "pricing_plan_id": "free_streets_plan_1",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "current_range_meters": 12914,
+        "lon": -3.707557993842113,
+        "bike_id": "free_streets_MADRID181",
+        "lat": 40.478962082303994,
+        "pricing_plan_id": "free_streets_plan_2"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "free_streets_car",
+        "vehicle_type_id": "free_streets_motorbike",
+        "is_disabled": true,
+        "current_range_meters": 180096,
+        "lon": -3.7318656748827514,
+        "bike_id": "free_streets_MADRID182",
+        "lat": 40.43396460527125,
+        "pricing_plan_id": "free_streets_plan_1"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "free_streets_motorbike",
+        "is_disabled": true,
+        "current_range_meters": 35450,
+        "lon": -3.7684373917651772,
+        "bike_id": "free_streets_MADRID183",
+        "lat": 40.34083156932027,
+        "pricing_plan_id": "free_streets_plan_1"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "free_streets_motorbike",
         "is_disabled": false,
-        "current_range_meters": 41731,
-        "lon": -3.6706263334898055,
-        "bike_id": "free_streets_MADRID195",
-        "lat": 40.39461465123375,
-        "pricing_plan_id": "free_streets_plan_3",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "current_range_meters": 42503,
+        "lon": -3.7361350034410252,
+        "bike_id": "free_streets_MADRID184",
+        "lat": 40.46674940323827,
+        "pricing_plan_id": "free_streets_plan_2"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "free_streets_motorbike",
+        "is_disabled": false,
+        "current_range_meters": 22315,
+        "lon": -3.658718352637395,
+        "bike_id": "free_streets_MADRID185",
+        "lat": 40.37845281952889,
+        "pricing_plan_id": "free_streets_plan_3"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "free_streets_motorbike",
+        "is_disabled": false,
+        "current_range_meters": 142874,
+        "lon": -3.6216097137414174,
+        "bike_id": "free_streets_MADRID186",
+        "lat": 40.40969086942432,
+        "pricing_plan_id": "free_streets_plan_2"
       }
     ]
   },

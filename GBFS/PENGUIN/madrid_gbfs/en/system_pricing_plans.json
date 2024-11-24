@@ -1,15 +1,15 @@
 {
-  "last_updated": 1732466797,
+  "last_updated": 1732467845,
   "data": {
     "plans": [
       {
-        "price": 2.4,
+        "price": 1.95,
         "name": "Simple rate",
-        "description": "1.95 € per kilometer",
+        "description": "0.60 € per kilometer",
         "currency": "EUR",
         "per_km_pricing": [
           {
-            "rate": 1.95,
+            "rate": 0.6,
             "start": 0,
             "interval": 1
           }
@@ -18,26 +18,26 @@
         "is_taxable": false
       },
       {
-        "price": 3.65,
+        "price": 1.8,
         "name": "One-Way",
-        "description": "Includes 29km, overage fees apply after 29km",
+        "description": "Includes 28km, overage fees apply after 28km",
         "currency": "EUR",
         "per_km_pricing": [
           {
-            "rate": 2.0,
-            "start": 29,
+            "rate": 2.5,
+            "start": 28,
             "interval": 1,
-            "end": 58
+            "end": 53
           },
           {
-            "rate": 1.15,
-            "start": 58,
+            "rate": 0.85,
+            "start": 53,
             "interval": 1,
-            "end": 83
+            "end": 80
           },
           {
-            "rate": 8.0,
-            "start": 83,
+            "rate": 5.85,
+            "start": 80,
             "interval": 5,
             "end": 109
           }
@@ -48,18 +48,18 @@
       {
         "per_min_pricing": [
           {
-            "rate": 1.25,
+            "rate": 1.2,
             "start": 0,
             "interval": 1
           }
         ],
-        "price": 1.4,
+        "price": 3.6,
         "name": "Simple rate",
-        "description": "1.40 € unlock fee, 1.00 € per kilometer and 1.25 € per minute.",
+        "description": "3.60 € unlock fee, 1.05 € per kilometer and 1.20 € per minute.",
         "currency": "EUR",
         "per_km_pricing": [
           {
-            "rate": 1.0,
+            "rate": 1.05,
             "start": 0,
             "interval": 1
           }

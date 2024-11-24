@@ -1,10 +1,10 @@
 {
-  "last_updated": 1732466786,
+  "last_updated": 1732467824,
   "data": {
     "versions": [
       {
-        "url": "https://leo-av.github.io/GBFS/WHEELIES/madrid_gbfs/gbfs.json",
-        "version": "2.3"
+        "version": "2.3",
+        "url": "https://leo-av.github.io/GBFS/WHEELIES/madrid_gbfs/gbfs.json"
       }
     ]
   },

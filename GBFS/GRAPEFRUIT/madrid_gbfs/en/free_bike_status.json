@@ -1,2893 +1,3427 @@
 {
-  "last_updated": 1732466780,
+  "last_updated": 1732467839,
   "data": {
     "bikes": [
       {
-        "is_reserved": true,
-        "vehicle_type_id": "grapefruit_electric_bike",
+        "is_reserved": false,
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": false,
-        "current_range_meters": 47863,
-        "lon": -3.6644482353648,
+        "current_range_meters": 188548,
+        "lon": -3.655840344208659,
         "bike_id": "grapefruit_MADRID001",
-        "lat": 40.434542223317706,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.45930627522676,
+        "pricing_plan_id": "grapefruit_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "grapefruit_bike",
+        "is_reserved": false,
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": true,
-        "lon": -3.7599698654446234,
+        "current_range_meters": 372038,
+        "lon": -3.632743671258869,
         "bike_id": "grapefruit_MADRID002",
-        "lat": 40.46005692214825,
-        "pricing_plan_id": "grapefruit_plan_3"
+        "lat": 40.440087565117054,
+        "pricing_plan_id": "grapefruit_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "grapefruit_bike",
-        "is_disabled": true,
-        "lon": -3.6911788519064195,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": false,
+        "current_range_meters": 36203,
+        "lon": -3.7641754276682673,
         "bike_id": "grapefruit_MADRID003",
-        "lat": 40.34528331881545,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.40054131752811,
+        "pricing_plan_id": "grapefruit_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "grapefruit_bike",
+        "is_reserved": true,
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": true,
-        "lon": -3.6574146284141533,
+        "current_range_meters": 336942,
+        "lon": -3.664426256391516,
         "bike_id": "grapefruit_MADRID004",
-        "lat": 40.37978230874475,
-        "pricing_plan_id": "grapefruit_plan_1"
+        "lat": 40.43646260807859,
+        "pricing_plan_id": "grapefruit_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "grapefruit_bike",
-        "is_disabled": true,
-        "lon": -3.7189704036511206,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": false,
+        "current_range_meters": 162670,
+        "lon": -3.6181878583073543,
         "bike_id": "grapefruit_MADRID005",
-        "lat": 40.39984116260554,
+        "lat": 40.4897379177567,
         "pricing_plan_id": "grapefruit_plan_3"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "grapefruit_bike",
-        "is_disabled": true,
-        "lon": -3.661975878244859,
+        "is_reserved": true,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": false,
+        "current_range_meters": 107701,
+        "lon": -3.705312540830878,
         "bike_id": "grapefruit_MADRID006",
-        "lat": 40.324229991661106,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.33981127903756,
+        "pricing_plan_id": "grapefruit_plan_3"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "grapefruit_electric_bike",
-        "is_disabled": false,
-        "current_range_meters": 19311,
-        "lon": -3.7360125495255008,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": true,
+        "current_range_meters": 30810,
+        "lon": -3.7861771501023735,
         "bike_id": "grapefruit_MADRID007",
-        "lat": 40.42696903825085,
+        "lat": 40.33568432129873,
         "pricing_plan_id": "grapefruit_plan_1"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "grapefruit_bike",
+        "is_reserved": true,
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": false,
-        "lon": -3.7457450245816277,
+        "current_range_meters": 194240,
+        "lon": -3.702010718064988,
         "bike_id": "grapefruit_MADRID008",
-        "lat": 40.36697180040013,
-        "pricing_plan_id": "grapefruit_plan_3"
+        "lat": 40.45311221852877,
+        "pricing_plan_id": "grapefruit_plan_1"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "grapefruit_bike",
+        "is_reserved": false,
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": false,
-        "lon": -3.7385704368073016,
+        "current_range_meters": 296231,
+        "lon": -3.672178644748607,
         "bike_id": "grapefruit_MADRID009",
-        "lat": 40.383614933766886,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.43993303597165,
+        "pricing_plan_id": "grapefruit_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "grapefruit_bike",
-        "is_disabled": false,
-        "lon": -3.6440674138308373,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": true,
+        "current_range_meters": 168059,
+        "lon": -3.6094760762683613,
         "bike_id": "grapefruit_MADRID010",
-        "lat": 40.49684371901585,
+        "lat": 40.49225851490951,
         "pricing_plan_id": "grapefruit_plan_1"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "grapefruit_bike",
-        "is_disabled": true,
-        "lon": -3.749468209668122,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": false,
+        "current_range_meters": 351434,
+        "lon": -3.7591117606108666,
         "bike_id": "grapefruit_MADRID011",
-        "lat": 40.45852350657812,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.3502381037661,
+        "pricing_plan_id": "grapefruit_plan_1"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "grapefruit_electric_bike",
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": false,
-        "current_range_meters": 6343,
-        "lon": -3.6560451959399733,
+        "current_range_meters": 177913,
+        "lon": -3.6741517678150073,
         "bike_id": "grapefruit_MADRID012",
-        "lat": 40.455154549166345,
-        "pricing_plan_id": "grapefruit_plan_3"
+        "lat": 40.4984586197712,
+        "pricing_plan_id": "grapefruit_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "grapefruit_electric_bike",
-        "is_disabled": false,
-        "current_range_meters": 74025,
-        "lon": -3.6888712749809023,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": true,
+        "current_range_meters": 96674,
+        "lon": -3.6600688367422647,
         "bike_id": "grapefruit_MADRID013",
-        "lat": 40.38005493427353,
+        "lat": 40.48212488320632,
         "pricing_plan_id": "grapefruit_plan_2"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "grapefruit_bike",
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": false,
-        "lon": -3.7441274176098522,
+        "current_range_meters": 91673,
+        "lon": -3.698380411301066,
         "bike_id": "grapefruit_MADRID014",
-        "lat": 40.38765374361516,
-        "pricing_plan_id": "grapefruit_plan_3"
+        "lat": 40.4446147836277,
+        "pricing_plan_id": "grapefruit_plan_2"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "grapefruit_bike",
-        "is_disabled": true,
-        "lon": -3.6957925873796933,
+        "is_reserved": false,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": false,
+        "current_range_meters": 360594,
+        "lon": -3.603513667257982,
         "bike_id": "grapefruit_MADRID015",
-        "lat": 40.36622471919487,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.37469900080044,
+        "pricing_plan_id": "grapefruit_plan_1"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "grapefruit_bike",
-        "is_disabled": true,
-        "lon": -3.695553828989919,
+        "is_reserved": false,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": false,
+        "current_range_meters": 57383,
+        "lon": -3.624790061632091,
         "bike_id": "grapefruit_MADRID016",
-        "lat": 40.40895724277511,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.42947304791254,
+        "pricing_plan_id": "grapefruit_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "grapefruit_electric_bike",
-        "is_disabled": true,
-        "current_range_meters": 19604,
-        "lon": -3.7723724659488673,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": false,
+        "current_range_meters": 127962,
+        "lon": -3.7328457076605512,
         "bike_id": "grapefruit_MADRID017",
-        "lat": 40.466156282075225,
-        "pricing_plan_id": "grapefruit_plan_1"
+        "lat": 40.487005698712146,
+        "pricing_plan_id": "grapefruit_plan_3"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "grapefruit_electric_bike",
-        "is_disabled": false,
-        "current_range_meters": 46288,
-        "lon": -3.783787681978568,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": true,
+        "current_range_meters": 288379,
+        "lon": -3.693706887335168,
         "bike_id": "grapefruit_MADRID018",
-        "lat": 40.3370712799399,
-        "pricing_plan_id": "grapefruit_plan_1"
+        "lat": 40.32973129230402,
+        "pricing_plan_id": "grapefruit_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "grapefruit_electric_bike",
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": true,
-        "current_range_meters": 62125,
-        "lon": -3.6279241929335884,
+        "current_range_meters": 191153,
+        "lon": -3.6169349492693272,
         "bike_id": "grapefruit_MADRID019",
-        "lat": 40.360797376385406,
+        "lat": 40.472239218425806,
         "pricing_plan_id": "grapefruit_plan_3"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "grapefruit_bike",
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": false,
-        "lon": -3.646652066646383,
+        "current_range_meters": 234961,
+        "lon": -3.6425945720509705,
         "bike_id": "grapefruit_MADRID020",
-        "lat": 40.44585279620168,
+        "lat": 40.362799938002595,
         "pricing_plan_id": "grapefruit_plan_1"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "grapefruit_bike",
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": false,
-        "lon": -3.6616907061634336,
+        "current_range_meters": 139426,
+        "lon": -3.6347113378616425,
         "bike_id": "grapefruit_MADRID021",
-        "lat": 40.31207763166841,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.454694081722586,
+        "pricing_plan_id": "grapefruit_plan_3"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "grapefruit_electric_bike",
-        "is_disabled": false,
-        "current_range_meters": 49751,
-        "lon": -3.6368200680283516,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": true,
+        "current_range_meters": 152230,
+        "lon": -3.7088719522557434,
         "bike_id": "grapefruit_MADRID022",
-        "lat": 40.34784771440725,
-        "pricing_plan_id": "grapefruit_plan_1"
+        "lat": 40.31891640211693,
+        "pricing_plan_id": "grapefruit_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "grapefruit_bike",
-        "is_disabled": false,
-        "lon": -3.64248363297219,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": true,
+        "current_range_meters": 339186,
+        "lon": -3.6619429696818546,
         "bike_id": "grapefruit_MADRID023",
-        "lat": 40.30657463574333,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.35999182009549,
+        "pricing_plan_id": "grapefruit_plan_1"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "grapefruit_bike",
-        "is_disabled": false,
-        "lon": -3.7933864283061305,
+        "is_reserved": true,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": true,
+        "current_range_meters": 229964,
+        "lon": -3.6753954627714718,
         "bike_id": "grapefruit_MADRID024",
-        "lat": 40.407206319391015,
-        "pricing_plan_id": "grapefruit_plan_1"
+        "lat": 40.408827517335524,
+        "pricing_plan_id": "grapefruit_plan_3"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "grapefruit_bike",
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": false,
-        "lon": -3.6087791283061668,
+        "current_range_meters": 243004,
+        "lon": -3.609576849804477,
         "bike_id": "grapefruit_MADRID025",
-        "lat": 40.36290726535384,
-        "pricing_plan_id": "grapefruit_plan_1"
+        "lat": 40.35987795273738,
+        "pricing_plan_id": "grapefruit_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "grapefruit_bike",
-        "is_disabled": true,
-        "lon": -3.651928575942575,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": false,
+        "current_range_meters": 43802,
+        "lon": -3.654966171678354,
         "bike_id": "grapefruit_MADRID026",
-        "lat": 40.35260195126436,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.39090620726828,
+        "pricing_plan_id": "grapefruit_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "grapefruit_bike",
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": false,
-        "lon": -3.763978450732659,
+        "current_range_meters": 63785,
+        "lon": -3.6574366332126345,
         "bike_id": "grapefruit_MADRID027",
-        "lat": 40.345720474504745,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.35146017616457,
+        "pricing_plan_id": "grapefruit_plan_3"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "grapefruit_electric_bike",
-        "is_disabled": false,
-        "current_range_meters": 15611,
-        "lon": -3.6055823763874244,
+        "is_reserved": false,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": true,
+        "current_range_meters": 396722,
+        "lon": -3.7743622603398386,
         "bike_id": "grapefruit_MADRID028",
-        "lat": 40.43081804324589,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.478617731493124,
+        "pricing_plan_id": "grapefruit_plan_3"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "grapefruit_electric_bike",
+        "is_reserved": true,
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": true,
-        "current_range_meters": 17669,
-        "lon": -3.6524790265889275,
+        "current_range_meters": 132047,
+        "lon": -3.621040667535446,
         "bike_id": "grapefruit_MADRID029",
-        "lat": 40.31437594389982,
-        "pricing_plan_id": "grapefruit_plan_1"
+        "lat": 40.32547027862658,
+        "pricing_plan_id": "grapefruit_plan_2"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "grapefruit_electric_bike",
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": false,
-        "current_range_meters": 11322,
-        "lon": -3.6415408921237216,
+        "current_range_meters": 190912,
+        "lon": -3.601911484145137,
         "bike_id": "grapefruit_MADRID030",
-        "lat": 40.41639122815533,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.465579861795824,
+        "pricing_plan_id": "grapefruit_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "grapefruit_bike",
+        "is_reserved": false,
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": true,
-        "lon": -3.675879721636441,
+        "current_range_meters": 190051,
+        "lon": -3.768563210507557,
         "bike_id": "grapefruit_MADRID031",
-        "lat": 40.329251044062495,
+        "lat": 40.43292418740466,
         "pricing_plan_id": "grapefruit_plan_3"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "grapefruit_electric_bike",
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": true,
-        "current_range_meters": 22246,
-        "lon": -3.650521403769328,
+        "current_range_meters": 268028,
+        "lon": -3.6121839065229326,
         "bike_id": "grapefruit_MADRID032",
-        "lat": 40.3155642383542,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.36157767359916,
+        "pricing_plan_id": "grapefruit_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "grapefruit_bike",
+        "is_reserved": true,
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": true,
-        "lon": -3.788838728970756,
+        "current_range_meters": 343422,
+        "lon": -3.7646288594325057,
         "bike_id": "grapefruit_MADRID033",
-        "lat": 40.45881047999821,
+        "lat": 40.443997560075466,
         "pricing_plan_id": "grapefruit_plan_3"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "grapefruit_electric_bike",
+        "is_reserved": false,
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": true,
-        "current_range_meters": 27641,
-        "lon": -3.614469337448483,
+        "current_range_meters": 380829,
+        "lon": -3.6280582639512646,
         "bike_id": "grapefruit_MADRID034",
-        "lat": 40.40659580539398,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.31993064586809,
+        "pricing_plan_id": "grapefruit_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "grapefruit_electric_bike",
-        "is_disabled": true,
-        "current_range_meters": 76831,
-        "lon": -3.7375073315612584,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": false,
+        "current_range_meters": 240922,
+        "lon": -3.6121973845647566,
         "bike_id": "grapefruit_MADRID035",
-        "lat": 40.35052282816301,
-        "pricing_plan_id": "grapefruit_plan_3"
+        "lat": 40.432223410784964,
+        "pricing_plan_id": "grapefruit_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "grapefruit_bike",
-        "is_disabled": true,
-        "lon": -3.623926809028567,
+        "is_reserved": false,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": false,
+        "current_range_meters": 24825,
+        "lon": -3.6896244661253466,
         "bike_id": "grapefruit_MADRID036",
-        "lat": 40.327706884854756,
-        "pricing_plan_id": "grapefruit_plan_1"
+        "lat": 40.406324847287365,
+        "pricing_plan_id": "grapefruit_plan_2"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "grapefruit_electric_bike",
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": false,
-        "current_range_meters": 30759,
-        "lon": -3.6087190938972333,
+        "current_range_meters": 257191,
+        "lon": -3.757130292114277,
         "bike_id": "grapefruit_MADRID037",
-        "lat": 40.387175023207995,
-        "pricing_plan_id": "grapefruit_plan_3"
+        "lat": 40.302073787167,
+        "pricing_plan_id": "grapefruit_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "grapefruit_bike",
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": false,
-        "lon": -3.6948171775008234,
+        "current_range_meters": 37244,
+        "lon": -3.620935740350107,
         "bike_id": "grapefruit_MADRID038",
-        "lat": 40.45580449848783,
-        "pricing_plan_id": "grapefruit_plan_1"
+        "lat": 40.45399908569114,
+        "pricing_plan_id": "grapefruit_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "grapefruit_bike",
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": true,
-        "lon": -3.695449257656989,
+        "current_range_meters": 97998,
+        "lon": -3.6353739536264764,
         "bike_id": "grapefruit_MADRID039",
-        "lat": 40.48280291130686,
+        "lat": 40.31505501731566,
         "pricing_plan_id": "grapefruit_plan_3"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "grapefruit_bike",
-        "is_disabled": true,
-        "lon": -3.754846844784496,
+        "is_reserved": false,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": false,
+        "current_range_meters": 247189,
+        "lon": -3.683695499237312,
         "bike_id": "grapefruit_MADRID040",
-        "lat": 40.47654772052148,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.353019005097245,
+        "pricing_plan_id": "grapefruit_plan_3"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "grapefruit_bike",
+        "is_reserved": true,
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": true,
-        "lon": -3.7030671655053244,
+        "current_range_meters": 113089,
+        "lon": -3.6126641212455364,
         "bike_id": "grapefruit_MADRID041",
-        "lat": 40.38380479503798,
-        "pricing_plan_id": "grapefruit_plan_1"
+        "lat": 40.33069554597746,
+        "pricing_plan_id": "grapefruit_plan_3"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "grapefruit_bike",
+        "is_reserved": true,
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": true,
-        "lon": -3.6935352747920245,
+        "current_range_meters": 309191,
+        "lon": -3.790111584016402,
         "bike_id": "grapefruit_MADRID042",
-        "lat": 40.471749414613285,
-        "pricing_plan_id": "grapefruit_plan_1"
+        "lat": 40.40591970638333,
+        "pricing_plan_id": "grapefruit_plan_2"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "grapefruit_electric_bike",
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": true,
-        "current_range_meters": 48017,
-        "lon": -3.732326396455731,
+        "current_range_meters": 296749,
+        "lon": -3.7832451312927433,
         "bike_id": "grapefruit_MADRID043",
-        "lat": 40.4951081928195,
-        "pricing_plan_id": "grapefruit_plan_3"
+        "lat": 40.35193234321626,
+        "pricing_plan_id": "grapefruit_plan_1"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "grapefruit_bike",
+        "is_reserved": true,
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": false,
-        "lon": -3.7372545097145666,
+        "current_range_meters": 387442,
+        "lon": -3.698303172662868,
         "bike_id": "grapefruit_MADRID044",
-        "lat": 40.43533148359981,
-        "pricing_plan_id": "grapefruit_plan_3"
+        "lat": 40.362503552148624,
+        "pricing_plan_id": "grapefruit_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "grapefruit_bike",
+        "is_reserved": false,
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": true,
-        "lon": -3.7595993671925565,
+        "current_range_meters": 363165,
+        "lon": -3.6586716603243117,
         "bike_id": "grapefruit_MADRID045",
-        "lat": 40.355625778427736,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.30272664864105,
+        "pricing_plan_id": "grapefruit_plan_3"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "grapefruit_bike",
-        "is_disabled": true,
-        "lon": -3.694337482119156,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": false,
+        "current_range_meters": 219695,
+        "lon": -3.7201087009019904,
         "bike_id": "grapefruit_MADRID046",
-        "lat": 40.49963886545209,
-        "pricing_plan_id": "grapefruit_plan_3"
+        "lat": 40.32792840480029,
+        "pricing_plan_id": "grapefruit_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "grapefruit_electric_bike",
-        "is_disabled": false,
-        "current_range_meters": 10030,
-        "lon": -3.6039939424672016,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": true,
+        "current_range_meters": 275644,
+        "lon": -3.651063250839725,
         "bike_id": "grapefruit_MADRID047",
-        "lat": 40.40327339449876,
+        "lat": 40.4382076004099,
         "pricing_plan_id": "grapefruit_plan_2"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "grapefruit_electric_bike",
+        "is_reserved": true,
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": true,
-        "current_range_meters": 22453,
-        "lon": -3.629569810967222,
+        "current_range_meters": 245634,
+        "lon": -3.75459553555839,
         "bike_id": "grapefruit_MADRID048",
-        "lat": 40.30199225114926,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.46591985226876,
+        "pricing_plan_id": "grapefruit_plan_3"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "grapefruit_bike",
-        "is_disabled": true,
-        "lon": -3.6383214153089596,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": false,
+        "current_range_meters": 351446,
+        "lon": -3.707329554090223,
         "bike_id": "grapefruit_MADRID049",
-        "lat": 40.33049930490233,
-        "pricing_plan_id": "grapefruit_plan_1"
+        "lat": 40.42882347269179,
+        "pricing_plan_id": "grapefruit_plan_3"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "grapefruit_bike",
-        "is_disabled": false,
-        "lon": -3.719141953382496,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": true,
+        "current_range_meters": 62527,
+        "lon": -3.6270693835715173,
         "bike_id": "grapefruit_MADRID050",
-        "lat": 40.42851501839318,
-        "pricing_plan_id": "grapefruit_plan_3"
+        "lat": 40.32912259486718,
+        "pricing_plan_id": "grapefruit_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "grapefruit_bike",
+        "is_reserved": false,
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": true,
-        "lon": -3.7472614127197006,
+        "current_range_meters": 19883,
+        "lon": -3.7113693017379683,
         "bike_id": "grapefruit_MADRID051",
-        "lat": 40.38688810068867,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.42007011717539,
+        "pricing_plan_id": "grapefruit_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "grapefruit_bike",
-        "is_disabled": false,
-        "lon": -3.7650940621867988,
+        "is_reserved": true,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": true,
+        "current_range_meters": 133834,
+        "lon": -3.703352420084583,
         "bike_id": "grapefruit_MADRID052",
-        "lat": 40.47599085228649,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.318028124886816,
+        "pricing_plan_id": "grapefruit_plan_3"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "grapefruit_bike",
-        "is_disabled": false,
-        "lon": -3.617670809713334,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": true,
+        "current_range_meters": 161696,
+        "lon": -3.67893569687112,
         "bike_id": "grapefruit_MADRID053",
-        "lat": 40.3181471211756,
-        "pricing_plan_id": "grapefruit_plan_1"
+        "lat": 40.36418511771568,
+        "pricing_plan_id": "grapefruit_plan_3"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "grapefruit_electric_bike",
-        "is_disabled": false,
-        "current_range_meters": 49035,
-        "lon": -3.6941450436673913,
+        "is_reserved": false,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": true,
+        "current_range_meters": 215788,
+        "lon": -3.6873491932140428,
         "bike_id": "grapefruit_MADRID054",
-        "lat": 40.39309985941199,
-        "pricing_plan_id": "grapefruit_plan_1"
+        "lat": 40.365961743902204,
+        "pricing_plan_id": "grapefruit_plan_2"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "grapefruit_electric_bike",
-        "is_disabled": false,
-        "current_range_meters": 47566,
-        "lon": -3.605723778417505,
+        "is_reserved": true,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": true,
+        "current_range_meters": 222372,
+        "lon": -3.7229973226979483,
         "bike_id": "grapefruit_MADRID055",
-        "lat": 40.484160080265866,
-        "pricing_plan_id": "grapefruit_plan_3"
+        "lat": 40.481189299614456,
+        "pricing_plan_id": "grapefruit_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "grapefruit_bike",
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": true,
-        "lon": -3.71444137021559,
+        "current_range_meters": 318368,
+        "lon": -3.6556277481670882,
         "bike_id": "grapefruit_MADRID056",
-        "lat": 40.36210389535415,
-        "pricing_plan_id": "grapefruit_plan_3"
+        "lat": 40.47828877033421,
+        "pricing_plan_id": "grapefruit_plan_2"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "grapefruit_bike",
-        "is_disabled": false,
-        "lon": -3.6244587840716624,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": true,
+        "current_range_meters": 275708,
+        "lon": -3.6736241276759283,
         "bike_id": "grapefruit_MADRID057",
-        "lat": 40.45123228204125,
-        "pricing_plan_id": "grapefruit_plan_3"
+        "lat": 40.43089515187321,
+        "pricing_plan_id": "grapefruit_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "grapefruit_bike",
-        "is_disabled": true,
-        "lon": -3.6694073847942015,
+        "is_reserved": true,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": false,
+        "current_range_meters": 285559,
+        "lon": -3.6794651596012184,
         "bike_id": "grapefruit_MADRID058",
-        "lat": 40.42924284900811,
-        "pricing_plan_id": "grapefruit_plan_3"
+        "lat": 40.31794111844929,
+        "pricing_plan_id": "grapefruit_plan_2"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "grapefruit_bike",
+        "is_reserved": false,
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": true,
-        "lon": -3.7386933877499833,
+        "current_range_meters": 160395,
+        "lon": -3.6626845392853324,
         "bike_id": "grapefruit_MADRID059",
-        "lat": 40.32203409144872,
+        "lat": 40.477679324510184,
         "pricing_plan_id": "grapefruit_plan_1"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "grapefruit_electric_bike",
-        "is_disabled": false,
-        "current_range_meters": 22458,
-        "lon": -3.6915786972036817,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": true,
+        "current_range_meters": 291838,
+        "lon": -3.6104710759487486,
         "bike_id": "grapefruit_MADRID060",
-        "lat": 40.495518313563814,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.4658285673265,
+        "pricing_plan_id": "grapefruit_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "grapefruit_electric_bike",
-        "is_disabled": true,
-        "current_range_meters": 54957,
-        "lon": -3.6044328955586216,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": false,
+        "current_range_meters": 240226,
+        "lon": -3.6063197799531013,
         "bike_id": "grapefruit_MADRID061",
-        "lat": 40.3815258172701,
-        "pricing_plan_id": "grapefruit_plan_3"
+        "lat": 40.48425465220371,
+        "pricing_plan_id": "grapefruit_plan_2"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "grapefruit_electric_bike",
-        "is_disabled": false,
-        "current_range_meters": 43987,
-        "lon": -3.7356143010558474,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": true,
+        "current_range_meters": 247433,
+        "lon": -3.722815031698897,
         "bike_id": "grapefruit_MADRID062",
-        "lat": 40.45108739643319,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.32356695123506,
+        "pricing_plan_id": "grapefruit_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "grapefruit_electric_bike",
-        "is_disabled": false,
-        "current_range_meters": 10992,
-        "lon": -3.691768867220507,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": true,
+        "current_range_meters": 113775,
+        "lon": -3.673006678140279,
         "bike_id": "grapefruit_MADRID063",
-        "lat": 40.486962057233065,
+        "lat": 40.373320358401436,
         "pricing_plan_id": "grapefruit_plan_1"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "grapefruit_electric_bike",
+        "is_reserved": false,
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": true,
-        "current_range_meters": 23329,
-        "lon": -3.705642572877478,
+        "current_range_meters": 81227,
+        "lon": -3.6099225633851475,
         "bike_id": "grapefruit_MADRID064",
-        "lat": 40.40851789214823,
-        "pricing_plan_id": "grapefruit_plan_3"
+        "lat": 40.337736131766455,
+        "pricing_plan_id": "grapefruit_plan_1"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "grapefruit_electric_bike",
+        "is_reserved": true,
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": false,
-        "current_range_meters": 67570,
-        "lon": -3.691784439995207,
+        "current_range_meters": 397764,
+        "lon": -3.6571486941439,
         "bike_id": "grapefruit_MADRID065",
-        "lat": 40.42483827228162,
-        "pricing_plan_id": "grapefruit_plan_3"
+        "lat": 40.30638899376355,
+        "pricing_plan_id": "grapefruit_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "grapefruit_bike",
-        "is_disabled": false,
-        "lon": -3.6349938537652915,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": true,
+        "current_range_meters": 319381,
+        "lon": -3.607326486784496,
         "bike_id": "grapefruit_MADRID066",
-        "lat": 40.37181334342712,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.47070645151648,
+        "pricing_plan_id": "grapefruit_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "grapefruit_electric_bike",
-        "is_disabled": true,
-        "current_range_meters": 19962,
-        "lon": -3.6937797092888998,
+        "is_reserved": false,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": false,
+        "current_range_meters": 225527,
+        "lon": -3.79203763266439,
         "bike_id": "grapefruit_MADRID067",
-        "lat": 40.40738116597638,
-        "pricing_plan_id": "grapefruit_plan_1"
+        "lat": 40.422478935684424,
+        "pricing_plan_id": "grapefruit_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "grapefruit_electric_bike",
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": true,
-        "current_range_meters": 25991,
-        "lon": -3.6686955506999754,
+        "current_range_meters": 174936,
+        "lon": -3.671592508389012,
         "bike_id": "grapefruit_MADRID068",
-        "lat": 40.3829181704444,
-        "pricing_plan_id": "grapefruit_plan_1"
+        "lat": 40.32470168448556,
+        "pricing_plan_id": "grapefruit_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "grapefruit_bike",
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": true,
-        "lon": -3.6489059963795487,
+        "current_range_meters": 139649,
+        "lon": -3.745573888970414,
         "bike_id": "grapefruit_MADRID069",
-        "lat": 40.30752164066788,
-        "pricing_plan_id": "grapefruit_plan_3"
+        "lat": 40.39654366987942,
+        "pricing_plan_id": "grapefruit_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "grapefruit_bike",
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": false,
-        "lon": -3.714323953474934,
+        "current_range_meters": 171273,
+        "lon": -3.687687491243297,
         "bike_id": "grapefruit_MADRID070",
-        "lat": 40.37543701427846,
-        "pricing_plan_id": "grapefruit_plan_3"
+        "lat": 40.33558156228578,
+        "pricing_plan_id": "grapefruit_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "grapefruit_electric_bike",
+        "is_reserved": true,
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": true,
-        "current_range_meters": 60813,
-        "lon": -3.7798089940153154,
+        "current_range_meters": 81846,
+        "lon": -3.620562340405612,
         "bike_id": "grapefruit_MADRID071",
-        "lat": 40.40094516482325,
-        "pricing_plan_id": "grapefruit_plan_1"
+        "lat": 40.474927984513144,
+        "pricing_plan_id": "grapefruit_plan_3"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "grapefruit_electric_bike",
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": true,
-        "current_range_meters": 16032,
-        "lon": -3.7119701902087026,
+        "current_range_meters": 108336,
+        "lon": -3.7380040866427415,
         "bike_id": "grapefruit_MADRID072",
-        "lat": 40.32098678701807,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.323836235830235,
+        "pricing_plan_id": "grapefruit_plan_1"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "grapefruit_bike",
+        "is_reserved": false,
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": false,
-        "lon": -3.684622508324439,
+        "current_range_meters": 270464,
+        "lon": -3.611331917259592,
         "bike_id": "grapefruit_MADRID073",
-        "lat": 40.46286896795593,
+        "lat": 40.344867248650395,
         "pricing_plan_id": "grapefruit_plan_1"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "grapefruit_bike",
-        "is_disabled": true,
-        "lon": -3.755016604975313,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": false,
+        "current_range_meters": 119085,
+        "lon": -3.764051023223732,
         "bike_id": "grapefruit_MADRID074",
-        "lat": 40.31999595273669,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.44612045197701,
+        "pricing_plan_id": "grapefruit_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "grapefruit_bike",
-        "is_disabled": true,
-        "lon": -3.748686013342904,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": false,
+        "current_range_meters": 212455,
+        "lon": -3.791851452662689,
         "bike_id": "grapefruit_MADRID075",
-        "lat": 40.414490219954125,
-        "pricing_plan_id": "grapefruit_plan_1"
+        "lat": 40.334774648629256,
+        "pricing_plan_id": "grapefruit_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "grapefruit_bike",
+        "is_reserved": true,
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": false,
-        "lon": -3.6918680875323555,
+        "current_range_meters": 259991,
+        "lon": -3.7394948065195397,
         "bike_id": "grapefruit_MADRID076",
-        "lat": 40.496090110504326,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.395575761438124,
+        "pricing_plan_id": "grapefruit_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "grapefruit_bike",
-        "is_disabled": false,
-        "lon": -3.724390084587793,
+        "is_reserved": false,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": true,
+        "current_range_meters": 366416,
+        "lon": -3.6787997092981426,
         "bike_id": "grapefruit_MADRID077",
-        "lat": 40.30159163298608,
+        "lat": 40.425112344603775,
         "pricing_plan_id": "grapefruit_plan_3"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "grapefruit_electric_bike",
-        "is_disabled": false,
-        "current_range_meters": 40126,
-        "lon": -3.724105875967938,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": true,
+        "current_range_meters": 329250,
+        "lon": -3.7880997776360585,
         "bike_id": "grapefruit_MADRID078",
-        "lat": 40.40580082731463,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.308076258878636,
+        "pricing_plan_id": "grapefruit_plan_3"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "grapefruit_bike",
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": true,
-        "lon": -3.642018033198962,
+        "current_range_meters": 109121,
+        "lon": -3.7369359502524544,
         "bike_id": "grapefruit_MADRID079",
-        "lat": 40.465680641924756,
+        "lat": 40.494962079271865,
         "pricing_plan_id": "grapefruit_plan_2"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "grapefruit_bike",
-        "is_disabled": false,
-        "lon": -3.6488550647670204,
+        "is_reserved": false,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": true,
+        "current_range_meters": 207836,
+        "lon": -3.793839570871751,
         "bike_id": "grapefruit_MADRID080",
-        "lat": 40.40186661152117,
-        "pricing_plan_id": "grapefruit_plan_3"
+        "lat": 40.43989614558594,
+        "pricing_plan_id": "grapefruit_plan_1"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "grapefruit_bike",
-        "is_disabled": true,
-        "lon": -3.6491531460538607,
+        "is_reserved": true,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": false,
+        "current_range_meters": 151102,
+        "lon": -3.6937260007877106,
         "bike_id": "grapefruit_MADRID081",
-        "lat": 40.36928532387943,
-        "pricing_plan_id": "grapefruit_plan_1"
+        "lat": 40.42156838195424,
+        "pricing_plan_id": "grapefruit_plan_2"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "grapefruit_electric_bike",
-        "is_disabled": true,
-        "current_range_meters": 53071,
-        "lon": -3.6220842103552258,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": false,
+        "current_range_meters": 38916,
+        "lon": -3.6190984103331716,
         "bike_id": "grapefruit_MADRID082",
-        "lat": 40.449265448116854,
-        "pricing_plan_id": "grapefruit_plan_1"
+        "lat": 40.376267784698285,
+        "pricing_plan_id": "grapefruit_plan_2"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "grapefruit_electric_bike",
-        "is_disabled": true,
-        "current_range_meters": 4878,
-        "lon": -3.705179673472324,
+        "is_reserved": true,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": false,
+        "current_range_meters": 95075,
+        "lon": -3.78499970912841,
         "bike_id": "grapefruit_MADRID083",
-        "lat": 40.45015307323502,
-        "pricing_plan_id": "grapefruit_plan_3"
+        "lat": 40.389319001060464,
+        "pricing_plan_id": "grapefruit_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "grapefruit_electric_bike",
-        "is_disabled": true,
-        "current_range_meters": 73995,
-        "lon": -3.7314067073833264,
+        "is_reserved": true,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": false,
+        "current_range_meters": 247607,
+        "lon": -3.76087541552409,
         "bike_id": "grapefruit_MADRID084",
-        "lat": 40.36186148765133,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.336635115744336,
+        "pricing_plan_id": "grapefruit_plan_1"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "grapefruit_bike",
-        "is_disabled": true,
-        "lon": -3.656372263214776,
+        "is_reserved": true,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": false,
+        "current_range_meters": 83759,
+        "lon": -3.752316447464815,
         "bike_id": "grapefruit_MADRID085",
-        "lat": 40.41832557233327,
+        "lat": 40.41667262834788,
         "pricing_plan_id": "grapefruit_plan_3"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "grapefruit_electric_bike",
-        "is_disabled": false,
-        "current_range_meters": 24568,
-        "lon": -3.634050301131509,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": true,
+        "current_range_meters": 300872,
+        "lon": -3.609053315252471,
         "bike_id": "grapefruit_MADRID086",
-        "lat": 40.462982286950556,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.47849219906892,
+        "pricing_plan_id": "grapefruit_plan_1"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "grapefruit_bike",
-        "is_disabled": false,
-        "lon": -3.6041629906066794,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": true,
+        "current_range_meters": 329944,
+        "lon": -3.70393754956109,
         "bike_id": "grapefruit_MADRID087",
-        "lat": 40.33843443043014,
-        "pricing_plan_id": "grapefruit_plan_1"
+        "lat": 40.355888762741415,
+        "pricing_plan_id": "grapefruit_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "grapefruit_bike",
+        "is_reserved": false,
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": true,
-        "lon": -3.601742182075176,
+        "current_range_meters": 176091,
+        "lon": -3.6342750813983393,
         "bike_id": "grapefruit_MADRID088",
-        "lat": 40.46614482813423,
-        "pricing_plan_id": "grapefruit_plan_1"
+        "lat": 40.42553751224126,
+        "pricing_plan_id": "grapefruit_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "grapefruit_electric_bike",
+        "is_reserved": true,
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": true,
-        "current_range_meters": 62203,
-        "lon": -3.6600115313000448,
+        "current_range_meters": 135249,
+        "lon": -3.792466000311014,
         "bike_id": "grapefruit_MADRID089",
-        "lat": 40.4881921871681,
-        "pricing_plan_id": "grapefruit_plan_1"
+        "lat": 40.308128860802206,
+        "pricing_plan_id": "grapefruit_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "grapefruit_bike",
-        "is_disabled": true,
-        "lon": -3.69176019206038,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": false,
+        "current_range_meters": 216686,
+        "lon": -3.719341879366938,
         "bike_id": "grapefruit_MADRID090",
-        "lat": 40.33317719228035,
-        "pricing_plan_id": "grapefruit_plan_3"
+        "lat": 40.30610510101192,
+        "pricing_plan_id": "grapefruit_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "grapefruit_electric_bike",
-        "is_disabled": false,
-        "current_range_meters": 38270,
-        "lon": -3.671111279694804,
+        "is_reserved": false,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": true,
+        "current_range_meters": 391476,
+        "lon": -3.7703061476792383,
         "bike_id": "grapefruit_MADRID091",
-        "lat": 40.49674369344278,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.38827739541112,
+        "pricing_plan_id": "grapefruit_plan_3"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "grapefruit_electric_bike",
-        "is_disabled": true,
-        "current_range_meters": 74499,
-        "lon": -3.6748734038649182,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": false,
+        "current_range_meters": 83572,
+        "lon": -3.7852338385353956,
         "bike_id": "grapefruit_MADRID092",
-        "lat": 40.354227006549,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.47371077229219,
+        "pricing_plan_id": "grapefruit_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "grapefruit_electric_bike",
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": true,
-        "current_range_meters": 75497,
-        "lon": -3.7963842709747646,
+        "current_range_meters": 358189,
+        "lon": -3.6854870825102455,
         "bike_id": "grapefruit_MADRID093",
-        "lat": 40.3721183226429,
-        "pricing_plan_id": "grapefruit_plan_1"
+        "lat": 40.397995850361134,
+        "pricing_plan_id": "grapefruit_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "grapefruit_bike",
+        "is_reserved": false,
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": false,
-        "lon": -3.751560066659733,
+        "current_range_meters": 288799,
+        "lon": -3.763165573205634,
         "bike_id": "grapefruit_MADRID094",
-        "lat": 40.38020810308124,
-        "pricing_plan_id": "grapefruit_plan_1"
+        "lat": 40.472958605688966,
+        "pricing_plan_id": "grapefruit_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "grapefruit_electric_bike",
-        "is_disabled": false,
-        "current_range_meters": 78235,
-        "lon": -3.7994700579623513,
+        "is_reserved": false,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": true,
+        "current_range_meters": 202933,
+        "lon": -3.760824692674674,
         "bike_id": "grapefruit_MADRID095",
-        "lat": 40.48219964493579,
+        "lat": 40.46601796794202,
         "pricing_plan_id": "grapefruit_plan_1"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "grapefruit_electric_bike",
+        "is_reserved": true,
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": true,
-        "current_range_meters": 29030,
-        "lon": -3.733652470728013,
+        "current_range_meters": 261369,
+        "lon": -3.6742011953331777,
         "bike_id": "grapefruit_MADRID096",
-        "lat": 40.44874562500852,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.43149762661799,
+        "pricing_plan_id": "grapefruit_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "grapefruit_electric_bike",
-        "is_disabled": false,
-        "current_range_meters": 46157,
-        "lon": -3.760138538747623,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": true,
+        "current_range_meters": 194999,
+        "lon": -3.7539864662460514,
         "bike_id": "grapefruit_MADRID097",
-        "lat": 40.36758780229478,
-        "pricing_plan_id": "grapefruit_plan_3"
+        "lat": 40.30109057406723,
+        "pricing_plan_id": "grapefruit_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "grapefruit_bike",
+        "is_reserved": false,
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": false,
-        "lon": -3.699365393227129,
+        "current_range_meters": 23247,
+        "lon": -3.6289232362507433,
         "bike_id": "grapefruit_MADRID098",
-        "lat": 40.31546824967431,
-        "pricing_plan_id": "grapefruit_plan_1"
+        "lat": 40.313333506043975,
+        "pricing_plan_id": "grapefruit_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "grapefruit_bike",
-        "is_disabled": false,
-        "lon": -3.7297549523987596,
+        "is_reserved": true,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": true,
+        "current_range_meters": 369811,
+        "lon": -3.67926205512885,
         "bike_id": "grapefruit_MADRID099",
-        "lat": 40.417442184427166,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.40045636210777,
+        "pricing_plan_id": "grapefruit_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "grapefruit_bike",
-        "is_disabled": true,
-        "lon": -3.701055829424472,
+        "is_reserved": true,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": false,
+        "current_range_meters": 312475,
+        "lon": -3.7169062056777586,
         "bike_id": "grapefruit_MADRID100",
-        "lat": 40.339329361823495,
+        "lat": 40.31234346045789,
         "pricing_plan_id": "grapefruit_plan_3"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "grapefruit_bike",
-        "is_disabled": false,
-        "lon": -3.716565742130718,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": true,
+        "current_range_meters": 303964,
+        "lon": -3.6475988143144025,
         "bike_id": "grapefruit_MADRID101",
-        "lat": 40.34568478476069,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.45618403089872,
+        "pricing_plan_id": "grapefruit_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "grapefruit_electric_bike",
+        "is_reserved": false,
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": false,
-        "current_range_meters": 46663,
-        "lon": -3.6095563330134093,
+        "current_range_meters": 288492,
+        "lon": -3.769093189173178,
         "bike_id": "grapefruit_MADRID102",
-        "lat": 40.42281714520217,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.43969670113569,
+        "pricing_plan_id": "grapefruit_plan_3"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "grapefruit_electric_bike",
-        "is_disabled": false,
-        "current_range_meters": 33477,
-        "lon": -3.6837361881902377,
+        "is_reserved": false,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": true,
+        "current_range_meters": 53152,
+        "lon": -3.772976743687297,
         "bike_id": "grapefruit_MADRID103",
-        "lat": 40.38340464398042,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.30942142276859,
+        "pricing_plan_id": "grapefruit_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "grapefruit_bike",
-        "is_disabled": false,
-        "lon": -3.6602161748351802,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": true,
+        "current_range_meters": 131988,
+        "lon": -3.7297923998591305,
         "bike_id": "grapefruit_MADRID104",
-        "lat": 40.3421008676303,
-        "pricing_plan_id": "grapefruit_plan_1"
+        "lat": 40.44805598592956,
+        "pricing_plan_id": "grapefruit_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "grapefruit_bike",
-        "is_disabled": true,
-        "lon": -3.647018050205345,
+        "is_reserved": false,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": false,
+        "current_range_meters": 227443,
+        "lon": -3.633089144202342,
         "bike_id": "grapefruit_MADRID105",
-        "lat": 40.41472402385046,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.490850147339536,
+        "pricing_plan_id": "grapefruit_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "grapefruit_electric_bike",
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": false,
-        "current_range_meters": 5484,
-        "lon": -3.7925413523241898,
+        "current_range_meters": 37068,
+        "lon": -3.637455047628193,
         "bike_id": "grapefruit_MADRID106",
-        "lat": 40.43623287184086,
+        "lat": 40.31256060001727,
         "pricing_plan_id": "grapefruit_plan_3"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "grapefruit_bike",
+        "is_reserved": false,
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": false,
-        "lon": -3.783716417594033,
+        "current_range_meters": 20375,
+        "lon": -3.652555760103177,
         "bike_id": "grapefruit_MADRID107",
-        "lat": 40.45153574953071,
-        "pricing_plan_id": "grapefruit_plan_3"
+        "lat": 40.441950244612144,
+        "pricing_plan_id": "grapefruit_plan_1"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "grapefruit_bike",
-        "is_disabled": true,
-        "lon": -3.6740316256637553,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": false,
+        "current_range_meters": 130920,
+        "lon": -3.787595453276299,
         "bike_id": "grapefruit_MADRID108",
-        "lat": 40.46401009755445,
+        "lat": 40.367925295168774,
         "pricing_plan_id": "grapefruit_plan_3"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "grapefruit_bike",
-        "is_disabled": true,
-        "lon": -3.64699636656845,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": false,
+        "current_range_meters": 341964,
+        "lon": -3.698891486825337,
         "bike_id": "grapefruit_MADRID109",
-        "lat": 40.33065281651553,
-        "pricing_plan_id": "grapefruit_plan_3"
+        "lat": 40.38946126522524,
+        "pricing_plan_id": "grapefruit_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "grapefruit_electric_bike",
+        "is_reserved": false,
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": true,
-        "current_range_meters": 71659,
-        "lon": -3.760175664727344,
+        "current_range_meters": 388739,
+        "lon": -3.7244741225406752,
         "bike_id": "grapefruit_MADRID110",
-        "lat": 40.394692948176456,
-        "pricing_plan_id": "grapefruit_plan_3"
+        "lat": 40.48741636581593,
+        "pricing_plan_id": "grapefruit_plan_2"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "grapefruit_bike",
-        "is_disabled": false,
-        "lon": -3.6282994222859206,
+        "is_reserved": true,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": true,
+        "current_range_meters": 276384,
+        "lon": -3.7059280353478354,
         "bike_id": "grapefruit_MADRID111",
-        "lat": 40.39435247283265,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.31359713635179,
+        "pricing_plan_id": "grapefruit_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "grapefruit_bike",
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": true,
-        "lon": -3.789165002179261,
+        "current_range_meters": 282422,
+        "lon": -3.602163960359516,
         "bike_id": "grapefruit_MADRID112",
-        "lat": 40.43245831022423,
-        "pricing_plan_id": "grapefruit_plan_1"
+        "lat": 40.4284925843442,
+        "pricing_plan_id": "grapefruit_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "grapefruit_bike",
+        "is_reserved": true,
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": true,
-        "lon": -3.6882906632123844,
+        "current_range_meters": 211268,
+        "lon": -3.6364555206713147,
         "bike_id": "grapefruit_MADRID113",
-        "lat": 40.43724059824825,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.44370641206223,
+        "pricing_plan_id": "grapefruit_plan_3"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "grapefruit_electric_bike",
-        "is_disabled": false,
-        "current_range_meters": 47686,
-        "lon": -3.7149254537616736,
+        "is_reserved": true,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": true,
+        "current_range_meters": 122603,
+        "lon": -3.776413719157334,
         "bike_id": "grapefruit_MADRID114",
-        "lat": 40.343307332351856,
-        "pricing_plan_id": "grapefruit_plan_3"
+        "lat": 40.397658282070125,
+        "pricing_plan_id": "grapefruit_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "grapefruit_electric_bike",
-        "is_disabled": true,
-        "current_range_meters": 41941,
-        "lon": -3.649064256029691,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": false,
+        "current_range_meters": 125066,
+        "lon": -3.6950078950398146,
         "bike_id": "grapefruit_MADRID115",
-        "lat": 40.30881007255813,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.383362630466635,
+        "pricing_plan_id": "grapefruit_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "grapefruit_electric_bike",
-        "is_disabled": true,
-        "current_range_meters": 43433,
-        "lon": -3.639747076201612,
+        "is_reserved": false,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": false,
+        "current_range_meters": 51512,
+        "lon": -3.676740834629617,
         "bike_id": "grapefruit_MADRID116",
-        "lat": 40.437483055357994,
-        "pricing_plan_id": "grapefruit_plan_3"
+        "lat": 40.480326235977145,
+        "pricing_plan_id": "grapefruit_plan_2"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "grapefruit_bike",
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": false,
-        "lon": -3.6992224032661367,
+        "current_range_meters": 90222,
+        "lon": -3.641827668001717,
         "bike_id": "grapefruit_MADRID117",
-        "lat": 40.43311508174674,
-        "pricing_plan_id": "grapefruit_plan_1"
+        "lat": 40.32614133766106,
+        "pricing_plan_id": "grapefruit_plan_3"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "grapefruit_electric_bike",
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": false,
-        "current_range_meters": 72827,
-        "lon": -3.7110591604869554,
+        "current_range_meters": 196585,
+        "lon": -3.6882326094812345,
         "bike_id": "grapefruit_MADRID118",
-        "lat": 40.395795834827496,
-        "pricing_plan_id": "grapefruit_plan_3"
+        "lat": 40.30761171065686,
+        "pricing_plan_id": "grapefruit_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "grapefruit_bike",
-        "is_disabled": true,
-        "lon": -3.7936981473120834,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": false,
+        "current_range_meters": 380304,
+        "lon": -3.638353668811475,
         "bike_id": "grapefruit_MADRID119",
-        "lat": 40.38050661003323,
-        "pricing_plan_id": "grapefruit_plan_3"
+        "lat": 40.405036790468465,
+        "pricing_plan_id": "grapefruit_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "grapefruit_bike",
+        "is_reserved": true,
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": false,
-        "lon": -3.645757567000394,
+        "current_range_meters": 105150,
+        "lon": -3.703790046466395,
         "bike_id": "grapefruit_MADRID120",
-        "lat": 40.3009933351588,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.498984175296414,
+        "pricing_plan_id": "grapefruit_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "grapefruit_electric_bike",
+        "is_reserved": true,
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": false,
-        "current_range_meters": 69751,
-        "lon": -3.721634913813523,
+        "current_range_meters": 19674,
+        "lon": -3.780697926780458,
         "bike_id": "grapefruit_MADRID121",
-        "lat": 40.48038462965828,
-        "pricing_plan_id": "grapefruit_plan_1"
+        "lat": 40.31966225900538,
+        "pricing_plan_id": "grapefruit_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "grapefruit_bike",
-        "is_disabled": false,
-        "lon": -3.7014008525742126,
+        "is_reserved": false,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": true,
+        "current_range_meters": 168526,
+        "lon": -3.6335672666166197,
         "bike_id": "grapefruit_MADRID122",
-        "lat": 40.473894114835474,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.426222639991444,
+        "pricing_plan_id": "grapefruit_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "grapefruit_bike",
-        "is_disabled": true,
-        "lon": -3.6269736331397855,
+        "is_reserved": true,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": false,
+        "current_range_meters": 34788,
+        "lon": -3.6175061820386625,
         "bike_id": "grapefruit_MADRID123",
-        "lat": 40.33099157262251,
-        "pricing_plan_id": "grapefruit_plan_1"
+        "lat": 40.3187587162357,
+        "pricing_plan_id": "grapefruit_plan_2"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "grapefruit_bike",
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": false,
-        "lon": -3.781467500711808,
+        "current_range_meters": 165911,
+        "lon": -3.7570705932661457,
         "bike_id": "grapefruit_MADRID124",
-        "lat": 40.37232307875977,
+        "lat": 40.42941174682371,
         "pricing_plan_id": "grapefruit_plan_3"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "grapefruit_electric_bike",
-        "is_disabled": false,
-        "current_range_meters": 25130,
-        "lon": -3.6307769833461503,
+        "is_reserved": true,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": true,
+        "current_range_meters": 64114,
+        "lon": -3.6786982225125326,
         "bike_id": "grapefruit_MADRID125",
-        "lat": 40.47721470467635,
+        "lat": 40.35942786923383,
         "pricing_plan_id": "grapefruit_plan_1"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "grapefruit_bike",
-        "is_disabled": true,
-        "lon": -3.6089429321815083,
+        "is_reserved": true,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": false,
+        "current_range_meters": 127314,
+        "lon": -3.6370906620434,
         "bike_id": "grapefruit_MADRID126",
-        "lat": 40.4773771466784,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.30966181741822,
+        "pricing_plan_id": "grapefruit_plan_1"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "grapefruit_electric_bike",
-        "is_disabled": true,
-        "current_range_meters": 6539,
-        "lon": -3.6429362680515944,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": false,
+        "current_range_meters": 328630,
+        "lon": -3.7976017029234166,
         "bike_id": "grapefruit_MADRID127",
-        "lat": 40.40551072664426,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.31285217211217,
+        "pricing_plan_id": "grapefruit_plan_3"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "grapefruit_bike",
-        "is_disabled": true,
-        "lon": -3.6922984935265606,
+        "is_reserved": true,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": false,
+        "current_range_meters": 60967,
+        "lon": -3.780026831837712,
         "bike_id": "grapefruit_MADRID128",
-        "lat": 40.47241841178386,
-        "pricing_plan_id": "grapefruit_plan_3"
+        "lat": 40.49634480193809,
+        "pricing_plan_id": "grapefruit_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "grapefruit_bike",
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": false,
-        "lon": -3.7024594492464273,
+        "current_range_meters": 187031,
+        "lon": -3.636042974687965,
         "bike_id": "grapefruit_MADRID129",
-        "lat": 40.42215908990831,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.49863714276105,
+        "pricing_plan_id": "grapefruit_plan_3"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "grapefruit_electric_bike",
-        "is_disabled": false,
-        "current_range_meters": 55284,
-        "lon": -3.7147629241722084,
+        "is_reserved": false,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": true,
+        "current_range_meters": 91211,
+        "lon": -3.6052814663855757,
         "bike_id": "grapefruit_MADRID130",
-        "lat": 40.32252020080258,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.40004213378793,
+        "pricing_plan_id": "grapefruit_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "grapefruit_bike",
-        "is_disabled": false,
-        "lon": -3.6978378696180427,
+        "is_reserved": false,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": true,
+        "current_range_meters": 222397,
+        "lon": -3.724533447662394,
         "bike_id": "grapefruit_MADRID131",
-        "lat": 40.49121129779988,
-        "pricing_plan_id": "grapefruit_plan_1"
+        "lat": 40.48150487544721,
+        "pricing_plan_id": "grapefruit_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "grapefruit_electric_bike",
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": false,
-        "current_range_meters": 48967,
-        "lon": -3.704036907307424,
+        "current_range_meters": 291841,
+        "lon": -3.6926814083222617,
         "bike_id": "grapefruit_MADRID132",
-        "lat": 40.473120421563806,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.31785773718801,
+        "pricing_plan_id": "grapefruit_plan_3"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "grapefruit_electric_bike",
-        "is_disabled": true,
-        "current_range_meters": 45789,
-        "lon": -3.6764845452162,
+        "is_reserved": true,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": false,
+        "current_range_meters": 111752,
+        "lon": -3.6216570455984733,
         "bike_id": "grapefruit_MADRID133",
-        "lat": 40.3608801612344,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.49570323171763,
+        "pricing_plan_id": "grapefruit_plan_3"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "grapefruit_electric_bike",
+        "is_reserved": false,
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": false,
-        "current_range_meters": 25859,
-        "lon": -3.626579170324433,
+        "current_range_meters": 80116,
+        "lon": -3.6111298704558012,
         "bike_id": "grapefruit_MADRID134",
-        "lat": 40.49078496145083,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.44764291022918,
+        "pricing_plan_id": "grapefruit_plan_3"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "grapefruit_electric_bike",
-        "is_disabled": true,
-        "current_range_meters": 74758,
-        "lon": -3.6854325077574615,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": false,
+        "current_range_meters": 400316,
+        "lon": -3.6513654928951422,
         "bike_id": "grapefruit_MADRID135",
-        "lat": 40.45665423128488,
-        "pricing_plan_id": "grapefruit_plan_1"
+        "lat": 40.33061694799273,
+        "pricing_plan_id": "grapefruit_plan_2"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "grapefruit_electric_bike",
-        "is_disabled": true,
-        "current_range_meters": 22070,
-        "lon": -3.681200098252143,
+        "is_reserved": true,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": false,
+        "current_range_meters": 339007,
+        "lon": -3.728084294647971,
         "bike_id": "grapefruit_MADRID136",
-        "lat": 40.46334003654157,
-        "pricing_plan_id": "grapefruit_plan_3"
+        "lat": 40.32501680643938,
+        "pricing_plan_id": "grapefruit_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "grapefruit_electric_bike",
-        "is_disabled": true,
-        "current_range_meters": 37719,
-        "lon": -3.7970741217994153,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": false,
+        "current_range_meters": 150763,
+        "lon": -3.6767410646852894,
         "bike_id": "grapefruit_MADRID137",
-        "lat": 40.37257421790118,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.43774646892365,
+        "pricing_plan_id": "grapefruit_plan_3"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "grapefruit_electric_bike",
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": false,
-        "current_range_meters": 74825,
-        "lon": -3.7069256173478333,
+        "current_range_meters": 374726,
+        "lon": -3.776548235033185,
         "bike_id": "grapefruit_MADRID138",
-        "lat": 40.382430248719,
-        "pricing_plan_id": "grapefruit_plan_3"
+        "lat": 40.44548030558624,
+        "pricing_plan_id": "grapefruit_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "grapefruit_electric_bike",
-        "is_disabled": true,
-        "current_range_meters": 73511,
-        "lon": -3.6134143522306106,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": false,
+        "current_range_meters": 36287,
+        "lon": -3.655882708131009,
         "bike_id": "grapefruit_MADRID139",
-        "lat": 40.483844089483874,
+        "lat": 40.442151711303254,
         "pricing_plan_id": "grapefruit_plan_1"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "grapefruit_electric_bike",
+        "is_reserved": false,
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": false,
-        "current_range_meters": 70760,
-        "lon": -3.6789771663813475,
+        "current_range_meters": 248644,
+        "lon": -3.7669885249188066,
         "bike_id": "grapefruit_MADRID140",
-        "lat": 40.39491245309206,
-        "pricing_plan_id": "grapefruit_plan_1"
+        "lat": 40.43766917303183,
+        "pricing_plan_id": "grapefruit_plan_2"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "grapefruit_bike",
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": false,
-        "lon": -3.7482012758096266,
+        "current_range_meters": 139137,
+        "lon": -3.751278780726497,
         "bike_id": "grapefruit_MADRID141",
-        "lat": 40.37203727358389,
+        "lat": 40.46396250032976,
         "pricing_plan_id": "grapefruit_plan_3"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "grapefruit_bike",
-        "is_disabled": false,
-        "lon": -3.619592713472743,
+        "is_reserved": true,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": true,
+        "current_range_meters": 36369,
+        "lon": -3.613247210487547,
         "bike_id": "grapefruit_MADRID142",
-        "lat": 40.387314691979455,
+        "lat": 40.36775820165587,
         "pricing_plan_id": "grapefruit_plan_3"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "grapefruit_bike",
+        "is_reserved": true,
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": true,
-        "lon": -3.6295936546971714,
+        "current_range_meters": 69786,
+        "lon": -3.6390898778839094,
         "bike_id": "grapefruit_MADRID143",
-        "lat": 40.39216242311363,
-        "pricing_plan_id": "grapefruit_plan_3"
+        "lat": 40.49658000201214,
+        "pricing_plan_id": "grapefruit_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "grapefruit_electric_bike",
-        "is_disabled": false,
-        "current_range_meters": 31378,
-        "lon": -3.7969172775851585,
+        "is_reserved": true,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": true,
+        "current_range_meters": 185616,
+        "lon": -3.66579055530068,
         "bike_id": "grapefruit_MADRID144",
-        "lat": 40.342900452974824,
-        "pricing_plan_id": "grapefruit_plan_3"
+        "lat": 40.474718553435835,
+        "pricing_plan_id": "grapefruit_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "grapefruit_bike",
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": true,
-        "lon": -3.735714687751798,
+        "current_range_meters": 37862,
+        "lon": -3.7092957182113935,
         "bike_id": "grapefruit_MADRID145",
-        "lat": 40.435192226981805,
+        "lat": 40.332304150009655,
         "pricing_plan_id": "grapefruit_plan_2"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "grapefruit_electric_bike",
-        "is_disabled": true,
-        "current_range_meters": 63947,
-        "lon": -3.657135300085274,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": false,
+        "current_range_meters": 234675,
+        "lon": -3.768579851563581,
         "bike_id": "grapefruit_MADRID146",
-        "lat": 40.31449846021069,
-        "pricing_plan_id": "grapefruit_plan_3"
+        "lat": 40.447679329584226,
+        "pricing_plan_id": "grapefruit_plan_1"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "grapefruit_bike",
+        "is_reserved": false,
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": true,
-        "lon": -3.6888841664898684,
+        "current_range_meters": 401184,
+        "lon": -3.7411529510329076,
         "bike_id": "grapefruit_MADRID147",
-        "lat": 40.318063663943015,
-        "pricing_plan_id": "grapefruit_plan_1"
+        "lat": 40.37351676640685,
+        "pricing_plan_id": "grapefruit_plan_3"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "grapefruit_electric_bike",
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": false,
-        "current_range_meters": 38419,
-        "lon": -3.663787588669166,
+        "current_range_meters": 398892,
+        "lon": -3.6678901955653664,
         "bike_id": "grapefruit_MADRID148",
-        "lat": 40.46884962488892,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.38680854701142,
+        "pricing_plan_id": "grapefruit_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "grapefruit_electric_bike",
+        "is_reserved": true,
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": true,
-        "current_range_meters": 47887,
-        "lon": -3.6526689600730586,
+        "current_range_meters": 166766,
+        "lon": -3.7697332088135984,
         "bike_id": "grapefruit_MADRID149",
-        "lat": 40.4700652234122,
-        "pricing_plan_id": "grapefruit_plan_3"
+        "lat": 40.384048652535526,
+        "pricing_plan_id": "grapefruit_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "grapefruit_electric_bike",
+        "is_reserved": true,
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": true,
-        "current_range_meters": 57468,
-        "lon": -3.6276426100324772,
+        "current_range_meters": 286784,
+        "lon": -3.7773487029896464,
         "bike_id": "grapefruit_MADRID150",
-        "lat": 40.39634750834353,
-        "pricing_plan_id": "grapefruit_plan_3"
+        "lat": 40.35529168417286,
+        "pricing_plan_id": "grapefruit_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "grapefruit_bike",
-        "is_disabled": false,
-        "lon": -3.7950183383780653,
+        "is_reserved": true,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": true,
+        "current_range_meters": 361273,
+        "lon": -3.676705044391088,
         "bike_id": "grapefruit_MADRID151",
-        "lat": 40.40052354472964,
-        "pricing_plan_id": "grapefruit_plan_3"
+        "lat": 40.402406667778045,
+        "pricing_plan_id": "grapefruit_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "grapefruit_bike",
+        "is_reserved": false,
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": false,
-        "lon": -3.781247959481617,
+        "current_range_meters": 53385,
+        "lon": -3.752492387450166,
         "bike_id": "grapefruit_MADRID152",
-        "lat": 40.4452941387392,
-        "pricing_plan_id": "grapefruit_plan_3"
+        "lat": 40.49015518412997,
+        "pricing_plan_id": "grapefruit_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "grapefruit_electric_bike",
-        "is_disabled": true,
-        "current_range_meters": 10785,
-        "lon": -3.7644503309577004,
+        "is_reserved": true,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": false,
+        "current_range_meters": 249336,
+        "lon": -3.7996064733559867,
         "bike_id": "grapefruit_MADRID153",
-        "lat": 40.4597712663288,
-        "pricing_plan_id": "grapefruit_plan_3"
+        "lat": 40.403204521548034,
+        "pricing_plan_id": "grapefruit_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "grapefruit_bike",
-        "is_disabled": true,
-        "lon": -3.780916090442606,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": false,
+        "current_range_meters": 290888,
+        "lon": -3.6438129122851963,
         "bike_id": "grapefruit_MADRID154",
-        "lat": 40.39700062395019,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.4424905823999,
+        "pricing_plan_id": "grapefruit_plan_3"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "grapefruit_electric_bike",
-        "is_disabled": false,
-        "current_range_meters": 18663,
-        "lon": -3.746174094246091,
+        "is_reserved": false,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": true,
+        "current_range_meters": 176875,
+        "lon": -3.7756194624473136,
         "bike_id": "grapefruit_MADRID155",
-        "lat": 40.486394375022186,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.418123256210635,
+        "pricing_plan_id": "grapefruit_plan_3"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "grapefruit_electric_bike",
-        "is_disabled": true,
-        "current_range_meters": 50127,
-        "lon": -3.627302871511986,
+        "is_reserved": true,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": false,
+        "current_range_meters": 279093,
+        "lon": -3.6074902217893263,
         "bike_id": "grapefruit_MADRID156",
-        "lat": 40.43550388304486,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.452340407119834,
+        "pricing_plan_id": "grapefruit_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "grapefruit_bike",
+        "is_reserved": true,
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": false,
-        "lon": -3.624452734957983,
+        "current_range_meters": 89486,
+        "lon": -3.6446701063193294,
         "bike_id": "grapefruit_MADRID157",
-        "lat": 40.4758665050229,
-        "pricing_plan_id": "grapefruit_plan_1"
+        "lat": 40.341345277780654,
+        "pricing_plan_id": "grapefruit_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "grapefruit_bike",
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": true,
-        "lon": -3.6801598927166372,
+        "current_range_meters": 230740,
+        "lon": -3.6701245514605385,
         "bike_id": "grapefruit_MADRID158",
-        "lat": 40.37755868384538,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.40999205223024,
+        "pricing_plan_id": "grapefruit_plan_1"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "grapefruit_bike",
-        "is_disabled": false,
-        "lon": -3.636077307336317,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": true,
+        "current_range_meters": 217810,
+        "lon": -3.7182817575394242,
         "bike_id": "grapefruit_MADRID159",
-        "lat": 40.4777514919594,
+        "lat": 40.49060394756233,
         "pricing_plan_id": "grapefruit_plan_1"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "grapefruit_bike",
-        "is_disabled": false,
-        "lon": -3.6040770902836474,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": true,
+        "current_range_meters": 168469,
+        "lon": -3.6144357462915697,
         "bike_id": "grapefruit_MADRID160",
-        "lat": 40.46641034417032,
-        "pricing_plan_id": "grapefruit_plan_1"
+        "lat": 40.4341985663086,
+        "pricing_plan_id": "grapefruit_plan_2"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "grapefruit_electric_bike",
-        "is_disabled": false,
-        "current_range_meters": 21306,
-        "lon": -3.747399345582959,
+        "is_reserved": false,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": true,
+        "current_range_meters": 242739,
+        "lon": -3.6701191323281988,
         "bike_id": "grapefruit_MADRID161",
-        "lat": 40.31801774815782,
+        "lat": 40.48333993866784,
         "pricing_plan_id": "grapefruit_plan_1"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "grapefruit_electric_bike",
-        "is_disabled": true,
-        "current_range_meters": 21768,
-        "lon": -3.693055565923949,
+        "is_reserved": true,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": false,
+        "current_range_meters": 196888,
+        "lon": -3.708165669105875,
         "bike_id": "grapefruit_MADRID162",
-        "lat": 40.34252850789191,
-        "pricing_plan_id": "grapefruit_plan_1"
+        "lat": 40.320038516239805,
+        "pricing_plan_id": "grapefruit_plan_2"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "grapefruit_bike",
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": true,
-        "lon": -3.6627527008218688,
+        "current_range_meters": 98646,
+        "lon": -3.676072431398743,
         "bike_id": "grapefruit_MADRID163",
-        "lat": 40.44473876925453,
-        "pricing_plan_id": "grapefruit_plan_3"
+        "lat": 40.44315095224041,
+        "pricing_plan_id": "grapefruit_plan_2"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "grapefruit_electric_bike",
+        "is_reserved": true,
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": true,
-        "current_range_meters": 70498,
-        "lon": -3.625590996001531,
+        "current_range_meters": 168571,
+        "lon": -3.6037223993428587,
         "bike_id": "grapefruit_MADRID164",
-        "lat": 40.3991313757664,
-        "pricing_plan_id": "grapefruit_plan_3"
+        "lat": 40.326498337381025,
+        "pricing_plan_id": "grapefruit_plan_2"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "grapefruit_electric_bike",
-        "is_disabled": false,
-        "current_range_meters": 6770,
-        "lon": -3.703198677804739,
+        "is_reserved": true,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": true,
+        "current_range_meters": 173252,
+        "lon": -3.6899082853150413,
         "bike_id": "grapefruit_MADRID165",
-        "lat": 40.34309115760874,
+        "lat": 40.365583105439214,
         "pricing_plan_id": "grapefruit_plan_1"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "grapefruit_electric_bike",
-        "is_disabled": true,
-        "current_range_meters": 34693,
-        "lon": -3.644570428873319,
+        "is_reserved": true,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": false,
+        "current_range_meters": 197521,
+        "lon": -3.7412496181720605,
         "bike_id": "grapefruit_MADRID166",
-        "lat": 40.44413387619106,
+        "lat": 40.42879309582489,
         "pricing_plan_id": "grapefruit_plan_2"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "grapefruit_electric_bike",
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": false,
-        "current_range_meters": 52897,
-        "lon": -3.670643118676376,
+        "current_range_meters": 236091,
+        "lon": -3.6082017379710107,
         "bike_id": "grapefruit_MADRID167",
-        "lat": 40.315525983166125,
-        "pricing_plan_id": "grapefruit_plan_3"
+        "lat": 40.35078614364301,
+        "pricing_plan_id": "grapefruit_plan_1"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "grapefruit_bike",
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": false,
-        "lon": -3.6673368252825678,
+        "current_range_meters": 263921,
+        "lon": -3.7769700023606916,
         "bike_id": "grapefruit_MADRID168",
-        "lat": 40.321783995832426,
-        "pricing_plan_id": "grapefruit_plan_1"
+        "lat": 40.43594276721474,
+        "pricing_plan_id": "grapefruit_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "grapefruit_bike",
-        "is_disabled": true,
-        "lon": -3.6342262014383886,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": false,
+        "current_range_meters": 135463,
+        "lon": -3.688077057234863,
         "bike_id": "grapefruit_MADRID169",
-        "lat": 40.49131798013651,
-        "pricing_plan_id": "grapefruit_plan_1"
+        "lat": 40.42571024014419,
+        "pricing_plan_id": "grapefruit_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "grapefruit_electric_bike",
-        "is_disabled": false,
-        "current_range_meters": 9707,
-        "lon": -3.732315280751827,
+        "is_reserved": true,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": true,
+        "current_range_meters": 152424,
+        "lon": -3.600392544362533,
         "bike_id": "grapefruit_MADRID170",
-        "lat": 40.32444090225237,
-        "pricing_plan_id": "grapefruit_plan_3"
+        "lat": 40.443824109112946,
+        "pricing_plan_id": "grapefruit_plan_1"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "grapefruit_electric_bike",
-        "is_disabled": true,
-        "current_range_meters": 37159,
-        "lon": -3.685132179328272,
+        "is_reserved": false,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": false,
+        "current_range_meters": 85516,
+        "lon": -3.62521752705637,
         "bike_id": "grapefruit_MADRID171",
-        "lat": 40.49400988901425,
-        "pricing_plan_id": "grapefruit_plan_1"
+        "lat": 40.31805554454681,
+        "pricing_plan_id": "grapefruit_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "grapefruit_electric_bike",
-        "is_disabled": true,
-        "current_range_meters": 12290,
-        "lon": -3.603821467622874,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": false,
+        "current_range_meters": 42444,
+        "lon": -3.701220496742453,
         "bike_id": "grapefruit_MADRID172",
-        "lat": 40.309421612726446,
-        "pricing_plan_id": "grapefruit_plan_1"
+        "lat": 40.472080469057786,
+        "pricing_plan_id": "grapefruit_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "grapefruit_electric_bike",
+        "is_reserved": false,
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": true,
-        "current_range_meters": 11108,
-        "lon": -3.7521163720213555,
+        "current_range_meters": 330622,
+        "lon": -3.7790225934579063,
         "bike_id": "grapefruit_MADRID173",
-        "lat": 40.38653421448422,
+        "lat": 40.36141649211725,
         "pricing_plan_id": "grapefruit_plan_3"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "grapefruit_electric_bike",
+        "is_reserved": false,
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": true,
-        "current_range_meters": 18857,
-        "lon": -3.7969889235489718,
+        "current_range_meters": 29214,
+        "lon": -3.6868529466553137,
         "bike_id": "grapefruit_MADRID174",
-        "lat": 40.491404265803425,
-        "pricing_plan_id": "grapefruit_plan_3"
+        "lat": 40.3247767403369,
+        "pricing_plan_id": "grapefruit_plan_1"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "grapefruit_electric_bike",
+        "is_reserved": true,
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": true,
-        "current_range_meters": 50885,
-        "lon": -3.787198856497405,
+        "current_range_meters": 172175,
+        "lon": -3.6074369196394143,
         "bike_id": "grapefruit_MADRID175",
-        "lat": 40.386849058593754,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.374937042611,
+        "pricing_plan_id": "grapefruit_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "grapefruit_bike",
-        "is_disabled": true,
-        "lon": -3.7786965562983994,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": false,
+        "current_range_meters": 224538,
+        "lon": -3.6559196875495905,
         "bike_id": "grapefruit_MADRID176",
-        "lat": 40.323335976930956,
+        "lat": 40.465041245827784,
         "pricing_plan_id": "grapefruit_plan_1"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "grapefruit_bike",
-        "is_disabled": true,
-        "lon": -3.662285195291976,
+        "is_reserved": true,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": false,
+        "current_range_meters": 74164,
+        "lon": -3.7159672961942656,
         "bike_id": "grapefruit_MADRID177",
-        "lat": 40.450146960854006,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.30588037191681,
+        "pricing_plan_id": "grapefruit_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "grapefruit_bike",
-        "is_disabled": true,
-        "lon": -3.794543382948259,
+        "is_reserved": true,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": false,
+        "current_range_meters": 206669,
+        "lon": -3.608379575805892,
         "bike_id": "grapefruit_MADRID178",
-        "lat": 40.45765760417848,
-        "pricing_plan_id": "grapefruit_plan_3"
+        "lat": 40.43927407467392,
+        "pricing_plan_id": "grapefruit_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "grapefruit_electric_bike",
-        "is_disabled": false,
-        "current_range_meters": 22079,
-        "lon": -3.725392506432619,
+        "is_reserved": false,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": true,
+        "current_range_meters": 113876,
+        "lon": -3.6632322565949216,
         "bike_id": "grapefruit_MADRID179",
-        "lat": 40.316668371890664,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.30001272119656,
+        "pricing_plan_id": "grapefruit_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "grapefruit_electric_bike",
-        "is_disabled": true,
-        "current_range_meters": 64416,
-        "lon": -3.6907695372283236,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": false,
+        "current_range_meters": 255012,
+        "lon": -3.658777661391209,
         "bike_id": "grapefruit_MADRID180",
-        "lat": 40.42437291800662,
-        "pricing_plan_id": "grapefruit_plan_3"
+        "lat": 40.30357989960365,
+        "pricing_plan_id": "grapefruit_plan_2"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "grapefruit_electric_bike",
+        "is_reserved": false,
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": true,
-        "current_range_meters": 57876,
-        "lon": -3.6898780061412872,
+        "current_range_meters": 163886,
+        "lon": -3.737922618270118,
         "bike_id": "grapefruit_MADRID181",
-        "lat": 40.42142365633159,
-        "pricing_plan_id": "grapefruit_plan_1"
+        "lat": 40.38842622179358,
+        "pricing_plan_id": "grapefruit_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "grapefruit_electric_bike",
+        "is_reserved": true,
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": true,
-        "current_range_meters": 35576,
-        "lon": -3.610135394409407,
+        "current_range_meters": 95948,
+        "lon": -3.64110001971941,
         "bike_id": "grapefruit_MADRID182",
-        "lat": 40.44377900570955,
-        "pricing_plan_id": "grapefruit_plan_1"
+        "lat": 40.3612850422473,
+        "pricing_plan_id": "grapefruit_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "grapefruit_bike",
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": false,
-        "lon": -3.6367664237141173,
+        "current_range_meters": 314950,
+        "lon": -3.7275313379255395,
         "bike_id": "grapefruit_MADRID183",
-        "lat": 40.369387870399926,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.3818249280782,
+        "pricing_plan_id": "grapefruit_plan_1"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "grapefruit_electric_bike",
-        "is_disabled": true,
-        "current_range_meters": 17083,
-        "lon": -3.686425677203886,
+        "is_reserved": true,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": false,
+        "current_range_meters": 285195,
+        "lon": -3.61046743710926,
         "bike_id": "grapefruit_MADRID184",
-        "lat": 40.405754611667945,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.323732027416,
+        "pricing_plan_id": "grapefruit_plan_3"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "grapefruit_bike",
+        "is_reserved": false,
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": false,
-        "lon": -3.7031443823220127,
+        "current_range_meters": 325771,
+        "lon": -3.6452552912638367,
         "bike_id": "grapefruit_MADRID185",
-        "lat": 40.39205457233361,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.44144239727546,
+        "pricing_plan_id": "grapefruit_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "grapefruit_bike",
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": true,
-        "lon": -3.6296194494044167,
+        "current_range_meters": 396795,
+        "lon": -3.702224493951789,
         "bike_id": "grapefruit_MADRID186",
-        "lat": 40.3897355282005,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.45564217297674,
+        "pricing_plan_id": "grapefruit_plan_3"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "grapefruit_bike",
-        "is_disabled": true,
-        "lon": -3.6275311793248637,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": false,
+        "current_range_meters": 224184,
+        "lon": -3.6350718542642464,
         "bike_id": "grapefruit_MADRID187",
-        "lat": 40.49986622845554,
-        "pricing_plan_id": "grapefruit_plan_3"
+        "lat": 40.3623431824979,
+        "pricing_plan_id": "grapefruit_plan_1"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "grapefruit_bike",
-        "is_disabled": true,
-        "lon": -3.741794457689496,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": false,
+        "current_range_meters": 72942,
+        "lon": -3.780738887508861,
         "bike_id": "grapefruit_MADRID188",
-        "lat": 40.397472659260806,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.40045622746112,
+        "pricing_plan_id": "grapefruit_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "grapefruit_electric_bike",
+        "is_reserved": true,
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": false,
-        "current_range_meters": 29644,
-        "lon": -3.7081673920157803,
+        "current_range_meters": 187844,
+        "lon": -3.7125168244774933,
         "bike_id": "grapefruit_MADRID189",
-        "lat": 40.48254687451413,
-        "pricing_plan_id": "grapefruit_plan_1"
+        "lat": 40.338204794210505,
+        "pricing_plan_id": "grapefruit_plan_2"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "grapefruit_electric_bike",
-        "is_disabled": false,
-        "current_range_meters": 6960,
-        "lon": -3.7321744738874423,
+        "is_reserved": true,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": true,
+        "current_range_meters": 135923,
+        "lon": -3.6607316411066058,
         "bike_id": "grapefruit_MADRID190",
-        "lat": 40.31063896174328,
+        "lat": 40.430087311027506,
         "pricing_plan_id": "grapefruit_plan_3"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "grapefruit_bike",
-        "is_disabled": true,
-        "lon": -3.6468987248710247,
+        "is_reserved": false,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": false,
+        "current_range_meters": 204040,
+        "lon": -3.755879414643119,
         "bike_id": "grapefruit_MADRID191",
-        "lat": 40.34487484380531,
-        "pricing_plan_id": "grapefruit_plan_3"
+        "lat": 40.47072665922589,
+        "pricing_plan_id": "grapefruit_plan_1"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "grapefruit_bike",
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": true,
-        "lon": -3.794255459205997,
+        "current_range_meters": 270403,
+        "lon": -3.7098919358354037,
         "bike_id": "grapefruit_MADRID192",
-        "lat": 40.42820863458245,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.49795714781198,
+        "pricing_plan_id": "grapefruit_plan_1"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "grapefruit_electric_bike",
-        "is_disabled": false,
-        "current_range_meters": 14064,
-        "lon": -3.625660292085985,
+        "is_reserved": false,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": true,
+        "current_range_meters": 206444,
+        "lon": -3.784501906994265,
         "bike_id": "grapefruit_MADRID193",
-        "lat": 40.37506571678568,
-        "pricing_plan_id": "grapefruit_plan_3"
+        "lat": 40.301138157414236,
+        "pricing_plan_id": "grapefruit_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "grapefruit_electric_bike",
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": true,
-        "current_range_meters": 42165,
-        "lon": -3.6252555940916418,
+        "current_range_meters": 361239,
+        "lon": -3.7239452584352755,
         "bike_id": "grapefruit_MADRID194",
-        "lat": 40.31298578765566,
-        "pricing_plan_id": "grapefruit_plan_3"
+        "lat": 40.45516876747025,
+        "pricing_plan_id": "grapefruit_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "grapefruit_electric_bike",
-        "is_disabled": false,
-        "current_range_meters": 48304,
-        "lon": -3.7016357064311483,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": true,
+        "current_range_meters": 282174,
+        "lon": -3.7521183918650056,
         "bike_id": "grapefruit_MADRID195",
-        "lat": 40.45236721108567,
-        "pricing_plan_id": "grapefruit_plan_1"
+        "lat": 40.35107488588619,
+        "pricing_plan_id": "grapefruit_plan_2"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "grapefruit_bike",
+        "is_reserved": false,
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": true,
-        "lon": -3.7125225098804657,
+        "current_range_meters": 404889,
+        "lon": -3.7196703432622105,
         "bike_id": "grapefruit_MADRID196",
-        "lat": 40.392849675474835,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.41895441751368,
+        "pricing_plan_id": "grapefruit_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "grapefruit_bike",
+        "is_reserved": true,
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": true,
-        "lon": -3.7469049773782985,
+        "current_range_meters": 73760,
+        "lon": -3.6575559090410215,
         "bike_id": "grapefruit_MADRID197",
-        "lat": 40.48604520124184,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.30618052668378,
+        "pricing_plan_id": "grapefruit_plan_3"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "grapefruit_electric_bike",
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": false,
-        "current_range_meters": 21070,
-        "lon": -3.6500403301498947,
+        "current_range_meters": 143637,
+        "lon": -3.7174030509806566,
         "bike_id": "grapefruit_MADRID198",
-        "lat": 40.48961900006911,
-        "pricing_plan_id": "grapefruit_plan_3"
+        "lat": 40.45250871897097,
+        "pricing_plan_id": "grapefruit_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "grapefruit_electric_bike",
-        "is_disabled": true,
-        "current_range_meters": 66624,
-        "lon": -3.743213627027012,
+        "is_reserved": true,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": false,
+        "current_range_meters": 325245,
+        "lon": -3.6058943878732803,
         "bike_id": "grapefruit_MADRID199",
-        "lat": 40.327296146253836,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.4146171338435,
+        "pricing_plan_id": "grapefruit_plan_3"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "grapefruit_bike",
-        "is_disabled": true,
-        "lon": -3.6210733096870245,
+        "is_reserved": false,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": false,
+        "current_range_meters": 325772,
+        "lon": -3.6165045715801365,
         "bike_id": "grapefruit_MADRID200",
-        "lat": 40.372407096884054,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.35898253937795,
+        "pricing_plan_id": "grapefruit_plan_1"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "grapefruit_electric_bike",
-        "is_disabled": false,
-        "current_range_meters": 18798,
-        "lon": -3.793685073895127,
+        "is_reserved": false,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": true,
+        "current_range_meters": 210232,
+        "lon": -3.622956520657709,
         "bike_id": "grapefruit_MADRID201",
-        "lat": 40.483358218114375,
-        "pricing_plan_id": "grapefruit_plan_1"
+        "lat": 40.426298825940435,
+        "pricing_plan_id": "grapefruit_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "grapefruit_bike",
-        "is_disabled": true,
-        "lon": -3.7450994943311837,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": false,
+        "current_range_meters": 292292,
+        "lon": -3.7236607451482,
         "bike_id": "grapefruit_MADRID202",
-        "lat": 40.46909058888918,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.33340497696686,
+        "pricing_plan_id": "grapefruit_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "grapefruit_bike",
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": false,
-        "lon": -3.60306051942351,
+        "current_range_meters": 347697,
+        "lon": -3.776766934193335,
         "bike_id": "grapefruit_MADRID203",
-        "lat": 40.322561695813185,
+        "lat": 40.304798722773036,
         "pricing_plan_id": "grapefruit_plan_1"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "grapefruit_electric_bike",
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": true,
-        "current_range_meters": 19848,
-        "lon": -3.631875991662967,
+        "current_range_meters": 289423,
+        "lon": -3.6276493179807945,
         "bike_id": "grapefruit_MADRID204",
-        "lat": 40.33286920546826,
-        "pricing_plan_id": "grapefruit_plan_3"
+        "lat": 40.418877323012985,
+        "pricing_plan_id": "grapefruit_plan_1"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "grapefruit_bike",
+        "is_reserved": true,
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": true,
-        "lon": -3.683628094842355,
+        "current_range_meters": 42948,
+        "lon": -3.6427490832640634,
         "bike_id": "grapefruit_MADRID205",
-        "lat": 40.35655497138786,
-        "pricing_plan_id": "grapefruit_plan_3"
+        "lat": 40.4058366134522,
+        "pricing_plan_id": "grapefruit_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "grapefruit_bike",
+        "is_reserved": false,
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": false,
-        "lon": -3.7641123864063277,
+        "current_range_meters": 105063,
+        "lon": -3.7626670873559687,
         "bike_id": "grapefruit_MADRID206",
-        "lat": 40.45186612708628,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.33242653200439,
+        "pricing_plan_id": "grapefruit_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "grapefruit_bike",
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": true,
-        "lon": -3.696548385179008,
+        "current_range_meters": 351439,
+        "lon": -3.775660598059793,
         "bike_id": "grapefruit_MADRID207",
-        "lat": 40.41845543837966,
+        "lat": 40.352980285379644,
         "pricing_plan_id": "grapefruit_plan_1"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "grapefruit_electric_bike",
-        "is_disabled": false,
-        "current_range_meters": 57882,
-        "lon": -3.6858926967313828,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": true,
+        "current_range_meters": 32035,
+        "lon": -3.737128614716449,
         "bike_id": "grapefruit_MADRID208",
-        "lat": 40.47809691415763,
+        "lat": 40.45692469826579,
         "pricing_plan_id": "grapefruit_plan_2"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "grapefruit_bike",
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": true,
-        "lon": -3.7493304095424946,
+        "current_range_meters": 24671,
+        "lon": -3.640719971077104,
         "bike_id": "grapefruit_MADRID209",
-        "lat": 40.36051943565244,
-        "pricing_plan_id": "grapefruit_plan_3"
+        "lat": 40.33725759272759,
+        "pricing_plan_id": "grapefruit_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "grapefruit_bike",
+        "is_reserved": true,
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": false,
-        "lon": -3.7477299726215887,
+        "current_range_meters": 234825,
+        "lon": -3.78208734076102,
         "bike_id": "grapefruit_MADRID210",
-        "lat": 40.48269738257329,
+        "lat": 40.324607608148945,
         "pricing_plan_id": "grapefruit_plan_1"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "grapefruit_electric_bike",
-        "is_disabled": false,
-        "current_range_meters": 31989,
-        "lon": -3.7935359947402505,
+        "is_reserved": true,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": true,
+        "current_range_meters": 210567,
+        "lon": -3.788542440082732,
         "bike_id": "grapefruit_MADRID211",
-        "lat": 40.40723303014237,
-        "pricing_plan_id": "grapefruit_plan_3"
+        "lat": 40.32297392775523,
+        "pricing_plan_id": "grapefruit_plan_1"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "grapefruit_electric_bike",
-        "is_disabled": true,
-        "current_range_meters": 75404,
-        "lon": -3.6801757634360963,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": false,
+        "current_range_meters": 374351,
+        "lon": -3.7835185168150165,
         "bike_id": "grapefruit_MADRID212",
-        "lat": 40.3074121631083,
-        "pricing_plan_id": "grapefruit_plan_3"
+        "lat": 40.371718020674294,
+        "pricing_plan_id": "grapefruit_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "grapefruit_bike",
+        "is_reserved": true,
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": true,
-        "lon": -3.7411889634867572,
+        "current_range_meters": 112367,
+        "lon": -3.6222470800197977,
         "bike_id": "grapefruit_MADRID213",
-        "lat": 40.4388954051793,
-        "pricing_plan_id": "grapefruit_plan_3"
+        "lat": 40.422981513929614,
+        "pricing_plan_id": "grapefruit_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "grapefruit_bike",
-        "is_disabled": true,
-        "lon": -3.6496652091894592,
+        "is_reserved": false,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": false,
+        "current_range_meters": 124207,
+        "lon": -3.78044520184983,
         "bike_id": "grapefruit_MADRID214",
-        "lat": 40.437477287936005,
-        "pricing_plan_id": "grapefruit_plan_3"
+        "lat": 40.34004030089731,
+        "pricing_plan_id": "grapefruit_plan_2"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "grapefruit_electric_bike",
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": true,
-        "current_range_meters": 45101,
-        "lon": -3.797618947280555,
+        "current_range_meters": 65477,
+        "lon": -3.648663445359682,
         "bike_id": "grapefruit_MADRID215",
-        "lat": 40.40215140187953,
-        "pricing_plan_id": "grapefruit_plan_3"
+        "lat": 40.39439791626427,
+        "pricing_plan_id": "grapefruit_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "grapefruit_electric_bike",
-        "is_disabled": true,
-        "current_range_meters": 51515,
-        "lon": -3.7027537527894894,
+        "is_reserved": true,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": false,
+        "current_range_meters": 66022,
+        "lon": -3.745464562623279,
         "bike_id": "grapefruit_MADRID216",
-        "lat": 40.45730677743785,
-        "pricing_plan_id": "grapefruit_plan_3"
+        "lat": 40.49759031834961,
+        "pricing_plan_id": "grapefruit_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "grapefruit_electric_bike",
-        "is_disabled": false,
-        "current_range_meters": 63778,
-        "lon": -3.7501959465180668,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": true,
+        "current_range_meters": 253378,
+        "lon": -3.7865710340885577,
         "bike_id": "grapefruit_MADRID217",
-        "lat": 40.324901007536454,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.44739176987232,
+        "pricing_plan_id": "grapefruit_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "grapefruit_electric_bike",
-        "is_disabled": false,
-        "current_range_meters": 78264,
-        "lon": -3.6216966590692126,
+        "is_reserved": false,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": true,
+        "current_range_meters": 263688,
+        "lon": -3.6091952243264034,
         "bike_id": "grapefruit_MADRID218",
-        "lat": 40.42220187891012,
+        "lat": 40.39611113240785,
         "pricing_plan_id": "grapefruit_plan_3"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "grapefruit_bike",
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": true,
-        "lon": -3.6613547437623652,
+        "current_range_meters": 372267,
+        "lon": -3.6403411834321853,
         "bike_id": "grapefruit_MADRID219",
-        "lat": 40.47784642424607,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.417839419996774,
+        "pricing_plan_id": "grapefruit_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "grapefruit_bike",
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": false,
-        "lon": -3.699519419570307,
+        "current_range_meters": 250164,
+        "lon": -3.7734484562709882,
         "bike_id": "grapefruit_MADRID220",
-        "lat": 40.351388053945456,
-        "pricing_plan_id": "grapefruit_plan_1"
+        "lat": 40.46655831009353,
+        "pricing_plan_id": "grapefruit_plan_2"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "grapefruit_bike",
+        "is_reserved": false,
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": false,
-        "lon": -3.708145843496616,
+        "current_range_meters": 128882,
+        "lon": -3.6635855880310304,
         "bike_id": "grapefruit_MADRID221",
-        "lat": 40.38599378974094,
-        "pricing_plan_id": "grapefruit_plan_1"
+        "lat": 40.35772682739081,
+        "pricing_plan_id": "grapefruit_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "grapefruit_bike",
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": true,
-        "lon": -3.622867934285598,
+        "current_range_meters": 254287,
+        "lon": -3.691829922818228,
         "bike_id": "grapefruit_MADRID222",
-        "lat": 40.337852223799,
-        "pricing_plan_id": "grapefruit_plan_1"
+        "lat": 40.455322209982306,
+        "pricing_plan_id": "grapefruit_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "grapefruit_bike",
-        "is_disabled": false,
-        "lon": -3.6370852587370184,
+        "is_reserved": false,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": true,
+        "current_range_meters": 197448,
+        "lon": -3.7201907162697405,
         "bike_id": "grapefruit_MADRID223",
-        "lat": 40.448374327371056,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.38907264070357,
+        "pricing_plan_id": "grapefruit_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "grapefruit_bike",
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": false,
-        "lon": -3.663344076232419,
+        "current_range_meters": 395376,
+        "lon": -3.727685522952303,
         "bike_id": "grapefruit_MADRID224",
-        "lat": 40.33516946229991,
-        "pricing_plan_id": "grapefruit_plan_3"
+        "lat": 40.44403516736081,
+        "pricing_plan_id": "grapefruit_plan_1"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "grapefruit_bike",
-        "is_disabled": true,
-        "lon": -3.7836013789619405,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": false,
+        "current_range_meters": 256338,
+        "lon": -3.7945502498760386,
         "bike_id": "grapefruit_MADRID225",
-        "lat": 40.370455251983486,
-        "pricing_plan_id": "grapefruit_plan_1"
+        "lat": 40.457450526832424,
+        "pricing_plan_id": "grapefruit_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "grapefruit_electric_bike",
-        "is_disabled": true,
-        "current_range_meters": 10213,
-        "lon": -3.6145132994673754,
+        "is_reserved": false,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": false,
+        "current_range_meters": 177751,
+        "lon": -3.758868061272907,
         "bike_id": "grapefruit_MADRID226",
-        "lat": 40.363289157493256,
-        "pricing_plan_id": "grapefruit_plan_1"
+        "lat": 40.38558298347701,
+        "pricing_plan_id": "grapefruit_plan_2"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "grapefruit_bike",
-        "is_disabled": false,
-        "lon": -3.649554353616414,
+        "is_reserved": false,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": true,
+        "current_range_meters": 108228,
+        "lon": -3.7633904231610074,
         "bike_id": "grapefruit_MADRID227",
-        "lat": 40.44015509175919,
-        "pricing_plan_id": "grapefruit_plan_1"
+        "lat": 40.435087384630826,
+        "pricing_plan_id": "grapefruit_plan_2"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "grapefruit_electric_bike",
-        "is_disabled": false,
-        "current_range_meters": 69577,
-        "lon": -3.745766273273831,
+        "is_reserved": false,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": true,
+        "current_range_meters": 397114,
+        "lon": -3.6521517341728993,
         "bike_id": "grapefruit_MADRID228",
-        "lat": 40.360981147405106,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.480139538649254,
+        "pricing_plan_id": "grapefruit_plan_1"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "grapefruit_electric_bike",
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": false,
-        "current_range_meters": 74153,
-        "lon": -3.694053396610734,
+        "current_range_meters": 333678,
+        "lon": -3.7821829008161605,
         "bike_id": "grapefruit_MADRID229",
-        "lat": 40.37632921459619,
-        "pricing_plan_id": "grapefruit_plan_3"
+        "lat": 40.35182894349784,
+        "pricing_plan_id": "grapefruit_plan_1"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "grapefruit_electric_bike",
-        "is_disabled": true,
-        "current_range_meters": 58212,
-        "lon": -3.706044794523557,
+        "is_reserved": true,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": false,
+        "current_range_meters": 110654,
+        "lon": -3.727062694956943,
         "bike_id": "grapefruit_MADRID230",
-        "lat": 40.36154954166064,
-        "pricing_plan_id": "grapefruit_plan_3"
+        "lat": 40.45005387065065,
+        "pricing_plan_id": "grapefruit_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "grapefruit_electric_bike",
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": true,
-        "current_range_meters": 48635,
-        "lon": -3.681473934585221,
+        "current_range_meters": 290433,
+        "lon": -3.782999045349813,
         "bike_id": "grapefruit_MADRID231",
-        "lat": 40.37725032520088,
-        "pricing_plan_id": "grapefruit_plan_3"
+        "lat": 40.38144113936859,
+        "pricing_plan_id": "grapefruit_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "grapefruit_bike",
-        "is_disabled": true,
-        "lon": -3.773988052157093,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": false,
+        "current_range_meters": 43389,
+        "lon": -3.753606297096048,
         "bike_id": "grapefruit_MADRID232",
-        "lat": 40.48696299148926,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.43424843977719,
+        "pricing_plan_id": "grapefruit_plan_3"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "grapefruit_bike",
+        "is_reserved": false,
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": true,
-        "lon": -3.711797803260271,
+        "current_range_meters": 307182,
+        "lon": -3.6603948462062608,
         "bike_id": "grapefruit_MADRID233",
-        "lat": 40.467380736106364,
-        "pricing_plan_id": "grapefruit_plan_1"
+        "lat": 40.35282451025284,
+        "pricing_plan_id": "grapefruit_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "grapefruit_bike",
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": false,
-        "lon": -3.732201674268221,
+        "current_range_meters": 124810,
+        "lon": -3.6494098432927116,
         "bike_id": "grapefruit_MADRID234",
-        "lat": 40.49123923901538,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.4850683964407,
+        "pricing_plan_id": "grapefruit_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "grapefruit_electric_bike",
-        "is_disabled": true,
-        "current_range_meters": 24982,
-        "lon": -3.774345361143928,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": false,
+        "current_range_meters": 359596,
+        "lon": -3.7295201009497356,
         "bike_id": "grapefruit_MADRID235",
-        "lat": 40.346941106954446,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.378455265682675,
+        "pricing_plan_id": "grapefruit_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "grapefruit_electric_bike",
+        "is_reserved": true,
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": true,
-        "current_range_meters": 43806,
-        "lon": -3.790320822231772,
+        "current_range_meters": 216847,
+        "lon": -3.662092881293572,
         "bike_id": "grapefruit_MADRID236",
-        "lat": 40.40234172404349,
-        "pricing_plan_id": "grapefruit_plan_3"
+        "lat": 40.327512065790074,
+        "pricing_plan_id": "grapefruit_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "grapefruit_electric_bike",
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": true,
-        "current_range_meters": 55123,
-        "lon": -3.624984649927379,
+        "current_range_meters": 67058,
+        "lon": -3.67748550160492,
         "bike_id": "grapefruit_MADRID237",
-        "lat": 40.347522306913085,
+        "lat": 40.34905070815442,
         "pricing_plan_id": "grapefruit_plan_1"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "grapefruit_electric_bike",
-        "is_disabled": true,
-        "current_range_meters": 29053,
-        "lon": -3.6929450708996474,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": false,
+        "current_range_meters": 72367,
+        "lon": -3.629530707799929,
         "bike_id": "grapefruit_MADRID238",
-        "lat": 40.302181831164475,
-        "pricing_plan_id": "grapefruit_plan_3"
+        "lat": 40.337355761206105,
+        "pricing_plan_id": "grapefruit_plan_2"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "grapefruit_bike",
+        "is_reserved": true,
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": true,
-        "lon": -3.7238271092391835,
+        "current_range_meters": 34073,
+        "lon": -3.6558392711581496,
         "bike_id": "grapefruit_MADRID239",
-        "lat": 40.42755847282093,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.303033991728675,
+        "pricing_plan_id": "grapefruit_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "grapefruit_electric_bike",
-        "is_disabled": false,
-        "current_range_meters": 58809,
-        "lon": -3.775614416282814,
+        "is_reserved": false,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": true,
+        "current_range_meters": 385260,
+        "lon": -3.625769943741129,
         "bike_id": "grapefruit_MADRID240",
-        "lat": 40.361305982982635,
-        "pricing_plan_id": "grapefruit_plan_3"
+        "lat": 40.456368878387465,
+        "pricing_plan_id": "grapefruit_plan_1"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "grapefruit_bike",
+        "is_reserved": false,
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": true,
-        "lon": -3.7966813986652963,
+        "current_range_meters": 159991,
+        "lon": -3.7489184293210256,
         "bike_id": "grapefruit_MADRID241",
-        "lat": 40.44716386891918,
-        "pricing_plan_id": "grapefruit_plan_1"
+        "lat": 40.376413625592456,
+        "pricing_plan_id": "grapefruit_plan_2"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "grapefruit_bike",
+        "is_reserved": true,
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": false,
-        "lon": -3.6327929330937856,
+        "current_range_meters": 292550,
+        "lon": -3.729742690328779,
         "bike_id": "grapefruit_MADRID242",
-        "lat": 40.42181504064996,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.32573103924799,
+        "pricing_plan_id": "grapefruit_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "grapefruit_bike",
+        "is_reserved": false,
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": false,
-        "lon": -3.6665994093564276,
+        "current_range_meters": 39017,
+        "lon": -3.7293402971976817,
         "bike_id": "grapefruit_MADRID243",
-        "lat": 40.42262056932755,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.32339250369253,
+        "pricing_plan_id": "grapefruit_plan_1"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "grapefruit_electric_bike",
+        "is_reserved": false,
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": true,
-        "current_range_meters": 28759,
-        "lon": -3.7856756890256573,
+        "current_range_meters": 311646,
+        "lon": -3.6380375667139058,
         "bike_id": "grapefruit_MADRID244",
-        "lat": 40.3461805275425,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.35966956512384,
+        "pricing_plan_id": "grapefruit_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "grapefruit_bike",
+        "is_reserved": false,
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": true,
-        "lon": -3.7549519152363944,
+        "current_range_meters": 317905,
+        "lon": -3.6168553584266365,
         "bike_id": "grapefruit_MADRID245",
-        "lat": 40.40165267319879,
-        "pricing_plan_id": "grapefruit_plan_1"
+        "lat": 40.48619937472351,
+        "pricing_plan_id": "grapefruit_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "grapefruit_bike",
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": false,
-        "lon": -3.611090861365401,
+        "current_range_meters": 75030,
+        "lon": -3.6066265542798215,
         "bike_id": "grapefruit_MADRID246",
-        "lat": 40.425568153487525,
+        "lat": 40.46761562269317,
         "pricing_plan_id": "grapefruit_plan_3"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "grapefruit_bike",
-        "is_disabled": false,
-        "lon": -3.7864084681492463,
+        "is_reserved": false,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": true,
+        "current_range_meters": 348423,
+        "lon": -3.78843442390747,
         "bike_id": "grapefruit_MADRID247",
-        "lat": 40.41525212576935,
-        "pricing_plan_id": "grapefruit_plan_1"
+        "lat": 40.31573836146634,
+        "pricing_plan_id": "grapefruit_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "grapefruit_electric_bike",
-        "is_disabled": false,
-        "current_range_meters": 27716,
-        "lon": -3.711234919951387,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": true,
+        "current_range_meters": 354903,
+        "lon": -3.708795592704659,
         "bike_id": "grapefruit_MADRID248",
-        "lat": 40.39055981984729,
-        "pricing_plan_id": "grapefruit_plan_1"
+        "lat": 40.372838852889046,
+        "pricing_plan_id": "grapefruit_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "grapefruit_bike",
-        "is_disabled": true,
-        "lon": -3.7208100160485835,
+        "is_reserved": false,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": false,
+        "current_range_meters": 347422,
+        "lon": -3.75342929529339,
         "bike_id": "grapefruit_MADRID249",
-        "lat": 40.487309116521836,
-        "pricing_plan_id": "grapefruit_plan_1"
+        "lat": 40.399749210726355,
+        "pricing_plan_id": "grapefruit_plan_2"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "grapefruit_bike",
-        "is_disabled": true,
-        "lon": -3.705471947716354,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": false,
+        "current_range_meters": 350815,
+        "lon": -3.681139281110171,
         "bike_id": "grapefruit_MADRID250",
-        "lat": 40.30587272751728,
-        "pricing_plan_id": "grapefruit_plan_3"
+        "lat": 40.367195706487244,
+        "pricing_plan_id": "grapefruit_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "grapefruit_bike",
+        "is_reserved": false,
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": false,
-        "lon": -3.797983734036759,
+        "current_range_meters": 241430,
+        "lon": -3.6749181868035854,
         "bike_id": "grapefruit_MADRID251",
-        "lat": 40.316501197258376,
-        "pricing_plan_id": "grapefruit_plan_3"
+        "lat": 40.35495822679212,
+        "pricing_plan_id": "grapefruit_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "grapefruit_bike",
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": true,
-        "lon": -3.6996302646919434,
+        "current_range_meters": 205012,
+        "lon": -3.774284949088474,
         "bike_id": "grapefruit_MADRID252",
-        "lat": 40.356134087708824,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.42457445585716,
+        "pricing_plan_id": "grapefruit_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "grapefruit_electric_bike",
-        "is_disabled": false,
-        "current_range_meters": 33965,
-        "lon": -3.7576627442522974,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": true,
+        "current_range_meters": 184425,
+        "lon": -3.6632926700461517,
         "bike_id": "grapefruit_MADRID253",
-        "lat": 40.405547055185046,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.46249706072429,
+        "pricing_plan_id": "grapefruit_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "grapefruit_bike",
+        "is_reserved": true,
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": true,
-        "lon": -3.677308979913991,
+        "current_range_meters": 172697,
+        "lon": -3.692314398837816,
         "bike_id": "grapefruit_MADRID254",
-        "lat": 40.372550498088366,
-        "pricing_plan_id": "grapefruit_plan_1"
+        "lat": 40.39972201675303,
+        "pricing_plan_id": "grapefruit_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "grapefruit_bike",
-        "is_disabled": true,
-        "lon": -3.6298198635999155,
+        "is_reserved": true,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": false,
+        "current_range_meters": 240164,
+        "lon": -3.626504090546026,
         "bike_id": "grapefruit_MADRID255",
-        "lat": 40.37064373663956,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.46561973664967,
+        "pricing_plan_id": "grapefruit_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "grapefruit_electric_bike",
-        "is_disabled": false,
-        "current_range_meters": 73746,
-        "lon": -3.7932767566129595,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": true,
+        "current_range_meters": 210748,
+        "lon": -3.691331221882448,
         "bike_id": "grapefruit_MADRID256",
-        "lat": 40.48124463109129,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.33490269191076,
+        "pricing_plan_id": "grapefruit_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "grapefruit_electric_bike",
+        "is_reserved": true,
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": false,
-        "current_range_meters": 37841,
-        "lon": -3.6928066023164328,
+        "current_range_meters": 118420,
+        "lon": -3.6782810589368986,
         "bike_id": "grapefruit_MADRID257",
-        "lat": 40.39639453766742,
-        "pricing_plan_id": "grapefruit_plan_3"
+        "lat": 40.36502684436387,
+        "pricing_plan_id": "grapefruit_plan_1"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "grapefruit_electric_bike",
+        "is_reserved": true,
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": true,
-        "current_range_meters": 51306,
-        "lon": -3.757557954442291,
+        "current_range_meters": 300425,
+        "lon": -3.69433370906941,
         "bike_id": "grapefruit_MADRID258",
-        "lat": 40.46173253682839,
-        "pricing_plan_id": "grapefruit_plan_1"
+        "lat": 40.34539930419895,
+        "pricing_plan_id": "grapefruit_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "grapefruit_bike",
+        "is_reserved": true,
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": true,
-        "lon": -3.794548099786383,
+        "current_range_meters": 213385,
+        "lon": -3.785548259472631,
         "bike_id": "grapefruit_MADRID259",
-        "lat": 40.4319072241763,
-        "pricing_plan_id": "grapefruit_plan_3"
+        "lat": 40.41510611963542,
+        "pricing_plan_id": "grapefruit_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "grapefruit_bike",
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": true,
-        "lon": -3.689919144593316,
+        "current_range_meters": 272095,
+        "lon": -3.7819268281588116,
         "bike_id": "grapefruit_MADRID260",
-        "lat": 40.44994311548646,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.357980711175536,
+        "pricing_plan_id": "grapefruit_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "grapefruit_electric_bike",
+        "is_reserved": false,
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": true,
-        "current_range_meters": 10412,
-        "lon": -3.725498816004151,
+        "current_range_meters": 165820,
+        "lon": -3.7930877877763094,
         "bike_id": "grapefruit_MADRID261",
-        "lat": 40.3519802413292,
-        "pricing_plan_id": "grapefruit_plan_1"
+        "lat": 40.38493997557327,
+        "pricing_plan_id": "grapefruit_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "grapefruit_bike",
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": true,
-        "lon": -3.724246998208598,
+        "current_range_meters": 72300,
+        "lon": -3.736246482836704,
         "bike_id": "grapefruit_MADRID262",
-        "lat": 40.4176318519993,
-        "pricing_plan_id": "grapefruit_plan_3"
+        "lat": 40.32650930296948,
+        "pricing_plan_id": "grapefruit_plan_2"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "grapefruit_bike",
-        "is_disabled": true,
-        "lon": -3.726849833138886,
+        "is_reserved": true,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": false,
+        "current_range_meters": 257097,
+        "lon": -3.770428958847265,
         "bike_id": "grapefruit_MADRID263",
-        "lat": 40.37781114587348,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.35745902841122,
+        "pricing_plan_id": "grapefruit_plan_1"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "grapefruit_electric_bike",
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": true,
-        "current_range_meters": 14308,
-        "lon": -3.6269493455636,
+        "current_range_meters": 360775,
+        "lon": -3.6829551600564328,
         "bike_id": "grapefruit_MADRID264",
-        "lat": 40.454898403368325,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.47885550301216,
+        "pricing_plan_id": "grapefruit_plan_3"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "grapefruit_bike",
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": true,
-        "lon": -3.6900722035689704,
+        "current_range_meters": 51720,
+        "lon": -3.7656493264143784,
         "bike_id": "grapefruit_MADRID265",
-        "lat": 40.456405744309315,
-        "pricing_plan_id": "grapefruit_plan_1"
+        "lat": 40.320706050749436,
+        "pricing_plan_id": "grapefruit_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "grapefruit_electric_bike",
-        "is_disabled": true,
-        "current_range_meters": 24082,
-        "lon": -3.6333403778332745,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": false,
+        "current_range_meters": 79018,
+        "lon": -3.6118545358888494,
         "bike_id": "grapefruit_MADRID266",
-        "lat": 40.40516994841136,
-        "pricing_plan_id": "grapefruit_plan_3"
+        "lat": 40.382856399952686,
+        "pricing_plan_id": "grapefruit_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "grapefruit_electric_bike",
-        "is_disabled": false,
-        "current_range_meters": 9825,
-        "lon": -3.762701928027256,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": true,
+        "current_range_meters": 34397,
+        "lon": -3.6652095744684816,
         "bike_id": "grapefruit_MADRID267",
-        "lat": 40.364839161079544,
-        "pricing_plan_id": "grapefruit_plan_1"
+        "lat": 40.394512790696275,
+        "pricing_plan_id": "grapefruit_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "grapefruit_bike",
-        "is_disabled": false,
-        "lon": -3.7570250845265485,
+        "is_reserved": false,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": true,
+        "current_range_meters": 130921,
+        "lon": -3.6134774468061903,
         "bike_id": "grapefruit_MADRID268",
-        "lat": 40.493190722371736,
-        "pricing_plan_id": "grapefruit_plan_3"
+        "lat": 40.42046023825519,
+        "pricing_plan_id": "grapefruit_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "grapefruit_bike",
+        "is_reserved": false,
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": true,
-        "lon": -3.6026576460052686,
+        "current_range_meters": 288729,
+        "lon": -3.799496126857831,
         "bike_id": "grapefruit_MADRID269",
-        "lat": 40.379382424865405,
-        "pricing_plan_id": "grapefruit_plan_3"
+        "lat": 40.43730267673852,
+        "pricing_plan_id": "grapefruit_plan_2"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "grapefruit_electric_bike",
+        "is_reserved": true,
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": true,
-        "current_range_meters": 30948,
-        "lon": -3.735016300350522,
+        "current_range_meters": 330260,
+        "lon": -3.7842736065311726,
         "bike_id": "grapefruit_MADRID270",
-        "lat": 40.31884437508762,
-        "pricing_plan_id": "grapefruit_plan_1"
+        "lat": 40.4833203028526,
+        "pricing_plan_id": "grapefruit_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "grapefruit_bike",
-        "is_disabled": true,
-        "lon": -3.6622363502165873,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": false,
+        "current_range_meters": 95069,
+        "lon": -3.7111491833943866,
         "bike_id": "grapefruit_MADRID271",
-        "lat": 40.446137717740854,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.41016123129945,
+        "pricing_plan_id": "grapefruit_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "grapefruit_electric_bike",
-        "is_disabled": true,
-        "current_range_meters": 63031,
-        "lon": -3.6820830838041525,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": false,
+        "current_range_meters": 205972,
+        "lon": -3.798370095445182,
         "bike_id": "grapefruit_MADRID272",
-        "lat": 40.49466324642814,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.44544872489677,
+        "pricing_plan_id": "grapefruit_plan_1"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "grapefruit_bike",
-        "is_disabled": true,
-        "lon": -3.7805542282724676,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": false,
+        "current_range_meters": 61579,
+        "lon": -3.6376282412558703,
         "bike_id": "grapefruit_MADRID273",
-        "lat": 40.36015179684545,
+        "lat": 40.423333159877906,
         "pricing_plan_id": "grapefruit_plan_2"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "grapefruit_bike",
-        "is_disabled": true,
-        "lon": -3.7989996752944633,
+        "is_reserved": true,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": false,
+        "current_range_meters": 142981,
+        "lon": -3.675423718810525,
         "bike_id": "grapefruit_MADRID274",
-        "lat": 40.365689349343306,
-        "pricing_plan_id": "grapefruit_plan_1"
+        "lat": 40.4152455624955,
+        "pricing_plan_id": "grapefruit_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "grapefruit_electric_bike",
-        "is_disabled": false,
-        "current_range_meters": 62836,
-        "lon": -3.7006265611720965,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": true,
+        "current_range_meters": 30649,
+        "lon": -3.630303744478136,
         "bike_id": "grapefruit_MADRID275",
-        "lat": 40.40724851695861,
-        "pricing_plan_id": "grapefruit_plan_1"
+        "lat": 40.45410581315932,
+        "pricing_plan_id": "grapefruit_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "grapefruit_electric_bike",
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": false,
-        "current_range_meters": 21011,
-        "lon": -3.7444810173480945,
+        "current_range_meters": 97488,
+        "lon": -3.682217614376686,
         "bike_id": "grapefruit_MADRID276",
-        "lat": 40.40547271879786,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.447039168393786,
+        "pricing_plan_id": "grapefruit_plan_1"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "grapefruit_bike",
+        "is_reserved": false,
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": true,
-        "lon": -3.6495929565722567,
+        "current_range_meters": 188403,
+        "lon": -3.628529734320971,
         "bike_id": "grapefruit_MADRID277",
-        "lat": 40.451414269110806,
-        "pricing_plan_id": "grapefruit_plan_1"
+        "lat": 40.37044357665851,
+        "pricing_plan_id": "grapefruit_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "grapefruit_bike",
+        "is_reserved": true,
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": false,
-        "lon": -3.79370444438343,
+        "current_range_meters": 331140,
+        "lon": -3.7651934734636985,
         "bike_id": "grapefruit_MADRID278",
-        "lat": 40.35416586772078,
-        "pricing_plan_id": "grapefruit_plan_1"
+        "lat": 40.41859288855116,
+        "pricing_plan_id": "grapefruit_plan_2"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "grapefruit_electric_bike",
-        "is_disabled": false,
-        "current_range_meters": 37752,
-        "lon": -3.769522544559758,
+        "is_reserved": true,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": true,
+        "current_range_meters": 373083,
+        "lon": -3.676890430177695,
         "bike_id": "grapefruit_MADRID279",
-        "lat": 40.32269111519267,
-        "pricing_plan_id": "grapefruit_plan_3"
+        "lat": 40.30319192968016,
+        "pricing_plan_id": "grapefruit_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "grapefruit_electric_bike",
-        "is_disabled": false,
-        "current_range_meters": 24440,
-        "lon": -3.7936791688337848,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": true,
+        "current_range_meters": 36193,
+        "lon": -3.7312332797292442,
         "bike_id": "grapefruit_MADRID280",
-        "lat": 40.444951649812694,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.31385866874286,
+        "pricing_plan_id": "grapefruit_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "grapefruit_bike",
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": true,
-        "lon": -3.6556670891600738,
+        "current_range_meters": 205647,
+        "lon": -3.674740559896735,
         "bike_id": "grapefruit_MADRID281",
-        "lat": 40.38503457978537,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.328243559359265,
+        "pricing_plan_id": "grapefruit_plan_2",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "grapefruit_electric_bike",
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": true,
-        "current_range_meters": 27190,
-        "lon": -3.7663196082327906,
+        "current_range_meters": 365903,
+        "lon": -3.768265230150075,
         "bike_id": "grapefruit_MADRID282",
-        "lat": 40.3067473755266,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.43822273986569,
+        "pricing_plan_id": "grapefruit_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "grapefruit_bike",
-        "is_disabled": true,
-        "lon": -3.6684633298418894,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": false,
+        "current_range_meters": 185990,
+        "lon": -3.796267452780936,
         "bike_id": "grapefruit_MADRID283",
-        "lat": 40.39624884382777,
-        "pricing_plan_id": "grapefruit_plan_1"
+        "lat": 40.411447731604746,
+        "pricing_plan_id": "grapefruit_plan_2"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "grapefruit_electric_bike",
-        "is_disabled": true,
-        "current_range_meters": 70770,
-        "lon": -3.6062244881112764,
+        "is_reserved": true,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": false,
+        "current_range_meters": 243953,
+        "lon": -3.6535969702779085,
         "bike_id": "grapefruit_MADRID284",
-        "lat": 40.39241014054866,
-        "pricing_plan_id": "grapefruit_plan_3"
+        "lat": 40.325850220658786,
+        "pricing_plan_id": "grapefruit_plan_1",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "grapefruit_bike",
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": true,
-        "lon": -3.7746438449392925,
+        "current_range_meters": 141656,
+        "lon": -3.7429593404308124,
         "bike_id": "grapefruit_MADRID285",
-        "lat": 40.3841922524894,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.46156799206726,
+        "pricing_plan_id": "grapefruit_plan_3"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "grapefruit_electric_bike",
-        "is_disabled": false,
-        "current_range_meters": 46943,
-        "lon": -3.7096147957452605,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": true,
+        "current_range_meters": 99825,
+        "lon": -3.7485805350500057,
         "bike_id": "grapefruit_MADRID286",
-        "lat": 40.389813456015474,
-        "pricing_plan_id": "grapefruit_plan_1"
+        "lat": 40.455376741089815,
+        "pricing_plan_id": "grapefruit_plan_2"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "grapefruit_electric_bike",
+        "is_reserved": false,
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": true,
-        "current_range_meters": 56544,
-        "lon": -3.7910312581031635,
+        "current_range_meters": 389834,
+        "lon": -3.674311315706711,
         "bike_id": "grapefruit_MADRID287",
-        "lat": 40.327086944433255,
-        "pricing_plan_id": "grapefruit_plan_1"
+        "lat": 40.47419787570589,
+        "pricing_plan_id": "grapefruit_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "grapefruit_electric_bike",
-        "is_disabled": false,
-        "current_range_meters": 15624,
-        "lon": -3.7539352438871587,
+        "is_reserved": false,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": true,
+        "current_range_meters": 397512,
+        "lon": -3.7699667595892254,
         "bike_id": "grapefruit_MADRID288",
-        "lat": 40.316184718171826,
-        "pricing_plan_id": "grapefruit_plan_3"
+        "lat": 40.391624309280296,
+        "pricing_plan_id": "grapefruit_plan_1"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "grapefruit_electric_bike",
-        "is_disabled": false,
-        "current_range_meters": 72545,
-        "lon": -3.6258177658963304,
+        "is_reserved": true,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": true,
+        "current_range_meters": 133106,
+        "lon": -3.601955076014701,
         "bike_id": "grapefruit_MADRID289",
-        "lat": 40.36965955889102,
-        "pricing_plan_id": "grapefruit_plan_1"
+        "lat": 40.4417995718326,
+        "pricing_plan_id": "grapefruit_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "grapefruit_electric_bike",
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": false,
-        "current_range_meters": 13536,
-        "lon": -3.7730520818562523,
+        "current_range_meters": 283485,
+        "lon": -3.7921671122044036,
         "bike_id": "grapefruit_MADRID290",
-        "lat": 40.42884091621105,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.32836798223552,
+        "pricing_plan_id": "grapefruit_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "grapefruit_bike",
+        "is_reserved": true,
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": true,
-        "lon": -3.6404865850994277,
+        "current_range_meters": 295213,
+        "lon": -3.7816532237214964,
         "bike_id": "grapefruit_MADRID291",
-        "lat": 40.345459486677846,
-        "pricing_plan_id": "grapefruit_plan_1"
+        "lat": 40.477132288689575,
+        "pricing_plan_id": "grapefruit_plan_3",
+        "vehicle_equipment": [
+          "child_seat_a"
+        ]
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "grapefruit_electric_bike",
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": true,
-        "current_range_meters": 26552,
-        "lon": -3.6025138210748606,
+        "current_range_meters": 20087,
+        "lon": -3.6360380630505342,
         "bike_id": "grapefruit_MADRID292",
-        "lat": 40.49215957724445,
-        "pricing_plan_id": "grapefruit_plan_3"
+        "lat": 40.47220746710991,
+        "pricing_plan_id": "grapefruit_plan_2"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "grapefruit_bike",
+        "is_reserved": true,
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": true,
-        "lon": -3.645014742436167,
+        "current_range_meters": 143642,
+        "lon": -3.660620582982335,
         "bike_id": "grapefruit_MADRID293",
-        "lat": 40.3688820320433,
+        "lat": 40.440104956587014,
         "pricing_plan_id": "grapefruit_plan_1"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "grapefruit_bike",
+        "is_reserved": true,
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": false,
-        "lon": -3.7562561069920903,
+        "current_range_meters": 379729,
+        "lon": -3.7885411511869753,
         "bike_id": "grapefruit_MADRID294",
-        "lat": 40.38628983624204,
-        "pricing_plan_id": "grapefruit_plan_2"
+        "lat": 40.322686529632875,
+        "pricing_plan_id": "grapefruit_plan_1"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "grapefruit_bike",
-        "is_disabled": false,
-        "lon": -3.6793405739251344,
+        "is_reserved": false,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": true,
+        "current_range_meters": 224802,
+        "lon": -3.757665946853239,
         "bike_id": "grapefruit_MADRID295",
-        "lat": 40.38910768600961,
-        "pricing_plan_id": "grapefruit_plan_3"
-      },
-      {
-        "is_reserved": false,
-        "vehicle_type_id": "grapefruit_bike",
-        "is_disabled": false,
-        "lon": -3.6427450924183136,
-        "bike_id": "grapefruit_MADRID296",
-        "lat": 40.335442201857994,
-        "pricing_plan_id": "grapefruit_plan_3"
-      },
-      {
-        "is_reserved": true,
-        "vehicle_type_id": "grapefruit_electric_bike",
-        "is_disabled": false,
-        "current_range_meters": 48238,
-        "lon": -3.640873363960946,
-        "bike_id": "grapefruit_MADRID297",
-        "lat": 40.415154267407274,
-        "pricing_plan_id": "grapefruit_plan_3"
-      },
-      {
-        "is_reserved": true,
-        "vehicle_type_id": "grapefruit_bike",
-        "is_disabled": false,
-        "lon": -3.726683353351925,
-        "bike_id": "grapefruit_MADRID298",
-        "lat": 40.47805526787697,
-        "pricing_plan_id": "grapefruit_plan_3"
-      },
-      {
-        "is_reserved": false,
-        "vehicle_type_id": "grapefruit_electric_bike",
-        "is_disabled": false,
-        "current_range_meters": 18417,
-        "lon": -3.6264287182299118,
-        "bike_id": "grapefruit_MADRID299",
-        "lat": 40.36878440612665,
-        "pricing_plan_id": "grapefruit_plan_3"
-      },
-      {
-        "is_reserved": true,
-        "vehicle_type_id": "grapefruit_electric_bike",
-        "is_disabled": true,
-        "current_range_meters": 20151,
-        "lon": -3.6946223512536234,
-        "bike_id": "grapefruit_MADRID300",
-        "lat": 40.47114346089111,
-        "pricing_plan_id": "grapefruit_plan_1"
-      },
-      {
-        "is_reserved": false,
-        "vehicle_type_id": "grapefruit_bike",
-        "is_disabled": false,
-        "lon": -3.6010441716651496,
-        "bike_id": "grapefruit_MADRID301",
-        "lat": 40.316299052937765,
-        "pricing_plan_id": "grapefruit_plan_3"
-      },
-      {
-        "is_reserved": true,
-        "vehicle_type_id": "grapefruit_electric_bike",
-        "is_disabled": false,
-        "current_range_meters": 68284,
-        "lon": -3.7676619875651918,
-        "bike_id": "grapefruit_MADRID302",
-        "lat": 40.40056686845925,
+        "lat": 40.37796790385899,
         "pricing_plan_id": "grapefruit_plan_2"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "grapefruit_bike",
+        "is_reserved": false,
+        "vehicle_type_id": "grapefruit_car",
         "is_disabled": true,
-        "lon": -3.6685464386281152,
-        "bike_id": "grapefruit_MADRID303",
-        "lat": 40.46388988402851,
+        "current_range_meters": 374200,
+        "lon": -3.6578912763145515,
+        "bike_id": "grapefruit_MADRID296",
+        "lat": 40.35196054824438,
+        "pricing_plan_id": "grapefruit_plan_3"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": false,
+        "current_range_meters": 323207,
+        "lon": -3.6033051049111777,
+        "bike_id": "grapefruit_MADRID297",
+        "lat": 40.35782024621818,
         "pricing_plan_id": "grapefruit_plan_1"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "grapefruit_bike",
-        "is_disabled": true,
-        "lon": -3.757288360310732,
-        "bike_id": "grapefruit_MADRID304",
-        "lat": 40.47605792639691,
-        "pricing_plan_id": "grapefruit_plan_3"
-      },
-      {
-        "is_reserved": true,
-        "vehicle_type_id": "grapefruit_bike",
-        "is_disabled": true,
-        "lon": -3.6461420611185344,
-        "bike_id": "grapefruit_MADRID305",
-        "lat": 40.357006379725334,
-        "pricing_plan_id": "grapefruit_plan_3"
+        "is_reserved": false,
+        "vehicle_type_id": "grapefruit_car",
+        "is_disabled": false,
+        "current_range_meters": 169987,
+        "lon": -3.769140644432652,
+        "bike_id": "grapefruit_MADRID298",
+        "lat": 40.442171655558965,
+        "pricing_plan_id": "grapefruit_plan_2"
       }
     ]
   },

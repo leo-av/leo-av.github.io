@@ -1,10 +1,10 @@
 {
-  "last_updated": 1732466792,
+  "last_updated": 1732467809,
   "data": {
     "versions": [
       {
-        "url": "https://leo-av.github.io/GBFS/BONGO/madrid_gbfs/gbfs.json",
-        "version": "2.3"
+        "version": "2.3",
+        "url": "https://leo-av.github.io/GBFS/BONGO/madrid_gbfs/gbfs.json"
       }
     ]
   },
