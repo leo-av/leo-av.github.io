@@ -1,0 +1,1129 @@
+{
+  "last_updated": 1732464329,
+  "data": {
+    "stationList": [
+      {
+        "is_installed": 1,
+        "num_bikes_disabled": 0,
+        "num_docks_available": 17,
+        "vehicle_types_available": [
+          {
+            "count": 2,
+            "vehicle_type_id": "flash_bike"
+          },
+          {
+            "count": 1,
+            "vehicle_type_id": "flash_electric_bike"
+          }
+        ],
+        "is_returning": 1,
+        "vehicle_docks_available": [
+          {
+            "vehicle_type_ids": [
+              "flash_bike",
+              "flash_electric_bike"
+            ],
+            "count": 10
+          },
+          {
+            "vehicle_type_ids": [
+              "flash_bike"
+            ],
+            "count": 5
+          }
+        ],
+        "is_renting": 1,
+        "num_bikes_available": 5,
+        "station_id": "flash_station_MADRID001",
+        "num_docks_disabled": 1
+      },
+      {
+        "is_installed": 1,
+        "num_bikes_disabled": 0,
+        "num_docks_available": 11,
+        "vehicle_types_available": [
+          {
+            "count": 2,
+            "vehicle_type_id": "flash_bike"
+          },
+          {
+            "count": 1,
+            "vehicle_type_id": "flash_electric_bike"
+          }
+        ],
+        "is_returning": 1,
+        "vehicle_docks_available": [
+          {
+            "vehicle_type_ids": [
+              "flash_bike",
+              "flash_electric_bike"
+            ],
+            "count": 6
+          },
+          {
+            "vehicle_type_ids": [
+              "flash_bike"
+            ],
+            "count": 3
+          }
+        ],
+        "is_renting": 1,
+        "num_bikes_available": 4,
+        "station_id": "flash_station_MADRID002",
+        "num_docks_disabled": 1
+      },
+      {
+        "is_installed": 1,
+        "num_bikes_disabled": 0,
+        "num_docks_available": 10,
+        "vehicle_types_available": [
+          {
+            "count": 0,
+            "vehicle_type_id": "flash_bike"
+          },
+          {
+            "count": 0,
+            "vehicle_type_id": "flash_electric_bike"
+          }
+        ],
+        "is_returning": 1,
+        "vehicle_docks_available": [
+          {
+            "vehicle_type_ids": [
+              "flash_bike",
+              "flash_electric_bike"
+            ],
+            "count": 6
+          },
+          {
+            "vehicle_type_ids": [
+              "flash_bike"
+            ],
+            "count": 3
+          }
+        ],
+        "is_renting": 1,
+        "num_bikes_available": 2,
+        "station_id": "flash_station_MADRID003",
+        "num_docks_disabled": 1
+      },
+      {
+        "is_installed": 1,
+        "num_bikes_disabled": 0,
+        "num_docks_available": 27,
+        "vehicle_types_available": [
+          {
+            "count": 4,
+            "vehicle_type_id": "flash_bike"
+          },
+          {
+            "count": 2,
+            "vehicle_type_id": "flash_electric_bike"
+          }
+        ],
+        "is_returning": 1,
+        "vehicle_docks_available": [
+          {
+            "vehicle_type_ids": [
+              "flash_bike",
+              "flash_electric_bike"
+            ],
+            "count": 18
+          },
+          {
+            "vehicle_type_ids": [
+              "flash_bike"
+            ],
+            "count": 9
+          }
+        ],
+        "is_renting": 1,
+        "num_bikes_available": 7,
+        "station_id": "flash_station_MADRID004",
+        "num_docks_disabled": 2
+      },
+      {
+        "is_installed": 1,
+        "num_bikes_disabled": 1,
+        "num_docks_available": 10,
+        "vehicle_types_available": [
+          {
+            "count": 6,
+            "vehicle_type_id": "flash_bike"
+          },
+          {
+            "count": 3,
+            "vehicle_type_id": "flash_electric_bike"
+          }
+        ],
+        "is_returning": 1,
+        "vehicle_docks_available": [
+          {
+            "vehicle_type_ids": [
+              "flash_bike",
+              "flash_electric_bike"
+            ],
+            "count": 6
+          },
+          {
+            "vehicle_type_ids": [
+              "flash_bike"
+            ],
+            "count": 3
+          }
+        ],
+        "is_renting": 1,
+        "num_bikes_available": 10,
+        "station_id": "flash_station_MADRID005",
+        "num_docks_disabled": 1
+      },
+      {
+        "is_installed": 1,
+        "num_bikes_disabled": 1,
+        "num_docks_available": 20,
+        "vehicle_types_available": [
+          {
+            "count": 12,
+            "vehicle_type_id": "flash_bike"
+          },
+          {
+            "count": 6,
+            "vehicle_type_id": "flash_electric_bike"
+          }
+        ],
+        "is_returning": 1,
+        "vehicle_docks_available": [
+          {
+            "vehicle_type_ids": [
+              "flash_bike",
+              "flash_electric_bike"
+            ],
+            "count": 12
+          },
+          {
+            "vehicle_type_ids": [
+              "flash_bike"
+            ],
+            "count": 6
+          }
+        ],
+        "is_renting": 1,
+        "num_bikes_available": 18,
+        "station_id": "flash_station_MADRID006",
+        "num_docks_disabled": 2
+      },
+      {
+        "is_installed": 1,
+        "num_bikes_disabled": 0,
+        "num_docks_available": 15,
+        "vehicle_types_available": [
+          {
+            "count": 2,
+            "vehicle_type_id": "flash_bike"
+          },
+          {
+            "count": 1,
+            "vehicle_type_id": "flash_electric_bike"
+          }
+        ],
+        "is_returning": 1,
+        "vehicle_docks_available": [
+          {
+            "vehicle_type_ids": [
+              "flash_bike",
+              "flash_electric_bike"
+            ],
+            "count": 10
+          },
+          {
+            "vehicle_type_ids": [
+              "flash_bike"
+            ],
+            "count": 5
+          }
+        ],
+        "is_renting": 1,
+        "num_bikes_available": 4,
+        "station_id": "flash_station_MADRID007",
+        "num_docks_disabled": 1
+      },
+      {
+        "is_installed": 1,
+        "num_bikes_disabled": 0,
+        "num_docks_available": 14,
+        "vehicle_types_available": [
+          {
+            "count": 4,
+            "vehicle_type_id": "flash_bike"
+          },
+          {
+            "count": 2,
+            "vehicle_type_id": "flash_electric_bike"
+          }
+        ],
+        "is_returning": 1,
+        "vehicle_docks_available": [
+          {
+            "vehicle_type_ids": [
+              "flash_bike",
+              "flash_electric_bike"
+            ],
+            "count": 8
+          },
+          {
+            "vehicle_type_ids": [
+              "flash_bike"
+            ],
+            "count": 4
+          }
+        ],
+        "is_renting": 1,
+        "num_bikes_available": 6,
+        "station_id": "flash_station_MADRID008",
+        "num_docks_disabled": 1
+      },
+      {
+        "is_installed": 1,
+        "num_bikes_disabled": 2,
+        "num_docks_available": 18,
+        "vehicle_types_available": [
+          {
+            "count": 12,
+            "vehicle_type_id": "flash_bike"
+          },
+          {
+            "count": 6,
+            "vehicle_type_id": "flash_electric_bike"
+          }
+        ],
+        "is_returning": 1,
+        "vehicle_docks_available": [
+          {
+            "vehicle_type_ids": [
+              "flash_bike",
+              "flash_electric_bike"
+            ],
+            "count": 12
+          },
+          {
+            "vehicle_type_ids": [
+              "flash_bike"
+            ],
+            "count": 6
+          }
+        ],
+        "is_renting": 1,
+        "num_bikes_available": 18,
+        "station_id": "flash_station_MADRID009",
+        "num_docks_disabled": 1
+      },
+      {
+        "is_installed": 1,
+        "num_bikes_disabled": 0,
+        "num_docks_available": 1,
+        "vehicle_types_available": [
+          {
+            "count": 0,
+            "vehicle_type_id": "flash_bike"
+          },
+          {
+            "count": 0,
+            "vehicle_type_id": "flash_electric_bike"
+          }
+        ],
+        "is_returning": 1,
+        "vehicle_docks_available": [
+          {
+            "vehicle_type_ids": [
+              "flash_bike",
+              "flash_electric_bike"
+            ],
+            "count": 0
+          },
+          {
+            "vehicle_type_ids": [
+              "flash_bike"
+            ],
+            "count": 0
+          }
+        ],
+        "is_renting": 1,
+        "num_bikes_available": 1,
+        "station_id": "flash_station_MADRID010",
+        "num_docks_disabled": 0
+      },
+      {
+        "is_installed": 1,
+        "num_bikes_disabled": 0,
+        "num_docks_available": 7,
+        "vehicle_types_available": [
+          {
+            "count": 0,
+            "vehicle_type_id": "flash_bike"
+          },
+          {
+            "count": 0,
+            "vehicle_type_id": "flash_electric_bike"
+          }
+        ],
+        "is_returning": 1,
+        "vehicle_docks_available": [
+          {
+            "vehicle_type_ids": [
+              "flash_bike",
+              "flash_electric_bike"
+            ],
+            "count": 4
+          },
+          {
+            "vehicle_type_ids": [
+              "flash_bike"
+            ],
+            "count": 2
+          }
+        ],
+        "is_renting": 1,
+        "num_bikes_available": 1,
+        "station_id": "flash_station_MADRID011",
+        "num_docks_disabled": 0
+      },
+      {
+        "is_installed": 1,
+        "num_bikes_disabled": 1,
+        "num_docks_available": 27,
+        "vehicle_types_available": [
+          {
+            "count": 10,
+            "vehicle_type_id": "flash_bike"
+          },
+          {
+            "count": 5,
+            "vehicle_type_id": "flash_electric_bike"
+          }
+        ],
+        "is_returning": 1,
+        "vehicle_docks_available": [
+          {
+            "vehicle_type_ids": [
+              "flash_bike",
+              "flash_electric_bike"
+            ],
+            "count": 18
+          },
+          {
+            "vehicle_type_ids": [
+              "flash_bike"
+            ],
+            "count": 9
+          }
+        ],
+        "is_renting": 1,
+        "num_bikes_available": 16,
+        "station_id": "flash_station_MADRID012",
+        "num_docks_disabled": 2
+      },
+      {
+        "is_installed": 1,
+        "num_bikes_disabled": 0,
+        "num_docks_available": 18,
+        "vehicle_types_available": [
+          {
+            "count": 2,
+            "vehicle_type_id": "flash_bike"
+          },
+          {
+            "count": 1,
+            "vehicle_type_id": "flash_electric_bike"
+          }
+        ],
+        "is_returning": 1,
+        "vehicle_docks_available": [
+          {
+            "vehicle_type_ids": [
+              "flash_bike",
+              "flash_electric_bike"
+            ],
+            "count": 12
+          },
+          {
+            "vehicle_type_ids": [
+              "flash_bike"
+            ],
+            "count": 6
+          }
+        ],
+        "is_renting": 1,
+        "num_bikes_available": 3,
+        "station_id": "flash_station_MADRID013",
+        "num_docks_disabled": 2
+      },
+      {
+        "is_installed": 1,
+        "num_bikes_disabled": 1,
+        "num_docks_available": 24,
+        "vehicle_types_available": [
+          {
+            "count": 12,
+            "vehicle_type_id": "flash_bike"
+          },
+          {
+            "count": 6,
+            "vehicle_type_id": "flash_electric_bike"
+          }
+        ],
+        "is_returning": 1,
+        "vehicle_docks_available": [
+          {
+            "vehicle_type_ids": [
+              "flash_bike",
+              "flash_electric_bike"
+            ],
+            "count": 16
+          },
+          {
+            "vehicle_type_ids": [
+              "flash_bike"
+            ],
+            "count": 8
+          }
+        ],
+        "is_renting": 1,
+        "num_bikes_available": 18,
+        "station_id": "flash_station_MADRID014",
+        "num_docks_disabled": 2
+      },
+      {
+        "is_installed": 1,
+        "num_bikes_disabled": 1,
+        "num_docks_available": 10,
+        "vehicle_types_available": [
+          {
+            "count": 10,
+            "vehicle_type_id": "flash_bike"
+          },
+          {
+            "count": 5,
+            "vehicle_type_id": "flash_electric_bike"
+          }
+        ],
+        "is_returning": 1,
+        "vehicle_docks_available": [
+          {
+            "vehicle_type_ids": [
+              "flash_bike",
+              "flash_electric_bike"
+            ],
+            "count": 6
+          },
+          {
+            "vehicle_type_ids": [
+              "flash_bike"
+            ],
+            "count": 3
+          }
+        ],
+        "is_renting": 1,
+        "num_bikes_available": 15,
+        "station_id": "flash_station_MADRID015",
+        "num_docks_disabled": 1
+      },
+      {
+        "is_installed": 1,
+        "num_bikes_disabled": 0,
+        "num_docks_available": 23,
+        "vehicle_types_available": [
+          {
+            "count": 2,
+            "vehicle_type_id": "flash_bike"
+          },
+          {
+            "count": 1,
+            "vehicle_type_id": "flash_electric_bike"
+          }
+        ],
+        "is_returning": 1,
+        "vehicle_docks_available": [
+          {
+            "vehicle_type_ids": [
+              "flash_bike",
+              "flash_electric_bike"
+            ],
+            "count": 14
+          },
+          {
+            "vehicle_type_ids": [
+              "flash_bike"
+            ],
+            "count": 7
+          }
+        ],
+        "is_renting": 1,
+        "num_bikes_available": 5,
+        "station_id": "flash_station_MADRID016",
+        "num_docks_disabled": 2
+      },
+      {
+        "is_installed": 1,
+        "num_bikes_disabled": 0,
+        "num_docks_available": 14,
+        "vehicle_types_available": [
+          {
+            "count": 0,
+            "vehicle_type_id": "flash_bike"
+          },
+          {
+            "count": 0,
+            "vehicle_type_id": "flash_electric_bike"
+          }
+        ],
+        "is_returning": 1,
+        "vehicle_docks_available": [
+          {
+            "vehicle_type_ids": [
+              "flash_bike",
+              "flash_electric_bike"
+            ],
+            "count": 8
+          },
+          {
+            "vehicle_type_ids": [
+              "flash_bike"
+            ],
+            "count": 4
+          }
+        ],
+        "is_renting": 1,
+        "num_bikes_available": 1,
+        "station_id": "flash_station_MADRID017",
+        "num_docks_disabled": 1
+      },
+      {
+        "is_installed": 1,
+        "num_bikes_disabled": 1,
+        "num_docks_available": 19,
+        "vehicle_types_available": [
+          {
+            "count": 6,
+            "vehicle_type_id": "flash_bike"
+          },
+          {
+            "count": 3,
+            "vehicle_type_id": "flash_electric_bike"
+          }
+        ],
+        "is_returning": 1,
+        "vehicle_docks_available": [
+          {
+            "vehicle_type_ids": [
+              "flash_bike",
+              "flash_electric_bike"
+            ],
+            "count": 12
+          },
+          {
+            "vehicle_type_ids": [
+              "flash_bike"
+            ],
+            "count": 6
+          }
+        ],
+        "is_renting": 1,
+        "num_bikes_available": 9,
+        "station_id": "flash_station_MADRID018",
+        "num_docks_disabled": 2
+      },
+      {
+        "is_installed": 1,
+        "num_bikes_disabled": 0,
+        "num_docks_available": 5,
+        "vehicle_types_available": [
+          {
+            "count": 0,
+            "vehicle_type_id": "flash_bike"
+          },
+          {
+            "count": 0,
+            "vehicle_type_id": "flash_electric_bike"
+          }
+        ],
+        "is_returning": 1,
+        "vehicle_docks_available": [
+          {
+            "vehicle_type_ids": [
+              "flash_bike",
+              "flash_electric_bike"
+            ],
+            "count": 2
+          },
+          {
+            "vehicle_type_ids": [
+              "flash_bike"
+            ],
+            "count": 1
+          }
+        ],
+        "is_renting": 1,
+        "num_bikes_available": 1,
+        "station_id": "flash_station_MADRID019",
+        "num_docks_disabled": 0
+      },
+      {
+        "is_installed": 1,
+        "num_bikes_disabled": 1,
+        "num_docks_available": 12,
+        "vehicle_types_available": [
+          {
+            "count": 10,
+            "vehicle_type_id": "flash_bike"
+          },
+          {
+            "count": 5,
+            "vehicle_type_id": "flash_electric_bike"
+          }
+        ],
+        "is_returning": 1,
+        "vehicle_docks_available": [
+          {
+            "vehicle_type_ids": [
+              "flash_bike",
+              "flash_electric_bike"
+            ],
+            "count": 8
+          },
+          {
+            "vehicle_type_ids": [
+              "flash_bike"
+            ],
+            "count": 4
+          }
+        ],
+        "is_renting": 1,
+        "num_bikes_available": 17,
+        "station_id": "flash_station_MADRID020",
+        "num_docks_disabled": 1
+      },
+      {
+        "is_installed": 1,
+        "num_bikes_disabled": 1,
+        "num_docks_available": 8,
+        "vehicle_types_available": [
+          {
+            "count": 6,
+            "vehicle_type_id": "flash_bike"
+          },
+          {
+            "count": 3,
+            "vehicle_type_id": "flash_electric_bike"
+          }
+        ],
+        "is_returning": 1,
+        "vehicle_docks_available": [
+          {
+            "vehicle_type_ids": [
+              "flash_bike",
+              "flash_electric_bike"
+            ],
+            "count": 4
+          },
+          {
+            "vehicle_type_ids": [
+              "flash_bike"
+            ],
+            "count": 2
+          }
+        ],
+        "is_renting": 1,
+        "num_bikes_available": 9,
+        "station_id": "flash_station_MADRID021",
+        "num_docks_disabled": 0
+      },
+      {
+        "is_installed": 1,
+        "num_bikes_disabled": 1,
+        "num_docks_available": 18,
+        "vehicle_types_available": [
+          {
+            "count": 8,
+            "vehicle_type_id": "flash_bike"
+          },
+          {
+            "count": 4,
+            "vehicle_type_id": "flash_electric_bike"
+          }
+        ],
+        "is_returning": 1,
+        "vehicle_docks_available": [
+          {
+            "vehicle_type_ids": [
+              "flash_bike",
+              "flash_electric_bike"
+            ],
+            "count": 12
+          },
+          {
+            "vehicle_type_ids": [
+              "flash_bike"
+            ],
+            "count": 6
+          }
+        ],
+        "is_renting": 1,
+        "num_bikes_available": 14,
+        "station_id": "flash_station_MADRID022",
+        "num_docks_disabled": 2
+      },
+      {
+        "is_installed": 1,
+        "num_bikes_disabled": 0,
+        "num_docks_available": 12,
+        "vehicle_types_available": [
+          {
+            "count": 2,
+            "vehicle_type_id": "flash_bike"
+          },
+          {
+            "count": 1,
+            "vehicle_type_id": "flash_electric_bike"
+          }
+        ],
+        "is_returning": 1,
+        "vehicle_docks_available": [
+          {
+            "vehicle_type_ids": [
+              "flash_bike",
+              "flash_electric_bike"
+            ],
+            "count": 8
+          },
+          {
+            "vehicle_type_ids": [
+              "flash_bike"
+            ],
+            "count": 4
+          }
+        ],
+        "is_renting": 1,
+        "num_bikes_available": 5,
+        "station_id": "flash_station_MADRID023",
+        "num_docks_disabled": 1
+      },
+      {
+        "is_installed": 1,
+        "num_bikes_disabled": 1,
+        "num_docks_available": 26,
+        "vehicle_types_available": [
+          {
+            "count": 6,
+            "vehicle_type_id": "flash_bike"
+          },
+          {
+            "count": 3,
+            "vehicle_type_id": "flash_electric_bike"
+          }
+        ],
+        "is_returning": 1,
+        "vehicle_docks_available": [
+          {
+            "vehicle_type_ids": [
+              "flash_bike",
+              "flash_electric_bike"
+            ],
+            "count": 16
+          },
+          {
+            "vehicle_type_ids": [
+              "flash_bike"
+            ],
+            "count": 8
+          }
+        ],
+        "is_renting": 1,
+        "num_bikes_available": 11,
+        "station_id": "flash_station_MADRID024",
+        "num_docks_disabled": 2
+      },
+      {
+        "is_installed": 1,
+        "num_bikes_disabled": 1,
+        "num_docks_available": 27,
+        "vehicle_types_available": [
+          {
+            "count": 6,
+            "vehicle_type_id": "flash_bike"
+          },
+          {
+            "count": 3,
+            "vehicle_type_id": "flash_electric_bike"
+          }
+        ],
+        "is_returning": 1,
+        "vehicle_docks_available": [
+          {
+            "vehicle_type_ids": [
+              "flash_bike",
+              "flash_electric_bike"
+            ],
+            "count": 18
+          },
+          {
+            "vehicle_type_ids": [
+              "flash_bike"
+            ],
+            "count": 9
+          }
+        ],
+        "is_renting": 1,
+        "num_bikes_available": 11,
+        "station_id": "flash_station_MADRID025",
+        "num_docks_disabled": 2
+      },
+      {
+        "is_installed": 1,
+        "num_bikes_disabled": 0,
+        "num_docks_available": 21,
+        "vehicle_types_available": [
+          {
+            "count": 2,
+            "vehicle_type_id": "flash_bike"
+          },
+          {
+            "count": 1,
+            "vehicle_type_id": "flash_electric_bike"
+          }
+        ],
+        "is_returning": 1,
+        "vehicle_docks_available": [
+          {
+            "vehicle_type_ids": [
+              "flash_bike",
+              "flash_electric_bike"
+            ],
+            "count": 14
+          },
+          {
+            "vehicle_type_ids": [
+              "flash_bike"
+            ],
+            "count": 7
+          }
+        ],
+        "is_renting": 1,
+        "num_bikes_available": 3,
+        "station_id": "flash_station_MADRID026",
+        "num_docks_disabled": 2
+      },
+      {
+        "is_installed": 1,
+        "num_bikes_disabled": 0,
+        "num_docks_available": 23,
+        "vehicle_types_available": [
+          {
+            "count": 2,
+            "vehicle_type_id": "flash_bike"
+          },
+          {
+            "count": 1,
+            "vehicle_type_id": "flash_electric_bike"
+          }
+        ],
+        "is_returning": 1,
+        "vehicle_docks_available": [
+          {
+            "vehicle_type_ids": [
+              "flash_bike",
+              "flash_electric_bike"
+            ],
+            "count": 14
+          },
+          {
+            "vehicle_type_ids": [
+              "flash_bike"
+            ],
+            "count": 7
+          }
+        ],
+        "is_renting": 1,
+        "num_bikes_available": 4,
+        "station_id": "flash_station_MADRID027",
+        "num_docks_disabled": 2
+      },
+      {
+        "is_installed": 1,
+        "num_bikes_disabled": 1,
+        "num_docks_available": 7,
+        "vehicle_types_available": [
+          {
+            "count": 6,
+            "vehicle_type_id": "flash_bike"
+          },
+          {
+            "count": 3,
+            "vehicle_type_id": "flash_electric_bike"
+          }
+        ],
+        "is_returning": 1,
+        "vehicle_docks_available": [
+          {
+            "vehicle_type_ids": [
+              "flash_bike",
+              "flash_electric_bike"
+            ],
+            "count": 4
+          },
+          {
+            "vehicle_type_ids": [
+              "flash_bike"
+            ],
+            "count": 2
+          }
+        ],
+        "is_renting": 1,
+        "num_bikes_available": 10,
+        "station_id": "flash_station_MADRID028",
+        "num_docks_disabled": 0
+      },
+      {
+        "is_installed": 1,
+        "num_bikes_disabled": 1,
+        "num_docks_available": 26,
+        "vehicle_types_available": [
+          {
+            "count": 8,
+            "vehicle_type_id": "flash_bike"
+          },
+          {
+            "count": 4,
+            "vehicle_type_id": "flash_electric_bike"
+          }
+        ],
+        "is_returning": 1,
+        "vehicle_docks_available": [
+          {
+            "vehicle_type_ids": [
+              "flash_bike",
+              "flash_electric_bike"
+            ],
+            "count": 16
+          },
+          {
+            "vehicle_type_ids": [
+              "flash_bike"
+            ],
+            "count": 8
+          }
+        ],
+        "is_renting": 1,
+        "num_bikes_available": 13,
+        "station_id": "flash_station_MADRID029",
+        "num_docks_disabled": 2
+      },
+      {
+        "is_installed": 1,
+        "num_bikes_disabled": 0,
+        "num_docks_available": 8,
+        "vehicle_types_available": [
+          {
+            "count": 0,
+            "vehicle_type_id": "flash_bike"
+          },
+          {
+            "count": 0,
+            "vehicle_type_id": "flash_electric_bike"
+          }
+        ],
+        "is_returning": 1,
+        "vehicle_docks_available": [
+          {
+            "vehicle_type_ids": [
+              "flash_bike",
+              "flash_electric_bike"
+            ],
+            "count": 4
+          },
+          {
+            "vehicle_type_ids": [
+              "flash_bike"
+            ],
+            "count": 2
+          }
+        ],
+        "is_renting": 1,
+        "num_bikes_available": 1,
+        "station_id": "flash_station_MADRID030",
+        "num_docks_disabled": 0
+      },
+      {
+        "is_installed": 1,
+        "num_bikes_disabled": 1,
+        "num_docks_available": 5,
+        "vehicle_types_available": [
+          {
+            "count": 8,
+            "vehicle_type_id": "flash_bike"
+          },
+          {
+            "count": 4,
+            "vehicle_type_id": "flash_electric_bike"
+          }
+        ],
+        "is_returning": 1,
+        "vehicle_docks_available": [
+          {
+            "vehicle_type_ids": [
+              "flash_bike",
+              "flash_electric_bike"
+            ],
+            "count": 2
+          },
+          {
+            "vehicle_type_ids": [
+              "flash_bike"
+            ],
+            "count": 1
+          }
+        ],
+        "is_renting": 1,
+        "num_bikes_available": 13,
+        "station_id": "flash_station_MADRID031",
+        "num_docks_disabled": 0
+      },
+      {
+        "is_installed": 1,
+        "num_bikes_disabled": 1,
+        "num_docks_available": 5,
+        "vehicle_types_available": [
+          {
+            "count": 6,
+            "vehicle_type_id": "flash_bike"
+          },
+          {
+            "count": 3,
+            "vehicle_type_id": "flash_electric_bike"
+          }
+        ],
+        "is_returning": 1,
+        "vehicle_docks_available": [
+          {
+            "vehicle_type_ids": [
+              "flash_bike",
+              "flash_electric_bike"
+            ],
+            "count": 2
+          },
+          {
+            "vehicle_type_ids": [
+              "flash_bike"
+            ],
+            "count": 1
+          }
+        ],
+        "is_renting": 1,
+        "num_bikes_available": 11,
+        "station_id": "flash_station_MADRID032",
+        "num_docks_disabled": 0
+      }
+    ]
+  },
+  "ttl": 180,
+  "version": "2.3"
+}

@@ -1,5 +1,5 @@
 {
-  "last_updated": 1732463853,
+  "last_updated": 1732464357,
   "data": {
     "vehicle_types": [
       {
@@ -7,11 +7,22 @@
           "free_streets_plan_1",
           "free_streets_plan_2"
         ],
-        "vehicle_type_id": "free_streets_car",
+        "vehicle_type_id": "free_streets_motorbike",
         "propulsion_type": "electric",
         "default_pricing_plan_id": "free_streets_plan_1",
-        "max_range_meters": 390000,
-        "form_factor": "car"
+        "max_range_meters": 200000,
+        "form_factor": "moped"
+      },
+      {
+        "pricing_plans": [
+          "free_streets_plan_1",
+          "free_streets_plan_3"
+        ],
+        "vehicle_type_id": "free_streets_scooter",
+        "propulsion_type": "electric",
+        "default_pricing_plan_id": "free_streets_plan_1",
+        "max_range_meters": 20000,
+        "form_factor": "scooter"
       }
     ]
   },

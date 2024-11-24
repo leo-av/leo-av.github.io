@@ -1,15 +1,15 @@
 {
-  "last_updated": 1732463824,
+  "last_updated": 1732464314,
   "data": {
     "plans": [
       {
-        "price": 1.5,
+        "price": 1.95,
         "name": "Simple rate",
-        "description": "1.50 € per kilometer",
+        "description": "1.20 € per kilometer",
         "currency": "EUR",
         "per_km_pricing": [
           {
-            "rate": 1.5,
+            "rate": 1.2,
             "start": 0,
             "interval": 1
           }
@@ -18,28 +18,28 @@
         "is_taxable": false
       },
       {
-        "price": 2.1,
+        "price": 2.7,
         "name": "One-Way",
-        "description": "Includes 29km, overage fees apply after 29km",
+        "description": "Includes 27km, overage fees apply after 27km",
         "currency": "EUR",
         "per_km_pricing": [
           {
-            "rate": 2.1,
-            "start": 29,
+            "rate": 1.4,
+            "start": 27,
             "interval": 1,
-            "end": 56
+            "end": 52
           },
           {
-            "rate": 0.85,
-            "start": 56,
+            "rate": 1.1,
+            "start": 52,
             "interval": 1,
-            "end": 85
+            "end": 81
           },
           {
-            "rate": 4.5,
-            "start": 85,
+            "rate": 7.7,
+            "start": 81,
             "interval": 5,
-            "end": 110
+            "end": 109
           }
         ],
         "plan_id": "megamo_plan_2",
@@ -48,18 +48,18 @@
       {
         "per_min_pricing": [
           {
-            "rate": 1.05,
+            "rate": 0.6,
             "start": 0,
             "interval": 1
           }
         ],
-        "price": 2.85,
+        "price": 3.2,
         "name": "Simple rate",
-        "description": "2.85 € unlock fee, 0.55 € per kilometer and 1.05 € per minute.",
+        "description": "3.20 € unlock fee, 0.80 € per kilometer and 0.60 € per minute.",
         "currency": "EUR",
         "per_km_pricing": [
           {
-            "rate": 0.55,
+            "rate": 0.8,
             "start": 0,
             "interval": 1
           }

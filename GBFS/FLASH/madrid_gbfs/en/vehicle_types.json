@@ -1,17 +1,27 @@
 {
-  "last_updated": 1732463829,
+  "last_updated": 1732464329,
   "data": {
     "vehicle_types": [
       {
         "pricing_plans": [
           "flash_plan_1",
-          "flash_plan_2"
+          "flash_plan_3"
         ],
-        "vehicle_type_id": "flash_car",
-        "propulsion_type": "combustion",
+        "vehicle_type_id": "flash_bike",
+        "propulsion_type": "human",
         "default_pricing_plan_id": "flash_plan_1",
-        "max_range_meters": 500000,
-        "form_factor": "car"
+        "form_factor": "bicycle"
+      },
+      {
+        "pricing_plans": [
+          "flash_plan_1",
+          "flash_plan_3"
+        ],
+        "vehicle_type_id": "flash_electric_bike",
+        "propulsion_type": "electric",
+        "default_pricing_plan_id": "flash_plan_1",
+        "max_range_meters": 75000,
+        "form_factor": "bicycle"
       }
     ]
   },

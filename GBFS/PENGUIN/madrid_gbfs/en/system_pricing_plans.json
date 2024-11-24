@@ -1,15 +1,15 @@
 {
-  "last_updated": 1732463871,
+  "last_updated": 1732464348,
   "data": {
     "plans": [
       {
-        "price": 2.5,
+        "price": 0.9,
         "name": "Simple rate",
-        "description": "1.45 € per kilometer",
+        "description": "1.85 € per kilometer",
         "currency": "EUR",
         "per_km_pricing": [
           {
-            "rate": 1.45,
+            "rate": 1.85,
             "start": 0,
             "interval": 1
           }
@@ -18,28 +18,28 @@
         "is_taxable": false
       },
       {
-        "price": 2.25,
+        "price": 1.6,
         "name": "One-Way",
-        "description": "Includes 29km, overage fees apply after 29km",
+        "description": "Includes 25km, overage fees apply after 25km",
         "currency": "EUR",
         "per_km_pricing": [
           {
-            "rate": 1.9,
-            "start": 29,
+            "rate": 2.35,
+            "start": 25,
             "interval": 1,
-            "end": 55
+            "end": 53
           },
           {
             "rate": 0.7,
-            "start": 55,
+            "start": 53,
             "interval": 1,
-            "end": 83
+            "end": 78
           },
           {
-            "rate": 7.5,
-            "start": 83,
+            "rate": 5.6,
+            "start": 78,
             "interval": 5,
-            "end": 108
+            "end": 106
           }
         ],
         "plan_id": "penguin_plan_2",
@@ -48,18 +48,18 @@
       {
         "per_min_pricing": [
           {
-            "rate": 1.35,
+            "rate": 1.15,
             "start": 0,
             "interval": 1
           }
         ],
         "price": 3.55,
         "name": "Simple rate",
-        "description": "3.55 € unlock fee, 1.05 € per kilometer and 1.35 € per minute.",
+        "description": "3.55 € unlock fee, 0.55 € per kilometer and 1.15 € per minute.",
         "currency": "EUR",
         "per_km_pricing": [
           {
-            "rate": 1.05,
+            "rate": 0.55,
             "start": 0,
             "interval": 1
           }
