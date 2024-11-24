@@ -1,16 +1,16 @@
 {
-  "last_updated": 1732462817,
+  "last_updated": 1732462823,
   "data": {
-    "system_id": "flash",
+    "system_id": "bongo",
     "timezone": "Europe/Paris",
-    "name": "FLASH",
+    "name": "BONGO",
     "language": "en",
-    "short_name": "FLASH",
+    "short_name": "BONGO",
     "phone_number": "666777888",
-    "feed_contact_email": "datafeed@flash.es",
-    "operator": "FLASH",
+    "feed_contact_email": "datafeed@bongo.es",
+    "operator": "BONGO",
     "url": "http://www.exampleride.org",
-    "email": "customerservice@flash.es",
+    "email": "customerservice@bongo.es",
     "license_url": "https://exampleride.org/data-license.html",
     "start_date": "2010-06-10"
   },

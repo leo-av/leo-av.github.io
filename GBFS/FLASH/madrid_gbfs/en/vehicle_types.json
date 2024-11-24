@@ -1,5 +1,5 @@
 {
-  "last_updated": 1732461892,
+  "last_updated": 1732462817,
   "data": {
     "vehicle_types": [
       {
@@ -8,9 +8,9 @@
           "flash_plan_2"
         ],
         "vehicle_type_id": "flash_car",
-        "propulsion_type": "combustion",
+        "propulsion_type": "electric",
         "default_pricing_plan_id": "flash_plan_1",
-        "max_range_meters": 500000,
+        "max_range_meters": 390000,
         "form_factor": "car"
       }
     ]

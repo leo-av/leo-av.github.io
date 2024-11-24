@@ -1,0 +1,2446 @@
+{
+  "last_updated": 1732462823,
+  "data": {
+    "bikes": [
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 0,
+        "lon": -3.6240002694502227,
+        "bike_id": "bongo_MADRID001",
+        "lat": 40.415379600191244,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 0,
+        "lon": -3.6418679453671627,
+        "bike_id": "bongo_MADRID002",
+        "lat": 40.40393329416571,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 1,
+        "current_range_meters": 4946,
+        "lon": -3.7376939129515985,
+        "bike_id": "bongo_MADRID003",
+        "lat": 40.45091922398537,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 0,
+        "lon": -3.6657780044330788,
+        "bike_id": "bongo_MADRID004",
+        "lat": 40.364879596061954,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 0,
+        "current_range_meters": 29265,
+        "lon": -3.783404202082101,
+        "bike_id": "bongo_MADRID005",
+        "lat": 40.49792053661022,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 0,
+        "lon": -3.766367874986124,
+        "bike_id": "bongo_MADRID006",
+        "lat": 40.32298316047833,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 0,
+        "lon": -3.600470731227193,
+        "bike_id": "bongo_MADRID007",
+        "lat": 40.368961776486614,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 0,
+        "current_range_meters": 12429,
+        "lon": -3.615415453734764,
+        "bike_id": "bongo_MADRID008",
+        "lat": 40.48946047669015,
+        "pricing_plan_id": "bongo_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 0,
+        "current_range_meters": 22020,
+        "lon": -3.692012088731522,
+        "bike_id": "bongo_MADRID009",
+        "lat": 40.47188273710835,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 0,
+        "current_range_meters": 48847,
+        "lon": -3.7143515966893657,
+        "bike_id": "bongo_MADRID010",
+        "lat": 40.48391417116331,
+        "pricing_plan_id": "bongo_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 0,
+        "current_range_meters": 26146,
+        "lon": -3.6686824451879523,
+        "bike_id": "bongo_MADRID011",
+        "lat": 40.35185666922453,
+        "pricing_plan_id": "bongo_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 0,
+        "current_range_meters": 51650,
+        "lon": -3.67635832139672,
+        "bike_id": "bongo_MADRID012",
+        "lat": 40.33309947900419,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 0,
+        "current_range_meters": 44865,
+        "lon": -3.690105279902866,
+        "bike_id": "bongo_MADRID013",
+        "lat": 40.47451600255649,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 0,
+        "current_range_meters": 32014,
+        "lon": -3.660889899605527,
+        "bike_id": "bongo_MADRID014",
+        "lat": 40.391935346610815,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 0,
+        "lon": -3.6438592640881993,
+        "bike_id": "bongo_MADRID015",
+        "lat": 40.39745462491783,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 0,
+        "lon": -3.684366646553179,
+        "bike_id": "bongo_MADRID016",
+        "lat": 40.392285659660914,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 1,
+        "current_range_meters": 54402,
+        "lon": -3.797790556649778,
+        "bike_id": "bongo_MADRID017",
+        "lat": 40.40514193635715,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 1,
+        "current_range_meters": 51476,
+        "lon": -3.772302244725848,
+        "bike_id": "bongo_MADRID018",
+        "lat": 40.370781226156794,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 1,
+        "current_range_meters": 17277,
+        "lon": -3.658897198754992,
+        "bike_id": "bongo_MADRID019",
+        "lat": 40.414786580679795,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 0,
+        "current_range_meters": 51558,
+        "lon": -3.7783311055380877,
+        "bike_id": "bongo_MADRID020",
+        "lat": 40.482600746285186,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 0,
+        "current_range_meters": 60024,
+        "lon": -3.7653307972408925,
+        "bike_id": "bongo_MADRID021",
+        "lat": 40.362180831147164,
+        "pricing_plan_id": "bongo_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 0,
+        "current_range_meters": 11835,
+        "lon": -3.6202069384389475,
+        "bike_id": "bongo_MADRID022",
+        "lat": 40.47510133899689,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 0,
+        "current_range_meters": 65009,
+        "lon": -3.766786891496308,
+        "bike_id": "bongo_MADRID023",
+        "lat": 40.49906220176008,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 1,
+        "lon": -3.603424098623476,
+        "bike_id": "bongo_MADRID024",
+        "lat": 40.317697205053236,
+        "pricing_plan_id": "bongo_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 0,
+        "current_range_meters": 11505,
+        "lon": -3.6115878193199222,
+        "bike_id": "bongo_MADRID025",
+        "lat": 40.38128751917476,
+        "pricing_plan_id": "bongo_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 0,
+        "lon": -3.7681957735971507,
+        "bike_id": "bongo_MADRID026",
+        "lat": 40.43646478628572,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 1,
+        "lon": -3.7022406657269555,
+        "bike_id": "bongo_MADRID027",
+        "lat": 40.46712050867922,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 0,
+        "current_range_meters": 19509,
+        "lon": -3.638018197710962,
+        "bike_id": "bongo_MADRID028",
+        "lat": 40.31672095791511,
+        "pricing_plan_id": "bongo_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 0,
+        "lon": -3.7618574930787285,
+        "bike_id": "bongo_MADRID029",
+        "lat": 40.436633058297495,
+        "pricing_plan_id": "bongo_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 0,
+        "lon": -3.7648028161103677,
+        "bike_id": "bongo_MADRID030",
+        "lat": 40.32325346361488,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 0,
+        "lon": -3.647588951210227,
+        "bike_id": "bongo_MADRID031",
+        "lat": 40.45430960493444,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 0,
+        "lon": -3.670285669442519,
+        "bike_id": "bongo_MADRID032",
+        "lat": 40.313962266511886,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 0,
+        "current_range_meters": 43278,
+        "lon": -3.7356591795896206,
+        "bike_id": "bongo_MADRID033",
+        "lat": 40.38666591822765,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 1,
+        "current_range_meters": 8701,
+        "lon": -3.673498090598461,
+        "bike_id": "bongo_MADRID034",
+        "lat": 40.34094560656108,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 1,
+        "current_range_meters": 62394,
+        "lon": -3.7462696533670536,
+        "bike_id": "bongo_MADRID035",
+        "lat": 40.4556022886414,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 1,
+        "current_range_meters": 20379,
+        "lon": -3.7310286975520266,
+        "bike_id": "bongo_MADRID036",
+        "lat": 40.32095752381112,
+        "pricing_plan_id": "bongo_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 0,
+        "lon": -3.719997458827279,
+        "bike_id": "bongo_MADRID037",
+        "lat": 40.334604733441786,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 0,
+        "current_range_meters": 59775,
+        "lon": -3.7073176732775757,
+        "bike_id": "bongo_MADRID038",
+        "lat": 40.491580259994706,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 0,
+        "lon": -3.6208201094536983,
+        "bike_id": "bongo_MADRID039",
+        "lat": 40.493129185871766,
+        "pricing_plan_id": "bongo_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 1,
+        "lon": -3.7159134401766556,
+        "bike_id": "bongo_MADRID040",
+        "lat": 40.478388091662254,
+        "pricing_plan_id": "bongo_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 0,
+        "lon": -3.6363671092968906,
+        "bike_id": "bongo_MADRID041",
+        "lat": 40.344733474835344,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 1,
+        "lon": -3.719766050775204,
+        "bike_id": "bongo_MADRID042",
+        "lat": 40.447221467449346,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 0,
+        "lon": -3.6938162665947116,
+        "bike_id": "bongo_MADRID043",
+        "lat": 40.43396025001006,
+        "pricing_plan_id": "bongo_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 0,
+        "lon": -3.6181981457753483,
+        "bike_id": "bongo_MADRID044",
+        "lat": 40.3940727613973,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 1,
+        "lon": -3.7490773789377436,
+        "bike_id": "bongo_MADRID045",
+        "lat": 40.451316972635574,
+        "pricing_plan_id": "bongo_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 1,
+        "current_range_meters": 43770,
+        "lon": -3.7431618906592354,
+        "bike_id": "bongo_MADRID046",
+        "lat": 40.3713873606855,
+        "pricing_plan_id": "bongo_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 0,
+        "lon": -3.6829039294693127,
+        "bike_id": "bongo_MADRID047",
+        "lat": 40.30628539643905,
+        "pricing_plan_id": "bongo_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 0,
+        "current_range_meters": 26427,
+        "lon": -3.6277005110655884,
+        "bike_id": "bongo_MADRID048",
+        "lat": 40.36451301599383,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 0,
+        "current_range_meters": 19063,
+        "lon": -3.600943597728122,
+        "bike_id": "bongo_MADRID049",
+        "lat": 40.36752467045702,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 0,
+        "lon": -3.680295205141992,
+        "bike_id": "bongo_MADRID050",
+        "lat": 40.30264461004181,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 1,
+        "current_range_meters": 42076,
+        "lon": -3.6702077223173237,
+        "bike_id": "bongo_MADRID051",
+        "lat": 40.36314505932667,
+        "pricing_plan_id": "bongo_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 0,
+        "lon": -3.7284018061858535,
+        "bike_id": "bongo_MADRID052",
+        "lat": 40.4963639147402,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 1,
+        "lon": -3.6916869972217277,
+        "bike_id": "bongo_MADRID053",
+        "lat": 40.42359566500791,
+        "pricing_plan_id": "bongo_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 1,
+        "current_range_meters": 21093,
+        "lon": -3.79354124159906,
+        "bike_id": "bongo_MADRID054",
+        "lat": 40.40148878086692,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 1,
+        "lon": -3.7573953135541895,
+        "bike_id": "bongo_MADRID055",
+        "lat": 40.41543553685493,
+        "pricing_plan_id": "bongo_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 1,
+        "current_range_meters": 71862,
+        "lon": -3.7937746865696242,
+        "bike_id": "bongo_MADRID056",
+        "lat": 40.45868807810011,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 1,
+        "lon": -3.634300226789836,
+        "bike_id": "bongo_MADRID057",
+        "lat": 40.45732212495363,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 1,
+        "current_range_meters": 3972,
+        "lon": -3.6195619150218827,
+        "bike_id": "bongo_MADRID058",
+        "lat": 40.33255100316911,
+        "pricing_plan_id": "bongo_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 1,
+        "lon": -3.723080349484691,
+        "bike_id": "bongo_MADRID059",
+        "lat": 40.44367073524469,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 0,
+        "lon": -3.6855131453308188,
+        "bike_id": "bongo_MADRID060",
+        "lat": 40.46376366084878,
+        "pricing_plan_id": "bongo_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 0,
+        "current_range_meters": 18252,
+        "lon": -3.72772229661216,
+        "bike_id": "bongo_MADRID061",
+        "lat": 40.40034224610164,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 0,
+        "current_range_meters": 26804,
+        "lon": -3.7185031024205193,
+        "bike_id": "bongo_MADRID062",
+        "lat": 40.455952340061785,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 0,
+        "lon": -3.7335505070687787,
+        "bike_id": "bongo_MADRID063",
+        "lat": 40.39795488033741,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 1,
+        "current_range_meters": 63641,
+        "lon": -3.6128316323694856,
+        "bike_id": "bongo_MADRID064",
+        "lat": 40.44359621370219,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 0,
+        "lon": -3.610642427350815,
+        "bike_id": "bongo_MADRID065",
+        "lat": 40.30383352778826,
+        "pricing_plan_id": "bongo_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 0,
+        "current_range_meters": 35481,
+        "lon": -3.738369646121087,
+        "bike_id": "bongo_MADRID066",
+        "lat": 40.30784533874444,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 0,
+        "lon": -3.64110126120775,
+        "bike_id": "bongo_MADRID067",
+        "lat": 40.437313734105494,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 1,
+        "current_range_meters": 16780,
+        "lon": -3.621403232662661,
+        "bike_id": "bongo_MADRID068",
+        "lat": 40.43971920228424,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 0,
+        "lon": -3.6096130597092944,
+        "bike_id": "bongo_MADRID069",
+        "lat": 40.38031091038141,
+        "pricing_plan_id": "bongo_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 1,
+        "current_range_meters": 39949,
+        "lon": -3.752524176502025,
+        "bike_id": "bongo_MADRID070",
+        "lat": 40.309258937990215,
+        "pricing_plan_id": "bongo_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 0,
+        "lon": -3.6620670577803742,
+        "bike_id": "bongo_MADRID071",
+        "lat": 40.36081997708287,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 1,
+        "current_range_meters": 32422,
+        "lon": -3.7489725721061053,
+        "bike_id": "bongo_MADRID072",
+        "lat": 40.34207580877032,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 0,
+        "lon": -3.6706622014962695,
+        "bike_id": "bongo_MADRID073",
+        "lat": 40.368962059687625,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 0,
+        "current_range_meters": 4653,
+        "lon": -3.7040918724589034,
+        "bike_id": "bongo_MADRID074",
+        "lat": 40.397920499880584,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 0,
+        "lon": -3.787546678777932,
+        "bike_id": "bongo_MADRID075",
+        "lat": 40.46152849899919,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 1,
+        "current_range_meters": 39287,
+        "lon": -3.7943215428557493,
+        "bike_id": "bongo_MADRID076",
+        "lat": 40.38712751475704,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 1,
+        "current_range_meters": 42891,
+        "lon": -3.7471736244854745,
+        "bike_id": "bongo_MADRID077",
+        "lat": 40.36990967390357,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 1,
+        "lon": -3.634438295739713,
+        "bike_id": "bongo_MADRID078",
+        "lat": 40.439126419931135,
+        "pricing_plan_id": "bongo_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 0,
+        "lon": -3.690660688616006,
+        "bike_id": "bongo_MADRID079",
+        "lat": 40.40052092345254,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 1,
+        "current_range_meters": 52999,
+        "lon": -3.7988872050327624,
+        "bike_id": "bongo_MADRID080",
+        "lat": 40.453693694109255,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 0,
+        "current_range_meters": 46557,
+        "lon": -3.654512097163795,
+        "bike_id": "bongo_MADRID081",
+        "lat": 40.33794105638471,
+        "pricing_plan_id": "bongo_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 0,
+        "current_range_meters": 42439,
+        "lon": -3.681717456785188,
+        "bike_id": "bongo_MADRID082",
+        "lat": 40.41317878894183,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 0,
+        "current_range_meters": 40073,
+        "lon": -3.727422486039118,
+        "bike_id": "bongo_MADRID083",
+        "lat": 40.30564096052152,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 0,
+        "lon": -3.693703500611243,
+        "bike_id": "bongo_MADRID084",
+        "lat": 40.41981570271237,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 1,
+        "current_range_meters": 16366,
+        "lon": -3.748460484751301,
+        "bike_id": "bongo_MADRID085",
+        "lat": 40.30709973561023,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 1,
+        "lon": -3.7867070216936636,
+        "bike_id": "bongo_MADRID086",
+        "lat": 40.48129189212572,
+        "pricing_plan_id": "bongo_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 1,
+        "lon": -3.7486662631824452,
+        "bike_id": "bongo_MADRID087",
+        "lat": 40.47140001737575,
+        "pricing_plan_id": "bongo_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 0,
+        "current_range_meters": 7915,
+        "lon": -3.7293047604506926,
+        "bike_id": "bongo_MADRID088",
+        "lat": 40.418908227973965,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 1,
+        "lon": -3.7189962632609253,
+        "bike_id": "bongo_MADRID089",
+        "lat": 40.47176631197829,
+        "pricing_plan_id": "bongo_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 0,
+        "current_range_meters": 10963,
+        "lon": -3.6689512522397445,
+        "bike_id": "bongo_MADRID090",
+        "lat": 40.441130383543744,
+        "pricing_plan_id": "bongo_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 1,
+        "current_range_meters": 19727,
+        "lon": -3.7607052276203943,
+        "bike_id": "bongo_MADRID091",
+        "lat": 40.300746884759434,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 1,
+        "current_range_meters": 33940,
+        "lon": -3.7206586673664566,
+        "bike_id": "bongo_MADRID092",
+        "lat": 40.37027983298669,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 0,
+        "current_range_meters": 36316,
+        "lon": -3.6268668799540906,
+        "bike_id": "bongo_MADRID093",
+        "lat": 40.37569399036482,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 0,
+        "lon": -3.714062187658893,
+        "bike_id": "bongo_MADRID094",
+        "lat": 40.424964586798865,
+        "pricing_plan_id": "bongo_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 1,
+        "lon": -3.799523599498699,
+        "bike_id": "bongo_MADRID095",
+        "lat": 40.38808145724899,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 0,
+        "lon": -3.70779951570718,
+        "bike_id": "bongo_MADRID096",
+        "lat": 40.31105552644726,
+        "pricing_plan_id": "bongo_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 0,
+        "current_range_meters": 33995,
+        "lon": -3.623025907361994,
+        "bike_id": "bongo_MADRID097",
+        "lat": 40.384296315518775,
+        "pricing_plan_id": "bongo_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 1,
+        "lon": -3.726074408467308,
+        "bike_id": "bongo_MADRID098",
+        "lat": 40.474882428654965,
+        "pricing_plan_id": "bongo_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 1,
+        "current_range_meters": 3869,
+        "lon": -3.7628940414714993,
+        "bike_id": "bongo_MADRID099",
+        "lat": 40.31964132084797,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 1,
+        "lon": -3.6904969068671036,
+        "bike_id": "bongo_MADRID100",
+        "lat": 40.42307699313923,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 0,
+        "lon": -3.739392887094758,
+        "bike_id": "bongo_MADRID101",
+        "lat": 40.30791129018409,
+        "pricing_plan_id": "bongo_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 1,
+        "current_range_meters": 51642,
+        "lon": -3.6987124935445537,
+        "bike_id": "bongo_MADRID102",
+        "lat": 40.36491434903895,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 1,
+        "current_range_meters": 25025,
+        "lon": -3.7206759189450684,
+        "bike_id": "bongo_MADRID103",
+        "lat": 40.3364701109957,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 1,
+        "lon": -3.620936101072099,
+        "bike_id": "bongo_MADRID104",
+        "lat": 40.49402853899624,
+        "pricing_plan_id": "bongo_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 0,
+        "lon": -3.6791301294234198,
+        "bike_id": "bongo_MADRID105",
+        "lat": 40.33123745731882,
+        "pricing_plan_id": "bongo_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 0,
+        "lon": -3.6331513663360075,
+        "bike_id": "bongo_MADRID106",
+        "lat": 40.3904181397051,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 1,
+        "current_range_meters": 53321,
+        "lon": -3.703742029978546,
+        "bike_id": "bongo_MADRID107",
+        "lat": 40.45190400310393,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 0,
+        "lon": -3.721903786952094,
+        "bike_id": "bongo_MADRID108",
+        "lat": 40.47629903545398,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 0,
+        "current_range_meters": 47898,
+        "lon": -3.7224947770475314,
+        "bike_id": "bongo_MADRID109",
+        "lat": 40.316337676596255,
+        "pricing_plan_id": "bongo_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 1,
+        "current_range_meters": 76154,
+        "lon": -3.6342301420928718,
+        "bike_id": "bongo_MADRID110",
+        "lat": 40.46726088681667,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 0,
+        "lon": -3.725616865418415,
+        "bike_id": "bongo_MADRID111",
+        "lat": 40.46710826538059,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 1,
+        "current_range_meters": 16518,
+        "lon": -3.717741624001201,
+        "bike_id": "bongo_MADRID112",
+        "lat": 40.4636225686719,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 1,
+        "current_range_meters": 23812,
+        "lon": -3.651065489013341,
+        "bike_id": "bongo_MADRID113",
+        "lat": 40.318672068118566,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 1,
+        "current_range_meters": 44836,
+        "lon": -3.719719096463136,
+        "bike_id": "bongo_MADRID114",
+        "lat": 40.44055500504884,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 1,
+        "current_range_meters": 8167,
+        "lon": -3.6649733639831776,
+        "bike_id": "bongo_MADRID115",
+        "lat": 40.42063891157514,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 1,
+        "current_range_meters": 61917,
+        "lon": -3.701408854093323,
+        "bike_id": "bongo_MADRID116",
+        "lat": 40.448756055655466,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 1,
+        "lon": -3.7350378883572946,
+        "bike_id": "bongo_MADRID117",
+        "lat": 40.4669121433457,
+        "pricing_plan_id": "bongo_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 0,
+        "lon": -3.6234580899164386,
+        "bike_id": "bongo_MADRID118",
+        "lat": 40.375379226670645,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 1,
+        "lon": -3.7408491688222343,
+        "bike_id": "bongo_MADRID119",
+        "lat": 40.42855305407317,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 1,
+        "current_range_meters": 70329,
+        "lon": -3.6852966281229635,
+        "bike_id": "bongo_MADRID120",
+        "lat": 40.39886014046506,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 1,
+        "lon": -3.6563470864622847,
+        "bike_id": "bongo_MADRID121",
+        "lat": 40.472617236718634,
+        "pricing_plan_id": "bongo_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 1,
+        "lon": -3.6011925479742257,
+        "bike_id": "bongo_MADRID122",
+        "lat": 40.45153151751127,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 0,
+        "current_range_meters": 61227,
+        "lon": -3.61749074863564,
+        "bike_id": "bongo_MADRID123",
+        "lat": 40.409709109062725,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 0,
+        "lon": -3.6524648018579757,
+        "bike_id": "bongo_MADRID124",
+        "lat": 40.35878405505813,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 0,
+        "current_range_meters": 69685,
+        "lon": -3.731856385771129,
+        "bike_id": "bongo_MADRID125",
+        "lat": 40.34277670130656,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 1,
+        "lon": -3.7344605919893774,
+        "bike_id": "bongo_MADRID126",
+        "lat": 40.377979431786436,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 0,
+        "lon": -3.763872055151018,
+        "bike_id": "bongo_MADRID127",
+        "lat": 40.308487876351144,
+        "pricing_plan_id": "bongo_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 1,
+        "lon": -3.7341372776676947,
+        "bike_id": "bongo_MADRID128",
+        "lat": 40.33559610872801,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 0,
+        "lon": -3.621562032317261,
+        "bike_id": "bongo_MADRID129",
+        "lat": 40.453530230680286,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 1,
+        "lon": -3.6981537261864843,
+        "bike_id": "bongo_MADRID130",
+        "lat": 40.316818850678,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 0,
+        "current_range_meters": 46721,
+        "lon": -3.6507606223499818,
+        "bike_id": "bongo_MADRID131",
+        "lat": 40.30882722343972,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 0,
+        "current_range_meters": 76627,
+        "lon": -3.6226456456039493,
+        "bike_id": "bongo_MADRID132",
+        "lat": 40.345300825110684,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 1,
+        "current_range_meters": 44385,
+        "lon": -3.709663795138774,
+        "bike_id": "bongo_MADRID133",
+        "lat": 40.37141865454257,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 1,
+        "current_range_meters": 15615,
+        "lon": -3.701427944465152,
+        "bike_id": "bongo_MADRID134",
+        "lat": 40.479492702544874,
+        "pricing_plan_id": "bongo_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 1,
+        "current_range_meters": 10286,
+        "lon": -3.6436581245247144,
+        "bike_id": "bongo_MADRID135",
+        "lat": 40.31379824624361,
+        "pricing_plan_id": "bongo_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 1,
+        "current_range_meters": 35149,
+        "lon": -3.7008725093036086,
+        "bike_id": "bongo_MADRID136",
+        "lat": 40.43385285698515,
+        "pricing_plan_id": "bongo_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 0,
+        "current_range_meters": 5913,
+        "lon": -3.734740516981627,
+        "bike_id": "bongo_MADRID137",
+        "lat": 40.38119717928243,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 1,
+        "current_range_meters": 24187,
+        "lon": -3.6907140813285695,
+        "bike_id": "bongo_MADRID138",
+        "lat": 40.481371139997925,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 1,
+        "current_range_meters": 70382,
+        "lon": -3.7871023457716957,
+        "bike_id": "bongo_MADRID139",
+        "lat": 40.418189649954066,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 1,
+        "current_range_meters": 10251,
+        "lon": -3.675628915254065,
+        "bike_id": "bongo_MADRID140",
+        "lat": 40.33450280237721,
+        "pricing_plan_id": "bongo_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 0,
+        "lon": -3.6352454509856664,
+        "bike_id": "bongo_MADRID141",
+        "lat": 40.38228575637073,
+        "pricing_plan_id": "bongo_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 0,
+        "lon": -3.62458266896018,
+        "bike_id": "bongo_MADRID142",
+        "lat": 40.48632089165126,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 0,
+        "current_range_meters": 32285,
+        "lon": -3.7532644223309455,
+        "bike_id": "bongo_MADRID143",
+        "lat": 40.450788629687736,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 1,
+        "lon": -3.654115577023789,
+        "bike_id": "bongo_MADRID144",
+        "lat": 40.335212586045074,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 1,
+        "current_range_meters": 75299,
+        "lon": -3.7128488384812317,
+        "bike_id": "bongo_MADRID145",
+        "lat": 40.421791936743176,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 1,
+        "current_range_meters": 31995,
+        "lon": -3.7721678587376815,
+        "bike_id": "bongo_MADRID146",
+        "lat": 40.41112956389607,
+        "pricing_plan_id": "bongo_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 0,
+        "lon": -3.636799790457481,
+        "bike_id": "bongo_MADRID147",
+        "lat": 40.35855470770766,
+        "pricing_plan_id": "bongo_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 1,
+        "lon": -3.7159266639499227,
+        "bike_id": "bongo_MADRID148",
+        "lat": 40.43455833509405,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 1,
+        "lon": -3.7616300560845044,
+        "bike_id": "bongo_MADRID149",
+        "lat": 40.379331902806406,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 1,
+        "lon": -3.7559960758245667,
+        "bike_id": "bongo_MADRID150",
+        "lat": 40.31390548446978,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 0,
+        "lon": -3.6677368999730886,
+        "bike_id": "bongo_MADRID151",
+        "lat": 40.41176977378123,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 1,
+        "current_range_meters": 72325,
+        "lon": -3.754822505728529,
+        "bike_id": "bongo_MADRID152",
+        "lat": 40.47426438351232,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 1,
+        "current_range_meters": 22738,
+        "lon": -3.6841567831317548,
+        "bike_id": "bongo_MADRID153",
+        "lat": 40.373029096782304,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 1,
+        "current_range_meters": 38542,
+        "lon": -3.6206422277197947,
+        "bike_id": "bongo_MADRID154",
+        "lat": 40.31729285900593,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 0,
+        "current_range_meters": 36018,
+        "lon": -3.654749885783969,
+        "bike_id": "bongo_MADRID155",
+        "lat": 40.33591906563538,
+        "pricing_plan_id": "bongo_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 0,
+        "current_range_meters": 25425,
+        "lon": -3.7405305567553846,
+        "bike_id": "bongo_MADRID156",
+        "lat": 40.35888979878447,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 0,
+        "lon": -3.7988476386557943,
+        "bike_id": "bongo_MADRID157",
+        "lat": 40.334687549747876,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 0,
+        "lon": -3.672296849418518,
+        "bike_id": "bongo_MADRID158",
+        "lat": 40.48247041144525,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 0,
+        "current_range_meters": 57762,
+        "lon": -3.788234773485639,
+        "bike_id": "bongo_MADRID159",
+        "lat": 40.339142748804974,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 0,
+        "lon": -3.701544930060418,
+        "bike_id": "bongo_MADRID160",
+        "lat": 40.35573377250683,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 1,
+        "current_range_meters": 78555,
+        "lon": -3.6799357275869085,
+        "bike_id": "bongo_MADRID161",
+        "lat": 40.44806705459145,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 0,
+        "lon": -3.750400856989681,
+        "bike_id": "bongo_MADRID162",
+        "lat": 40.34566566751388,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 1,
+        "lon": -3.6999489172608837,
+        "bike_id": "bongo_MADRID163",
+        "lat": 40.44899620041195,
+        "pricing_plan_id": "bongo_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 1,
+        "lon": -3.7350939862493178,
+        "bike_id": "bongo_MADRID164",
+        "lat": 40.30688208310817,
+        "pricing_plan_id": "bongo_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 1,
+        "lon": -3.620648097436964,
+        "bike_id": "bongo_MADRID165",
+        "lat": 40.48641670671568,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 0,
+        "lon": -3.63414299212607,
+        "bike_id": "bongo_MADRID166",
+        "lat": 40.398218985176655,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 0,
+        "current_range_meters": 8170,
+        "lon": -3.7898852686074855,
+        "bike_id": "bongo_MADRID167",
+        "lat": 40.422263887666325,
+        "pricing_plan_id": "bongo_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 0,
+        "lon": -3.6354072582823695,
+        "bike_id": "bongo_MADRID168",
+        "lat": 40.42617533580339,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 0,
+        "current_range_meters": 9302,
+        "lon": -3.612262144252898,
+        "bike_id": "bongo_MADRID169",
+        "lat": 40.47811102988551,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 0,
+        "current_range_meters": 15207,
+        "lon": -3.6042837764240776,
+        "bike_id": "bongo_MADRID170",
+        "lat": 40.350560679935654,
+        "pricing_plan_id": "bongo_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 0,
+        "current_range_meters": 32470,
+        "lon": -3.7982090663054517,
+        "bike_id": "bongo_MADRID171",
+        "lat": 40.479809165537894,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 1,
+        "lon": -3.6096829614805515,
+        "bike_id": "bongo_MADRID172",
+        "lat": 40.412935535299695,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 1,
+        "lon": -3.6056124021445575,
+        "bike_id": "bongo_MADRID173",
+        "lat": 40.47999877785972,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 1,
+        "current_range_meters": 71490,
+        "lon": -3.6634698792658598,
+        "bike_id": "bongo_MADRID174",
+        "lat": 40.31492954170545,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 0,
+        "lon": -3.6055382636326105,
+        "bike_id": "bongo_MADRID175",
+        "lat": 40.394355454478216,
+        "pricing_plan_id": "bongo_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 0,
+        "current_range_meters": 46019,
+        "lon": -3.620313708310712,
+        "bike_id": "bongo_MADRID176",
+        "lat": 40.399938726209925,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 1,
+        "current_range_meters": 15135,
+        "lon": -3.702748527565061,
+        "bike_id": "bongo_MADRID177",
+        "lat": 40.462518732247645,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 0,
+        "lon": -3.7094619516735348,
+        "bike_id": "bongo_MADRID178",
+        "lat": 40.41402170640014,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 1,
+        "lon": -3.6783696408359576,
+        "bike_id": "bongo_MADRID179",
+        "lat": 40.43306934056025,
+        "pricing_plan_id": "bongo_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 1,
+        "current_range_meters": 3967,
+        "lon": -3.723304472528033,
+        "bike_id": "bongo_MADRID180",
+        "lat": 40.32479393808251,
+        "pricing_plan_id": "bongo_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 1,
+        "lon": -3.6626272592544282,
+        "bike_id": "bongo_MADRID181",
+        "lat": 40.376411473681735,
+        "pricing_plan_id": "bongo_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 1,
+        "lon": -3.6852260014799967,
+        "bike_id": "bongo_MADRID182",
+        "lat": 40.422390620828374,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 1,
+        "current_range_meters": 25716,
+        "lon": -3.6139070879934043,
+        "bike_id": "bongo_MADRID183",
+        "lat": 40.39867084710532,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 0,
+        "current_range_meters": 75946,
+        "lon": -3.732555241923889,
+        "bike_id": "bongo_MADRID184",
+        "lat": 40.304467431587064,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 0,
+        "lon": -3.7508463860040764,
+        "bike_id": "bongo_MADRID185",
+        "lat": 40.472268406574464,
+        "pricing_plan_id": "bongo_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 1,
+        "current_range_meters": 59851,
+        "lon": -3.7750790733064874,
+        "bike_id": "bongo_MADRID186",
+        "lat": 40.497808979429095,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 1,
+        "lon": -3.6374890219302887,
+        "bike_id": "bongo_MADRID187",
+        "lat": 40.325414473412906,
+        "pricing_plan_id": "bongo_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 1,
+        "current_range_meters": 60313,
+        "lon": -3.7250086313184485,
+        "bike_id": "bongo_MADRID188",
+        "lat": 40.30868173536471,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 1,
+        "lon": -3.787482118110454,
+        "bike_id": "bongo_MADRID189",
+        "lat": 40.33019518838226,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 0,
+        "current_range_meters": 47434,
+        "lon": -3.6735596255438128,
+        "bike_id": "bongo_MADRID190",
+        "lat": 40.32645432193038,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 1,
+        "current_range_meters": 77456,
+        "lon": -3.676450816216282,
+        "bike_id": "bongo_MADRID191",
+        "lat": 40.48310459440013,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 0,
+        "lon": -3.662032731571028,
+        "bike_id": "bongo_MADRID192",
+        "lat": 40.30517132786422,
+        "pricing_plan_id": "bongo_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 1,
+        "current_range_meters": 63061,
+        "lon": -3.670481231454902,
+        "bike_id": "bongo_MADRID193",
+        "lat": 40.355794382034425,
+        "pricing_plan_id": "bongo_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 1,
+        "current_range_meters": 71659,
+        "lon": -3.675017514760065,
+        "bike_id": "bongo_MADRID194",
+        "lat": 40.362372297146074,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 0,
+        "current_range_meters": 6411,
+        "lon": -3.7235002714039953,
+        "bike_id": "bongo_MADRID195",
+        "lat": 40.40992207179267,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 1,
+        "current_range_meters": 63571,
+        "lon": -3.7473257595488954,
+        "bike_id": "bongo_MADRID196",
+        "lat": 40.33990714937416,
+        "pricing_plan_id": "bongo_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 1,
+        "current_range_meters": 21518,
+        "lon": -3.6371958963006326,
+        "bike_id": "bongo_MADRID197",
+        "lat": 40.30623906892638,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 1,
+        "lon": -3.7055946487879465,
+        "bike_id": "bongo_MADRID198",
+        "lat": 40.4142558060261,
+        "pricing_plan_id": "bongo_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 1,
+        "lon": -3.7231725441913412,
+        "bike_id": "bongo_MADRID199",
+        "lat": 40.34901774972596,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 1,
+        "lon": -3.7374978521829356,
+        "bike_id": "bongo_MADRID200",
+        "lat": 40.34444420784284,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 1,
+        "lon": -3.7825568762293122,
+        "bike_id": "bongo_MADRID201",
+        "lat": 40.41470936872761,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 1,
+        "current_range_meters": 19628,
+        "lon": -3.7799452284959734,
+        "bike_id": "bongo_MADRID202",
+        "lat": 40.41607829442438,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 0,
+        "current_range_meters": 30239,
+        "lon": -3.640881755720972,
+        "bike_id": "bongo_MADRID203",
+        "lat": 40.404116161115205,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 1,
+        "current_range_meters": 56526,
+        "lon": -3.653805105501127,
+        "bike_id": "bongo_MADRID204",
+        "lat": 40.366100680307504,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 1,
+        "current_range_meters": 36454,
+        "lon": -3.610437644872282,
+        "bike_id": "bongo_MADRID205",
+        "lat": 40.37516175569169,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 0,
+        "current_range_meters": 5745,
+        "lon": -3.6523822191924764,
+        "bike_id": "bongo_MADRID206",
+        "lat": 40.325303660029924,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 0,
+        "lon": -3.785392875984994,
+        "bike_id": "bongo_MADRID207",
+        "lat": 40.3183833700437,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 0,
+        "lon": -3.7014813244767293,
+        "bike_id": "bongo_MADRID208",
+        "lat": 40.48996988844439,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 0,
+        "current_range_meters": 6671,
+        "lon": -3.6994491915850998,
+        "bike_id": "bongo_MADRID209",
+        "lat": 40.35215494312647,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 0,
+        "lon": -3.77104907965412,
+        "bike_id": "bongo_MADRID210",
+        "lat": 40.39113594938341,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 1,
+        "lon": -3.6790000409543704,
+        "bike_id": "bongo_MADRID211",
+        "lat": 40.38669764513425,
+        "pricing_plan_id": "bongo_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 1,
+        "lon": -3.7326352349877356,
+        "bike_id": "bongo_MADRID212",
+        "lat": 40.4560216226606,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 0,
+        "lon": -3.7223505025670214,
+        "bike_id": "bongo_MADRID213",
+        "lat": 40.432984736407946,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 1,
+        "lon": -3.672436540937757,
+        "bike_id": "bongo_MADRID214",
+        "lat": 40.41438980065085,
+        "pricing_plan_id": "bongo_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 0,
+        "lon": -3.6303578426274044,
+        "bike_id": "bongo_MADRID215",
+        "lat": 40.33539648136407,
+        "pricing_plan_id": "bongo_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 1,
+        "current_range_meters": 69240,
+        "lon": -3.688747069615773,
+        "bike_id": "bongo_MADRID216",
+        "lat": 40.340286943804294,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 1,
+        "lon": -3.7395284534554483,
+        "bike_id": "bongo_MADRID217",
+        "lat": 40.427964810687314,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 0,
+        "current_range_meters": 51504,
+        "lon": -3.62330959666139,
+        "bike_id": "bongo_MADRID218",
+        "lat": 40.46470755406528,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 0,
+        "current_range_meters": 12605,
+        "lon": -3.6174145633333046,
+        "bike_id": "bongo_MADRID219",
+        "lat": 40.44773086671469,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 1,
+        "current_range_meters": 4681,
+        "lon": -3.7643070178080547,
+        "bike_id": "bongo_MADRID220",
+        "lat": 40.36211277781588,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 1,
+        "lon": -3.6600639676119924,
+        "bike_id": "bongo_MADRID221",
+        "lat": 40.3953694541193,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 1,
+        "current_range_meters": 13979,
+        "lon": -3.677803776490032,
+        "bike_id": "bongo_MADRID222",
+        "lat": 40.42151174200493,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 0,
+        "lon": -3.6523945991319,
+        "bike_id": "bongo_MADRID223",
+        "lat": 40.44010344438134,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 0,
+        "lon": -3.6430577552861343,
+        "bike_id": "bongo_MADRID224",
+        "lat": 40.45379924762979,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 0,
+        "lon": -3.605929005728486,
+        "bike_id": "bongo_MADRID225",
+        "lat": 40.38411213515064,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 1,
+        "lon": -3.6602748246681776,
+        "bike_id": "bongo_MADRID226",
+        "lat": 40.42044163596741,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 1,
+        "lon": -3.781505712945407,
+        "bike_id": "bongo_MADRID227",
+        "lat": 40.37874878633958,
+        "pricing_plan_id": "bongo_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 1,
+        "lon": -3.6182638597426875,
+        "bike_id": "bongo_MADRID228",
+        "lat": 40.36671389670666,
+        "pricing_plan_id": "bongo_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 0,
+        "current_range_meters": 20085,
+        "lon": -3.7585874245270996,
+        "bike_id": "bongo_MADRID229",
+        "lat": 40.42020796464955,
+        "pricing_plan_id": "bongo_plan_1"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 1,
+        "current_range_meters": 26148,
+        "lon": -3.7527656898975,
+        "bike_id": "bongo_MADRID230",
+        "lat": 40.38959552840637,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 0,
+        "lon": -3.7894257732324585,
+        "bike_id": "bongo_MADRID231",
+        "lat": 40.39815842986475,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 1,
+        "current_range_meters": 39914,
+        "lon": -3.7981216764603234,
+        "bike_id": "bongo_MADRID232",
+        "lat": 40.474702838616665,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 1,
+        "current_range_meters": 73047,
+        "lon": -3.7132885233627104,
+        "bike_id": "bongo_MADRID233",
+        "lat": 40.36370715467609,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 1,
+        "current_range_meters": 36245,
+        "lon": -3.727390673750789,
+        "bike_id": "bongo_MADRID234",
+        "lat": 40.3610000853923,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 1,
+        "current_range_meters": 53786,
+        "lon": -3.6097037398723995,
+        "bike_id": "bongo_MADRID235",
+        "lat": 40.43573063301098,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 1,
+        "lon": -3.6514650797393773,
+        "bike_id": "bongo_MADRID236",
+        "lat": 40.33417908256854,
+        "pricing_plan_id": "bongo_plan_1"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 0,
+        "lon": -3.7032174706591654,
+        "bike_id": "bongo_MADRID237",
+        "lat": 40.354627285708894,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 0,
+        "current_range_meters": 76842,
+        "lon": -3.7084572375084113,
+        "bike_id": "bongo_MADRID238",
+        "lat": 40.49999027058874,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 1,
+        "current_range_meters": 9950,
+        "lon": -3.6968462623567713,
+        "bike_id": "bongo_MADRID239",
+        "lat": 40.36113707508443,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 0,
+        "lon": -3.6608013767807335,
+        "bike_id": "bongo_MADRID240",
+        "lat": 40.426403735448716,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 0,
+        "lon": -3.7691272065245585,
+        "bike_id": "bongo_MADRID241",
+        "lat": 40.434116549839786,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 0,
+        "current_range_meters": 50706,
+        "lon": -3.6405559578874453,
+        "bike_id": "bongo_MADRID242",
+        "lat": 40.44856489861721,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 0,
+        "current_range_meters": 58402,
+        "lon": -3.6985516568682737,
+        "bike_id": "bongo_MADRID243",
+        "lat": 40.334974740475275,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 1,
+        "current_range_meters": 68243,
+        "lon": -3.6976835853455703,
+        "bike_id": "bongo_MADRID244",
+        "lat": 40.45640339829523,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 1,
+        "current_range_meters": 4596,
+        "lon": -3.644843850135086,
+        "bike_id": "bongo_MADRID245",
+        "lat": 40.486487139492134,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 0,
+        "current_range_meters": 6057,
+        "lon": -3.645615766173946,
+        "bike_id": "bongo_MADRID246",
+        "lat": 40.33650295113675,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 0,
+        "current_range_meters": 63663,
+        "lon": -3.742225153897111,
+        "bike_id": "bongo_MADRID247",
+        "lat": 40.48244419228038,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 1,
+        "current_range_meters": 31590,
+        "lon": -3.7804044872607174,
+        "bike_id": "bongo_MADRID248",
+        "lat": 40.33559090223404,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 0,
+        "current_range_meters": 26570,
+        "lon": -3.6886877820441386,
+        "bike_id": "bongo_MADRID249",
+        "lat": 40.34924692782655,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 0,
+        "current_range_meters": 36008,
+        "lon": -3.7385104392813147,
+        "bike_id": "bongo_MADRID250",
+        "lat": 40.38403153557479,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 1,
+        "lon": -3.7685480531036566,
+        "bike_id": "bongo_MADRID251",
+        "lat": 40.36197159806102,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_electric_bike",
+        "is_disabled": 1,
+        "current_range_meters": 75904,
+        "lon": -3.6525891545569467,
+        "bike_id": "bongo_MADRID252",
+        "lat": 40.36627548005649,
+        "pricing_plan_id": "bongo_plan_2"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 1,
+        "lon": -3.7468019016518745,
+        "bike_id": "bongo_MADRID253",
+        "lat": 40.417590382876476,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 0,
+        "lon": -3.7972963796563777,
+        "bike_id": "bongo_MADRID254",
+        "lat": 40.45684230367187,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 1,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 0,
+        "lon": -3.6318453944871596,
+        "bike_id": "bongo_MADRID255",
+        "lat": 40.359752947100525,
+        "pricing_plan_id": "bongo_plan_3"
+      },
+      {
+        "is_reserved": 0,
+        "vehicle_type_id": "bongo_bike",
+        "is_disabled": 0,
+        "lon": -3.722372402540813,
+        "bike_id": "bongo_MADRID256",
+        "lat": 40.43269848451109,
+        "pricing_plan_id": "bongo_plan_1"
+      }
+    ]
+  },
+  "ttl": 180,
+  "version": "2.3"
+}
