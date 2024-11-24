@@ -1,15 +1,15 @@
 {
-  "last_updated": 1732467819,
+  "last_updated": 1732468066,
   "data": {
     "plans": [
       {
-        "price": 2.45,
+        "price": 0.95,
         "name": "Simple rate",
-        "description": "2.15 € per kilometer",
+        "description": "1.50 € per kilometer",
         "currency": "EUR",
         "per_km_pricing": [
           {
-            "rate": 2.15,
+            "rate": 1.5,
             "start": 0,
             "interval": 1
           }
@@ -18,28 +18,28 @@
         "is_taxable": false
       },
       {
-        "price": 3.4,
+        "price": 2.5,
         "name": "One-Way",
-        "description": "Includes 25km, overage fees apply after 25km",
+        "description": "Includes 27km, overage fees apply after 27km",
         "currency": "EUR",
         "per_km_pricing": [
           {
-            "rate": 2.05,
-            "start": 25,
+            "rate": 1.45,
+            "start": 27,
             "interval": 1,
             "end": 53
           },
           {
-            "rate": 0.65,
+            "rate": 0.6,
             "start": 53,
             "interval": 1,
-            "end": 81
+            "end": 80
           },
           {
-            "rate": 4.4,
-            "start": 81,
+            "rate": 5.7,
+            "start": 80,
             "interval": 5,
-            "end": 109
+            "end": 106
           }
         ],
         "plan_id": "flash_plan_2",
@@ -48,18 +48,18 @@
       {
         "per_min_pricing": [
           {
-            "rate": 0.9,
+            "rate": 1.0,
             "start": 0,
             "interval": 1
           }
         ],
-        "price": 3.5,
+        "price": 2.95,
         "name": "Simple rate",
-        "description": "3.50 € unlock fee, 1.05 € per kilometer and 0.90 € per minute.",
+        "description": "2.95 € unlock fee, 0.75 € per kilometer and 1.00 € per minute.",
         "currency": "EUR",
         "per_km_pricing": [
           {
-            "rate": 1.05,
+            "rate": 0.75,
             "start": 0,
             "interval": 1
           }

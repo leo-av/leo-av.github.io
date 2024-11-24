@@ -1,5 +1,5 @@
 {
-  "last_updated": 1732467854,
+  "last_updated": 1732468090,
   "data": {
     "vehicle_types": [
       {
@@ -7,22 +7,11 @@
           "megamo_plan_1",
           "megamo_plan_2"
         ],
-        "vehicle_type_id": "megamo_motorbike",
+        "vehicle_type_id": "megamo_car",
         "propulsion_type": "combustion",
         "default_pricing_plan_id": "megamo_plan_1",
-        "max_range_meters": 250000,
-        "form_factor": "moped"
-      },
-      {
-        "pricing_plans": [
-          "megamo_plan_1",
-          "megamo_plan_3"
-        ],
-        "vehicle_type_id": "megamo_scooter",
-        "propulsion_type": "electric",
-        "default_pricing_plan_id": "megamo_plan_1",
-        "max_range_meters": 20000,
-        "form_factor": "scooter"
+        "max_range_meters": 500000,
+        "form_factor": "car"
       }
     ]
   },

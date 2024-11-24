@@ -1,0 +1,793 @@
+{
+  "last_updated": 1732468141,
+  "data": {
+    "stations": [
+      {
+        "station_id": "free_streets_station_MADRID001",
+        "name": "Station 1",
+        "lon": -3.7662484879185962,
+        "lat": 40.3619646564955,
+        "capacity": 21
+      },
+      {
+        "station_id": "free_streets_station_MADRID002",
+        "name": "Station 2",
+        "lon": -3.7828648648250383,
+        "lat": 40.301591970597784,
+        "capacity": 32
+      },
+      {
+        "station_id": "free_streets_station_MADRID003",
+        "name": "Station 3",
+        "lon": -3.7412684490150068,
+        "lat": 40.42989195758881,
+        "capacity": 47
+      },
+      {
+        "station_id": "free_streets_station_MADRID004",
+        "name": "Station 4",
+        "lon": -3.736461147579019,
+        "lat": 40.39773221527864,
+        "capacity": 48
+      },
+      {
+        "station_id": "free_streets_station_MADRID005",
+        "name": "Station 5",
+        "lon": -3.7834757935271557,
+        "lat": 40.43792932022102,
+        "capacity": 19
+      },
+      {
+        "station_id": "free_streets_station_MADRID006",
+        "name": "Station 6",
+        "lon": -3.7024767602224444,
+        "lat": 40.48053742970975,
+        "capacity": 38
+      },
+      {
+        "station_id": "free_streets_station_MADRID007",
+        "name": "Station 7",
+        "lon": -3.7479355245087373,
+        "lat": 40.422645831794256,
+        "capacity": 39
+      },
+      {
+        "station_id": "free_streets_station_MADRID008",
+        "name": "Station 8",
+        "lon": -3.712535712317786,
+        "lat": 40.42640659013206,
+        "capacity": 28
+      },
+      {
+        "station_id": "free_streets_station_MADRID009",
+        "name": "Station 9",
+        "lon": -3.670567936103051,
+        "lat": 40.431255550752226,
+        "capacity": 10
+      },
+      {
+        "station_id": "free_streets_station_MADRID010",
+        "name": "Station 10",
+        "lon": -3.631594748634085,
+        "lat": 40.322347437091146,
+        "capacity": 41
+      },
+      {
+        "station_id": "free_streets_station_MADRID011",
+        "name": "Station 11",
+        "lon": -3.7106919872447426,
+        "lat": 40.44943455258579,
+        "capacity": 31
+      },
+      {
+        "station_id": "free_streets_station_MADRID012",
+        "name": "Station 12",
+        "lon": -3.7276785667829664,
+        "lat": 40.3726579267889,
+        "capacity": 39
+      },
+      {
+        "station_id": "free_streets_station_MADRID013",
+        "name": "Station 13",
+        "lon": -3.7845533352085168,
+        "lat": 40.46698206429475,
+        "capacity": 36
+      },
+      {
+        "station_id": "free_streets_station_MADRID014",
+        "name": "Station 14",
+        "lon": -3.688414183959572,
+        "lat": 40.47454694930168,
+        "capacity": 46
+      },
+      {
+        "station_id": "free_streets_station_MADRID015",
+        "name": "Station 15",
+        "lon": -3.791771038223027,
+        "lat": 40.49882052656888,
+        "capacity": 19
+      },
+      {
+        "station_id": "free_streets_station_MADRID016",
+        "name": "Station 16",
+        "lon": -3.7216009928782916,
+        "lat": 40.43449000740746,
+        "capacity": 12
+      },
+      {
+        "station_id": "free_streets_station_MADRID017",
+        "name": "Station 17",
+        "lon": -3.781529441241472,
+        "lat": 40.321966942633814,
+        "capacity": 27
+      },
+      {
+        "station_id": "free_streets_station_MADRID018",
+        "name": "Station 18",
+        "lon": -3.7954423605346617,
+        "lat": 40.470835125495086,
+        "capacity": 37
+      },
+      {
+        "station_id": "free_streets_station_MADRID019",
+        "name": "Station 19",
+        "lon": -3.602921878516119,
+        "lat": 40.468379391868254,
+        "capacity": 35
+      },
+      {
+        "station_id": "free_streets_station_MADRID020",
+        "name": "Station 20",
+        "lon": -3.7520729843409155,
+        "lat": 40.40849451957639,
+        "capacity": 33
+      },
+      {
+        "station_id": "free_streets_station_MADRID021",
+        "name": "Station 21",
+        "lon": -3.7060777210767326,
+        "lat": 40.30322019171872,
+        "capacity": 35
+      },
+      {
+        "station_id": "free_streets_station_MADRID022",
+        "name": "Station 22",
+        "lon": -3.670704511372027,
+        "lat": 40.355999633783014,
+        "capacity": 18
+      },
+      {
+        "station_id": "free_streets_station_MADRID023",
+        "name": "Station 23",
+        "lon": -3.7694295110402813,
+        "lat": 40.3787702858875,
+        "capacity": 34
+      },
+      {
+        "station_id": "free_streets_station_MADRID024",
+        "name": "Station 24",
+        "lon": -3.677867941583968,
+        "lat": 40.35021054400439,
+        "capacity": 27
+      },
+      {
+        "station_id": "free_streets_station_MADRID025",
+        "name": "Station 25",
+        "lon": -3.742874267588678,
+        "lat": 40.306234095510355,
+        "capacity": 39
+      },
+      {
+        "station_id": "free_streets_station_MADRID026",
+        "name": "Station 26",
+        "lon": -3.636954875459506,
+        "lat": 40.45451325269291,
+        "capacity": 38
+      },
+      {
+        "station_id": "free_streets_station_MADRID027",
+        "name": "Station 27",
+        "lon": -3.6608527288173174,
+        "lat": 40.345344425651504,
+        "capacity": 41
+      },
+      {
+        "station_id": "free_streets_station_MADRID028",
+        "name": "Station 28",
+        "lon": -3.7844183284783703,
+        "lat": 40.412434743003296,
+        "capacity": 27
+      },
+      {
+        "station_id": "free_streets_station_MADRID029",
+        "name": "Station 29",
+        "lon": -3.620591826165809,
+        "lat": 40.3833337870698,
+        "capacity": 38
+      },
+      {
+        "station_id": "free_streets_station_MADRID030",
+        "name": "Station 30",
+        "lon": -3.7830211723437652,
+        "lat": 40.4071526533525,
+        "capacity": 45
+      },
+      {
+        "station_id": "free_streets_station_MADRID031",
+        "name": "Station 31",
+        "lon": -3.705464829381594,
+        "lat": 40.46312048273796,
+        "capacity": 39
+      },
+      {
+        "station_id": "free_streets_station_MADRID032",
+        "name": "Station 32",
+        "lon": -3.732768668200014,
+        "lat": 40.40374088471116,
+        "capacity": 30
+      },
+      {
+        "station_id": "free_streets_station_MADRID033",
+        "name": "Station 33",
+        "lon": -3.70026915434577,
+        "lat": 40.3396720165849,
+        "capacity": 33
+      },
+      {
+        "station_id": "free_streets_station_MADRID034",
+        "name": "Station 34",
+        "lon": -3.6407862893620035,
+        "lat": 40.481169004141925,
+        "capacity": 33
+      },
+      {
+        "station_id": "free_streets_station_MADRID035",
+        "name": "Station 35",
+        "lon": -3.70978448465675,
+        "lat": 40.40102869051761,
+        "capacity": 16
+      },
+      {
+        "station_id": "free_streets_station_MADRID036",
+        "name": "Station 36",
+        "lon": -3.6434905950852756,
+        "lat": 40.39144451237456,
+        "capacity": 27
+      },
+      {
+        "station_id": "free_streets_station_MADRID037",
+        "name": "Station 37",
+        "lon": -3.788602002832758,
+        "lat": 40.36259404999257,
+        "capacity": 44
+      },
+      {
+        "station_id": "free_streets_station_MADRID038",
+        "name": "Station 38",
+        "lon": -3.7088089814932808,
+        "lat": 40.37125954537628,
+        "capacity": 36
+      },
+      {
+        "station_id": "free_streets_station_MADRID039",
+        "name": "Station 39",
+        "lon": -3.6344631804980634,
+        "lat": 40.303715901800366,
+        "capacity": 23
+      },
+      {
+        "station_id": "free_streets_station_MADRID040",
+        "name": "Station 40",
+        "lon": -3.712343530157537,
+        "lat": 40.35655618345053,
+        "capacity": 22
+      },
+      {
+        "station_id": "free_streets_station_MADRID041",
+        "name": "Station 41",
+        "lon": -3.7213610662629697,
+        "lat": 40.35936507573529,
+        "capacity": 45
+      },
+      {
+        "station_id": "free_streets_station_MADRID042",
+        "name": "Station 42",
+        "lon": -3.7058856379103258,
+        "lat": 40.3713464276298,
+        "capacity": 11
+      },
+      {
+        "station_id": "free_streets_station_MADRID043",
+        "name": "Station 43",
+        "lon": -3.780611688563417,
+        "lat": 40.31488749081776,
+        "capacity": 32
+      },
+      {
+        "station_id": "free_streets_station_MADRID044",
+        "name": "Station 44",
+        "lon": -3.7887411994477067,
+        "lat": 40.302475202582784,
+        "capacity": 18
+      },
+      {
+        "station_id": "free_streets_station_MADRID045",
+        "name": "Station 45",
+        "lon": -3.7655136022119344,
+        "lat": 40.31247265342527,
+        "capacity": 22
+      },
+      {
+        "station_id": "free_streets_station_MADRID046",
+        "name": "Station 46",
+        "lon": -3.706012408941031,
+        "lat": 40.32209657366857,
+        "capacity": 22
+      },
+      {
+        "station_id": "free_streets_station_MADRID047",
+        "name": "Station 47",
+        "lon": -3.7107369647599473,
+        "lat": 40.344240930083444,
+        "capacity": 22
+      },
+      {
+        "station_id": "free_streets_station_MADRID048",
+        "name": "Station 48",
+        "lon": -3.6860106041839424,
+        "lat": 40.349480510566906,
+        "capacity": 36
+      },
+      {
+        "station_id": "free_streets_station_MADRID049",
+        "name": "Station 49",
+        "lon": -3.614640798850527,
+        "lat": 40.4978046159881,
+        "capacity": 19
+      },
+      {
+        "station_id": "free_streets_station_MADRID050",
+        "name": "Station 50",
+        "lon": -3.6556507467888713,
+        "lat": 40.477972081693586,
+        "capacity": 38
+      },
+      {
+        "station_id": "free_streets_station_MADRID051",
+        "name": "Station 51",
+        "lon": -3.7570336988266373,
+        "lat": 40.457745984924465,
+        "capacity": 46
+      },
+      {
+        "station_id": "free_streets_station_MADRID052",
+        "name": "Station 52",
+        "lon": -3.7978737040628228,
+        "lat": 40.30429665689367,
+        "capacity": 19
+      },
+      {
+        "station_id": "free_streets_station_MADRID053",
+        "name": "Station 53",
+        "lon": -3.7968010739822695,
+        "lat": 40.388997203141756,
+        "capacity": 32
+      },
+      {
+        "station_id": "free_streets_station_MADRID054",
+        "name": "Station 54",
+        "lon": -3.7547345746559824,
+        "lat": 40.33276754950405,
+        "capacity": 22
+      },
+      {
+        "station_id": "free_streets_station_MADRID055",
+        "name": "Station 55",
+        "lon": -3.7949174709956823,
+        "lat": 40.36370019808392,
+        "capacity": 38
+      },
+      {
+        "station_id": "free_streets_station_MADRID056",
+        "name": "Station 56",
+        "lon": -3.6917848642093536,
+        "lat": 40.38459573987616,
+        "capacity": 28
+      },
+      {
+        "station_id": "free_streets_station_MADRID057",
+        "name": "Station 57",
+        "lon": -3.6948632840729445,
+        "lat": 40.48431373757459,
+        "capacity": 19
+      },
+      {
+        "station_id": "free_streets_station_MADRID058",
+        "name": "Station 58",
+        "lon": -3.6786634402194083,
+        "lat": 40.47707614171893,
+        "capacity": 18
+      },
+      {
+        "station_id": "free_streets_station_MADRID059",
+        "name": "Station 59",
+        "lon": -3.6163598182700882,
+        "lat": 40.45811130628031,
+        "capacity": 21
+      },
+      {
+        "station_id": "free_streets_station_MADRID060",
+        "name": "Station 60",
+        "lon": -3.7693364668484017,
+        "lat": 40.374311436214505,
+        "capacity": 19
+      },
+      {
+        "station_id": "free_streets_station_MADRID061",
+        "name": "Station 61",
+        "lon": -3.686172031514563,
+        "lat": 40.436839176271015,
+        "capacity": 17
+      },
+      {
+        "station_id": "free_streets_station_MADRID062",
+        "name": "Station 62",
+        "lon": -3.798157744803976,
+        "lat": 40.408563721332115,
+        "capacity": 22
+      },
+      {
+        "station_id": "free_streets_station_MADRID063",
+        "name": "Station 63",
+        "lon": -3.6076257402869993,
+        "lat": 40.474132963364724,
+        "capacity": 16
+      },
+      {
+        "station_id": "free_streets_station_MADRID064",
+        "name": "Station 64",
+        "lon": -3.6188930837418893,
+        "lat": 40.474783769035334,
+        "capacity": 37
+      },
+      {
+        "station_id": "free_streets_station_MADRID065",
+        "name": "Station 65",
+        "lon": -3.6527332873021283,
+        "lat": 40.39397517203708,
+        "capacity": 38
+      },
+      {
+        "station_id": "free_streets_station_MADRID066",
+        "name": "Station 66",
+        "lon": -3.620239386340424,
+        "lat": 40.49057699385023,
+        "capacity": 22
+      },
+      {
+        "station_id": "free_streets_station_MADRID067",
+        "name": "Station 67",
+        "lon": -3.6981317970070977,
+        "lat": 40.42123214079438,
+        "capacity": 21
+      },
+      {
+        "station_id": "free_streets_station_MADRID068",
+        "name": "Station 68",
+        "lon": -3.6372982977242367,
+        "lat": 40.35234376963728,
+        "capacity": 41
+      },
+      {
+        "station_id": "free_streets_station_MADRID069",
+        "name": "Station 69",
+        "lon": -3.67832088405481,
+        "lat": 40.41073220608253,
+        "capacity": 14
+      },
+      {
+        "station_id": "free_streets_station_MADRID070",
+        "name": "Station 70",
+        "lon": -3.6140483839694886,
+        "lat": 40.3613506300693,
+        "capacity": 36
+      },
+      {
+        "station_id": "free_streets_station_MADRID071",
+        "name": "Station 71",
+        "lon": -3.726924538213509,
+        "lat": 40.49834858068275,
+        "capacity": 16
+      },
+      {
+        "station_id": "free_streets_station_MADRID072",
+        "name": "Station 72",
+        "lon": -3.6266602532568366,
+        "lat": 40.33393044519197,
+        "capacity": 37
+      },
+      {
+        "station_id": "free_streets_station_MADRID073",
+        "name": "Station 73",
+        "lon": -3.7402761618699523,
+        "lat": 40.49880470039742,
+        "capacity": 11
+      },
+      {
+        "station_id": "free_streets_station_MADRID074",
+        "name": "Station 74",
+        "lon": -3.7213929250795252,
+        "lat": 40.48041765393199,
+        "capacity": 30
+      },
+      {
+        "station_id": "free_streets_station_MADRID075",
+        "name": "Station 75",
+        "lon": -3.693184505310721,
+        "lat": 40.39749404045182,
+        "capacity": 32
+      },
+      {
+        "station_id": "free_streets_station_MADRID076",
+        "name": "Station 76",
+        "lon": -3.7489789644768097,
+        "lat": 40.303279386523606,
+        "capacity": 29
+      },
+      {
+        "station_id": "free_streets_station_MADRID077",
+        "name": "Station 77",
+        "lon": -3.7984533197512933,
+        "lat": 40.31867019037282,
+        "capacity": 19
+      },
+      {
+        "station_id": "free_streets_station_MADRID078",
+        "name": "Station 78",
+        "lon": -3.7899119106839168,
+        "lat": 40.49689918762711,
+        "capacity": 46
+      },
+      {
+        "station_id": "free_streets_station_MADRID079",
+        "name": "Station 79",
+        "lon": -3.7865277371578925,
+        "lat": 40.38413450169138,
+        "capacity": 28
+      },
+      {
+        "station_id": "free_streets_station_MADRID080",
+        "name": "Station 80",
+        "lon": -3.7752228511413786,
+        "lat": 40.35132779440682,
+        "capacity": 38
+      },
+      {
+        "station_id": "free_streets_station_MADRID081",
+        "name": "Station 81",
+        "lon": -3.7807743294820693,
+        "lat": 40.47688907388085,
+        "capacity": 23
+      },
+      {
+        "station_id": "free_streets_station_MADRID082",
+        "name": "Station 82",
+        "lon": -3.746934350823834,
+        "lat": 40.41291263874808,
+        "capacity": 12
+      },
+      {
+        "station_id": "free_streets_station_MADRID083",
+        "name": "Station 83",
+        "lon": -3.6979140904626737,
+        "lat": 40.43052756341905,
+        "capacity": 39
+      },
+      {
+        "station_id": "free_streets_station_MADRID084",
+        "name": "Station 84",
+        "lon": -3.635261085780315,
+        "lat": 40.4515652864292,
+        "capacity": 42
+      },
+      {
+        "station_id": "free_streets_station_MADRID085",
+        "name": "Station 85",
+        "lon": -3.735099053544151,
+        "lat": 40.4204362822439,
+        "capacity": 10
+      },
+      {
+        "station_id": "free_streets_station_MADRID086",
+        "name": "Station 86",
+        "lon": -3.7793545163712543,
+        "lat": 40.36177355771731,
+        "capacity": 15
+      },
+      {
+        "station_id": "free_streets_station_MADRID087",
+        "name": "Station 87",
+        "lon": -3.605766842843885,
+        "lat": 40.39830225272563,
+        "capacity": 13
+      },
+      {
+        "station_id": "free_streets_station_MADRID088",
+        "name": "Station 88",
+        "lon": -3.759054137017013,
+        "lat": 40.49556852464414,
+        "capacity": 29
+      },
+      {
+        "station_id": "free_streets_station_MADRID089",
+        "name": "Station 89",
+        "lon": -3.6533610042186204,
+        "lat": 40.44243401313939,
+        "capacity": 20
+      },
+      {
+        "station_id": "free_streets_station_MADRID090",
+        "name": "Station 90",
+        "lon": -3.6582844707975566,
+        "lat": 40.33298422559166,
+        "capacity": 42
+      },
+      {
+        "station_id": "free_streets_station_MADRID091",
+        "name": "Station 91",
+        "lon": -3.7244213585580406,
+        "lat": 40.40544556500311,
+        "capacity": 25
+      },
+      {
+        "station_id": "free_streets_station_MADRID092",
+        "name": "Station 92",
+        "lon": -3.705314563414193,
+        "lat": 40.43296129137282,
+        "capacity": 21
+      },
+      {
+        "station_id": "free_streets_station_MADRID093",
+        "name": "Station 93",
+        "lon": -3.740816057346079,
+        "lat": 40.45036525869876,
+        "capacity": 41
+      },
+      {
+        "station_id": "free_streets_station_MADRID094",
+        "name": "Station 94",
+        "lon": -3.6904516680903137,
+        "lat": 40.35283361950162,
+        "capacity": 25
+      },
+      {
+        "station_id": "free_streets_station_MADRID095",
+        "name": "Station 95",
+        "lon": -3.6500879036453124,
+        "lat": 40.38710092410224,
+        "capacity": 21
+      },
+      {
+        "station_id": "free_streets_station_MADRID096",
+        "name": "Station 96",
+        "lon": -3.768466263048288,
+        "lat": 40.32623497798249,
+        "capacity": 47
+      },
+      {
+        "station_id": "free_streets_station_MADRID097",
+        "name": "Station 97",
+        "lon": -3.687323637114239,
+        "lat": 40.373144380742914,
+        "capacity": 42
+      },
+      {
+        "station_id": "free_streets_station_MADRID098",
+        "name": "Station 98",
+        "lon": -3.6692082464688323,
+        "lat": 40.41003743520934,
+        "capacity": 19
+      },
+      {
+        "station_id": "free_streets_station_MADRID099",
+        "name": "Station 99",
+        "lon": -3.6968465153622376,
+        "lat": 40.36391492120334,
+        "capacity": 44
+      },
+      {
+        "station_id": "free_streets_station_MADRID100",
+        "name": "Station 100",
+        "lon": -3.6145194606072373,
+        "lat": 40.43256802964598,
+        "capacity": 21
+      },
+      {
+        "station_id": "free_streets_station_MADRID101",
+        "name": "Station 101",
+        "lon": -3.757225497032981,
+        "lat": 40.47484352517009,
+        "capacity": 39
+      },
+      {
+        "station_id": "free_streets_station_MADRID102",
+        "name": "Station 102",
+        "lon": -3.6989149640313594,
+        "lat": 40.330105269705555,
+        "capacity": 34
+      },
+      {
+        "station_id": "free_streets_station_MADRID103",
+        "name": "Station 103",
+        "lon": -3.782375378956874,
+        "lat": 40.38894185085204,
+        "capacity": 23
+      },
+      {
+        "station_id": "free_streets_station_MADRID104",
+        "name": "Station 104",
+        "lon": -3.7571836218145758,
+        "lat": 40.4559422579996,
+        "capacity": 13
+      },
+      {
+        "station_id": "free_streets_station_MADRID105",
+        "name": "Station 105",
+        "lon": -3.6298805588341123,
+        "lat": 40.33108525051897,
+        "capacity": 24
+      },
+      {
+        "station_id": "free_streets_station_MADRID106",
+        "name": "Station 106",
+        "lon": -3.674036646903843,
+        "lat": 40.42054324055486,
+        "capacity": 23
+      },
+      {
+        "station_id": "free_streets_station_MADRID107",
+        "name": "Station 107",
+        "lon": -3.7976098607709075,
+        "lat": 40.35530710027288,
+        "capacity": 49
+      },
+      {
+        "station_id": "free_streets_station_MADRID108",
+        "name": "Station 108",
+        "lon": -3.6922779621581054,
+        "lat": 40.33303882153558,
+        "capacity": 27
+      },
+      {
+        "station_id": "free_streets_station_MADRID109",
+        "name": "Station 109",
+        "lon": -3.64640254629313,
+        "lat": 40.44290239354948,
+        "capacity": 31
+      },
+      {
+        "station_id": "free_streets_station_MADRID110",
+        "name": "Station 110",
+        "lon": -3.7895913482930776,
+        "lat": 40.49271701903721,
+        "capacity": 18
+      },
+      {
+        "station_id": "free_streets_station_MADRID111",
+        "name": "Station 111",
+        "lon": -3.7206731014863803,
+        "lat": 40.341042015219195,
+        "capacity": 33
+      },
+      {
+        "station_id": "free_streets_station_MADRID112",
+        "name": "Station 112",
+        "lon": -3.765761697949127,
+        "lat": 40.40080316034606,
+        "capacity": 39
+      }
+    ]
+  },
+  "ttl": 180,
+  "version": "2.3"
+}
