@@ -1,11 +1,13 @@
 {
-  "last_updated": 1732465028,
-  "data": [
-    {
-      "version": "2.3",
-      "url": "https://leo-av.github.io/GBFS/FREE_STREETS/madrid_gbfs/gbfs.json"
-    }
-  ],
+  "last_updated": 1732465381,
+  "data": {
+    "versions": [
+      {
+        "url": "https://leo-av.github.io/GBFS/FREE_STREETS/madrid_gbfs/gbfs.json",
+        "version": "2.3"
+      }
+    ]
+  },
   "ttl": 180,
   "version": "2.3"
 }

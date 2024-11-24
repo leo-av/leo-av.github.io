@@ -1,2043 +1,1690 @@
 {
-  "last_updated": 1732465014,
+  "last_updated": 1732465370,
   "data": {
     "bikes": [
       {
-        "is_reserved": false,
-        "vehicle_type_id": "flash_car",
+        "is_reserved": true,
+        "vehicle_type_id": "flash_bike",
         "is_disabled": true,
-        "current_range_meters": 383595,
-        "lon": -3.614949898369791,
+        "lon": -3.7339144767466843,
         "bike_id": "flash_MADRID001",
-        "lat": 40.4213104786249,
-        "pricing_plan_id": "flash_plan_2"
+        "lat": 40.42576569029162,
+        "pricing_plan_id": "flash_plan_3"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "flash_car",
+        "is_reserved": false,
+        "vehicle_type_id": "flash_bike",
         "is_disabled": false,
-        "current_range_meters": 389209,
-        "lon": -3.678396225310525,
+        "lon": -3.6164145474516762,
         "bike_id": "flash_MADRID002",
-        "lat": 40.457232739466974,
-        "pricing_plan_id": "flash_plan_3",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.41474819285175,
+        "pricing_plan_id": "flash_plan_3"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": false,
-        "current_range_meters": 57512,
-        "lon": -3.747751809988144,
+        "is_reserved": false,
+        "vehicle_type_id": "flash_bike",
+        "is_disabled": true,
+        "lon": -3.643501798830714,
         "bike_id": "flash_MADRID003",
-        "lat": 40.38450908672572,
-        "pricing_plan_id": "flash_plan_2",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.37641802884579,
+        "pricing_plan_id": "flash_plan_2"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "flash_car",
+        "is_reserved": false,
+        "vehicle_type_id": "flash_bike",
         "is_disabled": false,
-        "current_range_meters": 164669,
-        "lon": -3.672661367775953,
+        "lon": -3.721531794231569,
         "bike_id": "flash_MADRID004",
-        "lat": 40.405920465190086,
+        "lat": 40.37625926910459,
         "pricing_plan_id": "flash_plan_3"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": true,
-        "current_range_meters": 343628,
-        "lon": -3.792218240604534,
+        "vehicle_type_id": "flash_bike",
+        "is_disabled": false,
+        "lon": -3.7714215433808906,
         "bike_id": "flash_MADRID005",
-        "lat": 40.33992993472518,
-        "pricing_plan_id": "flash_plan_1",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.44054100221894,
+        "pricing_plan_id": "flash_plan_3"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "flash_car",
+        "is_reserved": false,
+        "vehicle_type_id": "flash_bike",
         "is_disabled": true,
-        "current_range_meters": 41707,
-        "lon": -3.679848888268001,
+        "lon": -3.709644841883978,
         "bike_id": "flash_MADRID006",
-        "lat": 40.451998595269416,
-        "pricing_plan_id": "flash_plan_1",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.441695016050204,
+        "pricing_plan_id": "flash_plan_1"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": false,
-        "current_range_meters": 73236,
-        "lon": -3.6515917152035944,
+        "is_reserved": false,
+        "vehicle_type_id": "flash_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 18540,
+        "lon": -3.645597810521007,
         "bike_id": "flash_MADRID007",
-        "lat": 40.39510264564205,
-        "pricing_plan_id": "flash_plan_3",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.347814897082856,
+        "pricing_plan_id": "flash_plan_3"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": true,
-        "current_range_meters": 245484,
-        "lon": -3.6752616750611597,
+        "vehicle_type_id": "flash_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 9058,
+        "lon": -3.6608760015817126,
         "bike_id": "flash_MADRID008",
-        "lat": 40.48429240407574,
-        "pricing_plan_id": "flash_plan_1"
+        "lat": 40.47874902875204,
+        "pricing_plan_id": "flash_plan_2"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "flash_car",
+        "is_reserved": false,
+        "vehicle_type_id": "flash_electric_bike",
         "is_disabled": false,
-        "current_range_meters": 355295,
-        "lon": -3.776140644355948,
+        "current_range_meters": 75494,
+        "lon": -3.6424045197823918,
         "bike_id": "flash_MADRID009",
-        "lat": 40.331240399197334,
+        "lat": 40.44501589427282,
         "pricing_plan_id": "flash_plan_3"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "flash_car",
+        "is_reserved": true,
+        "vehicle_type_id": "flash_bike",
         "is_disabled": true,
-        "current_range_meters": 247875,
-        "lon": -3.7964364192117532,
+        "lon": -3.7982407826158533,
         "bike_id": "flash_MADRID010",
-        "lat": 40.469188769242685,
-        "pricing_plan_id": "flash_plan_1"
+        "lat": 40.427343952782586,
+        "pricing_plan_id": "flash_plan_2"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "flash_car",
+        "vehicle_type_id": "flash_electric_bike",
         "is_disabled": true,
-        "current_range_meters": 19637,
-        "lon": -3.7690128671257708,
+        "current_range_meters": 35386,
+        "lon": -3.6593069230386446,
         "bike_id": "flash_MADRID011",
-        "lat": 40.33773190449896,
-        "pricing_plan_id": "flash_plan_2"
+        "lat": 40.32891293229809,
+        "pricing_plan_id": "flash_plan_3"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": false,
-        "current_range_meters": 401185,
-        "lon": -3.6684751457483973,
+        "is_reserved": false,
+        "vehicle_type_id": "flash_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 70138,
+        "lon": -3.7765101671608163,
         "bike_id": "flash_MADRID012",
-        "lat": 40.32867264316584,
-        "pricing_plan_id": "flash_plan_1"
+        "lat": 40.383363569686345,
+        "pricing_plan_id": "flash_plan_2"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "flash_car",
+        "is_reserved": true,
+        "vehicle_type_id": "flash_bike",
         "is_disabled": false,
-        "current_range_meters": 22928,
-        "lon": -3.7325426671871234,
+        "lon": -3.7330447193018217,
         "bike_id": "flash_MADRID013",
-        "lat": 40.32964115853905,
-        "pricing_plan_id": "flash_plan_1"
+        "lat": 40.30019671899121,
+        "pricing_plan_id": "flash_plan_2"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "flash_car",
+        "vehicle_type_id": "flash_electric_bike",
         "is_disabled": true,
-        "current_range_meters": 171337,
-        "lon": -3.7952829985669045,
+        "current_range_meters": 68878,
+        "lon": -3.624507114018683,
         "bike_id": "flash_MADRID014",
-        "lat": 40.337177958574216,
-        "pricing_plan_id": "flash_plan_1",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.36353657643267,
+        "pricing_plan_id": "flash_plan_3"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": false,
-        "current_range_meters": 25272,
-        "lon": -3.6594374964599385,
+        "vehicle_type_id": "flash_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 67109,
+        "lon": -3.7889580335596373,
         "bike_id": "flash_MADRID015",
-        "lat": 40.33204076549487,
-        "pricing_plan_id": "flash_plan_1"
+        "lat": 40.49084507826926,
+        "pricing_plan_id": "flash_plan_2"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "flash_car",
+        "is_reserved": true,
+        "vehicle_type_id": "flash_bike",
         "is_disabled": false,
-        "current_range_meters": 31967,
-        "lon": -3.781712286386187,
+        "lon": -3.6509050016514397,
         "bike_id": "flash_MADRID016",
-        "lat": 40.36998645415371,
-        "pricing_plan_id": "flash_plan_1",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.433874366238854,
+        "pricing_plan_id": "flash_plan_2"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "flash_car",
+        "vehicle_type_id": "flash_electric_bike",
         "is_disabled": true,
-        "current_range_meters": 77628,
-        "lon": -3.792047155984761,
+        "current_range_meters": 73552,
+        "lon": -3.637430342728037,
         "bike_id": "flash_MADRID017",
-        "lat": 40.387530300554374,
+        "lat": 40.36706552665711,
         "pricing_plan_id": "flash_plan_2"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "flash_car",
+        "vehicle_type_id": "flash_electric_bike",
         "is_disabled": false,
-        "current_range_meters": 193017,
-        "lon": -3.6447243799601887,
+        "current_range_meters": 70114,
+        "lon": -3.6348522573897553,
         "bike_id": "flash_MADRID018",
-        "lat": 40.479362837160316,
-        "pricing_plan_id": "flash_plan_3",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.43457464373107,
+        "pricing_plan_id": "flash_plan_2"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "flash_car",
+        "is_reserved": false,
+        "vehicle_type_id": "flash_electric_bike",
         "is_disabled": true,
-        "current_range_meters": 398155,
-        "lon": -3.7655109975170755,
+        "current_range_meters": 7473,
+        "lon": -3.748700878574433,
         "bike_id": "flash_MADRID019",
-        "lat": 40.4133878233166,
-        "pricing_plan_id": "flash_plan_2",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.33691168894464,
+        "pricing_plan_id": "flash_plan_3"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "flash_car",
+        "is_reserved": false,
+        "vehicle_type_id": "flash_bike",
         "is_disabled": true,
-        "current_range_meters": 90633,
-        "lon": -3.6338231398267684,
+        "lon": -3.6983783434424073,
         "bike_id": "flash_MADRID020",
-        "lat": 40.37901899615162,
-        "pricing_plan_id": "flash_plan_1"
+        "lat": 40.4512186765379,
+        "pricing_plan_id": "flash_plan_3"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "flash_car",
+        "is_reserved": false,
+        "vehicle_type_id": "flash_electric_bike",
         "is_disabled": true,
-        "current_range_meters": 379457,
-        "lon": -3.706635543259436,
+        "current_range_meters": 15166,
+        "lon": -3.6704621555602532,
         "bike_id": "flash_MADRID021",
-        "lat": 40.49875912892947,
-        "pricing_plan_id": "flash_plan_3"
+        "lat": 40.311368864141,
+        "pricing_plan_id": "flash_plan_2"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "flash_car",
+        "is_reserved": false,
+        "vehicle_type_id": "flash_bike",
         "is_disabled": true,
-        "current_range_meters": 253217,
-        "lon": -3.6940224625166462,
+        "lon": -3.7201821983659116,
         "bike_id": "flash_MADRID022",
-        "lat": 40.37445578031311,
-        "pricing_plan_id": "flash_plan_1",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.36325638803766,
+        "pricing_plan_id": "flash_plan_3"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": true,
-        "current_range_meters": 46925,
-        "lon": -3.7913996963956413,
+        "vehicle_type_id": "flash_bike",
+        "is_disabled": false,
+        "lon": -3.656573023284552,
         "bike_id": "flash_MADRID023",
-        "lat": 40.33951962055816,
-        "pricing_plan_id": "flash_plan_3"
+        "lat": 40.46440811755821,
+        "pricing_plan_id": "flash_plan_2"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": true,
-        "current_range_meters": 29013,
-        "lon": -3.747197067408291,
+        "vehicle_type_id": "flash_bike",
+        "is_disabled": false,
+        "lon": -3.762759006573196,
         "bike_id": "flash_MADRID024",
-        "lat": 40.355964420450256,
-        "pricing_plan_id": "flash_plan_2",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.48022038792289,
+        "pricing_plan_id": "flash_plan_3"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": true,
-        "current_range_meters": 394240,
-        "lon": -3.6534158764538036,
+        "vehicle_type_id": "flash_bike",
+        "is_disabled": false,
+        "lon": -3.60370808739731,
         "bike_id": "flash_MADRID025",
-        "lat": 40.311487194190356,
-        "pricing_plan_id": "flash_plan_2",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.359811843598614,
+        "pricing_plan_id": "flash_plan_3"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": true,
-        "current_range_meters": 357007,
-        "lon": -3.7654156646558987,
+        "vehicle_type_id": "flash_bike",
+        "is_disabled": false,
+        "lon": -3.775239607741237,
         "bike_id": "flash_MADRID026",
-        "lat": 40.370432500825196,
+        "lat": 40.46672744118905,
         "pricing_plan_id": "flash_plan_3"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "flash_car",
+        "vehicle_type_id": "flash_bike",
         "is_disabled": true,
-        "current_range_meters": 362849,
-        "lon": -3.688765842315559,
+        "lon": -3.788383053120397,
         "bike_id": "flash_MADRID027",
-        "lat": 40.387184718854314,
-        "pricing_plan_id": "flash_plan_2",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.485759507530034,
+        "pricing_plan_id": "flash_plan_3"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "flash_car",
+        "is_reserved": false,
+        "vehicle_type_id": "flash_bike",
         "is_disabled": true,
-        "current_range_meters": 138365,
-        "lon": -3.7852304054312023,
+        "lon": -3.6485424801319257,
         "bike_id": "flash_MADRID028",
-        "lat": 40.38356847860389,
-        "pricing_plan_id": "flash_plan_3"
+        "lat": 40.43217225416159,
+        "pricing_plan_id": "flash_plan_2"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": false,
-        "current_range_meters": 309932,
-        "lon": -3.696528913147153,
+        "vehicle_type_id": "flash_bike",
+        "is_disabled": true,
+        "lon": -3.672673501774621,
         "bike_id": "flash_MADRID029",
-        "lat": 40.31613750862303,
-        "pricing_plan_id": "flash_plan_2"
+        "lat": 40.43276945107946,
+        "pricing_plan_id": "flash_plan_3"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": false,
-        "current_range_meters": 252182,
-        "lon": -3.734231348006865,
+        "vehicle_type_id": "flash_bike",
+        "is_disabled": true,
+        "lon": -3.759359211840239,
         "bike_id": "flash_MADRID030",
-        "lat": 40.43983499629675,
-        "pricing_plan_id": "flash_plan_1",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.44375273210966,
+        "pricing_plan_id": "flash_plan_3"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "flash_car",
+        "is_reserved": false,
+        "vehicle_type_id": "flash_electric_bike",
         "is_disabled": true,
-        "current_range_meters": 394026,
-        "lon": -3.728050558818457,
+        "current_range_meters": 22868,
+        "lon": -3.7421012510179574,
         "bike_id": "flash_MADRID031",
-        "lat": 40.37565761509601,
+        "lat": 40.37207590007119,
         "pricing_plan_id": "flash_plan_2"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": false,
-        "current_range_meters": 187210,
-        "lon": -3.6766813119349386,
+        "is_reserved": false,
+        "vehicle_type_id": "flash_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 51382,
+        "lon": -3.6796430949032786,
         "bike_id": "flash_MADRID032",
-        "lat": 40.4054918046832,
-        "pricing_plan_id": "flash_plan_3",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.318911018739314,
+        "pricing_plan_id": "flash_plan_2"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": false,
-        "current_range_meters": 47978,
-        "lon": -3.662459620085992,
+        "is_reserved": false,
+        "vehicle_type_id": "flash_bike",
+        "is_disabled": true,
+        "lon": -3.679556747577475,
         "bike_id": "flash_MADRID033",
-        "lat": 40.323252900476845,
-        "pricing_plan_id": "flash_plan_2"
+        "lat": 40.37449739258082,
+        "pricing_plan_id": "flash_plan_3"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "flash_car",
+        "vehicle_type_id": "flash_bike",
         "is_disabled": true,
-        "current_range_meters": 164775,
-        "lon": -3.7468101484545726,
+        "lon": -3.702625244028357,
         "bike_id": "flash_MADRID034",
-        "lat": 40.35104532636166,
-        "pricing_plan_id": "flash_plan_3",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.43343553405718,
+        "pricing_plan_id": "flash_plan_2"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "flash_car",
+        "vehicle_type_id": "flash_bike",
         "is_disabled": false,
-        "current_range_meters": 323374,
-        "lon": -3.673906144316699,
+        "lon": -3.7909285849545205,
         "bike_id": "flash_MADRID035",
-        "lat": 40.36136803033614,
-        "pricing_plan_id": "flash_plan_2"
+        "lat": 40.49097491172122,
+        "pricing_plan_id": "flash_plan_1"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": false,
-        "current_range_meters": 288984,
-        "lon": -3.7363294843090022,
+        "vehicle_type_id": "flash_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 65829,
+        "lon": -3.7944055142588367,
         "bike_id": "flash_MADRID036",
-        "lat": 40.381560124621764,
-        "pricing_plan_id": "flash_plan_3"
+        "lat": 40.373353036149695,
+        "pricing_plan_id": "flash_plan_1"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "flash_car",
+        "vehicle_type_id": "flash_electric_bike",
         "is_disabled": true,
-        "current_range_meters": 375233,
-        "lon": -3.7721073783127856,
+        "current_range_meters": 55712,
+        "lon": -3.7202180144112864,
         "bike_id": "flash_MADRID037",
-        "lat": 40.48140610206205,
-        "pricing_plan_id": "flash_plan_1"
+        "lat": 40.374257342636334,
+        "pricing_plan_id": "flash_plan_3"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": false,
-        "current_range_meters": 270266,
-        "lon": -3.693765304497623,
+        "is_reserved": false,
+        "vehicle_type_id": "flash_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 22532,
+        "lon": -3.7974021865887595,
         "bike_id": "flash_MADRID038",
-        "lat": 40.47330972502585,
-        "pricing_plan_id": "flash_plan_3",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.37721595660657,
+        "pricing_plan_id": "flash_plan_3"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": false,
-        "current_range_meters": 140308,
-        "lon": -3.668580359823013,
+        "vehicle_type_id": "flash_bike",
+        "is_disabled": true,
+        "lon": -3.6004326631473456,
         "bike_id": "flash_MADRID039",
-        "lat": 40.3613077191459,
-        "pricing_plan_id": "flash_plan_1"
+        "lat": 40.472113965233426,
+        "pricing_plan_id": "flash_plan_3"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "flash_car",
+        "vehicle_type_id": "flash_electric_bike",
         "is_disabled": false,
-        "current_range_meters": 57831,
-        "lon": -3.7310069465618243,
+        "current_range_meters": 58907,
+        "lon": -3.670219259088729,
         "bike_id": "flash_MADRID040",
-        "lat": 40.31785675793402,
+        "lat": 40.337622427735724,
         "pricing_plan_id": "flash_plan_3"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": false,
-        "current_range_meters": 339737,
-        "lon": -3.7048040905063364,
+        "is_reserved": false,
+        "vehicle_type_id": "flash_bike",
+        "is_disabled": true,
+        "lon": -3.691494267425646,
         "bike_id": "flash_MADRID041",
-        "lat": 40.32691778003201,
-        "pricing_plan_id": "flash_plan_2",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.350981087436864,
+        "pricing_plan_id": "flash_plan_2"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": false,
-        "current_range_meters": 316548,
-        "lon": -3.717623693969389,
+        "vehicle_type_id": "flash_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 59799,
+        "lon": -3.7466553591807497,
         "bike_id": "flash_MADRID042",
-        "lat": 40.43270661636964,
-        "pricing_plan_id": "flash_plan_1",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.48145968240653,
+        "pricing_plan_id": "flash_plan_1"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "flash_car",
+        "is_reserved": true,
+        "vehicle_type_id": "flash_bike",
         "is_disabled": true,
-        "current_range_meters": 61479,
-        "lon": -3.655766062075051,
+        "lon": -3.691167141660568,
         "bike_id": "flash_MADRID043",
-        "lat": 40.48261342698375,
-        "pricing_plan_id": "flash_plan_3",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.348004274559386,
+        "pricing_plan_id": "flash_plan_3"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "flash_car",
+        "vehicle_type_id": "flash_electric_bike",
         "is_disabled": true,
-        "current_range_meters": 151318,
-        "lon": -3.6734644761180424,
+        "current_range_meters": 76637,
+        "lon": -3.6115586916452656,
         "bike_id": "flash_MADRID044",
-        "lat": 40.4721517349282,
-        "pricing_plan_id": "flash_plan_1"
+        "lat": 40.45130315808928,
+        "pricing_plan_id": "flash_plan_3"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "flash_car",
+        "is_reserved": true,
+        "vehicle_type_id": "flash_bike",
         "is_disabled": true,
-        "current_range_meters": 314621,
-        "lon": -3.6450553202560965,
+        "lon": -3.706404843130007,
         "bike_id": "flash_MADRID045",
-        "lat": 40.40498812539388,
-        "pricing_plan_id": "flash_plan_3",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.44797157083581,
+        "pricing_plan_id": "flash_plan_3"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": true,
-        "current_range_meters": 354832,
-        "lon": -3.7891685924450575,
+        "vehicle_type_id": "flash_bike",
+        "is_disabled": false,
+        "lon": -3.753921673174237,
         "bike_id": "flash_MADRID046",
-        "lat": 40.491916330772604,
-        "pricing_plan_id": "flash_plan_1",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.328633246977446,
+        "pricing_plan_id": "flash_plan_1"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "flash_car",
+        "vehicle_type_id": "flash_electric_bike",
         "is_disabled": false,
-        "current_range_meters": 154675,
-        "lon": -3.6498905284069614,
+        "current_range_meters": 36153,
+        "lon": -3.7035806126858253,
         "bike_id": "flash_MADRID047",
-        "lat": 40.361701341079176,
-        "pricing_plan_id": "flash_plan_3"
+        "lat": 40.41378468965535,
+        "pricing_plan_id": "flash_plan_1"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": true,
-        "current_range_meters": 251656,
-        "lon": -3.753686752902469,
+        "is_reserved": true,
+        "vehicle_type_id": "flash_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 55777,
+        "lon": -3.6974553242958845,
         "bike_id": "flash_MADRID048",
-        "lat": 40.39395102840587,
-        "pricing_plan_id": "flash_plan_2"
+        "lat": 40.37088854917402,
+        "pricing_plan_id": "flash_plan_1"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "flash_car",
+        "vehicle_type_id": "flash_electric_bike",
         "is_disabled": false,
-        "current_range_meters": 263866,
-        "lon": -3.6821155693492407,
+        "current_range_meters": 36769,
+        "lon": -3.748176509437325,
         "bike_id": "flash_MADRID049",
-        "lat": 40.45594937696333,
-        "pricing_plan_id": "flash_plan_1"
+        "lat": 40.34417311162891,
+        "pricing_plan_id": "flash_plan_2"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": true,
-        "current_range_meters": 100904,
-        "lon": -3.735827692722513,
+        "vehicle_type_id": "flash_bike",
+        "is_disabled": false,
+        "lon": -3.6770398237345656,
         "bike_id": "flash_MADRID050",
-        "lat": 40.438564066884915,
+        "lat": 40.39881072569175,
         "pricing_plan_id": "flash_plan_1"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "flash_car",
+        "vehicle_type_id": "flash_electric_bike",
         "is_disabled": true,
-        "current_range_meters": 235028,
-        "lon": -3.6720298342142366,
+        "current_range_meters": 31642,
+        "lon": -3.6795435847485267,
         "bike_id": "flash_MADRID051",
-        "lat": 40.44855470162426,
-        "pricing_plan_id": "flash_plan_1"
+        "lat": 40.42507499826343,
+        "pricing_plan_id": "flash_plan_2"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "flash_car",
+        "is_reserved": false,
+        "vehicle_type_id": "flash_electric_bike",
         "is_disabled": true,
-        "current_range_meters": 125873,
-        "lon": -3.6381676344111002,
+        "current_range_meters": 53362,
+        "lon": -3.63111131833978,
         "bike_id": "flash_MADRID052",
-        "lat": 40.37348837847805,
-        "pricing_plan_id": "flash_plan_3"
+        "lat": 40.393975433564485,
+        "pricing_plan_id": "flash_plan_2"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": true,
-        "current_range_meters": 348671,
-        "lon": -3.6955947020244815,
+        "vehicle_type_id": "flash_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 64411,
+        "lon": -3.7905626000547077,
         "bike_id": "flash_MADRID053",
-        "lat": 40.42069804875288,
-        "pricing_plan_id": "flash_plan_1"
+        "lat": 40.44786000224841,
+        "pricing_plan_id": "flash_plan_2"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "flash_car",
+        "is_reserved": true,
+        "vehicle_type_id": "flash_electric_bike",
         "is_disabled": false,
-        "current_range_meters": 259417,
-        "lon": -3.748223308059159,
+        "current_range_meters": 66005,
+        "lon": -3.616807860454853,
         "bike_id": "flash_MADRID054",
-        "lat": 40.33507205322109,
+        "lat": 40.37737539968704,
         "pricing_plan_id": "flash_plan_3"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": false,
-        "current_range_meters": 192764,
-        "lon": -3.7335944880133933,
+        "is_reserved": false,
+        "vehicle_type_id": "flash_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 65751,
+        "lon": -3.7593345718259257,
         "bike_id": "flash_MADRID055",
-        "lat": 40.41024308261733,
-        "pricing_plan_id": "flash_plan_2",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.443122101297725,
+        "pricing_plan_id": "flash_plan_1"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": false,
-        "current_range_meters": 143383,
-        "lon": -3.782305551401996,
+        "vehicle_type_id": "flash_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 70536,
+        "lon": -3.6074719094713834,
         "bike_id": "flash_MADRID056",
-        "lat": 40.34527130632285,
-        "pricing_plan_id": "flash_plan_3"
+        "lat": 40.388548824446836,
+        "pricing_plan_id": "flash_plan_2"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": false,
-        "current_range_meters": 376557,
-        "lon": -3.7671284826904436,
+        "is_reserved": true,
+        "vehicle_type_id": "flash_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 55606,
+        "lon": -3.7409927169783828,
         "bike_id": "flash_MADRID057",
-        "lat": 40.385967277127214,
+        "lat": 40.39602230464529,
         "pricing_plan_id": "flash_plan_2"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "flash_car",
+        "vehicle_type_id": "flash_electric_bike",
         "is_disabled": false,
-        "current_range_meters": 161620,
-        "lon": -3.7275251876098223,
+        "current_range_meters": 40068,
+        "lon": -3.6533068473211894,
         "bike_id": "flash_MADRID058",
-        "lat": 40.30737066589281,
+        "lat": 40.34215378790409,
         "pricing_plan_id": "flash_plan_1"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": false,
-        "current_range_meters": 320651,
-        "lon": -3.652643489016712,
+        "is_reserved": false,
+        "vehicle_type_id": "flash_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 21002,
+        "lon": -3.7223695027100567,
         "bike_id": "flash_MADRID059",
-        "lat": 40.37247817243476,
+        "lat": 40.42066502314488,
         "pricing_plan_id": "flash_plan_1"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "flash_car",
+        "is_reserved": true,
+        "vehicle_type_id": "flash_bike",
         "is_disabled": true,
-        "current_range_meters": 192386,
-        "lon": -3.609477304576938,
+        "lon": -3.69743767017788,
         "bike_id": "flash_MADRID060",
-        "lat": 40.319331920101504,
-        "pricing_plan_id": "flash_plan_1"
+        "lat": 40.348381345051926,
+        "pricing_plan_id": "flash_plan_2"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "flash_car",
+        "vehicle_type_id": "flash_bike",
         "is_disabled": false,
-        "current_range_meters": 216422,
-        "lon": -3.6087321253525566,
+        "lon": -3.721612622960678,
         "bike_id": "flash_MADRID061",
-        "lat": 40.46295127560826,
-        "pricing_plan_id": "flash_plan_3",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.39221128839205,
+        "pricing_plan_id": "flash_plan_3"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "flash_car",
+        "vehicle_type_id": "flash_bike",
         "is_disabled": false,
-        "current_range_meters": 240954,
-        "lon": -3.6665196460951894,
+        "lon": -3.6385863978368063,
         "bike_id": "flash_MADRID062",
-        "lat": 40.43048246592523,
-        "pricing_plan_id": "flash_plan_1",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.47048299632356,
+        "pricing_plan_id": "flash_plan_3"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "flash_car",
+        "vehicle_type_id": "flash_bike",
         "is_disabled": true,
-        "current_range_meters": 279286,
-        "lon": -3.7351449673580706,
+        "lon": -3.705557353201541,
         "bike_id": "flash_MADRID063",
-        "lat": 40.46898760103001,
-        "pricing_plan_id": "flash_plan_2"
+        "lat": 40.478883244092216,
+        "pricing_plan_id": "flash_plan_3"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": false,
-        "current_range_meters": 383773,
-        "lon": -3.6124970745114044,
+        "is_reserved": false,
+        "vehicle_type_id": "flash_bike",
+        "is_disabled": true,
+        "lon": -3.6266405149868786,
         "bike_id": "flash_MADRID064",
-        "lat": 40.39712224033609,
-        "pricing_plan_id": "flash_plan_2",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.33488540819606,
+        "pricing_plan_id": "flash_plan_3"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": false,
-        "current_range_meters": 56543,
-        "lon": -3.6927916589409873,
+        "vehicle_type_id": "flash_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 35908,
+        "lon": -3.680087386475695,
         "bike_id": "flash_MADRID065",
-        "lat": 40.47189538992674,
-        "pricing_plan_id": "flash_plan_1"
+        "lat": 40.34106476663468,
+        "pricing_plan_id": "flash_plan_2"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": true,
-        "current_range_meters": 94589,
-        "lon": -3.7813324306287805,
+        "vehicle_type_id": "flash_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 52507,
+        "lon": -3.687982564112801,
         "bike_id": "flash_MADRID066",
-        "lat": 40.30590708410567,
-        "pricing_plan_id": "flash_plan_2"
+        "lat": 40.4015121363398,
+        "pricing_plan_id": "flash_plan_3"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": true,
-        "current_range_meters": 393875,
-        "lon": -3.6447124247653795,
+        "vehicle_type_id": "flash_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 45730,
+        "lon": -3.677685159123767,
         "bike_id": "flash_MADRID067",
-        "lat": 40.42571484474432,
+        "lat": 40.460532517006925,
         "pricing_plan_id": "flash_plan_1"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "flash_car",
+        "is_reserved": false,
+        "vehicle_type_id": "flash_electric_bike",
         "is_disabled": true,
-        "current_range_meters": 206005,
-        "lon": -3.6290659043198197,
+        "current_range_meters": 41109,
+        "lon": -3.7990383181793654,
         "bike_id": "flash_MADRID068",
-        "lat": 40.369032810177984,
-        "pricing_plan_id": "flash_plan_3"
+        "lat": 40.410558388000595,
+        "pricing_plan_id": "flash_plan_1"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "flash_car",
+        "vehicle_type_id": "flash_bike",
         "is_disabled": true,
-        "current_range_meters": 263184,
-        "lon": -3.7067339329539415,
+        "lon": -3.7528083409681994,
         "bike_id": "flash_MADRID069",
-        "lat": 40.39061685913062,
-        "pricing_plan_id": "flash_plan_3"
+        "lat": 40.45073259501043,
+        "pricing_plan_id": "flash_plan_2"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "flash_car",
+        "vehicle_type_id": "flash_bike",
         "is_disabled": false,
-        "current_range_meters": 62932,
-        "lon": -3.728515866801504,
+        "lon": -3.7380779752571995,
         "bike_id": "flash_MADRID070",
-        "lat": 40.31889906831106,
-        "pricing_plan_id": "flash_plan_1",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.44282313722777,
+        "pricing_plan_id": "flash_plan_1"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": true,
-        "current_range_meters": 267609,
-        "lon": -3.7193065519968083,
+        "is_reserved": false,
+        "vehicle_type_id": "flash_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 50038,
+        "lon": -3.6448373743163307,
         "bike_id": "flash_MADRID071",
-        "lat": 40.47032986359096,
+        "lat": 40.434236352764316,
         "pricing_plan_id": "flash_plan_1"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "flash_car",
+        "vehicle_type_id": "flash_electric_bike",
         "is_disabled": false,
-        "current_range_meters": 374455,
-        "lon": -3.73246524135242,
+        "current_range_meters": 12066,
+        "lon": -3.78829402087145,
         "bike_id": "flash_MADRID072",
-        "lat": 40.38680235584415,
-        "pricing_plan_id": "flash_plan_1",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.442574751155156,
+        "pricing_plan_id": "flash_plan_2"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": false,
-        "current_range_meters": 288000,
-        "lon": -3.6372519272827635,
+        "vehicle_type_id": "flash_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 44024,
+        "lon": -3.7855923812361136,
         "bike_id": "flash_MADRID073",
-        "lat": 40.416522940399894,
-        "pricing_plan_id": "flash_plan_1"
+        "lat": 40.489090907189606,
+        "pricing_plan_id": "flash_plan_3"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "flash_car",
+        "vehicle_type_id": "flash_electric_bike",
         "is_disabled": true,
-        "current_range_meters": 331029,
-        "lon": -3.7537345088371383,
+        "current_range_meters": 32413,
+        "lon": -3.6639415853480175,
         "bike_id": "flash_MADRID074",
-        "lat": 40.41314473793355,
-        "pricing_plan_id": "flash_plan_1",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.328194276959195,
+        "pricing_plan_id": "flash_plan_1"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "flash_car",
+        "vehicle_type_id": "flash_electric_bike",
         "is_disabled": true,
-        "current_range_meters": 152562,
-        "lon": -3.7721035961570557,
+        "current_range_meters": 46231,
+        "lon": -3.750653924903813,
         "bike_id": "flash_MADRID075",
-        "lat": 40.32726157959898,
+        "lat": 40.43624727879887,
         "pricing_plan_id": "flash_plan_1"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "flash_car",
+        "vehicle_type_id": "flash_electric_bike",
         "is_disabled": true,
-        "current_range_meters": 285988,
-        "lon": -3.7621467180396824,
+        "current_range_meters": 27198,
+        "lon": -3.6638975836844523,
         "bike_id": "flash_MADRID076",
-        "lat": 40.456625459507606,
-        "pricing_plan_id": "flash_plan_1",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.34410561754431,
+        "pricing_plan_id": "flash_plan_2"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": false,
-        "current_range_meters": 402699,
-        "lon": -3.6145480434153003,
+        "vehicle_type_id": "flash_bike",
+        "is_disabled": true,
+        "lon": -3.7899723258463536,
         "bike_id": "flash_MADRID077",
-        "lat": 40.38954456356394,
-        "pricing_plan_id": "flash_plan_2"
+        "lat": 40.41743205892427,
+        "pricing_plan_id": "flash_plan_1"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": true,
-        "current_range_meters": 356473,
-        "lon": -3.6235568082351852,
+        "is_reserved": true,
+        "vehicle_type_id": "flash_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 16085,
+        "lon": -3.633148442047017,
         "bike_id": "flash_MADRID078",
-        "lat": 40.326008215367445,
-        "pricing_plan_id": "flash_plan_3",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.359474320543114,
+        "pricing_plan_id": "flash_plan_2"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": false,
-        "current_range_meters": 251097,
-        "lon": -3.636192131114249,
+        "is_reserved": false,
+        "vehicle_type_id": "flash_bike",
+        "is_disabled": true,
+        "lon": -3.6914869644140915,
         "bike_id": "flash_MADRID079",
-        "lat": 40.434440041369676,
-        "pricing_plan_id": "flash_plan_3",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.33613204334115,
+        "pricing_plan_id": "flash_plan_1"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "flash_car",
+        "is_reserved": false,
+        "vehicle_type_id": "flash_electric_bike",
         "is_disabled": true,
-        "current_range_meters": 242846,
-        "lon": -3.696018643605648,
+        "current_range_meters": 15477,
+        "lon": -3.69582046387023,
         "bike_id": "flash_MADRID080",
-        "lat": 40.30755413320207,
-        "pricing_plan_id": "flash_plan_2"
+        "lat": 40.480313924875304,
+        "pricing_plan_id": "flash_plan_1"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": false,
-        "current_range_meters": 165854,
-        "lon": -3.6163939344580354,
+        "vehicle_type_id": "flash_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 29233,
+        "lon": -3.6695514360151167,
         "bike_id": "flash_MADRID081",
-        "lat": 40.427505381609514,
+        "lat": 40.45415226948482,
         "pricing_plan_id": "flash_plan_3"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": true,
-        "current_range_meters": 74973,
-        "lon": -3.6908838585197064,
+        "vehicle_type_id": "flash_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 42306,
+        "lon": -3.6600069285547012,
         "bike_id": "flash_MADRID082",
-        "lat": 40.38943088711714,
-        "pricing_plan_id": "flash_plan_3",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.39169743793701,
+        "pricing_plan_id": "flash_plan_1"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "flash_car",
+        "vehicle_type_id": "flash_electric_bike",
         "is_disabled": false,
-        "current_range_meters": 355262,
-        "lon": -3.778970990698829,
+        "current_range_meters": 56968,
+        "lon": -3.7778978948111415,
         "bike_id": "flash_MADRID083",
-        "lat": 40.400162492698406,
-        "pricing_plan_id": "flash_plan_3",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.45542798296631,
+        "pricing_plan_id": "flash_plan_1"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "flash_car",
+        "is_reserved": true,
+        "vehicle_type_id": "flash_bike",
         "is_disabled": false,
-        "current_range_meters": 111754,
-        "lon": -3.6371282369870923,
+        "lon": -3.6598754970055305,
         "bike_id": "flash_MADRID084",
-        "lat": 40.354828338517976,
-        "pricing_plan_id": "flash_plan_3",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.30193186408346,
+        "pricing_plan_id": "flash_plan_2"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": false,
-        "current_range_meters": 397447,
-        "lon": -3.644891396132475,
+        "is_reserved": false,
+        "vehicle_type_id": "flash_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 58331,
+        "lon": -3.6466746755172093,
         "bike_id": "flash_MADRID085",
-        "lat": 40.33579745416457,
-        "pricing_plan_id": "flash_plan_1",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.44434596820814,
+        "pricing_plan_id": "flash_plan_1"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": true,
-        "current_range_meters": 234493,
-        "lon": -3.637319596657194,
+        "vehicle_type_id": "flash_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 44167,
+        "lon": -3.696191404905304,
         "bike_id": "flash_MADRID086",
-        "lat": 40.419732607795524,
-        "pricing_plan_id": "flash_plan_3"
+        "lat": 40.38085135170798,
+        "pricing_plan_id": "flash_plan_1"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "flash_car",
+        "is_reserved": true,
+        "vehicle_type_id": "flash_electric_bike",
         "is_disabled": false,
-        "current_range_meters": 320191,
-        "lon": -3.6220821555306224,
+        "current_range_meters": 32789,
+        "lon": -3.681957357624244,
         "bike_id": "flash_MADRID087",
-        "lat": 40.3069742633598,
+        "lat": 40.40130265473204,
         "pricing_plan_id": "flash_plan_1"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "flash_car",
+        "is_reserved": true,
+        "vehicle_type_id": "flash_bike",
         "is_disabled": true,
-        "current_range_meters": 171261,
-        "lon": -3.752086959222448,
+        "lon": -3.7885893143481644,
         "bike_id": "flash_MADRID088",
-        "lat": 40.39905949857814,
-        "pricing_plan_id": "flash_plan_3",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.34312592357184,
+        "pricing_plan_id": "flash_plan_3"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "flash_car",
+        "is_reserved": true,
+        "vehicle_type_id": "flash_electric_bike",
         "is_disabled": true,
-        "current_range_meters": 104519,
-        "lon": -3.6456548215418936,
+        "current_range_meters": 39777,
+        "lon": -3.682328206868891,
         "bike_id": "flash_MADRID089",
-        "lat": 40.469836521538035,
-        "pricing_plan_id": "flash_plan_1",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.437255741014454,
+        "pricing_plan_id": "flash_plan_3"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "flash_car",
+        "is_reserved": false,
+        "vehicle_type_id": "flash_bike",
         "is_disabled": true,
-        "current_range_meters": 248505,
-        "lon": -3.7223104033488976,
+        "lon": -3.745382393294331,
         "bike_id": "flash_MADRID090",
-        "lat": 40.49397690075878,
-        "pricing_plan_id": "flash_plan_1",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.47305096474496,
+        "pricing_plan_id": "flash_plan_2"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": true,
-        "current_range_meters": 193086,
-        "lon": -3.756423245146273,
+        "is_reserved": true,
+        "vehicle_type_id": "flash_bike",
+        "is_disabled": false,
+        "lon": -3.664050836241044,
         "bike_id": "flash_MADRID091",
-        "lat": 40.36418189448453,
-        "pricing_plan_id": "flash_plan_2"
+        "lat": 40.3693560531329,
+        "pricing_plan_id": "flash_plan_3"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": false,
-        "current_range_meters": 235776,
-        "lon": -3.656984832946477,
+        "is_reserved": true,
+        "vehicle_type_id": "flash_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 14584,
+        "lon": -3.731808830213559,
         "bike_id": "flash_MADRID092",
-        "lat": 40.37973016420625,
-        "pricing_plan_id": "flash_plan_1"
+        "lat": 40.455656428953695,
+        "pricing_plan_id": "flash_plan_2"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "flash_car",
+        "vehicle_type_id": "flash_electric_bike",
         "is_disabled": false,
-        "current_range_meters": 41665,
-        "lon": -3.639721567078908,
+        "current_range_meters": 76432,
+        "lon": -3.6006624831494354,
         "bike_id": "flash_MADRID093",
-        "lat": 40.45162134604554,
-        "pricing_plan_id": "flash_plan_3",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.34148912165585,
+        "pricing_plan_id": "flash_plan_2"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": true,
-        "current_range_meters": 330577,
-        "lon": -3.7491553828074107,
+        "is_reserved": false,
+        "vehicle_type_id": "flash_bike",
+        "is_disabled": false,
+        "lon": -3.641164285445514,
         "bike_id": "flash_MADRID094",
-        "lat": 40.34122670024304,
-        "pricing_plan_id": "flash_plan_3",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.486554047847264,
+        "pricing_plan_id": "flash_plan_3"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": true,
-        "current_range_meters": 133983,
-        "lon": -3.6392452585897184,
+        "is_reserved": false,
+        "vehicle_type_id": "flash_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 51970,
+        "lon": -3.671561468827901,
         "bike_id": "flash_MADRID095",
-        "lat": 40.411592509314715,
+        "lat": 40.44296968883525,
         "pricing_plan_id": "flash_plan_3"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "flash_car",
+        "is_reserved": true,
+        "vehicle_type_id": "flash_electric_bike",
         "is_disabled": true,
-        "current_range_meters": 366910,
-        "lon": -3.6986880336577963,
+        "current_range_meters": 7939,
+        "lon": -3.6212540918193534,
         "bike_id": "flash_MADRID096",
-        "lat": 40.33526198394273,
-        "pricing_plan_id": "flash_plan_2"
+        "lat": 40.350435235640184,
+        "pricing_plan_id": "flash_plan_3"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "flash_car",
+        "is_reserved": true,
+        "vehicle_type_id": "flash_bike",
         "is_disabled": true,
-        "current_range_meters": 43610,
-        "lon": -3.682832574435049,
+        "lon": -3.707850368559485,
         "bike_id": "flash_MADRID097",
-        "lat": 40.47082307300803,
+        "lat": 40.456434434854465,
         "pricing_plan_id": "flash_plan_1"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "flash_car",
+        "vehicle_type_id": "flash_electric_bike",
         "is_disabled": true,
-        "current_range_meters": 389370,
-        "lon": -3.6320120724412894,
+        "current_range_meters": 25125,
+        "lon": -3.7346314249140855,
         "bike_id": "flash_MADRID098",
-        "lat": 40.46393102590827,
-        "pricing_plan_id": "flash_plan_3",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.3574125283082,
+        "pricing_plan_id": "flash_plan_2"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "flash_car",
+        "vehicle_type_id": "flash_electric_bike",
         "is_disabled": true,
-        "current_range_meters": 149336,
-        "lon": -3.601552060562559,
+        "current_range_meters": 68858,
+        "lon": -3.6741808873149826,
         "bike_id": "flash_MADRID099",
-        "lat": 40.48429995475783,
-        "pricing_plan_id": "flash_plan_3",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.455656845163325,
+        "pricing_plan_id": "flash_plan_2"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": false,
-        "current_range_meters": 297267,
-        "lon": -3.7253124600688614,
+        "is_reserved": true,
+        "vehicle_type_id": "flash_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 7102,
+        "lon": -3.7465094605839804,
         "bike_id": "flash_MADRID100",
-        "lat": 40.31194333034571,
-        "pricing_plan_id": "flash_plan_1"
+        "lat": 40.474623177516804,
+        "pricing_plan_id": "flash_plan_3"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "flash_car",
+        "vehicle_type_id": "flash_electric_bike",
         "is_disabled": true,
-        "current_range_meters": 53529,
-        "lon": -3.7548115237432724,
+        "current_range_meters": 38271,
+        "lon": -3.6075602947898884,
         "bike_id": "flash_MADRID101",
-        "lat": 40.436182288037415,
-        "pricing_plan_id": "flash_plan_3",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.383023918297084,
+        "pricing_plan_id": "flash_plan_3"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "flash_car",
+        "is_reserved": false,
+        "vehicle_type_id": "flash_bike",
         "is_disabled": false,
-        "current_range_meters": 405257,
-        "lon": -3.615795823826497,
+        "lon": -3.776689811644486,
         "bike_id": "flash_MADRID102",
-        "lat": 40.34784714459564,
-        "pricing_plan_id": "flash_plan_3",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.39705672729609,
+        "pricing_plan_id": "flash_plan_2"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "flash_car",
+        "is_reserved": true,
+        "vehicle_type_id": "flash_electric_bike",
         "is_disabled": true,
-        "current_range_meters": 381425,
-        "lon": -3.678979181256648,
+        "current_range_meters": 4649,
+        "lon": -3.7946508525157387,
         "bike_id": "flash_MADRID103",
-        "lat": 40.46181487570222,
+        "lat": 40.48319827281336,
         "pricing_plan_id": "flash_plan_3"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "flash_car",
+        "is_reserved": true,
+        "vehicle_type_id": "flash_electric_bike",
         "is_disabled": true,
-        "current_range_meters": 182876,
-        "lon": -3.679314433141414,
+        "current_range_meters": 70371,
+        "lon": -3.697409020287852,
         "bike_id": "flash_MADRID104",
-        "lat": 40.310296774675535,
+        "lat": 40.33914297183569,
         "pricing_plan_id": "flash_plan_1"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "flash_car",
+        "vehicle_type_id": "flash_bike",
         "is_disabled": true,
-        "current_range_meters": 386422,
-        "lon": -3.7136067567611586,
+        "lon": -3.7796897836183376,
         "bike_id": "flash_MADRID105",
-        "lat": 40.384592883578705,
-        "pricing_plan_id": "flash_plan_2"
+        "lat": 40.30010654802096,
+        "pricing_plan_id": "flash_plan_3"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "flash_car",
+        "vehicle_type_id": "flash_electric_bike",
         "is_disabled": false,
-        "current_range_meters": 231300,
-        "lon": -3.662394414724384,
+        "current_range_meters": 19147,
+        "lon": -3.7385884532904003,
         "bike_id": "flash_MADRID106",
-        "lat": 40.41831687439596,
-        "pricing_plan_id": "flash_plan_1"
+        "lat": 40.41571214468108,
+        "pricing_plan_id": "flash_plan_2"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "flash_car",
+        "is_reserved": true,
+        "vehicle_type_id": "flash_bike",
         "is_disabled": true,
-        "current_range_meters": 406516,
-        "lon": -3.70804025562663,
+        "lon": -3.770154406636427,
         "bike_id": "flash_MADRID107",
-        "lat": 40.34456237428936,
-        "pricing_plan_id": "flash_plan_1",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.47823116600939,
+        "pricing_plan_id": "flash_plan_2"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": false,
-        "current_range_meters": 151355,
-        "lon": -3.680038191979112,
+        "is_reserved": true,
+        "vehicle_type_id": "flash_bike",
+        "is_disabled": true,
+        "lon": -3.7570340808496674,
         "bike_id": "flash_MADRID108",
-        "lat": 40.460005919024844,
+        "lat": 40.4864415799821,
         "pricing_plan_id": "flash_plan_2"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": false,
-        "current_range_meters": 156652,
-        "lon": -3.624146051714297,
+        "vehicle_type_id": "flash_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 51375,
+        "lon": -3.7852167939959,
         "bike_id": "flash_MADRID109",
-        "lat": 40.303103389552,
-        "pricing_plan_id": "flash_plan_1",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.32222277003617,
+        "pricing_plan_id": "flash_plan_3"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": true,
-        "current_range_meters": 167718,
-        "lon": -3.6718930387871604,
+        "is_reserved": false,
+        "vehicle_type_id": "flash_bike",
+        "is_disabled": false,
+        "lon": -3.62145640844075,
         "bike_id": "flash_MADRID110",
-        "lat": 40.35637960955981,
-        "pricing_plan_id": "flash_plan_2"
+        "lat": 40.387232761952745,
+        "pricing_plan_id": "flash_plan_3"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "flash_car",
+        "is_reserved": false,
+        "vehicle_type_id": "flash_bike",
         "is_disabled": false,
-        "current_range_meters": 248156,
-        "lon": -3.70209059928221,
+        "lon": -3.6717910851902373,
         "bike_id": "flash_MADRID111",
-        "lat": 40.32674748569817,
+        "lat": 40.33197743846992,
         "pricing_plan_id": "flash_plan_3"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": false,
-        "current_range_meters": 137922,
-        "lon": -3.78970812772803,
+        "vehicle_type_id": "flash_bike",
+        "is_disabled": true,
+        "lon": -3.686754463516549,
         "bike_id": "flash_MADRID112",
-        "lat": 40.4733099415087,
-        "pricing_plan_id": "flash_plan_1",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.45194939942637,
+        "pricing_plan_id": "flash_plan_1"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": true,
-        "current_range_meters": 338312,
-        "lon": -3.691490410593864,
+        "vehicle_type_id": "flash_bike",
+        "is_disabled": false,
+        "lon": -3.7241347632073785,
         "bike_id": "flash_MADRID113",
-        "lat": 40.47316816271803,
-        "pricing_plan_id": "flash_plan_1",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.41015060652714,
+        "pricing_plan_id": "flash_plan_3"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": true,
-        "current_range_meters": 175641,
-        "lon": -3.656528102768736,
+        "vehicle_type_id": "flash_bike",
+        "is_disabled": false,
+        "lon": -3.613125880278619,
         "bike_id": "flash_MADRID114",
-        "lat": 40.40011888011319,
-        "pricing_plan_id": "flash_plan_1"
+        "lat": 40.427756431501244,
+        "pricing_plan_id": "flash_plan_2"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "flash_car",
+        "vehicle_type_id": "flash_bike",
         "is_disabled": false,
-        "current_range_meters": 54887,
-        "lon": -3.7375680944177416,
+        "lon": -3.724786007167125,
         "bike_id": "flash_MADRID115",
-        "lat": 40.3668153287605,
+        "lat": 40.36600757443389,
         "pricing_plan_id": "flash_plan_1"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "flash_car",
+        "is_reserved": false,
+        "vehicle_type_id": "flash_bike",
         "is_disabled": true,
-        "current_range_meters": 326148,
-        "lon": -3.777752305170189,
+        "lon": -3.7632319970214,
         "bike_id": "flash_MADRID116",
-        "lat": 40.441813441597354,
-        "pricing_plan_id": "flash_plan_1",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.47451077624174,
+        "pricing_plan_id": "flash_plan_3"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": false,
-        "current_range_meters": 73641,
-        "lon": -3.6908587988979646,
+        "vehicle_type_id": "flash_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 33989,
+        "lon": -3.7562010623815834,
         "bike_id": "flash_MADRID117",
-        "lat": 40.406832171030715,
-        "pricing_plan_id": "flash_plan_3"
+        "lat": 40.444455284582666,
+        "pricing_plan_id": "flash_plan_2"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": false,
-        "current_range_meters": 328140,
-        "lon": -3.727861833597691,
+        "is_reserved": false,
+        "vehicle_type_id": "flash_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 6222,
+        "lon": -3.714534464521874,
         "bike_id": "flash_MADRID118",
-        "lat": 40.32480318738713,
-        "pricing_plan_id": "flash_plan_1"
+        "lat": 40.395330817101375,
+        "pricing_plan_id": "flash_plan_2"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": false,
-        "current_range_meters": 35765,
-        "lon": -3.6410327028653646,
+        "vehicle_type_id": "flash_bike",
+        "is_disabled": true,
+        "lon": -3.61502574447062,
         "bike_id": "flash_MADRID119",
-        "lat": 40.39520925229919,
-        "pricing_plan_id": "flash_plan_2"
+        "lat": 40.34978581702004,
+        "pricing_plan_id": "flash_plan_3"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": true,
-        "current_range_meters": 223513,
-        "lon": -3.712992151857435,
+        "vehicle_type_id": "flash_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 31416,
+        "lon": -3.674823498047532,
         "bike_id": "flash_MADRID120",
-        "lat": 40.41294807082191,
-        "pricing_plan_id": "flash_plan_2"
+        "lat": 40.360203025777906,
+        "pricing_plan_id": "flash_plan_1"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": true,
-        "current_range_meters": 77888,
-        "lon": -3.793931864990192,
+        "vehicle_type_id": "flash_bike",
+        "is_disabled": false,
+        "lon": -3.6348898161014094,
         "bike_id": "flash_MADRID121",
-        "lat": 40.41113482759982,
-        "pricing_plan_id": "flash_plan_3"
+        "lat": 40.33187441805126,
+        "pricing_plan_id": "flash_plan_2"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": true,
-        "current_range_meters": 372668,
-        "lon": -3.7941930588908908,
+        "is_reserved": false,
+        "vehicle_type_id": "flash_bike",
+        "is_disabled": false,
+        "lon": -3.7528564492493106,
         "bike_id": "flash_MADRID122",
-        "lat": 40.319795973725086,
-        "pricing_plan_id": "flash_plan_2"
+        "lat": 40.40122209215184,
+        "pricing_plan_id": "flash_plan_3"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": false,
-        "current_range_meters": 165784,
-        "lon": -3.6712367715178846,
+        "vehicle_type_id": "flash_bike",
+        "is_disabled": true,
+        "lon": -3.628628007685472,
         "bike_id": "flash_MADRID123",
-        "lat": 40.44385690640392,
-        "pricing_plan_id": "flash_plan_3",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.370708346558025,
+        "pricing_plan_id": "flash_plan_1"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "flash_car",
+        "vehicle_type_id": "flash_bike",
         "is_disabled": true,
-        "current_range_meters": 135832,
-        "lon": -3.7216316666355875,
+        "lon": -3.715284898451642,
         "bike_id": "flash_MADRID124",
-        "lat": 40.30986166648289,
-        "pricing_plan_id": "flash_plan_1"
+        "lat": 40.317443190191845,
+        "pricing_plan_id": "flash_plan_3"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": false,
-        "current_range_meters": 107215,
-        "lon": -3.641428521999136,
+        "vehicle_type_id": "flash_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 30964,
+        "lon": -3.6667742901150637,
         "bike_id": "flash_MADRID125",
-        "lat": 40.38986979513764,
-        "pricing_plan_id": "flash_plan_3",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.36845142542584,
+        "pricing_plan_id": "flash_plan_1"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": false,
-        "current_range_meters": 78892,
-        "lon": -3.795492927710686,
+        "is_reserved": true,
+        "vehicle_type_id": "flash_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 75326,
+        "lon": -3.7814137175171783,
         "bike_id": "flash_MADRID126",
-        "lat": 40.36087366787959,
-        "pricing_plan_id": "flash_plan_1",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.31414242811917,
+        "pricing_plan_id": "flash_plan_3"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": true,
-        "current_range_meters": 370516,
-        "lon": -3.7379192175677023,
+        "is_reserved": true,
+        "vehicle_type_id": "flash_bike",
+        "is_disabled": false,
+        "lon": -3.7649356824257154,
         "bike_id": "flash_MADRID127",
-        "lat": 40.432790793786246,
-        "pricing_plan_id": "flash_plan_1",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.36875220582643,
+        "pricing_plan_id": "flash_plan_1"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": false,
-        "current_range_meters": 207356,
-        "lon": -3.751127934437857,
+        "vehicle_type_id": "flash_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 17608,
+        "lon": -3.7201386877538125,
         "bike_id": "flash_MADRID128",
-        "lat": 40.442299546793464,
+        "lat": 40.496703362894095,
         "pricing_plan_id": "flash_plan_3"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "flash_car",
+        "vehicle_type_id": "flash_bike",
         "is_disabled": true,
-        "current_range_meters": 308444,
-        "lon": -3.6062851736805004,
+        "lon": -3.6389104671570487,
         "bike_id": "flash_MADRID129",
-        "lat": 40.47093934294012,
-        "pricing_plan_id": "flash_plan_2"
+        "lat": 40.31311669020296,
+        "pricing_plan_id": "flash_plan_1"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": false,
-        "current_range_meters": 267470,
-        "lon": -3.7271779415480126,
+        "vehicle_type_id": "flash_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 46923,
+        "lon": -3.659091712575488,
         "bike_id": "flash_MADRID130",
-        "lat": 40.31350474042694,
-        "pricing_plan_id": "flash_plan_3",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.454092401838054,
+        "pricing_plan_id": "flash_plan_2"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "flash_car",
+        "vehicle_type_id": "flash_electric_bike",
         "is_disabled": false,
-        "current_range_meters": 270398,
-        "lon": -3.690227692149526,
+        "current_range_meters": 69793,
+        "lon": -3.627657822793395,
         "bike_id": "flash_MADRID131",
-        "lat": 40.306536276365335,
-        "pricing_plan_id": "flash_plan_1",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.44514208017121,
+        "pricing_plan_id": "flash_plan_1"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": false,
-        "current_range_meters": 32386,
-        "lon": -3.67592318890652,
+        "vehicle_type_id": "flash_bike",
+        "is_disabled": true,
+        "lon": -3.793755993088142,
         "bike_id": "flash_MADRID132",
-        "lat": 40.4960817012683,
-        "pricing_plan_id": "flash_plan_3",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.419345217644036,
+        "pricing_plan_id": "flash_plan_1"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "flash_car",
+        "is_reserved": false,
+        "vehicle_type_id": "flash_electric_bike",
         "is_disabled": false,
-        "current_range_meters": 370044,
-        "lon": -3.629853432078942,
+        "current_range_meters": 65734,
+        "lon": -3.7456145718521805,
         "bike_id": "flash_MADRID133",
-        "lat": 40.43289328924355,
-        "pricing_plan_id": "flash_plan_2",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.3644779513164,
+        "pricing_plan_id": "flash_plan_1"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "flash_car",
+        "vehicle_type_id": "flash_electric_bike",
         "is_disabled": false,
-        "current_range_meters": 58777,
-        "lon": -3.6218058726015943,
+        "current_range_meters": 25790,
+        "lon": -3.6701168071520076,
         "bike_id": "flash_MADRID134",
-        "lat": 40.495806874134324,
-        "pricing_plan_id": "flash_plan_1",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.480340627525806,
+        "pricing_plan_id": "flash_plan_3"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "flash_car",
+        "vehicle_type_id": "flash_electric_bike",
         "is_disabled": true,
-        "current_range_meters": 200142,
-        "lon": -3.6426336558166628,
+        "current_range_meters": 41004,
+        "lon": -3.77025185342331,
         "bike_id": "flash_MADRID135",
-        "lat": 40.47637672105026,
-        "pricing_plan_id": "flash_plan_2",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.41670916001925,
+        "pricing_plan_id": "flash_plan_2"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": false,
-        "current_range_meters": 93095,
-        "lon": -3.7706670523060057,
+        "is_reserved": false,
+        "vehicle_type_id": "flash_bike",
+        "is_disabled": true,
+        "lon": -3.7097985513643246,
         "bike_id": "flash_MADRID136",
-        "lat": 40.485068769458834,
-        "pricing_plan_id": "flash_plan_3"
+        "lat": 40.406137259316765,
+        "pricing_plan_id": "flash_plan_1"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "flash_car",
+        "is_reserved": true,
+        "vehicle_type_id": "flash_bike",
         "is_disabled": true,
-        "current_range_meters": 296826,
-        "lon": -3.795367977025902,
+        "lon": -3.7178530113034034,
         "bike_id": "flash_MADRID137",
-        "lat": 40.49584421943564,
+        "lat": 40.40433509435216,
         "pricing_plan_id": "flash_plan_1"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "flash_car",
+        "is_reserved": false,
+        "vehicle_type_id": "flash_bike",
         "is_disabled": true,
-        "current_range_meters": 144515,
-        "lon": -3.669303762082545,
+        "lon": -3.672432028750064,
         "bike_id": "flash_MADRID138",
-        "lat": 40.37931328537727,
-        "pricing_plan_id": "flash_plan_1",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.332724184174054,
+        "pricing_plan_id": "flash_plan_3"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "flash_car",
+        "vehicle_type_id": "flash_bike",
         "is_disabled": true,
-        "current_range_meters": 41631,
-        "lon": -3.7849163571744895,
+        "lon": -3.7739398375578745,
         "bike_id": "flash_MADRID139",
-        "lat": 40.494331908997424,
-        "pricing_plan_id": "flash_plan_3"
+        "lat": 40.39596948591808,
+        "pricing_plan_id": "flash_plan_1"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": true,
-        "current_range_meters": 253883,
-        "lon": -3.6599560940537494,
+        "is_reserved": false,
+        "vehicle_type_id": "flash_bike",
+        "is_disabled": false,
+        "lon": -3.7698646710315584,
         "bike_id": "flash_MADRID140",
-        "lat": 40.302048619493874,
-        "pricing_plan_id": "flash_plan_3"
+        "lat": 40.38720750476096,
+        "pricing_plan_id": "flash_plan_1"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": true,
-        "current_range_meters": 316879,
-        "lon": -3.7285222491519776,
+        "is_reserved": false,
+        "vehicle_type_id": "flash_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 52480,
+        "lon": -3.7062687909087804,
         "bike_id": "flash_MADRID141",
-        "lat": 40.439802156594254,
-        "pricing_plan_id": "flash_plan_1",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.366136775103044,
+        "pricing_plan_id": "flash_plan_1"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "flash_car",
+        "vehicle_type_id": "flash_bike",
         "is_disabled": true,
-        "current_range_meters": 194022,
-        "lon": -3.761610550912189,
+        "lon": -3.636473090286848,
         "bike_id": "flash_MADRID142",
-        "lat": 40.311343395302,
-        "pricing_plan_id": "flash_plan_1"
+        "lat": 40.39784757923979,
+        "pricing_plan_id": "flash_plan_3"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "flash_car",
+        "vehicle_type_id": "flash_bike",
         "is_disabled": true,
-        "current_range_meters": 297579,
-        "lon": -3.645252525004291,
+        "lon": -3.6711011180926674,
         "bike_id": "flash_MADRID143",
-        "lat": 40.36066253789691,
-        "pricing_plan_id": "flash_plan_1"
+        "lat": 40.36032589430425,
+        "pricing_plan_id": "flash_plan_2"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": false,
-        "current_range_meters": 113506,
-        "lon": -3.7307661899743962,
+        "is_reserved": false,
+        "vehicle_type_id": "flash_bike",
+        "is_disabled": true,
+        "lon": -3.608334034957239,
         "bike_id": "flash_MADRID144",
-        "lat": 40.41376450704659,
-        "pricing_plan_id": "flash_plan_2",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.49482910159478,
+        "pricing_plan_id": "flash_plan_3"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": false,
-        "current_range_meters": 252649,
-        "lon": -3.784325505123024,
+        "is_reserved": true,
+        "vehicle_type_id": "flash_bike",
+        "is_disabled": true,
+        "lon": -3.774966370709377,
         "bike_id": "flash_MADRID145",
-        "lat": 40.417573491084134,
+        "lat": 40.32675257560157,
         "pricing_plan_id": "flash_plan_1"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "flash_car",
+        "is_reserved": false,
+        "vehicle_type_id": "flash_electric_bike",
         "is_disabled": false,
-        "current_range_meters": 256269,
-        "lon": -3.7466403623872027,
+        "current_range_meters": 24763,
+        "lon": -3.725583026894621,
         "bike_id": "flash_MADRID146",
-        "lat": 40.40468709477059,
-        "pricing_plan_id": "flash_plan_2",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.477043086418966,
+        "pricing_plan_id": "flash_plan_2"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "flash_car",
+        "is_reserved": true,
+        "vehicle_type_id": "flash_bike",
         "is_disabled": false,
-        "current_range_meters": 389681,
-        "lon": -3.741659593489419,
+        "lon": -3.646303849543555,
         "bike_id": "flash_MADRID147",
-        "lat": 40.448940006129405,
-        "pricing_plan_id": "flash_plan_3",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.38840216549642,
+        "pricing_plan_id": "flash_plan_3"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "flash_car",
+        "vehicle_type_id": "flash_bike",
         "is_disabled": false,
-        "current_range_meters": 268367,
-        "lon": -3.664651727468893,
+        "lon": -3.6095926937321576,
         "bike_id": "flash_MADRID148",
-        "lat": 40.31034486066935,
-        "pricing_plan_id": "flash_plan_3",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.43187820786529,
+        "pricing_plan_id": "flash_plan_1"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "flash_car",
+        "vehicle_type_id": "flash_electric_bike",
         "is_disabled": true,
-        "current_range_meters": 93574,
-        "lon": -3.7925008283619612,
+        "current_range_meters": 57603,
+        "lon": -3.7697023421335905,
         "bike_id": "flash_MADRID149",
-        "lat": 40.43972049714017,
-        "pricing_plan_id": "flash_plan_3"
+        "lat": 40.401494595372625,
+        "pricing_plan_id": "flash_plan_2"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": false,
-        "current_range_meters": 166613,
-        "lon": -3.7692458523462813,
+        "is_reserved": false,
+        "vehicle_type_id": "flash_bike",
+        "is_disabled": true,
+        "lon": -3.6956199029876404,
         "bike_id": "flash_MADRID150",
-        "lat": 40.458475858662965,
-        "pricing_plan_id": "flash_plan_2"
+        "lat": 40.321259866682965,
+        "pricing_plan_id": "flash_plan_1"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "flash_car",
+        "vehicle_type_id": "flash_electric_bike",
         "is_disabled": false,
-        "current_range_meters": 338288,
-        "lon": -3.7670012412851377,
+        "current_range_meters": 42712,
+        "lon": -3.700359755515264,
         "bike_id": "flash_MADRID151",
-        "lat": 40.321197461758594,
-        "pricing_plan_id": "flash_plan_3"
+        "lat": 40.39438609554468,
+        "pricing_plan_id": "flash_plan_2"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "flash_car",
+        "is_reserved": true,
+        "vehicle_type_id": "flash_electric_bike",
         "is_disabled": true,
-        "current_range_meters": 131258,
-        "lon": -3.6114339984245403,
+        "current_range_meters": 6935,
+        "lon": -3.6325848798798925,
         "bike_id": "flash_MADRID152",
-        "lat": 40.34068366813314,
-        "pricing_plan_id": "flash_plan_2",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.49703564331279,
+        "pricing_plan_id": "flash_plan_2"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "flash_car",
+        "is_reserved": false,
+        "vehicle_type_id": "flash_bike",
         "is_disabled": true,
-        "current_range_meters": 112519,
-        "lon": -3.690519485874577,
+        "lon": -3.7611417272492886,
         "bike_id": "flash_MADRID153",
-        "lat": 40.3256793344595,
-        "pricing_plan_id": "flash_plan_3"
+        "lat": 40.43530990570188,
+        "pricing_plan_id": "flash_plan_1"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": true,
-        "current_range_meters": 331246,
-        "lon": -3.663384530999226,
+        "is_reserved": false,
+        "vehicle_type_id": "flash_bike",
+        "is_disabled": false,
+        "lon": -3.7908287814090986,
         "bike_id": "flash_MADRID154",
-        "lat": 40.34852809483129,
-        "pricing_plan_id": "flash_plan_2",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.47188395214336,
+        "pricing_plan_id": "flash_plan_3"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "flash_car",
+        "vehicle_type_id": "flash_electric_bike",
         "is_disabled": false,
-        "current_range_meters": 342795,
-        "lon": -3.706474848746566,
+        "current_range_meters": 29762,
+        "lon": -3.6265503429640416,
         "bike_id": "flash_MADRID155",
-        "lat": 40.30040446401361,
-        "pricing_plan_id": "flash_plan_1"
+        "lat": 40.426396338075804,
+        "pricing_plan_id": "flash_plan_2"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "flash_car",
+        "vehicle_type_id": "flash_bike",
         "is_disabled": true,
-        "current_range_meters": 317817,
-        "lon": -3.7844996883170587,
+        "lon": -3.7788552792794055,
         "bike_id": "flash_MADRID156",
-        "lat": 40.34285970135456,
-        "pricing_plan_id": "flash_plan_2",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.36604204086898,
+        "pricing_plan_id": "flash_plan_2"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": false,
-        "current_range_meters": 131487,
-        "lon": -3.673953061577211,
+        "vehicle_type_id": "flash_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 31157,
+        "lon": -3.765087502259541,
         "bike_id": "flash_MADRID157",
-        "lat": 40.337985986246785,
+        "lat": 40.340742633781275,
         "pricing_plan_id": "flash_plan_2"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": true,
-        "current_range_meters": 186329,
-        "lon": -3.6399643719994232,
+        "vehicle_type_id": "flash_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 23952,
+        "lon": -3.645465349484784,
         "bike_id": "flash_MADRID158",
-        "lat": 40.356120104607626,
-        "pricing_plan_id": "flash_plan_3",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.31238671293846,
+        "pricing_plan_id": "flash_plan_2"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": false,
-        "current_range_meters": 384821,
-        "lon": -3.783961545115567,
+        "is_reserved": false,
+        "vehicle_type_id": "flash_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 30179,
+        "lon": -3.6779969599210847,
         "bike_id": "flash_MADRID159",
-        "lat": 40.368484315033804,
-        "pricing_plan_id": "flash_plan_2",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.41473810359094,
+        "pricing_plan_id": "flash_plan_3"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": false,
-        "current_range_meters": 71223,
-        "lon": -3.7099786820502114,
+        "vehicle_type_id": "flash_bike",
+        "is_disabled": true,
+        "lon": -3.6053331913956783,
         "bike_id": "flash_MADRID160",
-        "lat": 40.412471732219444,
+        "lat": 40.32749418193552,
         "pricing_plan_id": "flash_plan_3"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": false,
-        "current_range_meters": 408355,
-        "lon": -3.7381607061980398,
+        "is_reserved": true,
+        "vehicle_type_id": "flash_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 47766,
+        "lon": -3.6323158826031223,
         "bike_id": "flash_MADRID161",
-        "lat": 40.34566117555337,
-        "pricing_plan_id": "flash_plan_1"
+        "lat": 40.40034770999937,
+        "pricing_plan_id": "flash_plan_2"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "flash_car",
+        "is_reserved": true,
+        "vehicle_type_id": "flash_bike",
         "is_disabled": false,
-        "current_range_meters": 353162,
-        "lon": -3.6888684688226703,
+        "lon": -3.641073794160291,
         "bike_id": "flash_MADRID162",
-        "lat": 40.391048198181764,
-        "pricing_plan_id": "flash_plan_2"
+        "lat": 40.40651385644498,
+        "pricing_plan_id": "flash_plan_1"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": true,
-        "current_range_meters": 109188,
-        "lon": -3.674830375871967,
+        "vehicle_type_id": "flash_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 70003,
+        "lon": -3.72262467078748,
         "bike_id": "flash_MADRID163",
-        "lat": 40.36531956126534,
-        "pricing_plan_id": "flash_plan_1"
+        "lat": 40.48826819230608,
+        "pricing_plan_id": "flash_plan_2"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": true,
-        "current_range_meters": 212626,
-        "lon": -3.6079690100250765,
+        "is_reserved": true,
+        "vehicle_type_id": "flash_bike",
+        "is_disabled": false,
+        "lon": -3.679275421831695,
         "bike_id": "flash_MADRID164",
-        "lat": 40.44180596475479,
-        "pricing_plan_id": "flash_plan_1"
+        "lat": 40.321990180018496,
+        "pricing_plan_id": "flash_plan_3"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": true,
-        "current_range_meters": 287082,
-        "lon": -3.6734147724033472,
+        "is_reserved": false,
+        "vehicle_type_id": "flash_bike",
+        "is_disabled": false,
+        "lon": -3.6698037649679005,
         "bike_id": "flash_MADRID165",
-        "lat": 40.39815687249591,
-        "pricing_plan_id": "flash_plan_1",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.32165425063296,
+        "pricing_plan_id": "flash_plan_2"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": true,
-        "current_range_meters": 77125,
-        "lon": -3.7814318717511632,
+        "is_reserved": false,
+        "vehicle_type_id": "flash_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 73671,
+        "lon": -3.7252069526048905,
         "bike_id": "flash_MADRID166",
-        "lat": 40.40801141725611,
-        "pricing_plan_id": "flash_plan_1",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.32854555074305,
+        "pricing_plan_id": "flash_plan_3"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": true,
-        "current_range_meters": 234143,
-        "lon": -3.6077490856816814,
+        "vehicle_type_id": "flash_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 74230,
+        "lon": -3.702924906484659,
         "bike_id": "flash_MADRID167",
-        "lat": 40.377667840675244,
-        "pricing_plan_id": "flash_plan_2",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.45594594890857,
+        "pricing_plan_id": "flash_plan_3"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "flash_car",
+        "vehicle_type_id": "flash_bike",
         "is_disabled": true,
-        "current_range_meters": 58230,
-        "lon": -3.6236249781971734,
+        "lon": -3.70472943544965,
         "bike_id": "flash_MADRID168",
-        "lat": 40.30904109893903,
-        "pricing_plan_id": "flash_plan_2",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
+        "lat": 40.350765093075864,
+        "pricing_plan_id": "flash_plan_2"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "flash_car",
+        "is_reserved": false,
+        "vehicle_type_id": "flash_bike",
         "is_disabled": false,
-        "current_range_meters": 127228,
-        "lon": -3.7074039827403555,
+        "lon": -3.6387364111533347,
         "bike_id": "flash_MADRID169",
-        "lat": 40.43286846066701,
-        "pricing_plan_id": "flash_plan_2"
+        "lat": 40.347394924854626,
+        "pricing_plan_id": "flash_plan_3"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": false,
-        "current_range_meters": 347297,
-        "lon": -3.7211673864580264,
+        "vehicle_type_id": "flash_bike",
+        "is_disabled": true,
+        "lon": -3.7678991254924137,
         "bike_id": "flash_MADRID170",
-        "lat": 40.31475856817832,
-        "pricing_plan_id": "flash_plan_2"
+        "lat": 40.495731323538344,
+        "pricing_plan_id": "flash_plan_3"
       },
       {
-        "is_reserved": true,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": true,
-        "current_range_meters": 297857,
-        "lon": -3.6067649443533605,
+        "is_reserved": false,
+        "vehicle_type_id": "flash_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 43922,
+        "lon": -3.7373045798222257,
         "bike_id": "flash_MADRID171",
-        "lat": 40.42663668704664,
-        "pricing_plan_id": "flash_plan_2"
+        "lat": 40.453748918555185,
+        "pricing_plan_id": "flash_plan_3"
       },
       {
         "is_reserved": false,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": false,
-        "current_range_meters": 117925,
-        "lon": -3.659323174088446,
+        "vehicle_type_id": "flash_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 4554,
+        "lon": -3.7206053426600314,
         "bike_id": "flash_MADRID172",
-        "lat": 40.39923529497799,
-        "pricing_plan_id": "flash_plan_3",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
-      },
-      {
-        "is_reserved": true,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": false,
-        "current_range_meters": 158788,
-        "lon": -3.664639423193496,
-        "bike_id": "flash_MADRID173",
-        "lat": 40.487068362169055,
-        "pricing_plan_id": "flash_plan_2"
-      },
-      {
-        "is_reserved": false,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": true,
-        "current_range_meters": 276041,
-        "lon": -3.745810190959193,
-        "bike_id": "flash_MADRID174",
-        "lat": 40.326107134070384,
-        "pricing_plan_id": "flash_plan_2",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
-      },
-      {
-        "is_reserved": true,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": true,
-        "current_range_meters": 61430,
-        "lon": -3.7973799896296354,
-        "bike_id": "flash_MADRID175",
-        "lat": 40.48834263248027,
-        "pricing_plan_id": "flash_plan_1",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
-      },
-      {
-        "is_reserved": true,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": false,
-        "current_range_meters": 129584,
-        "lon": -3.7862693449925247,
-        "bike_id": "flash_MADRID176",
-        "lat": 40.49762859003024,
-        "pricing_plan_id": "flash_plan_1",
-        "vehicle_equipment": [
-          "child_seat_a"
-        ]
-      },
-      {
-        "is_reserved": true,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": false,
-        "current_range_meters": 269167,
-        "lon": -3.731624258978494,
-        "bike_id": "flash_MADRID177",
-        "lat": 40.43921837289048,
+        "lat": 40.33959581846681,
         "pricing_plan_id": "flash_plan_1"
       },
       {
         "is_reserved": true,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": true,
-        "current_range_meters": 260424,
-        "lon": -3.7327749875513057,
-        "bike_id": "flash_MADRID178",
-        "lat": 40.42985586533607,
-        "pricing_plan_id": "flash_plan_3"
-      },
-      {
-        "is_reserved": false,
-        "vehicle_type_id": "flash_car",
-        "is_disabled": true,
-        "current_range_meters": 170842,
-        "lon": -3.616555952943741,
-        "bike_id": "flash_MADRID179",
-        "lat": 40.31460630032032,
+        "vehicle_type_id": "flash_bike",
+        "is_disabled": false,
+        "lon": -3.714737953385492,
+        "bike_id": "flash_MADRID173",
+        "lat": 40.474379420237625,
         "pricing_plan_id": "flash_plan_2"
       },
       {
-        "is_reserved": false,
-        "vehicle_type_id": "flash_car",
+        "is_reserved": true,
+        "vehicle_type_id": "flash_electric_bike",
         "is_disabled": false,
-        "current_range_meters": 135484,
-        "lon": -3.6348076294665113,
-        "bike_id": "flash_MADRID180",
-        "lat": 40.41083320661718,
+        "current_range_meters": 23218,
+        "lon": -3.6851061978760598,
+        "bike_id": "flash_MADRID174",
+        "lat": 40.47646030758079,
+        "pricing_plan_id": "flash_plan_1"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "flash_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 70970,
+        "lon": -3.636804453303487,
+        "bike_id": "flash_MADRID175",
+        "lat": 40.347569003823324,
         "pricing_plan_id": "flash_plan_3"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "flash_bike",
+        "is_disabled": false,
+        "lon": -3.6943449434016378,
+        "bike_id": "flash_MADRID176",
+        "lat": 40.40697501638518,
+        "pricing_plan_id": "flash_plan_3"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "flash_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 19168,
+        "lon": -3.6225260048446444,
+        "bike_id": "flash_MADRID177",
+        "lat": 40.37050772952024,
+        "pricing_plan_id": "flash_plan_1"
       }
     ]
   },

@@ -1,0 +1,1339 @@
+{
+  "last_updated": 1732465370,
+  "data": {
+    "stations": [
+      {
+        "station_id": "flash_station_MADRID001",
+        "name": "Station 1",
+        "lon": -3.7566086385464703,
+        "lat": 40.44956841543013,
+        "capacity": 46
+      },
+      {
+        "station_id": "flash_station_MADRID002",
+        "name": "Station 2",
+        "lon": -3.77995993209139,
+        "lat": 40.31230030127176,
+        "capacity": 23
+      },
+      {
+        "station_id": "flash_station_MADRID003",
+        "name": "Station 3",
+        "lon": -3.6277249496125763,
+        "lat": 40.42494158136886,
+        "capacity": 31
+      },
+      {
+        "station_id": "flash_station_MADRID004",
+        "name": "Station 4",
+        "lon": -3.6143560112412505,
+        "lat": 40.4781658216332,
+        "capacity": 36
+      },
+      {
+        "station_id": "flash_station_MADRID005",
+        "name": "Station 5",
+        "lon": -3.688461777175927,
+        "lat": 40.40329324236159,
+        "capacity": 46
+      },
+      {
+        "station_id": "flash_station_MADRID006",
+        "name": "Station 6",
+        "lon": -3.7733501563843377,
+        "lat": 40.43003461616038,
+        "capacity": 32
+      },
+      {
+        "station_id": "flash_station_MADRID007",
+        "name": "Station 7",
+        "lon": -3.767102622918606,
+        "lat": 40.49568159013833,
+        "capacity": 35
+      },
+      {
+        "station_id": "flash_station_MADRID008",
+        "name": "Station 8",
+        "lon": -3.624303602312732,
+        "lat": 40.30784750733966,
+        "capacity": 33
+      },
+      {
+        "station_id": "flash_station_MADRID009",
+        "name": "Station 9",
+        "lon": -3.655161218888723,
+        "lat": 40.40374609410312,
+        "capacity": 19
+      },
+      {
+        "station_id": "flash_station_MADRID010",
+        "name": "Station 10",
+        "lon": -3.7800389055177774,
+        "lat": 40.45170744670053,
+        "capacity": 25
+      },
+      {
+        "station_id": "flash_station_MADRID011",
+        "name": "Station 11",
+        "lon": -3.6512273759198526,
+        "lat": 40.472727691257184,
+        "capacity": 34
+      },
+      {
+        "station_id": "flash_station_MADRID012",
+        "name": "Station 12",
+        "lon": -3.7212448910593467,
+        "lat": 40.30003284407679,
+        "capacity": 30
+      },
+      {
+        "station_id": "flash_station_MADRID013",
+        "name": "Station 13",
+        "lon": -3.6423094083027245,
+        "lat": 40.31712692506298,
+        "capacity": 30
+      },
+      {
+        "station_id": "flash_station_MADRID014",
+        "name": "Station 14",
+        "lon": -3.6562619565584655,
+        "lat": 40.3741802041288,
+        "capacity": 40
+      },
+      {
+        "station_id": "flash_station_MADRID015",
+        "name": "Station 15",
+        "lon": -3.708514100274832,
+        "lat": 40.32225263959572,
+        "capacity": 10
+      },
+      {
+        "station_id": "flash_station_MADRID016",
+        "name": "Station 16",
+        "lon": -3.772967153862868,
+        "lat": 40.4317251637669,
+        "capacity": 49
+      },
+      {
+        "station_id": "flash_station_MADRID017",
+        "name": "Station 17",
+        "lon": -3.712213586407035,
+        "lat": 40.34594782696843,
+        "capacity": 35
+      },
+      {
+        "station_id": "flash_station_MADRID018",
+        "name": "Station 18",
+        "lon": -3.7325006699471945,
+        "lat": 40.42627971797231,
+        "capacity": 19
+      },
+      {
+        "station_id": "flash_station_MADRID019",
+        "name": "Station 19",
+        "lon": -3.7036777759096786,
+        "lat": 40.470862148744146,
+        "capacity": 22
+      },
+      {
+        "station_id": "flash_station_MADRID020",
+        "name": "Station 20",
+        "lon": -3.717402951949884,
+        "lat": 40.374985846176116,
+        "capacity": 11
+      },
+      {
+        "station_id": "flash_station_MADRID021",
+        "name": "Station 21",
+        "lon": -3.7840488610866885,
+        "lat": 40.421851363965175,
+        "capacity": 22
+      },
+      {
+        "station_id": "flash_station_MADRID022",
+        "name": "Station 22",
+        "lon": -3.6508819489242152,
+        "lat": 40.4703984694016,
+        "capacity": 47
+      },
+      {
+        "station_id": "flash_station_MADRID023",
+        "name": "Station 23",
+        "lon": -3.6636884880176157,
+        "lat": 40.373809989323085,
+        "capacity": 44
+      },
+      {
+        "station_id": "flash_station_MADRID024",
+        "name": "Station 24",
+        "lon": -3.7139646664450883,
+        "lat": 40.314801565865224,
+        "capacity": 19
+      },
+      {
+        "station_id": "flash_station_MADRID025",
+        "name": "Station 25",
+        "lon": -3.76824729460228,
+        "lat": 40.307106957401004,
+        "capacity": 21
+      },
+      {
+        "station_id": "flash_station_MADRID026",
+        "name": "Station 26",
+        "lon": -3.7947873771599845,
+        "lat": 40.35098561317476,
+        "capacity": 21
+      },
+      {
+        "station_id": "flash_station_MADRID027",
+        "name": "Station 27",
+        "lon": -3.778342834417262,
+        "lat": 40.41284031354193,
+        "capacity": 46
+      },
+      {
+        "station_id": "flash_station_MADRID028",
+        "name": "Station 28",
+        "lon": -3.787548620403281,
+        "lat": 40.40072776920594,
+        "capacity": 46
+      },
+      {
+        "station_id": "flash_station_MADRID029",
+        "name": "Station 29",
+        "lon": -3.658660794116599,
+        "lat": 40.47378964410396,
+        "capacity": 20
+      },
+      {
+        "station_id": "flash_station_MADRID030",
+        "name": "Station 30",
+        "lon": -3.743494401982024,
+        "lat": 40.43903470724195,
+        "capacity": 32
+      },
+      {
+        "station_id": "flash_station_MADRID031",
+        "name": "Station 31",
+        "lon": -3.6784209801779695,
+        "lat": 40.34958482758098,
+        "capacity": 30
+      },
+      {
+        "station_id": "flash_station_MADRID032",
+        "name": "Station 32",
+        "lon": -3.793981391310828,
+        "lat": 40.47248513408931,
+        "capacity": 37
+      },
+      {
+        "station_id": "flash_station_MADRID033",
+        "name": "Station 33",
+        "lon": -3.6446629683714176,
+        "lat": 40.38564596306459,
+        "capacity": 47
+      },
+      {
+        "station_id": "flash_station_MADRID034",
+        "name": "Station 34",
+        "lon": -3.6728336481122583,
+        "lat": 40.32520569536836,
+        "capacity": 37
+      },
+      {
+        "station_id": "flash_station_MADRID035",
+        "name": "Station 35",
+        "lon": -3.7347479923434896,
+        "lat": 40.31337286912549,
+        "capacity": 41
+      },
+      {
+        "station_id": "flash_station_MADRID036",
+        "name": "Station 36",
+        "lon": -3.6095053622919413,
+        "lat": 40.3159434088356,
+        "capacity": 34
+      },
+      {
+        "station_id": "flash_station_MADRID037",
+        "name": "Station 37",
+        "lon": -3.771138195106922,
+        "lat": 40.336857976603,
+        "capacity": 48
+      },
+      {
+        "station_id": "flash_station_MADRID038",
+        "name": "Station 38",
+        "lon": -3.748105355722487,
+        "lat": 40.48328981472665,
+        "capacity": 15
+      },
+      {
+        "station_id": "flash_station_MADRID039",
+        "name": "Station 39",
+        "lon": -3.724755016794287,
+        "lat": 40.35315545048189,
+        "capacity": 20
+      },
+      {
+        "station_id": "flash_station_MADRID040",
+        "name": "Station 40",
+        "lon": -3.759286816067017,
+        "lat": 40.494852742379685,
+        "capacity": 48
+      },
+      {
+        "station_id": "flash_station_MADRID041",
+        "name": "Station 41",
+        "lon": -3.692371618359723,
+        "lat": 40.4638981735007,
+        "capacity": 49
+      },
+      {
+        "station_id": "flash_station_MADRID042",
+        "name": "Station 42",
+        "lon": -3.7700019221208625,
+        "lat": 40.49412605032489,
+        "capacity": 37
+      },
+      {
+        "station_id": "flash_station_MADRID043",
+        "name": "Station 43",
+        "lon": -3.760394535086238,
+        "lat": 40.493132821874724,
+        "capacity": 20
+      },
+      {
+        "station_id": "flash_station_MADRID044",
+        "name": "Station 44",
+        "lon": -3.6952142098911844,
+        "lat": 40.39437879116946,
+        "capacity": 14
+      },
+      {
+        "station_id": "flash_station_MADRID045",
+        "name": "Station 45",
+        "lon": -3.740694366789069,
+        "lat": 40.31662135925449,
+        "capacity": 20
+      },
+      {
+        "station_id": "flash_station_MADRID046",
+        "name": "Station 46",
+        "lon": -3.6120570313592264,
+        "lat": 40.374720060017815,
+        "capacity": 11
+      },
+      {
+        "station_id": "flash_station_MADRID047",
+        "name": "Station 47",
+        "lon": -3.777934439128958,
+        "lat": 40.3023668087822,
+        "capacity": 32
+      },
+      {
+        "station_id": "flash_station_MADRID048",
+        "name": "Station 48",
+        "lon": -3.752647287335873,
+        "lat": 40.31219027256208,
+        "capacity": 16
+      },
+      {
+        "station_id": "flash_station_MADRID049",
+        "name": "Station 49",
+        "lon": -3.6762210876922783,
+        "lat": 40.4934841792522,
+        "capacity": 22
+      },
+      {
+        "station_id": "flash_station_MADRID050",
+        "name": "Station 50",
+        "lon": -3.7750824284442337,
+        "lat": 40.38824091523573,
+        "capacity": 25
+      },
+      {
+        "station_id": "flash_station_MADRID051",
+        "name": "Station 51",
+        "lon": -3.7560421767947365,
+        "lat": 40.31253682800486,
+        "capacity": 18
+      },
+      {
+        "station_id": "flash_station_MADRID052",
+        "name": "Station 52",
+        "lon": -3.64736583994545,
+        "lat": 40.476888378742466,
+        "capacity": 42
+      },
+      {
+        "station_id": "flash_station_MADRID053",
+        "name": "Station 53",
+        "lon": -3.773383528016532,
+        "lat": 40.46976442992723,
+        "capacity": 19
+      },
+      {
+        "station_id": "flash_station_MADRID054",
+        "name": "Station 54",
+        "lon": -3.7479352542661593,
+        "lat": 40.36094085948069,
+        "capacity": 20
+      },
+      {
+        "station_id": "flash_station_MADRID055",
+        "name": "Station 55",
+        "lon": -3.687853120843356,
+        "lat": 40.32807011661797,
+        "capacity": 20
+      },
+      {
+        "station_id": "flash_station_MADRID056",
+        "name": "Station 56",
+        "lon": -3.602710573843678,
+        "lat": 40.475432816945066,
+        "capacity": 41
+      },
+      {
+        "station_id": "flash_station_MADRID057",
+        "name": "Station 57",
+        "lon": -3.61583250917823,
+        "lat": 40.398940948434195,
+        "capacity": 44
+      },
+      {
+        "station_id": "flash_station_MADRID058",
+        "name": "Station 58",
+        "lon": -3.6444297532175014,
+        "lat": 40.44814829642368,
+        "capacity": 39
+      },
+      {
+        "station_id": "flash_station_MADRID059",
+        "name": "Station 59",
+        "lon": -3.6039504368675024,
+        "lat": 40.39277492999304,
+        "capacity": 38
+      },
+      {
+        "station_id": "flash_station_MADRID060",
+        "name": "Station 60",
+        "lon": -3.7546439773350277,
+        "lat": 40.372510975643195,
+        "capacity": 47
+      },
+      {
+        "station_id": "flash_station_MADRID061",
+        "name": "Station 61",
+        "lon": -3.75564256124541,
+        "lat": 40.48368583099209,
+        "capacity": 28
+      },
+      {
+        "station_id": "flash_station_MADRID062",
+        "name": "Station 62",
+        "lon": -3.744791085202117,
+        "lat": 40.47273795934845,
+        "capacity": 28
+      },
+      {
+        "station_id": "flash_station_MADRID063",
+        "name": "Station 63",
+        "lon": -3.679297730416775,
+        "lat": 40.471088047542295,
+        "capacity": 44
+      },
+      {
+        "station_id": "flash_station_MADRID064",
+        "name": "Station 64",
+        "lon": -3.797897218679679,
+        "lat": 40.425241076744946,
+        "capacity": 18
+      },
+      {
+        "station_id": "flash_station_MADRID065",
+        "name": "Station 65",
+        "lon": -3.796976377286539,
+        "lat": 40.497534655013474,
+        "capacity": 25
+      },
+      {
+        "station_id": "flash_station_MADRID066",
+        "name": "Station 66",
+        "lon": -3.740144002279488,
+        "lat": 40.408424037945636,
+        "capacity": 37
+      },
+      {
+        "station_id": "flash_station_MADRID067",
+        "name": "Station 67",
+        "lon": -3.695464300842013,
+        "lat": 40.32499813893545,
+        "capacity": 45
+      },
+      {
+        "station_id": "flash_station_MADRID068",
+        "name": "Station 68",
+        "lon": -3.7850956803330793,
+        "lat": 40.38404915705911,
+        "capacity": 18
+      },
+      {
+        "station_id": "flash_station_MADRID069",
+        "name": "Station 69",
+        "lon": -3.6991921063409476,
+        "lat": 40.3101821130703,
+        "capacity": 47
+      },
+      {
+        "station_id": "flash_station_MADRID070",
+        "name": "Station 70",
+        "lon": -3.7154088699587673,
+        "lat": 40.352515931591505,
+        "capacity": 25
+      },
+      {
+        "station_id": "flash_station_MADRID071",
+        "name": "Station 71",
+        "lon": -3.641646522342133,
+        "lat": 40.41513134062568,
+        "capacity": 47
+      },
+      {
+        "station_id": "flash_station_MADRID072",
+        "name": "Station 72",
+        "lon": -3.6452320282909545,
+        "lat": 40.45098959629535,
+        "capacity": 29
+      },
+      {
+        "station_id": "flash_station_MADRID073",
+        "name": "Station 73",
+        "lon": -3.779922694199007,
+        "lat": 40.31307084344029,
+        "capacity": 46
+      },
+      {
+        "station_id": "flash_station_MADRID074",
+        "name": "Station 74",
+        "lon": -3.63679041319927,
+        "lat": 40.387211200678934,
+        "capacity": 13
+      },
+      {
+        "station_id": "flash_station_MADRID075",
+        "name": "Station 75",
+        "lon": -3.6800718773006578,
+        "lat": 40.412518614601495,
+        "capacity": 23
+      },
+      {
+        "station_id": "flash_station_MADRID076",
+        "name": "Station 76",
+        "lon": -3.767417156722975,
+        "lat": 40.49429107814282,
+        "capacity": 33
+      },
+      {
+        "station_id": "flash_station_MADRID077",
+        "name": "Station 77",
+        "lon": -3.6144149460977335,
+        "lat": 40.35769505370963,
+        "capacity": 36
+      },
+      {
+        "station_id": "flash_station_MADRID078",
+        "name": "Station 78",
+        "lon": -3.6838138218864978,
+        "lat": 40.37699046891093,
+        "capacity": 49
+      },
+      {
+        "station_id": "flash_station_MADRID079",
+        "name": "Station 79",
+        "lon": -3.763804080718471,
+        "lat": 40.30296303001022,
+        "capacity": 36
+      },
+      {
+        "station_id": "flash_station_MADRID080",
+        "name": "Station 80",
+        "lon": -3.6166975135907067,
+        "lat": 40.32473156281307,
+        "capacity": 21
+      },
+      {
+        "station_id": "flash_station_MADRID081",
+        "name": "Station 81",
+        "lon": -3.6622540578705807,
+        "lat": 40.37264855771206,
+        "capacity": 22
+      },
+      {
+        "station_id": "flash_station_MADRID082",
+        "name": "Station 82",
+        "lon": -3.603487332220676,
+        "lat": 40.30726340081093,
+        "capacity": 28
+      },
+      {
+        "station_id": "flash_station_MADRID083",
+        "name": "Station 83",
+        "lon": -3.752553883453096,
+        "lat": 40.31607244406598,
+        "capacity": 12
+      },
+      {
+        "station_id": "flash_station_MADRID084",
+        "name": "Station 84",
+        "lon": -3.773967512236974,
+        "lat": 40.38592774833341,
+        "capacity": 36
+      },
+      {
+        "station_id": "flash_station_MADRID085",
+        "name": "Station 85",
+        "lon": -3.754759313855352,
+        "lat": 40.49835410206498,
+        "capacity": 40
+      },
+      {
+        "station_id": "flash_station_MADRID086",
+        "name": "Station 86",
+        "lon": -3.608423164546693,
+        "lat": 40.40425756558008,
+        "capacity": 45
+      },
+      {
+        "station_id": "flash_station_MADRID087",
+        "name": "Station 87",
+        "lon": -3.734019344834039,
+        "lat": 40.473926604752556,
+        "capacity": 31
+      },
+      {
+        "station_id": "flash_station_MADRID088",
+        "name": "Station 88",
+        "lon": -3.7815894548897875,
+        "lat": 40.435243869581456,
+        "capacity": 30
+      },
+      {
+        "station_id": "flash_station_MADRID089",
+        "name": "Station 89",
+        "lon": -3.7034354759424972,
+        "lat": 40.41768768351735,
+        "capacity": 45
+      },
+      {
+        "station_id": "flash_station_MADRID090",
+        "name": "Station 90",
+        "lon": -3.6062781985120758,
+        "lat": 40.45953206141042,
+        "capacity": 46
+      },
+      {
+        "station_id": "flash_station_MADRID091",
+        "name": "Station 91",
+        "lon": -3.718087053068507,
+        "lat": 40.37864043813668,
+        "capacity": 24
+      },
+      {
+        "station_id": "flash_station_MADRID092",
+        "name": "Station 92",
+        "lon": -3.6370960041023577,
+        "lat": 40.36138274177075,
+        "capacity": 45
+      },
+      {
+        "station_id": "flash_station_MADRID093",
+        "name": "Station 93",
+        "lon": -3.7588943364193574,
+        "lat": 40.429053433640085,
+        "capacity": 41
+      },
+      {
+        "station_id": "flash_station_MADRID094",
+        "name": "Station 94",
+        "lon": -3.6712058753948096,
+        "lat": 40.33884917701676,
+        "capacity": 14
+      },
+      {
+        "station_id": "flash_station_MADRID095",
+        "name": "Station 95",
+        "lon": -3.656851248392848,
+        "lat": 40.43302506035649,
+        "capacity": 11
+      },
+      {
+        "station_id": "flash_station_MADRID096",
+        "name": "Station 96",
+        "lon": -3.713003338020043,
+        "lat": 40.443545338446675,
+        "capacity": 49
+      },
+      {
+        "station_id": "flash_station_MADRID097",
+        "name": "Station 97",
+        "lon": -3.686989292997004,
+        "lat": 40.43419174679009,
+        "capacity": 19
+      },
+      {
+        "station_id": "flash_station_MADRID098",
+        "name": "Station 98",
+        "lon": -3.6575393677381594,
+        "lat": 40.41198938807276,
+        "capacity": 27
+      },
+      {
+        "station_id": "flash_station_MADRID099",
+        "name": "Station 99",
+        "lon": -3.767155702142181,
+        "lat": 40.4940175798226,
+        "capacity": 48
+      },
+      {
+        "station_id": "flash_station_MADRID100",
+        "name": "Station 100",
+        "lon": -3.7418920268832503,
+        "lat": 40.37818546316078,
+        "capacity": 48
+      },
+      {
+        "station_id": "flash_station_MADRID101",
+        "name": "Station 101",
+        "lon": -3.7202747025303107,
+        "lat": 40.44006091394302,
+        "capacity": 30
+      },
+      {
+        "station_id": "flash_station_MADRID102",
+        "name": "Station 102",
+        "lon": -3.7419268729925235,
+        "lat": 40.478111552213875,
+        "capacity": 18
+      },
+      {
+        "station_id": "flash_station_MADRID103",
+        "name": "Station 103",
+        "lon": -3.640913614457623,
+        "lat": 40.31505772864374,
+        "capacity": 15
+      },
+      {
+        "station_id": "flash_station_MADRID104",
+        "name": "Station 104",
+        "lon": -3.739978667561527,
+        "lat": 40.433819915879326,
+        "capacity": 21
+      },
+      {
+        "station_id": "flash_station_MADRID105",
+        "name": "Station 105",
+        "lon": -3.6834282497595,
+        "lat": 40.4120910923634,
+        "capacity": 47
+      },
+      {
+        "station_id": "flash_station_MADRID106",
+        "name": "Station 106",
+        "lon": -3.664761371451096,
+        "lat": 40.46423008846375,
+        "capacity": 13
+      },
+      {
+        "station_id": "flash_station_MADRID107",
+        "name": "Station 107",
+        "lon": -3.7528678889033276,
+        "lat": 40.452267122476776,
+        "capacity": 20
+      },
+      {
+        "station_id": "flash_station_MADRID108",
+        "name": "Station 108",
+        "lon": -3.7437403459193135,
+        "lat": 40.4211831258769,
+        "capacity": 11
+      },
+      {
+        "station_id": "flash_station_MADRID109",
+        "name": "Station 109",
+        "lon": -3.6354511448288207,
+        "lat": 40.390164162283895,
+        "capacity": 10
+      },
+      {
+        "station_id": "flash_station_MADRID110",
+        "name": "Station 110",
+        "lon": -3.6490126221811554,
+        "lat": 40.479218986439506,
+        "capacity": 40
+      },
+      {
+        "station_id": "flash_station_MADRID111",
+        "name": "Station 111",
+        "lon": -3.681148000718882,
+        "lat": 40.34189242289306,
+        "capacity": 43
+      },
+      {
+        "station_id": "flash_station_MADRID112",
+        "name": "Station 112",
+        "lon": -3.6939767601648477,
+        "lat": 40.44246584091785,
+        "capacity": 14
+      },
+      {
+        "station_id": "flash_station_MADRID113",
+        "name": "Station 113",
+        "lon": -3.7831545123776733,
+        "lat": 40.37964422716987,
+        "capacity": 30
+      },
+      {
+        "station_id": "flash_station_MADRID114",
+        "name": "Station 114",
+        "lon": -3.600377153117445,
+        "lat": 40.45249679280778,
+        "capacity": 39
+      },
+      {
+        "station_id": "flash_station_MADRID115",
+        "name": "Station 115",
+        "lon": -3.792764785038695,
+        "lat": 40.34539066222039,
+        "capacity": 30
+      },
+      {
+        "station_id": "flash_station_MADRID116",
+        "name": "Station 116",
+        "lon": -3.658087581730394,
+        "lat": 40.49480068614899,
+        "capacity": 22
+      },
+      {
+        "station_id": "flash_station_MADRID117",
+        "name": "Station 117",
+        "lon": -3.6228931300756786,
+        "lat": 40.464116560993006,
+        "capacity": 32
+      },
+      {
+        "station_id": "flash_station_MADRID118",
+        "name": "Station 118",
+        "lon": -3.6547858429041544,
+        "lat": 40.3683622707789,
+        "capacity": 15
+      },
+      {
+        "station_id": "flash_station_MADRID119",
+        "name": "Station 119",
+        "lon": -3.798240586360374,
+        "lat": 40.486770531974976,
+        "capacity": 25
+      },
+      {
+        "station_id": "flash_station_MADRID120",
+        "name": "Station 120",
+        "lon": -3.7692659754295823,
+        "lat": 40.31303078008484,
+        "capacity": 32
+      },
+      {
+        "station_id": "flash_station_MADRID121",
+        "name": "Station 121",
+        "lon": -3.693337079743328,
+        "lat": 40.42625794795313,
+        "capacity": 20
+      },
+      {
+        "station_id": "flash_station_MADRID122",
+        "name": "Station 122",
+        "lon": -3.627396907011615,
+        "lat": 40.32012540620526,
+        "capacity": 23
+      },
+      {
+        "station_id": "flash_station_MADRID123",
+        "name": "Station 123",
+        "lon": -3.615454082003254,
+        "lat": 40.4479907193475,
+        "capacity": 31
+      },
+      {
+        "station_id": "flash_station_MADRID124",
+        "name": "Station 124",
+        "lon": -3.6625994341232935,
+        "lat": 40.43672203641179,
+        "capacity": 43
+      },
+      {
+        "station_id": "flash_station_MADRID125",
+        "name": "Station 125",
+        "lon": -3.7632697795451926,
+        "lat": 40.49615404624716,
+        "capacity": 22
+      },
+      {
+        "station_id": "flash_station_MADRID126",
+        "name": "Station 126",
+        "lon": -3.742778193013234,
+        "lat": 40.30212778106364,
+        "capacity": 10
+      },
+      {
+        "station_id": "flash_station_MADRID127",
+        "name": "Station 127",
+        "lon": -3.6054161398335123,
+        "lat": 40.35661311670968,
+        "capacity": 22
+      },
+      {
+        "station_id": "flash_station_MADRID128",
+        "name": "Station 128",
+        "lon": -3.7814367636040225,
+        "lat": 40.44608198121275,
+        "capacity": 12
+      },
+      {
+        "station_id": "flash_station_MADRID129",
+        "name": "Station 129",
+        "lon": -3.6363346903617875,
+        "lat": 40.32571964201174,
+        "capacity": 23
+      },
+      {
+        "station_id": "flash_station_MADRID130",
+        "name": "Station 130",
+        "lon": -3.7724448601164875,
+        "lat": 40.48500830700643,
+        "capacity": 20
+      },
+      {
+        "station_id": "flash_station_MADRID131",
+        "name": "Station 131",
+        "lon": -3.6393904333903793,
+        "lat": 40.40039787087342,
+        "capacity": 14
+      },
+      {
+        "station_id": "flash_station_MADRID132",
+        "name": "Station 132",
+        "lon": -3.7384114475298005,
+        "lat": 40.328779774376216,
+        "capacity": 39
+      },
+      {
+        "station_id": "flash_station_MADRID133",
+        "name": "Station 133",
+        "lon": -3.790064801941139,
+        "lat": 40.48261120967124,
+        "capacity": 19
+      },
+      {
+        "station_id": "flash_station_MADRID134",
+        "name": "Station 134",
+        "lon": -3.7785404639937177,
+        "lat": 40.385809519383706,
+        "capacity": 14
+      },
+      {
+        "station_id": "flash_station_MADRID135",
+        "name": "Station 135",
+        "lon": -3.7492094735253647,
+        "lat": 40.38161627041753,
+        "capacity": 16
+      },
+      {
+        "station_id": "flash_station_MADRID136",
+        "name": "Station 136",
+        "lon": -3.7666674402336575,
+        "lat": 40.39059960907009,
+        "capacity": 34
+      },
+      {
+        "station_id": "flash_station_MADRID137",
+        "name": "Station 137",
+        "lon": -3.749536121089302,
+        "lat": 40.40171797029973,
+        "capacity": 24
+      },
+      {
+        "station_id": "flash_station_MADRID138",
+        "name": "Station 138",
+        "lon": -3.638379499140918,
+        "lat": 40.45852490359451,
+        "capacity": 40
+      },
+      {
+        "station_id": "flash_station_MADRID139",
+        "name": "Station 139",
+        "lon": -3.7068680755792687,
+        "lat": 40.31567954808736,
+        "capacity": 18
+      },
+      {
+        "station_id": "flash_station_MADRID140",
+        "name": "Station 140",
+        "lon": -3.7574497510623983,
+        "lat": 40.311504984143305,
+        "capacity": 15
+      },
+      {
+        "station_id": "flash_station_MADRID141",
+        "name": "Station 141",
+        "lon": -3.7560807662011064,
+        "lat": 40.37717305514381,
+        "capacity": 42
+      },
+      {
+        "station_id": "flash_station_MADRID142",
+        "name": "Station 142",
+        "lon": -3.702831015240412,
+        "lat": 40.35437323282379,
+        "capacity": 18
+      },
+      {
+        "station_id": "flash_station_MADRID143",
+        "name": "Station 143",
+        "lon": -3.615931912014373,
+        "lat": 40.3609945102546,
+        "capacity": 15
+      },
+      {
+        "station_id": "flash_station_MADRID144",
+        "name": "Station 144",
+        "lon": -3.716509918921036,
+        "lat": 40.357270456633906,
+        "capacity": 21
+      },
+      {
+        "station_id": "flash_station_MADRID145",
+        "name": "Station 145",
+        "lon": -3.7675443150286956,
+        "lat": 40.43866102121913,
+        "capacity": 43
+      },
+      {
+        "station_id": "flash_station_MADRID146",
+        "name": "Station 146",
+        "lon": -3.693014484564438,
+        "lat": 40.39949049735519,
+        "capacity": 22
+      },
+      {
+        "station_id": "flash_station_MADRID147",
+        "name": "Station 147",
+        "lon": -3.700783073942244,
+        "lat": 40.407143137011424,
+        "capacity": 21
+      },
+      {
+        "station_id": "flash_station_MADRID148",
+        "name": "Station 148",
+        "lon": -3.796821391975834,
+        "lat": 40.49570251884681,
+        "capacity": 35
+      },
+      {
+        "station_id": "flash_station_MADRID149",
+        "name": "Station 149",
+        "lon": -3.6168179463413033,
+        "lat": 40.36405667787933,
+        "capacity": 47
+      },
+      {
+        "station_id": "flash_station_MADRID150",
+        "name": "Station 150",
+        "lon": -3.6572739593942236,
+        "lat": 40.32901807435426,
+        "capacity": 22
+      },
+      {
+        "station_id": "flash_station_MADRID151",
+        "name": "Station 151",
+        "lon": -3.7094174465564325,
+        "lat": 40.45455101243152,
+        "capacity": 46
+      },
+      {
+        "station_id": "flash_station_MADRID152",
+        "name": "Station 152",
+        "lon": -3.688863173721295,
+        "lat": 40.42409825131374,
+        "capacity": 11
+      },
+      {
+        "station_id": "flash_station_MADRID153",
+        "name": "Station 153",
+        "lon": -3.767435601637053,
+        "lat": 40.33318369243764,
+        "capacity": 28
+      },
+      {
+        "station_id": "flash_station_MADRID154",
+        "name": "Station 154",
+        "lon": -3.6585436069735473,
+        "lat": 40.32202612532677,
+        "capacity": 29
+      },
+      {
+        "station_id": "flash_station_MADRID155",
+        "name": "Station 155",
+        "lon": -3.744964681625714,
+        "lat": 40.48939120331052,
+        "capacity": 48
+      },
+      {
+        "station_id": "flash_station_MADRID156",
+        "name": "Station 156",
+        "lon": -3.729047582284146,
+        "lat": 40.40758129665009,
+        "capacity": 38
+      },
+      {
+        "station_id": "flash_station_MADRID157",
+        "name": "Station 157",
+        "lon": -3.6058924065455353,
+        "lat": 40.337424796315716,
+        "capacity": 23
+      },
+      {
+        "station_id": "flash_station_MADRID158",
+        "name": "Station 158",
+        "lon": -3.727539540714226,
+        "lat": 40.3757579624847,
+        "capacity": 20
+      },
+      {
+        "station_id": "flash_station_MADRID159",
+        "name": "Station 159",
+        "lon": -3.7882505298998677,
+        "lat": 40.43182407031768,
+        "capacity": 33
+      },
+      {
+        "station_id": "flash_station_MADRID160",
+        "name": "Station 160",
+        "lon": -3.775450530252113,
+        "lat": 40.45103595930969,
+        "capacity": 25
+      },
+      {
+        "station_id": "flash_station_MADRID161",
+        "name": "Station 161",
+        "lon": -3.776379836254312,
+        "lat": 40.40536905647086,
+        "capacity": 33
+      },
+      {
+        "station_id": "flash_station_MADRID162",
+        "name": "Station 162",
+        "lon": -3.6581089275069623,
+        "lat": 40.317853458107514,
+        "capacity": 27
+      },
+      {
+        "station_id": "flash_station_MADRID163",
+        "name": "Station 163",
+        "lon": -3.7308676147181554,
+        "lat": 40.44368201308198,
+        "capacity": 27
+      },
+      {
+        "station_id": "flash_station_MADRID164",
+        "name": "Station 164",
+        "lon": -3.6984364117270236,
+        "lat": 40.40338325648705,
+        "capacity": 11
+      },
+      {
+        "station_id": "flash_station_MADRID165",
+        "name": "Station 165",
+        "lon": -3.730587894831739,
+        "lat": 40.47959098122496,
+        "capacity": 49
+      },
+      {
+        "station_id": "flash_station_MADRID166",
+        "name": "Station 166",
+        "lon": -3.617810250312071,
+        "lat": 40.412171308872004,
+        "capacity": 25
+      },
+      {
+        "station_id": "flash_station_MADRID167",
+        "name": "Station 167",
+        "lon": -3.602044593408639,
+        "lat": 40.39387930096277,
+        "capacity": 14
+      },
+      {
+        "station_id": "flash_station_MADRID168",
+        "name": "Station 168",
+        "lon": -3.6395154732010186,
+        "lat": 40.322884386548125,
+        "capacity": 42
+      },
+      {
+        "station_id": "flash_station_MADRID169",
+        "name": "Station 169",
+        "lon": -3.6782121252499653,
+        "lat": 40.44359109620986,
+        "capacity": 28
+      },
+      {
+        "station_id": "flash_station_MADRID170",
+        "name": "Station 170",
+        "lon": -3.651537282144147,
+        "lat": 40.401370506071764,
+        "capacity": 10
+      },
+      {
+        "station_id": "flash_station_MADRID171",
+        "name": "Station 171",
+        "lon": -3.7241591378272796,
+        "lat": 40.45729385826439,
+        "capacity": 28
+      },
+      {
+        "station_id": "flash_station_MADRID172",
+        "name": "Station 172",
+        "lon": -3.749165088184489,
+        "lat": 40.34511858658315,
+        "capacity": 42
+      },
+      {
+        "station_id": "flash_station_MADRID173",
+        "name": "Station 173",
+        "lon": -3.687315691055846,
+        "lat": 40.42608422123751,
+        "capacity": 25
+      },
+      {
+        "station_id": "flash_station_MADRID174",
+        "name": "Station 174",
+        "lon": -3.6427569181506647,
+        "lat": 40.33444436392484,
+        "capacity": 36
+      },
+      {
+        "station_id": "flash_station_MADRID175",
+        "name": "Station 175",
+        "lon": -3.6864575215927524,
+        "lat": 40.46738748155137,
+        "capacity": 38
+      },
+      {
+        "station_id": "flash_station_MADRID176",
+        "name": "Station 176",
+        "lon": -3.764598920461127,
+        "lat": 40.49849056838782,
+        "capacity": 24
+      },
+      {
+        "station_id": "flash_station_MADRID177",
+        "name": "Station 177",
+        "lon": -3.7116012730765546,
+        "lat": 40.44301914748374,
+        "capacity": 40
+      },
+      {
+        "station_id": "flash_station_MADRID178",
+        "name": "Station 178",
+        "lon": -3.7116062403628574,
+        "lat": 40.43996541065969,
+        "capacity": 14
+      },
+      {
+        "station_id": "flash_station_MADRID179",
+        "name": "Station 179",
+        "lon": -3.784227114077464,
+        "lat": 40.34678696947945,
+        "capacity": 12
+      },
+      {
+        "station_id": "flash_station_MADRID180",
+        "name": "Station 180",
+        "lon": -3.6196653195268134,
+        "lat": 40.34092899813005,
+        "capacity": 48
+      },
+      {
+        "station_id": "flash_station_MADRID181",
+        "name": "Station 181",
+        "lon": -3.787186256770735,
+        "lat": 40.332398240955726,
+        "capacity": 41
+      },
+      {
+        "station_id": "flash_station_MADRID182",
+        "name": "Station 182",
+        "lon": -3.7394601643531953,
+        "lat": 40.46905999909602,
+        "capacity": 14
+      },
+      {
+        "station_id": "flash_station_MADRID183",
+        "name": "Station 183",
+        "lon": -3.7654976316138016,
+        "lat": 40.336448277970575,
+        "capacity": 27
+      },
+      {
+        "station_id": "flash_station_MADRID184",
+        "name": "Station 184",
+        "lon": -3.776159491368432,
+        "lat": 40.35931847059204,
+        "capacity": 49
+      },
+      {
+        "station_id": "flash_station_MADRID185",
+        "name": "Station 185",
+        "lon": -3.7272650559608294,
+        "lat": 40.41520712962289,
+        "capacity": 25
+      },
+      {
+        "station_id": "flash_station_MADRID186",
+        "name": "Station 186",
+        "lon": -3.655286508586371,
+        "lat": 40.492377131370056,
+        "capacity": 12
+      },
+      {
+        "station_id": "flash_station_MADRID187",
+        "name": "Station 187",
+        "lon": -3.6778773172052452,
+        "lat": 40.356502120226786,
+        "capacity": 47
+      },
+      {
+        "station_id": "flash_station_MADRID188",
+        "name": "Station 188",
+        "lon": -3.7606785987423645,
+        "lat": 40.321764816847555,
+        "capacity": 42
+      },
+      {
+        "station_id": "flash_station_MADRID189",
+        "name": "Station 189",
+        "lon": -3.691076229417338,
+        "lat": 40.41525880961273,
+        "capacity": 31
+      },
+      {
+        "station_id": "flash_station_MADRID190",
+        "name": "Station 190",
+        "lon": -3.7616734305634068,
+        "lat": 40.39196026524083,
+        "capacity": 40
+      }
+    ]
+  },
+  "ttl": 180,
+  "version": "2.3"
+}

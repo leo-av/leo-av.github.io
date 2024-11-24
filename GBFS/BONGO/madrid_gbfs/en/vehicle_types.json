@@ -1,5 +1,5 @@
 {
-  "last_updated": 1732465048,
+  "last_updated": 1732465367,
   "data": {
     "vehicle_types": [
       {
@@ -7,22 +7,11 @@
           "bongo_plan_1",
           "bongo_plan_2"
         ],
-        "vehicle_type_id": "bongo_motorbike",
+        "vehicle_type_id": "bongo_car",
         "propulsion_type": "electric",
         "default_pricing_plan_id": "bongo_plan_1",
-        "max_range_meters": 200000,
-        "form_factor": "moped"
-      },
-      {
-        "pricing_plans": [
-          "bongo_plan_1",
-          "bongo_plan_3"
-        ],
-        "vehicle_type_id": "bongo_scooter",
-        "propulsion_type": "electric",
-        "default_pricing_plan_id": "bongo_plan_1",
-        "max_range_meters": 20000,
-        "form_factor": "scooter"
+        "max_range_meters": 390000,
+        "form_factor": "car"
       }
     ]
   },
