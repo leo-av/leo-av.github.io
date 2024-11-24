@@ -1,7 +1,7 @@
 {
   "last_updated": 1732465020,
   "data": {
-    "stationList": [
+    "stations": [
       {
         "is_installed": 1,
         "num_bikes_disabled": 1,
