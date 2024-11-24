@@ -1,30 +1,22 @@
 {
-  "last_updated": 1732445403,
+  "last_updated": 1732445771,
   "data": {
     "en": {
       "feeds": [
         {
-          "name": "free_bike_status.json",
+          "name": "free_bike_status",
           "url": "https://leo-av.github.io/GBFS/TEST2/valencia_gbfs/en/free_bike_status.json"
         },
         {
-          "name": "station_status.json",
-          "url": "https://leo-av.github.io/GBFS/TEST2/valencia_gbfs/en/station_status.json"
-        },
-        {
-          "name": "station_information.json",
-          "url": "https://leo-av.github.io/GBFS/TEST2/valencia_gbfs/en/station_information.json"
-        },
-        {
-          "name": "vehicle_types.json",
+          "name": "vehicle_types",
           "url": "https://leo-av.github.io/GBFS/TEST2/valencia_gbfs/en/vehicle_types.json"
         },
         {
-          "name": "system_pricing_plans.json",
+          "name": "system_pricing_plans",
           "url": "https://leo-av.github.io/GBFS/TEST2/valencia_gbfs/en/system_pricing_plans.json"
         },
         {
-          "name": "system_hours.json",
+          "name": "system_hours",
           "url": "https://leo-av.github.io/GBFS/TEST2/valencia_gbfs/en/system_hours.json"
         }
       ]
