@@ -1,15 +1,15 @@
 {
-  "last_updated": 1732463267,
+  "last_updated": 1732463554,
   "data": {
     "plans": [
       {
-        "price": 1.7,
+        "price": 2.15,
         "name": "Simple rate",
-        "description": "0.55 € per kilometer",
+        "description": "2.40 € per kilometer",
         "currency": "EUR",
         "per_km_pricing": [
           {
-            "rate": 0.55,
+            "rate": 2.4,
             "start": 0,
             "interval": 1
           }
@@ -18,28 +18,28 @@
         "is_taxable": false
       },
       {
-        "price": 3.4,
+        "price": 1.1,
         "name": "One-Way",
-        "description": "Includes 29km, overage fees apply after 29km",
+        "description": "Includes 28km, overage fees apply after 28km",
         "currency": "EUR",
         "per_km_pricing": [
           {
-            "rate": 1.95,
-            "start": 29,
+            "rate": 2.5,
+            "start": 28,
             "interval": 1,
             "end": 56
           },
           {
-            "rate": 0.65,
+            "rate": 1.2,
             "start": 56,
             "interval": 1,
-            "end": 85
+            "end": 83
           },
           {
-            "rate": 6.35,
-            "start": 85,
+            "rate": 4.65,
+            "start": 83,
             "interval": 5,
-            "end": 114
+            "end": 108
           }
         ],
         "plan_id": "bongo_plan_2",
@@ -48,18 +48,18 @@
       {
         "per_min_pricing": [
           {
-            "rate": 1.15,
+            "rate": 1.05,
             "start": 0,
             "interval": 1
           }
         ],
-        "price": 1.65,
+        "price": 3.4,
         "name": "Simple rate",
-        "description": "1.65 € unlock fee, 1.50 € per kilometer and 1.15 € per minute.",
+        "description": "3.40 € unlock fee, 1.05 € per kilometer and 1.05 € per minute.",
         "currency": "EUR",
         "per_km_pricing": [
           {
-            "rate": 1.5,
+            "rate": 1.05,
             "start": 0,
             "interval": 1
           }

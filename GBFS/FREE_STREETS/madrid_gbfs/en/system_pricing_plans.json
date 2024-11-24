@@ -1,15 +1,15 @@
 {
-  "last_updated": 1732463282,
+  "last_updated": 1732463565,
   "data": {
     "plans": [
       {
-        "price": 1.35,
+        "price": 2.4,
         "name": "Simple rate",
-        "description": "1.90 € per kilometer",
+        "description": "1.60 € per kilometer",
         "currency": "EUR",
         "per_km_pricing": [
           {
-            "rate": 1.9,
+            "rate": 1.6,
             "start": 0,
             "interval": 1
           }
@@ -18,28 +18,28 @@
         "is_taxable": false
       },
       {
-        "price": 4.0,
+        "price": 1.5,
         "name": "One-Way",
         "description": "Includes 26km, overage fees apply after 26km",
         "currency": "EUR",
         "per_km_pricing": [
           {
-            "rate": 2.0,
+            "rate": 1.65,
             "start": 26,
             "interval": 1,
-            "end": 55
+            "end": 51
           },
           {
-            "rate": 0.9,
-            "start": 55,
+            "rate": 1.05,
+            "start": 51,
             "interval": 1,
-            "end": 83
+            "end": 80
           },
           {
-            "rate": 5.7,
-            "start": 83,
+            "rate": 3.05,
+            "start": 80,
             "interval": 5,
-            "end": 111
+            "end": 105
           }
         ],
         "plan_id": "free_streets_plan_2",
@@ -48,18 +48,18 @@
       {
         "per_min_pricing": [
           {
-            "rate": 0.8,
+            "rate": 0.6,
             "start": 0,
             "interval": 1
           }
         ],
-        "price": 2.9,
+        "price": 2.0,
         "name": "Simple rate",
-        "description": "2.90 € unlock fee, 0.65 € per kilometer and 0.80 € per minute.",
+        "description": "2.00 € unlock fee, 0.75 € per kilometer and 0.60 € per minute.",
         "currency": "EUR",
         "per_km_pricing": [
           {
-            "rate": 0.65,
+            "rate": 0.75,
             "start": 0,
             "interval": 1
           }

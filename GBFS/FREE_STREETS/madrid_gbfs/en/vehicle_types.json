@@ -1,17 +1,27 @@
 {
-  "last_updated": 1732463282,
+  "last_updated": 1732463565,
   "data": {
     "vehicle_types": [
       {
         "pricing_plans": [
           "free_streets_plan_1",
-          "free_streets_plan_2"
+          "free_streets_plan_3"
         ],
-        "vehicle_type_id": "free_streets_car",
+        "vehicle_type_id": "free_streets_bike",
+        "propulsion_type": "human",
+        "default_pricing_plan_id": "free_streets_plan_1",
+        "form_factor": "bicycle"
+      },
+      {
+        "pricing_plans": [
+          "free_streets_plan_1",
+          "free_streets_plan_3"
+        ],
+        "vehicle_type_id": "free_streets_electric_bike",
         "propulsion_type": "electric",
         "default_pricing_plan_id": "free_streets_plan_1",
-        "max_range_meters": 390000,
-        "form_factor": "car"
+        "max_range_meters": 75000,
+        "form_factor": "bicycle"
       }
     ]
   },

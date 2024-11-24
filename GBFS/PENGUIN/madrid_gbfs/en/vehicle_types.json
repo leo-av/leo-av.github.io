@@ -1,28 +1,27 @@
 {
-  "last_updated": 1732463307,
+  "last_updated": 1732463592,
   "data": {
     "vehicle_types": [
       {
         "pricing_plans": [
           "penguin_plan_1",
-          "penguin_plan_2"
+          "penguin_plan_3"
         ],
-        "vehicle_type_id": "penguin_motorbike",
-        "propulsion_type": "electric",
+        "vehicle_type_id": "penguin_bike",
+        "propulsion_type": "human",
         "default_pricing_plan_id": "penguin_plan_1",
-        "max_range_meters": 200000,
-        "form_factor": "moped"
+        "form_factor": "bicycle"
       },
       {
         "pricing_plans": [
           "penguin_plan_1",
           "penguin_plan_3"
         ],
-        "vehicle_type_id": "penguin_scooter",
+        "vehicle_type_id": "penguin_electric_bike",
         "propulsion_type": "electric",
         "default_pricing_plan_id": "penguin_plan_1",
-        "max_range_meters": 20000,
-        "form_factor": "scooter"
+        "max_range_meters": 75000,
+        "form_factor": "bicycle"
       }
     ]
   },
