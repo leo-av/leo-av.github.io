@@ -1,0 +1,28 @@
+{
+    "last_updated": 1732447248,
+    "data": {"vehicle_types": [
+        {
+            "pricing_plans": [
+                "test_plan_1",
+                "test_plan_3"
+            ],
+            "vehicle_type_id": "test_bike",
+            "propulsion_type": "human",
+            "default_pricing_plan_id": "test_plan_1",
+            "form_factor": "bicycle"
+        },
+        {
+            "pricing_plans": [
+                "test_plan_1",
+                "test_plan_3"
+            ],
+            "vehicle_type_id": "test_electric_bike",
+            "propulsion_type": "electric",
+            "default_pricing_plan_id": "test_plan_1",
+            "max_range_meters": 75000,
+            "form_factor": "bicycle"
+        }
+    ]},
+    "ttl": 86400,
+    "version": "2.2"
+}

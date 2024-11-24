@@ -1,0 +1,1708 @@
+{
+    "last_updated": 1732447248,
+    "data": {"stations": [
+        {
+            "num_docks_available": 12,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 12,
+            "is_renting": 1,
+            "station_id": "test_MADRID001",
+            "num_ebikes_available": 9
+        },
+        {
+            "num_docks_available": 11,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 8,
+            "is_renting": 1,
+            "station_id": "test_MADRID002",
+            "num_ebikes_available": 9
+        },
+        {
+            "num_docks_available": 14,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 19,
+            "is_renting": 1,
+            "station_id": "test_MADRID003",
+            "num_ebikes_available": 0
+        },
+        {
+            "num_docks_available": 28,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 5,
+            "is_renting": 1,
+            "station_id": "test_MADRID004",
+            "num_ebikes_available": 0
+        },
+        {
+            "num_docks_available": 7,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 5,
+            "is_renting": 1,
+            "station_id": "test_MADRID005",
+            "num_ebikes_available": 1
+        },
+        {
+            "num_docks_available": 6,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 8,
+            "is_renting": 1,
+            "station_id": "test_MADRID006",
+            "num_ebikes_available": 2
+        },
+        {
+            "num_docks_available": 25,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 16,
+            "is_renting": 1,
+            "station_id": "test_MADRID007",
+            "num_ebikes_available": 7
+        },
+        {
+            "num_docks_available": 20,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 17,
+            "is_renting": 1,
+            "station_id": "test_MADRID008",
+            "num_ebikes_available": 3
+        },
+        {
+            "num_docks_available": 19,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 18,
+            "is_renting": 1,
+            "station_id": "test_MADRID009",
+            "num_ebikes_available": 3
+        },
+        {
+            "num_docks_available": 16,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 2,
+            "is_renting": 1,
+            "station_id": "test_MADRID010",
+            "num_ebikes_available": 7
+        },
+        {
+            "num_docks_available": 9,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 15,
+            "is_renting": 1,
+            "station_id": "test_MADRID011",
+            "num_ebikes_available": 4
+        },
+        {
+            "num_docks_available": 14,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 18,
+            "is_renting": 1,
+            "station_id": "test_MADRID012",
+            "num_ebikes_available": 9
+        },
+        {
+            "num_docks_available": 21,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 9,
+            "is_renting": 1,
+            "station_id": "test_MADRID013",
+            "num_ebikes_available": 1
+        },
+        {
+            "num_docks_available": 7,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 14,
+            "is_renting": 1,
+            "station_id": "test_MADRID014",
+            "num_ebikes_available": 7
+        },
+        {
+            "num_docks_available": 24,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 16,
+            "is_renting": 1,
+            "station_id": "test_MADRID015",
+            "num_ebikes_available": 4
+        },
+        {
+            "num_docks_available": 29,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 11,
+            "is_renting": 1,
+            "station_id": "test_MADRID016",
+            "num_ebikes_available": 4
+        },
+        {
+            "num_docks_available": 13,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 20,
+            "is_renting": 1,
+            "station_id": "test_MADRID017",
+            "num_ebikes_available": 2
+        },
+        {
+            "num_docks_available": 13,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 14,
+            "is_renting": 1,
+            "station_id": "test_MADRID018",
+            "num_ebikes_available": 1
+        },
+        {
+            "num_docks_available": 1,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 2,
+            "is_renting": 1,
+            "station_id": "test_MADRID019",
+            "num_ebikes_available": 0
+        },
+        {
+            "num_docks_available": 2,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 19,
+            "is_renting": 1,
+            "station_id": "test_MADRID020",
+            "num_ebikes_available": 4
+        },
+        {
+            "num_docks_available": 5,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 11,
+            "is_renting": 1,
+            "station_id": "test_MADRID021",
+            "num_ebikes_available": 6
+        },
+        {
+            "num_docks_available": 7,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 20,
+            "is_renting": 1,
+            "station_id": "test_MADRID022",
+            "num_ebikes_available": 0
+        },
+        {
+            "num_docks_available": 2,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 2,
+            "is_renting": 1,
+            "station_id": "test_MADRID023",
+            "num_ebikes_available": 6
+        },
+        {
+            "num_docks_available": 1,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 5,
+            "is_renting": 1,
+            "station_id": "test_MADRID024",
+            "num_ebikes_available": 5
+        },
+        {
+            "num_docks_available": 21,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 8,
+            "is_renting": 1,
+            "station_id": "test_MADRID025",
+            "num_ebikes_available": 8
+        },
+        {
+            "num_docks_available": 28,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 9,
+            "is_renting": 1,
+            "station_id": "test_MADRID026",
+            "num_ebikes_available": 9
+        },
+        {
+            "num_docks_available": 6,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 7,
+            "is_renting": 1,
+            "station_id": "test_MADRID027",
+            "num_ebikes_available": 1
+        },
+        {
+            "num_docks_available": 10,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 12,
+            "is_renting": 1,
+            "station_id": "test_MADRID028",
+            "num_ebikes_available": 9
+        },
+        {
+            "num_docks_available": 19,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 17,
+            "is_renting": 1,
+            "station_id": "test_MADRID029",
+            "num_ebikes_available": 9
+        },
+        {
+            "num_docks_available": 14,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 8,
+            "is_renting": 1,
+            "station_id": "test_MADRID030",
+            "num_ebikes_available": 7
+        },
+        {
+            "num_docks_available": 27,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 14,
+            "is_renting": 1,
+            "station_id": "test_MADRID031",
+            "num_ebikes_available": 0
+        },
+        {
+            "num_docks_available": 30,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 16,
+            "is_renting": 1,
+            "station_id": "test_MADRID032",
+            "num_ebikes_available": 9
+        },
+        {
+            "num_docks_available": 20,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 19,
+            "is_renting": 1,
+            "station_id": "test_MADRID033",
+            "num_ebikes_available": 3
+        },
+        {
+            "num_docks_available": 2,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 12,
+            "is_renting": 1,
+            "station_id": "test_MADRID034",
+            "num_ebikes_available": 1
+        },
+        {
+            "num_docks_available": 30,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 10,
+            "is_renting": 1,
+            "station_id": "test_MADRID035",
+            "num_ebikes_available": 2
+        },
+        {
+            "num_docks_available": 4,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 16,
+            "is_renting": 1,
+            "station_id": "test_MADRID036",
+            "num_ebikes_available": 5
+        },
+        {
+            "num_docks_available": 7,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 6,
+            "is_renting": 1,
+            "station_id": "test_MADRID037",
+            "num_ebikes_available": 4
+        },
+        {
+            "num_docks_available": 8,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 19,
+            "is_renting": 1,
+            "station_id": "test_MADRID038",
+            "num_ebikes_available": 8
+        },
+        {
+            "num_docks_available": 25,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 13,
+            "is_renting": 1,
+            "station_id": "test_MADRID039",
+            "num_ebikes_available": 8
+        },
+        {
+            "num_docks_available": 5,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 3,
+            "is_renting": 1,
+            "station_id": "test_MADRID040",
+            "num_ebikes_available": 7
+        },
+        {
+            "num_docks_available": 3,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 17,
+            "is_renting": 1,
+            "station_id": "test_MADRID041",
+            "num_ebikes_available": 1
+        },
+        {
+            "num_docks_available": 25,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 4,
+            "is_renting": 1,
+            "station_id": "test_MADRID042",
+            "num_ebikes_available": 4
+        },
+        {
+            "num_docks_available": 15,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 18,
+            "is_renting": 1,
+            "station_id": "test_MADRID043",
+            "num_ebikes_available": 1
+        },
+        {
+            "num_docks_available": 25,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 7,
+            "is_renting": 1,
+            "station_id": "test_MADRID044",
+            "num_ebikes_available": 2
+        },
+        {
+            "num_docks_available": 21,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 11,
+            "is_renting": 1,
+            "station_id": "test_MADRID045",
+            "num_ebikes_available": 4
+        },
+        {
+            "num_docks_available": 10,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 5,
+            "is_renting": 1,
+            "station_id": "test_MADRID046",
+            "num_ebikes_available": 3
+        },
+        {
+            "num_docks_available": 13,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 4,
+            "is_renting": 1,
+            "station_id": "test_MADRID047",
+            "num_ebikes_available": 6
+        },
+        {
+            "num_docks_available": 20,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 4,
+            "is_renting": 1,
+            "station_id": "test_MADRID048",
+            "num_ebikes_available": 9
+        },
+        {
+            "num_docks_available": 28,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 17,
+            "is_renting": 1,
+            "station_id": "test_MADRID049",
+            "num_ebikes_available": 1
+        },
+        {
+            "num_docks_available": 21,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 14,
+            "is_renting": 1,
+            "station_id": "test_MADRID050",
+            "num_ebikes_available": 4
+        },
+        {
+            "num_docks_available": 8,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 1,
+            "is_renting": 1,
+            "station_id": "test_MADRID051",
+            "num_ebikes_available": 7
+        },
+        {
+            "num_docks_available": 9,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 15,
+            "is_renting": 1,
+            "station_id": "test_MADRID052",
+            "num_ebikes_available": 7
+        },
+        {
+            "num_docks_available": 9,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 15,
+            "is_renting": 1,
+            "station_id": "test_MADRID053",
+            "num_ebikes_available": 2
+        },
+        {
+            "num_docks_available": 23,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 13,
+            "is_renting": 1,
+            "station_id": "test_MADRID054",
+            "num_ebikes_available": 0
+        },
+        {
+            "num_docks_available": 16,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 16,
+            "is_renting": 1,
+            "station_id": "test_MADRID055",
+            "num_ebikes_available": 0
+        },
+        {
+            "num_docks_available": 14,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 19,
+            "is_renting": 1,
+            "station_id": "test_MADRID056",
+            "num_ebikes_available": 1
+        },
+        {
+            "num_docks_available": 2,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 10,
+            "is_renting": 1,
+            "station_id": "test_MADRID057",
+            "num_ebikes_available": 5
+        },
+        {
+            "num_docks_available": 21,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 15,
+            "is_renting": 1,
+            "station_id": "test_MADRID058",
+            "num_ebikes_available": 1
+        },
+        {
+            "num_docks_available": 20,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 19,
+            "is_renting": 1,
+            "station_id": "test_MADRID059",
+            "num_ebikes_available": 1
+        },
+        {
+            "num_docks_available": 7,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 1,
+            "is_renting": 1,
+            "station_id": "test_MADRID060",
+            "num_ebikes_available": 0
+        },
+        {
+            "num_docks_available": 19,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 16,
+            "is_renting": 1,
+            "station_id": "test_MADRID061",
+            "num_ebikes_available": 7
+        },
+        {
+            "num_docks_available": 25,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 15,
+            "is_renting": 1,
+            "station_id": "test_MADRID062",
+            "num_ebikes_available": 6
+        },
+        {
+            "num_docks_available": 30,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 20,
+            "is_renting": 1,
+            "station_id": "test_MADRID063",
+            "num_ebikes_available": 2
+        },
+        {
+            "num_docks_available": 3,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 16,
+            "is_renting": 1,
+            "station_id": "test_MADRID064",
+            "num_ebikes_available": 2
+        },
+        {
+            "num_docks_available": 29,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 15,
+            "is_renting": 1,
+            "station_id": "test_MADRID065",
+            "num_ebikes_available": 7
+        },
+        {
+            "num_docks_available": 10,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 11,
+            "is_renting": 1,
+            "station_id": "test_MADRID066",
+            "num_ebikes_available": 2
+        },
+        {
+            "num_docks_available": 24,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 19,
+            "is_renting": 1,
+            "station_id": "test_MADRID067",
+            "num_ebikes_available": 5
+        },
+        {
+            "num_docks_available": 12,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 16,
+            "is_renting": 1,
+            "station_id": "test_MADRID068",
+            "num_ebikes_available": 3
+        },
+        {
+            "num_docks_available": 6,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 12,
+            "is_renting": 1,
+            "station_id": "test_MADRID069",
+            "num_ebikes_available": 9
+        },
+        {
+            "num_docks_available": 3,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 17,
+            "is_renting": 1,
+            "station_id": "test_MADRID070",
+            "num_ebikes_available": 0
+        },
+        {
+            "num_docks_available": 1,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 18,
+            "is_renting": 1,
+            "station_id": "test_MADRID071",
+            "num_ebikes_available": 2
+        },
+        {
+            "num_docks_available": 21,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 13,
+            "is_renting": 1,
+            "station_id": "test_MADRID072",
+            "num_ebikes_available": 0
+        },
+        {
+            "num_docks_available": 3,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 12,
+            "is_renting": 1,
+            "station_id": "test_MADRID073",
+            "num_ebikes_available": 8
+        },
+        {
+            "num_docks_available": 11,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 5,
+            "is_renting": 1,
+            "station_id": "test_MADRID074",
+            "num_ebikes_available": 9
+        },
+        {
+            "num_docks_available": 15,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 11,
+            "is_renting": 1,
+            "station_id": "test_MADRID075",
+            "num_ebikes_available": 7
+        },
+        {
+            "num_docks_available": 15,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 14,
+            "is_renting": 1,
+            "station_id": "test_MADRID076",
+            "num_ebikes_available": 5
+        },
+        {
+            "num_docks_available": 22,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 5,
+            "is_renting": 1,
+            "station_id": "test_MADRID077",
+            "num_ebikes_available": 9
+        },
+        {
+            "num_docks_available": 26,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 4,
+            "is_renting": 1,
+            "station_id": "test_MADRID078",
+            "num_ebikes_available": 1
+        },
+        {
+            "num_docks_available": 6,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 18,
+            "is_renting": 1,
+            "station_id": "test_MADRID079",
+            "num_ebikes_available": 0
+        },
+        {
+            "num_docks_available": 3,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 8,
+            "is_renting": 1,
+            "station_id": "test_MADRID080",
+            "num_ebikes_available": 2
+        },
+        {
+            "num_docks_available": 26,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 15,
+            "is_renting": 1,
+            "station_id": "test_MADRID081",
+            "num_ebikes_available": 2
+        },
+        {
+            "num_docks_available": 20,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 3,
+            "is_renting": 1,
+            "station_id": "test_MADRID082",
+            "num_ebikes_available": 4
+        },
+        {
+            "num_docks_available": 19,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 15,
+            "is_renting": 1,
+            "station_id": "test_MADRID083",
+            "num_ebikes_available": 4
+        },
+        {
+            "num_docks_available": 21,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 9,
+            "is_renting": 1,
+            "station_id": "test_MADRID084",
+            "num_ebikes_available": 5
+        },
+        {
+            "num_docks_available": 4,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 18,
+            "is_renting": 1,
+            "station_id": "test_MADRID085",
+            "num_ebikes_available": 1
+        },
+        {
+            "num_docks_available": 26,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 6,
+            "is_renting": 1,
+            "station_id": "test_MADRID086",
+            "num_ebikes_available": 0
+        },
+        {
+            "num_docks_available": 22,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 3,
+            "is_renting": 1,
+            "station_id": "test_MADRID087",
+            "num_ebikes_available": 1
+        },
+        {
+            "num_docks_available": 14,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 7,
+            "is_renting": 1,
+            "station_id": "test_MADRID088",
+            "num_ebikes_available": 1
+        },
+        {
+            "num_docks_available": 9,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 9,
+            "is_renting": 1,
+            "station_id": "test_MADRID089",
+            "num_ebikes_available": 6
+        },
+        {
+            "num_docks_available": 17,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 13,
+            "is_renting": 1,
+            "station_id": "test_MADRID090",
+            "num_ebikes_available": 0
+        },
+        {
+            "num_docks_available": 4,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 11,
+            "is_renting": 1,
+            "station_id": "test_MADRID091",
+            "num_ebikes_available": 5
+        },
+        {
+            "num_docks_available": 27,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 7,
+            "is_renting": 1,
+            "station_id": "test_MADRID092",
+            "num_ebikes_available": 3
+        },
+        {
+            "num_docks_available": 27,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 13,
+            "is_renting": 1,
+            "station_id": "test_MADRID093",
+            "num_ebikes_available": 2
+        },
+        {
+            "num_docks_available": 28,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 2,
+            "is_renting": 1,
+            "station_id": "test_MADRID094",
+            "num_ebikes_available": 9
+        },
+        {
+            "num_docks_available": 30,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 2,
+            "is_renting": 1,
+            "station_id": "test_MADRID095",
+            "num_ebikes_available": 3
+        },
+        {
+            "num_docks_available": 4,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 18,
+            "is_renting": 1,
+            "station_id": "test_MADRID096",
+            "num_ebikes_available": 3
+        },
+        {
+            "num_docks_available": 4,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 11,
+            "is_renting": 1,
+            "station_id": "test_MADRID097",
+            "num_ebikes_available": 3
+        },
+        {
+            "num_docks_available": 23,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 9,
+            "is_renting": 1,
+            "station_id": "test_MADRID098",
+            "num_ebikes_available": 0
+        },
+        {
+            "num_docks_available": 30,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 19,
+            "is_renting": 1,
+            "station_id": "test_MADRID099",
+            "num_ebikes_available": 4
+        },
+        {
+            "num_docks_available": 1,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 19,
+            "is_renting": 1,
+            "station_id": "test_MADRID100",
+            "num_ebikes_available": 1
+        },
+        {
+            "num_docks_available": 18,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 20,
+            "is_renting": 1,
+            "station_id": "test_MADRID101",
+            "num_ebikes_available": 2
+        },
+        {
+            "num_docks_available": 13,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 1,
+            "is_renting": 1,
+            "station_id": "test_MADRID102",
+            "num_ebikes_available": 5
+        },
+        {
+            "num_docks_available": 30,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 14,
+            "is_renting": 1,
+            "station_id": "test_MADRID103",
+            "num_ebikes_available": 5
+        },
+        {
+            "num_docks_available": 2,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 13,
+            "is_renting": 1,
+            "station_id": "test_MADRID104",
+            "num_ebikes_available": 2
+        },
+        {
+            "num_docks_available": 13,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 6,
+            "is_renting": 1,
+            "station_id": "test_MADRID105",
+            "num_ebikes_available": 0
+        },
+        {
+            "num_docks_available": 4,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 15,
+            "is_renting": 1,
+            "station_id": "test_MADRID106",
+            "num_ebikes_available": 0
+        },
+        {
+            "num_docks_available": 27,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 13,
+            "is_renting": 1,
+            "station_id": "test_MADRID107",
+            "num_ebikes_available": 9
+        },
+        {
+            "num_docks_available": 30,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 13,
+            "is_renting": 1,
+            "station_id": "test_MADRID108",
+            "num_ebikes_available": 8
+        },
+        {
+            "num_docks_available": 9,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 12,
+            "is_renting": 1,
+            "station_id": "test_MADRID109",
+            "num_ebikes_available": 2
+        },
+        {
+            "num_docks_available": 1,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 1,
+            "is_renting": 1,
+            "station_id": "test_MADRID110",
+            "num_ebikes_available": 4
+        },
+        {
+            "num_docks_available": 30,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 15,
+            "is_renting": 1,
+            "station_id": "test_MADRID111",
+            "num_ebikes_available": 0
+        },
+        {
+            "num_docks_available": 17,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 5,
+            "is_renting": 1,
+            "station_id": "test_MADRID112",
+            "num_ebikes_available": 3
+        },
+        {
+            "num_docks_available": 26,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 16,
+            "is_renting": 1,
+            "station_id": "test_MADRID113",
+            "num_ebikes_available": 0
+        },
+        {
+            "num_docks_available": 8,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 9,
+            "is_renting": 1,
+            "station_id": "test_MADRID114",
+            "num_ebikes_available": 0
+        },
+        {
+            "num_docks_available": 22,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 14,
+            "is_renting": 1,
+            "station_id": "test_MADRID115",
+            "num_ebikes_available": 7
+        },
+        {
+            "num_docks_available": 27,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 5,
+            "is_renting": 1,
+            "station_id": "test_MADRID116",
+            "num_ebikes_available": 2
+        },
+        {
+            "num_docks_available": 14,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 18,
+            "is_renting": 1,
+            "station_id": "test_MADRID117",
+            "num_ebikes_available": 7
+        },
+        {
+            "num_docks_available": 3,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 20,
+            "is_renting": 1,
+            "station_id": "test_MADRID118",
+            "num_ebikes_available": 4
+        },
+        {
+            "num_docks_available": 8,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 3,
+            "is_renting": 1,
+            "station_id": "test_MADRID119",
+            "num_ebikes_available": 5
+        },
+        {
+            "num_docks_available": 8,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 3,
+            "is_renting": 1,
+            "station_id": "test_MADRID120",
+            "num_ebikes_available": 6
+        },
+        {
+            "num_docks_available": 19,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 17,
+            "is_renting": 1,
+            "station_id": "test_MADRID121",
+            "num_ebikes_available": 0
+        },
+        {
+            "num_docks_available": 13,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 10,
+            "is_renting": 1,
+            "station_id": "test_MADRID122",
+            "num_ebikes_available": 7
+        },
+        {
+            "num_docks_available": 29,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 2,
+            "is_renting": 1,
+            "station_id": "test_MADRID123",
+            "num_ebikes_available": 7
+        },
+        {
+            "num_docks_available": 8,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 1,
+            "is_renting": 1,
+            "station_id": "test_MADRID124",
+            "num_ebikes_available": 3
+        },
+        {
+            "num_docks_available": 18,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 5,
+            "is_renting": 1,
+            "station_id": "test_MADRID125",
+            "num_ebikes_available": 7
+        },
+        {
+            "num_docks_available": 7,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 13,
+            "is_renting": 1,
+            "station_id": "test_MADRID126",
+            "num_ebikes_available": 9
+        },
+        {
+            "num_docks_available": 10,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 5,
+            "is_renting": 1,
+            "station_id": "test_MADRID127",
+            "num_ebikes_available": 3
+        },
+        {
+            "num_docks_available": 23,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 11,
+            "is_renting": 1,
+            "station_id": "test_MADRID128",
+            "num_ebikes_available": 2
+        },
+        {
+            "num_docks_available": 12,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 11,
+            "is_renting": 1,
+            "station_id": "test_MADRID129",
+            "num_ebikes_available": 4
+        },
+        {
+            "num_docks_available": 5,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 18,
+            "is_renting": 1,
+            "station_id": "test_MADRID130",
+            "num_ebikes_available": 0
+        },
+        {
+            "num_docks_available": 15,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 8,
+            "is_renting": 1,
+            "station_id": "test_MADRID131",
+            "num_ebikes_available": 8
+        },
+        {
+            "num_docks_available": 15,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 10,
+            "is_renting": 1,
+            "station_id": "test_MADRID132",
+            "num_ebikes_available": 8
+        },
+        {
+            "num_docks_available": 13,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 5,
+            "is_renting": 1,
+            "station_id": "test_MADRID133",
+            "num_ebikes_available": 7
+        },
+        {
+            "num_docks_available": 8,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 12,
+            "is_renting": 1,
+            "station_id": "test_MADRID134",
+            "num_ebikes_available": 6
+        },
+        {
+            "num_docks_available": 23,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 18,
+            "is_renting": 1,
+            "station_id": "test_MADRID135",
+            "num_ebikes_available": 9
+        },
+        {
+            "num_docks_available": 15,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 9,
+            "is_renting": 1,
+            "station_id": "test_MADRID136",
+            "num_ebikes_available": 4
+        },
+        {
+            "num_docks_available": 8,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 15,
+            "is_renting": 1,
+            "station_id": "test_MADRID137",
+            "num_ebikes_available": 2
+        },
+        {
+            "num_docks_available": 18,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 11,
+            "is_renting": 1,
+            "station_id": "test_MADRID138",
+            "num_ebikes_available": 6
+        },
+        {
+            "num_docks_available": 21,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 4,
+            "is_renting": 1,
+            "station_id": "test_MADRID139",
+            "num_ebikes_available": 8
+        },
+        {
+            "num_docks_available": 22,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 6,
+            "is_renting": 1,
+            "station_id": "test_MADRID140",
+            "num_ebikes_available": 4
+        },
+        {
+            "num_docks_available": 19,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 4,
+            "is_renting": 1,
+            "station_id": "test_MADRID141",
+            "num_ebikes_available": 4
+        },
+        {
+            "num_docks_available": 25,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 4,
+            "is_renting": 1,
+            "station_id": "test_MADRID142",
+            "num_ebikes_available": 0
+        },
+        {
+            "num_docks_available": 20,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 15,
+            "is_renting": 1,
+            "station_id": "test_MADRID143",
+            "num_ebikes_available": 3
+        },
+        {
+            "num_docks_available": 3,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 5,
+            "is_renting": 1,
+            "station_id": "test_MADRID144",
+            "num_ebikes_available": 8
+        },
+        {
+            "num_docks_available": 20,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 19,
+            "is_renting": 1,
+            "station_id": "test_MADRID145",
+            "num_ebikes_available": 3
+        },
+        {
+            "num_docks_available": 23,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 12,
+            "is_renting": 1,
+            "station_id": "test_MADRID146",
+            "num_ebikes_available": 7
+        },
+        {
+            "num_docks_available": 11,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 5,
+            "is_renting": 1,
+            "station_id": "test_MADRID147",
+            "num_ebikes_available": 9
+        },
+        {
+            "num_docks_available": 29,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 14,
+            "is_renting": 1,
+            "station_id": "test_MADRID148",
+            "num_ebikes_available": 3
+        },
+        {
+            "num_docks_available": 1,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 9,
+            "is_renting": 1,
+            "station_id": "test_MADRID149",
+            "num_ebikes_available": 2
+        },
+        {
+            "num_docks_available": 2,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 11,
+            "is_renting": 1,
+            "station_id": "test_MADRID150",
+            "num_ebikes_available": 6
+        },
+        {
+            "num_docks_available": 20,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 1,
+            "is_renting": 1,
+            "station_id": "test_MADRID151",
+            "num_ebikes_available": 8
+        },
+        {
+            "num_docks_available": 9,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 17,
+            "is_renting": 1,
+            "station_id": "test_MADRID152",
+            "num_ebikes_available": 4
+        },
+        {
+            "num_docks_available": 5,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 14,
+            "is_renting": 1,
+            "station_id": "test_MADRID153",
+            "num_ebikes_available": 1
+        },
+        {
+            "num_docks_available": 6,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 4,
+            "is_renting": 1,
+            "station_id": "test_MADRID154",
+            "num_ebikes_available": 4
+        },
+        {
+            "num_docks_available": 12,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 8,
+            "is_renting": 1,
+            "station_id": "test_MADRID155",
+            "num_ebikes_available": 8
+        },
+        {
+            "num_docks_available": 26,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 4,
+            "is_renting": 1,
+            "station_id": "test_MADRID156",
+            "num_ebikes_available": 0
+        },
+        {
+            "num_docks_available": 16,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 8,
+            "is_renting": 1,
+            "station_id": "test_MADRID157",
+            "num_ebikes_available": 8
+        },
+        {
+            "num_docks_available": 17,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 14,
+            "is_renting": 1,
+            "station_id": "test_MADRID158",
+            "num_ebikes_available": 7
+        },
+        {
+            "num_docks_available": 21,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 16,
+            "is_renting": 1,
+            "station_id": "test_MADRID159",
+            "num_ebikes_available": 5
+        },
+        {
+            "num_docks_available": 5,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 8,
+            "is_renting": 1,
+            "station_id": "test_MADRID160",
+            "num_ebikes_available": 9
+        },
+        {
+            "num_docks_available": 20,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 8,
+            "is_renting": 1,
+            "station_id": "test_MADRID161",
+            "num_ebikes_available": 5
+        },
+        {
+            "num_docks_available": 27,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 2,
+            "is_renting": 1,
+            "station_id": "test_MADRID162",
+            "num_ebikes_available": 7
+        },
+        {
+            "num_docks_available": 8,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 20,
+            "is_renting": 1,
+            "station_id": "test_MADRID163",
+            "num_ebikes_available": 3
+        },
+        {
+            "num_docks_available": 16,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 16,
+            "is_renting": 1,
+            "station_id": "test_MADRID164",
+            "num_ebikes_available": 9
+        },
+        {
+            "num_docks_available": 7,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 17,
+            "is_renting": 1,
+            "station_id": "test_MADRID165",
+            "num_ebikes_available": 2
+        },
+        {
+            "num_docks_available": 19,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 1,
+            "is_renting": 1,
+            "station_id": "test_MADRID166",
+            "num_ebikes_available": 5
+        },
+        {
+            "num_docks_available": 10,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 9,
+            "is_renting": 1,
+            "station_id": "test_MADRID167",
+            "num_ebikes_available": 6
+        },
+        {
+            "num_docks_available": 15,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 12,
+            "is_renting": 1,
+            "station_id": "test_MADRID168",
+            "num_ebikes_available": 3
+        },
+        {
+            "num_docks_available": 2,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 7,
+            "is_renting": 1,
+            "station_id": "test_MADRID169",
+            "num_ebikes_available": 1
+        },
+        {
+            "num_docks_available": 20,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 17,
+            "is_renting": 1,
+            "station_id": "test_MADRID170",
+            "num_ebikes_available": 9
+        },
+        {
+            "num_docks_available": 18,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 19,
+            "is_renting": 1,
+            "station_id": "test_MADRID171",
+            "num_ebikes_available": 3
+        },
+        {
+            "num_docks_available": 5,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 17,
+            "is_renting": 1,
+            "station_id": "test_MADRID172",
+            "num_ebikes_available": 4
+        },
+        {
+            "num_docks_available": 10,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 5,
+            "is_renting": 1,
+            "station_id": "test_MADRID173",
+            "num_ebikes_available": 3
+        },
+        {
+            "num_docks_available": 2,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 12,
+            "is_renting": 1,
+            "station_id": "test_MADRID174",
+            "num_ebikes_available": 8
+        },
+        {
+            "num_docks_available": 10,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 13,
+            "is_renting": 1,
+            "station_id": "test_MADRID175",
+            "num_ebikes_available": 7
+        },
+        {
+            "num_docks_available": 19,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 19,
+            "is_renting": 1,
+            "station_id": "test_MADRID176",
+            "num_ebikes_available": 8
+        },
+        {
+            "num_docks_available": 19,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 20,
+            "is_renting": 1,
+            "station_id": "test_MADRID177",
+            "num_ebikes_available": 6
+        },
+        {
+            "num_docks_available": 24,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 20,
+            "is_renting": 1,
+            "station_id": "test_MADRID178",
+            "num_ebikes_available": 9
+        },
+        {
+            "num_docks_available": 30,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 12,
+            "is_renting": 1,
+            "station_id": "test_MADRID179",
+            "num_ebikes_available": 3
+        },
+        {
+            "num_docks_available": 21,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 4,
+            "is_renting": 1,
+            "station_id": "test_MADRID180",
+            "num_ebikes_available": 0
+        },
+        {
+            "num_docks_available": 14,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 4,
+            "is_renting": 1,
+            "station_id": "test_MADRID181",
+            "num_ebikes_available": 7
+        },
+        {
+            "num_docks_available": 30,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 9,
+            "is_renting": 1,
+            "station_id": "test_MADRID182",
+            "num_ebikes_available": 3
+        },
+        {
+            "num_docks_available": 26,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 5,
+            "is_renting": 1,
+            "station_id": "test_MADRID183",
+            "num_ebikes_available": 8
+        },
+        {
+            "num_docks_available": 7,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 20,
+            "is_renting": 1,
+            "station_id": "test_MADRID184",
+            "num_ebikes_available": 6
+        },
+        {
+            "num_docks_available": 4,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 17,
+            "is_renting": 1,
+            "station_id": "test_MADRID185",
+            "num_ebikes_available": 4
+        },
+        {
+            "num_docks_available": 12,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 13,
+            "is_renting": 1,
+            "station_id": "test_MADRID186",
+            "num_ebikes_available": 9
+        },
+        {
+            "num_docks_available": 28,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 13,
+            "is_renting": 1,
+            "station_id": "test_MADRID187",
+            "num_ebikes_available": 0
+        },
+        {
+            "num_docks_available": 13,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 19,
+            "is_renting": 1,
+            "station_id": "test_MADRID188",
+            "num_ebikes_available": 5
+        },
+        {
+            "num_docks_available": 8,
+            "is_installed": 1,
+            "is_returning": 1,
+            "num_bikes_available": 2,
+            "is_renting": 1,
+            "station_id": "test_MADRID189",
+            "num_ebikes_available": 9
+        }
+    ]},
+    "ttl": 180,
+    "version": "2.2"
+}
