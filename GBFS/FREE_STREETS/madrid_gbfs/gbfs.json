@@ -1,19 +1,11 @@
 {
-  "last_updated": 1732463565,
+  "last_updated": 1732463853,
   "data": {
     "en": {
       "feeds": [
         {
           "name": "free_bike_status",
           "url": "https://leo-av.github.io/GBFS/FREE_STREETS/madrid_gbfs/en/free_bike_status.json"
-        },
-        {
-          "name": "station_status",
-          "url": "https://leo-av.github.io/GBFS/FREE_STREETS/madrid_gbfs/en/station_status.json"
-        },
-        {
-          "name": "station_information",
-          "url": "https://leo-av.github.io/GBFS/FREE_STREETS/madrid_gbfs/en/station_information.json"
         },
         {
           "name": "vehicle_types",

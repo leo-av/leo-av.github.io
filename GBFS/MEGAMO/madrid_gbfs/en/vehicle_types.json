@@ -1,5 +1,5 @@
 {
-  "last_updated": 1732463549,
+  "last_updated": 1732463824,
   "data": {
     "vehicle_types": [
       {
@@ -8,9 +8,9 @@
           "megamo_plan_2"
         ],
         "vehicle_type_id": "megamo_motorbike",
-        "propulsion_type": "electric",
+        "propulsion_type": "combustion",
         "default_pricing_plan_id": "megamo_plan_1",
-        "max_range_meters": 200000,
+        "max_range_meters": 250000,
         "form_factor": "moped"
       },
       {

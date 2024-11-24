@@ -1,9 +1,9 @@
 {
-  "last_updated": 1732463587,
+  "last_updated": 1732463829,
   "data": [
     {
-      "url": "https://leo-av.github.io/GBFS/FLASH/madrid_gbfs/gbfs.json",
-      "version": "2.3"
+      "version": "2.3",
+      "url": "https://leo-av.github.io/GBFS/FLASH/madrid_gbfs/gbfs.json"
     }
   ],
   "ttl": 180,
