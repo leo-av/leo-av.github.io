@@ -1,0 +1,20 @@
+{
+  "last_updated": 1732452615,
+  "data": {
+    "vehicle_types": [
+      {
+        "pricing_plans": [
+          "test2_plan_1",
+          "test2_plan_2"
+        ],
+        "vehicle_type_id": "test2_car",
+        "propulsion_type": "combustion",
+        "default_pricing_plan_id": "test2_plan_1",
+        "max_range_meters": 500000,
+        "form_factor": "car"
+      }
+    ]
+  },
+  "ttl": 86400,
+  "version": "2.2"
+}

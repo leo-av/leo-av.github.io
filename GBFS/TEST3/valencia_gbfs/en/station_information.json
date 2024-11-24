@@ -1,0 +1,863 @@
+{
+  "last_updated": 1732452623,
+  "data": {
+    "stations": [
+      {
+        "vehicle_type_ids": [
+          "test3_bike",
+          "test3_electric_bike"
+        ],
+        "station_id": "test3_station_MADRID001",
+        "name": "Station 1",
+        "lon": -3.605144980859755,
+        "lat": 40.379590913698465,
+        "capacity": 40
+      },
+      {
+        "vehicle_type_ids": [
+          "test3_bike",
+          "test3_electric_bike"
+        ],
+        "station_id": "test3_station_MADRID002",
+        "name": "Station 2",
+        "lon": -3.6469096695831014,
+        "lat": 40.32356141890086,
+        "capacity": 41
+      },
+      {
+        "vehicle_type_ids": [
+          "test3_bike",
+          "test3_electric_bike"
+        ],
+        "station_id": "test3_station_MADRID003",
+        "name": "Station 3",
+        "lon": -3.6462563634957132,
+        "lat": 40.36074158322937,
+        "capacity": 14
+      },
+      {
+        "vehicle_type_ids": [
+          "test3_bike"
+        ],
+        "station_id": "test3_station_MADRID004",
+        "name": "Station 4",
+        "lon": -3.6252400104296045,
+        "lat": 40.30237038823023,
+        "capacity": 15
+      },
+      {
+        "vehicle_type_ids": [
+          "test3_bike",
+          "test3_electric_bike"
+        ],
+        "station_id": "test3_station_MADRID005",
+        "name": "Station 5",
+        "lon": -3.6306537524549447,
+        "lat": 40.376635295123606,
+        "capacity": 40
+      },
+      {
+        "vehicle_type_ids": [
+          "test3_bike"
+        ],
+        "station_id": "test3_station_MADRID006",
+        "name": "Station 6",
+        "lon": -3.70219310644963,
+        "lat": 40.34898010976882,
+        "capacity": 13
+      },
+      {
+        "vehicle_type_ids": [
+          "test3_bike",
+          "test3_electric_bike"
+        ],
+        "station_id": "test3_station_MADRID007",
+        "name": "Station 7",
+        "lon": -3.735471000471711,
+        "lat": 40.4801506434429,
+        "capacity": 39
+      },
+      {
+        "vehicle_type_ids": [
+          "test3_bike"
+        ],
+        "station_id": "test3_station_MADRID008",
+        "name": "Station 8",
+        "lon": -3.6287325701947695,
+        "lat": 40.37078955413535,
+        "capacity": 21
+      },
+      {
+        "vehicle_type_ids": [
+          "test3_bike",
+          "test3_electric_bike"
+        ],
+        "station_id": "test3_station_MADRID009",
+        "name": "Station 9",
+        "lon": -3.708323266743438,
+        "lat": 40.476635576343135,
+        "capacity": 26
+      },
+      {
+        "vehicle_type_ids": [
+          "test3_bike"
+        ],
+        "station_id": "test3_station_MADRID010",
+        "name": "Station 10",
+        "lon": -3.6626262914878236,
+        "lat": 40.47423488416265,
+        "capacity": 18
+      },
+      {
+        "vehicle_type_ids": [
+          "test3_bike"
+        ],
+        "station_id": "test3_station_MADRID011",
+        "name": "Station 11",
+        "lon": -3.7123858994157803,
+        "lat": 40.300686760773424,
+        "capacity": 41
+      },
+      {
+        "vehicle_type_ids": [
+          "test3_bike",
+          "test3_electric_bike"
+        ],
+        "station_id": "test3_station_MADRID012",
+        "name": "Station 12",
+        "lon": -3.6595598070181583,
+        "lat": 40.39607432102259,
+        "capacity": 39
+      },
+      {
+        "vehicle_type_ids": [
+          "test3_bike"
+        ],
+        "station_id": "test3_station_MADRID013",
+        "name": "Station 13",
+        "lon": -3.73334926731011,
+        "lat": 40.4808161482433,
+        "capacity": 41
+      },
+      {
+        "vehicle_type_ids": [
+          "test3_bike"
+        ],
+        "station_id": "test3_station_MADRID014",
+        "name": "Station 14",
+        "lon": -3.6713704197027366,
+        "lat": 40.311192350309405,
+        "capacity": 33
+      },
+      {
+        "vehicle_type_ids": [
+          "test3_bike",
+          "test3_electric_bike"
+        ],
+        "station_id": "test3_station_MADRID015",
+        "name": "Station 15",
+        "lon": -3.742259240149044,
+        "lat": 40.33887379267154,
+        "capacity": 10
+      },
+      {
+        "vehicle_type_ids": [
+          "test3_bike"
+        ],
+        "station_id": "test3_station_MADRID016",
+        "name": "Station 16",
+        "lon": -3.6004636101579357,
+        "lat": 40.31686738445141,
+        "capacity": 24
+      },
+      {
+        "vehicle_type_ids": [
+          "test3_bike"
+        ],
+        "station_id": "test3_station_MADRID017",
+        "name": "Station 17",
+        "lon": -3.62091085080537,
+        "lat": 40.42842699847126,
+        "capacity": 38
+      },
+      {
+        "vehicle_type_ids": [
+          "test3_bike",
+          "test3_electric_bike"
+        ],
+        "station_id": "test3_station_MADRID018",
+        "name": "Station 18",
+        "lon": -3.7130550829188036,
+        "lat": 40.43744185542081,
+        "capacity": 36
+      },
+      {
+        "vehicle_type_ids": [
+          "test3_bike"
+        ],
+        "station_id": "test3_station_MADRID019",
+        "name": "Station 19",
+        "lon": -3.6860762077655567,
+        "lat": 40.49114413729401,
+        "capacity": 44
+      },
+      {
+        "vehicle_type_ids": [
+          "test3_bike",
+          "test3_electric_bike"
+        ],
+        "station_id": "test3_station_MADRID020",
+        "name": "Station 20",
+        "lon": -3.7737750066865665,
+        "lat": 40.48970890413113,
+        "capacity": 27
+      },
+      {
+        "vehicle_type_ids": [
+          "test3_bike",
+          "test3_electric_bike"
+        ],
+        "station_id": "test3_station_MADRID021",
+        "name": "Station 21",
+        "lon": -3.7592839557626636,
+        "lat": 40.49341702293365,
+        "capacity": 26
+      },
+      {
+        "vehicle_type_ids": [
+          "test3_bike",
+          "test3_electric_bike"
+        ],
+        "station_id": "test3_station_MADRID022",
+        "name": "Station 22",
+        "lon": -3.7833046335308635,
+        "lat": 40.462343510969305,
+        "capacity": 23
+      },
+      {
+        "vehicle_type_ids": [
+          "test3_bike"
+        ],
+        "station_id": "test3_station_MADRID023",
+        "name": "Station 23",
+        "lon": -3.649618820282883,
+        "lat": 40.44717395490428,
+        "capacity": 49
+      },
+      {
+        "vehicle_type_ids": [
+          "test3_bike"
+        ],
+        "station_id": "test3_station_MADRID024",
+        "name": "Station 24",
+        "lon": -3.672644706251703,
+        "lat": 40.340990061104094,
+        "capacity": 29
+      },
+      {
+        "vehicle_type_ids": [
+          "test3_bike",
+          "test3_electric_bike"
+        ],
+        "station_id": "test3_station_MADRID025",
+        "name": "Station 25",
+        "lon": -3.793193003984346,
+        "lat": 40.47865698446357,
+        "capacity": 34
+      },
+      {
+        "vehicle_type_ids": [
+          "test3_bike"
+        ],
+        "station_id": "test3_station_MADRID026",
+        "name": "Station 26",
+        "lon": -3.616519376458379,
+        "lat": 40.43718192659826,
+        "capacity": 49
+      },
+      {
+        "vehicle_type_ids": [
+          "test3_bike"
+        ],
+        "station_id": "test3_station_MADRID027",
+        "name": "Station 27",
+        "lon": -3.7352989299769614,
+        "lat": 40.40580651411952,
+        "capacity": 22
+      },
+      {
+        "vehicle_type_ids": [
+          "test3_bike"
+        ],
+        "station_id": "test3_station_MADRID028",
+        "name": "Station 28",
+        "lon": -3.6991032581491723,
+        "lat": 40.32149321255515,
+        "capacity": 21
+      },
+      {
+        "vehicle_type_ids": [
+          "test3_bike",
+          "test3_electric_bike"
+        ],
+        "station_id": "test3_station_MADRID029",
+        "name": "Station 29",
+        "lon": -3.776151913645714,
+        "lat": 40.44713468733782,
+        "capacity": 34
+      },
+      {
+        "vehicle_type_ids": [
+          "test3_bike"
+        ],
+        "station_id": "test3_station_MADRID030",
+        "name": "Station 30",
+        "lon": -3.7131530040315193,
+        "lat": 40.320967438504994,
+        "capacity": 25
+      },
+      {
+        "vehicle_type_ids": [
+          "test3_bike",
+          "test3_electric_bike"
+        ],
+        "station_id": "test3_station_MADRID031",
+        "name": "Station 31",
+        "lon": -3.72056418628776,
+        "lat": 40.30027135044543,
+        "capacity": 40
+      },
+      {
+        "vehicle_type_ids": [
+          "test3_bike",
+          "test3_electric_bike"
+        ],
+        "station_id": "test3_station_MADRID032",
+        "name": "Station 32",
+        "lon": -3.6547821678530137,
+        "lat": 40.40406420835635,
+        "capacity": 13
+      },
+      {
+        "vehicle_type_ids": [
+          "test3_bike"
+        ],
+        "station_id": "test3_station_MADRID033",
+        "name": "Station 33",
+        "lon": -3.7834753947804303,
+        "lat": 40.393802808491664,
+        "capacity": 43
+      },
+      {
+        "vehicle_type_ids": [
+          "test3_bike",
+          "test3_electric_bike"
+        ],
+        "station_id": "test3_station_MADRID034",
+        "name": "Station 34",
+        "lon": -3.6372199820542943,
+        "lat": 40.463621816959,
+        "capacity": 33
+      },
+      {
+        "vehicle_type_ids": [
+          "test3_bike",
+          "test3_electric_bike"
+        ],
+        "station_id": "test3_station_MADRID035",
+        "name": "Station 35",
+        "lon": -3.780241525051371,
+        "lat": 40.388039871165766,
+        "capacity": 10
+      },
+      {
+        "vehicle_type_ids": [
+          "test3_bike",
+          "test3_electric_bike"
+        ],
+        "station_id": "test3_station_MADRID036",
+        "name": "Station 36",
+        "lon": -3.7752444423472262,
+        "lat": 40.424532918707826,
+        "capacity": 31
+      },
+      {
+        "vehicle_type_ids": [
+          "test3_bike",
+          "test3_electric_bike"
+        ],
+        "station_id": "test3_station_MADRID037",
+        "name": "Station 37",
+        "lon": -3.761821123456627,
+        "lat": 40.44476763353122,
+        "capacity": 22
+      },
+      {
+        "vehicle_type_ids": [
+          "test3_bike",
+          "test3_electric_bike"
+        ],
+        "station_id": "test3_station_MADRID038",
+        "name": "Station 38",
+        "lon": -3.765508634834788,
+        "lat": 40.38723093586089,
+        "capacity": 47
+      },
+      {
+        "vehicle_type_ids": [
+          "test3_bike",
+          "test3_electric_bike"
+        ],
+        "station_id": "test3_station_MADRID039",
+        "name": "Station 39",
+        "lon": -3.694987315670088,
+        "lat": 40.428040751001355,
+        "capacity": 46
+      },
+      {
+        "vehicle_type_ids": [
+          "test3_bike"
+        ],
+        "station_id": "test3_station_MADRID040",
+        "name": "Station 40",
+        "lon": -3.625240228167419,
+        "lat": 40.3943181885089,
+        "capacity": 24
+      },
+      {
+        "vehicle_type_ids": [
+          "test3_bike"
+        ],
+        "station_id": "test3_station_MADRID041",
+        "name": "Station 41",
+        "lon": -3.7065530617910607,
+        "lat": 40.472264714804986,
+        "capacity": 46
+      },
+      {
+        "vehicle_type_ids": [
+          "test3_bike"
+        ],
+        "station_id": "test3_station_MADRID042",
+        "name": "Station 42",
+        "lon": -3.661968022829386,
+        "lat": 40.33374198455722,
+        "capacity": 40
+      },
+      {
+        "vehicle_type_ids": [
+          "test3_bike",
+          "test3_electric_bike"
+        ],
+        "station_id": "test3_station_MADRID043",
+        "name": "Station 43",
+        "lon": -3.6440680927687747,
+        "lat": 40.35409134233728,
+        "capacity": 48
+      },
+      {
+        "vehicle_type_ids": [
+          "test3_bike",
+          "test3_electric_bike"
+        ],
+        "station_id": "test3_station_MADRID044",
+        "name": "Station 44",
+        "lon": -3.7798204163633753,
+        "lat": 40.31022386849545,
+        "capacity": 49
+      },
+      {
+        "vehicle_type_ids": [
+          "test3_bike"
+        ],
+        "station_id": "test3_station_MADRID045",
+        "name": "Station 45",
+        "lon": -3.6048959304252026,
+        "lat": 40.43437532801635,
+        "capacity": 19
+      },
+      {
+        "vehicle_type_ids": [
+          "test3_bike",
+          "test3_electric_bike"
+        ],
+        "station_id": "test3_station_MADRID046",
+        "name": "Station 46",
+        "lon": -3.6239787626702946,
+        "lat": 40.30392829124249,
+        "capacity": 36
+      },
+      {
+        "vehicle_type_ids": [
+          "test3_bike"
+        ],
+        "station_id": "test3_station_MADRID047",
+        "name": "Station 47",
+        "lon": -3.6680003718884855,
+        "lat": 40.35828413381674,
+        "capacity": 32
+      },
+      {
+        "vehicle_type_ids": [
+          "test3_bike"
+        ],
+        "station_id": "test3_station_MADRID048",
+        "name": "Station 48",
+        "lon": -3.7051082729125184,
+        "lat": 40.35275278098966,
+        "capacity": 34
+      },
+      {
+        "vehicle_type_ids": [
+          "test3_bike"
+        ],
+        "station_id": "test3_station_MADRID049",
+        "name": "Station 49",
+        "lon": -3.760780451506835,
+        "lat": 40.387695377304524,
+        "capacity": 42
+      },
+      {
+        "vehicle_type_ids": [
+          "test3_bike",
+          "test3_electric_bike"
+        ],
+        "station_id": "test3_station_MADRID050",
+        "name": "Station 50",
+        "lon": -3.7017102213137725,
+        "lat": 40.43764001679019,
+        "capacity": 13
+      },
+      {
+        "vehicle_type_ids": [
+          "test3_bike",
+          "test3_electric_bike"
+        ],
+        "station_id": "test3_station_MADRID051",
+        "name": "Station 51",
+        "lon": -3.605132876673893,
+        "lat": 40.42170001979571,
+        "capacity": 13
+      },
+      {
+        "vehicle_type_ids": [
+          "test3_bike"
+        ],
+        "station_id": "test3_station_MADRID052",
+        "name": "Station 52",
+        "lon": -3.6226462876074472,
+        "lat": 40.49883585569931,
+        "capacity": 14
+      },
+      {
+        "vehicle_type_ids": [
+          "test3_bike",
+          "test3_electric_bike"
+        ],
+        "station_id": "test3_station_MADRID053",
+        "name": "Station 53",
+        "lon": -3.726458731804449,
+        "lat": 40.379176253285216,
+        "capacity": 47
+      },
+      {
+        "vehicle_type_ids": [
+          "test3_bike"
+        ],
+        "station_id": "test3_station_MADRID054",
+        "name": "Station 54",
+        "lon": -3.6275086423906147,
+        "lat": 40.37930440419976,
+        "capacity": 16
+      },
+      {
+        "vehicle_type_ids": [
+          "test3_bike"
+        ],
+        "station_id": "test3_station_MADRID055",
+        "name": "Station 55",
+        "lon": -3.756059069259254,
+        "lat": 40.3722030826061,
+        "capacity": 26
+      },
+      {
+        "vehicle_type_ids": [
+          "test3_bike"
+        ],
+        "station_id": "test3_station_MADRID056",
+        "name": "Station 56",
+        "lon": -3.7926027336848684,
+        "lat": 40.47819396505473,
+        "capacity": 10
+      },
+      {
+        "vehicle_type_ids": [
+          "test3_bike",
+          "test3_electric_bike"
+        ],
+        "station_id": "test3_station_MADRID057",
+        "name": "Station 57",
+        "lon": -3.7063988089109206,
+        "lat": 40.3001149501136,
+        "capacity": 36
+      },
+      {
+        "vehicle_type_ids": [
+          "test3_bike",
+          "test3_electric_bike"
+        ],
+        "station_id": "test3_station_MADRID058",
+        "name": "Station 58",
+        "lon": -3.6092529540977334,
+        "lat": 40.335334458170635,
+        "capacity": 43
+      },
+      {
+        "vehicle_type_ids": [
+          "test3_bike"
+        ],
+        "station_id": "test3_station_MADRID059",
+        "name": "Station 59",
+        "lon": -3.710802611262351,
+        "lat": 40.31020432851562,
+        "capacity": 13
+      },
+      {
+        "vehicle_type_ids": [
+          "test3_bike"
+        ],
+        "station_id": "test3_station_MADRID060",
+        "name": "Station 60",
+        "lon": -3.7837394861665623,
+        "lat": 40.47462030041088,
+        "capacity": 39
+      },
+      {
+        "vehicle_type_ids": [
+          "test3_bike",
+          "test3_electric_bike"
+        ],
+        "station_id": "test3_station_MADRID061",
+        "name": "Station 61",
+        "lon": -3.77064709055946,
+        "lat": 40.480778466409475,
+        "capacity": 39
+      },
+      {
+        "vehicle_type_ids": [
+          "test3_bike",
+          "test3_electric_bike"
+        ],
+        "station_id": "test3_station_MADRID062",
+        "name": "Station 62",
+        "lon": -3.639857296922726,
+        "lat": 40.46155031673039,
+        "capacity": 22
+      },
+      {
+        "vehicle_type_ids": [
+          "test3_bike"
+        ],
+        "station_id": "test3_station_MADRID063",
+        "name": "Station 63",
+        "lon": -3.686023093261643,
+        "lat": 40.32316459213669,
+        "capacity": 44
+      },
+      {
+        "vehicle_type_ids": [
+          "test3_bike",
+          "test3_electric_bike"
+        ],
+        "station_id": "test3_station_MADRID064",
+        "name": "Station 64",
+        "lon": -3.7119099150209904,
+        "lat": 40.41429144814879,
+        "capacity": 28
+      },
+      {
+        "vehicle_type_ids": [
+          "test3_bike",
+          "test3_electric_bike"
+        ],
+        "station_id": "test3_station_MADRID065",
+        "name": "Station 65",
+        "lon": -3.7177770884716796,
+        "lat": 40.31840555319774,
+        "capacity": 24
+      },
+      {
+        "vehicle_type_ids": [
+          "test3_bike",
+          "test3_electric_bike"
+        ],
+        "station_id": "test3_station_MADRID066",
+        "name": "Station 66",
+        "lon": -3.654591264008424,
+        "lat": 40.418912926914224,
+        "capacity": 27
+      },
+      {
+        "vehicle_type_ids": [
+          "test3_bike",
+          "test3_electric_bike"
+        ],
+        "station_id": "test3_station_MADRID067",
+        "name": "Station 67",
+        "lon": -3.7630440230763234,
+        "lat": 40.40823975501603,
+        "capacity": 15
+      },
+      {
+        "vehicle_type_ids": [
+          "test3_bike"
+        ],
+        "station_id": "test3_station_MADRID068",
+        "name": "Station 68",
+        "lon": -3.72397288458616,
+        "lat": 40.492785621462296,
+        "capacity": 13
+      },
+      {
+        "vehicle_type_ids": [
+          "test3_bike",
+          "test3_electric_bike"
+        ],
+        "station_id": "test3_station_MADRID069",
+        "name": "Station 69",
+        "lon": -3.7617225583906118,
+        "lat": 40.364336392423,
+        "capacity": 17
+      },
+      {
+        "vehicle_type_ids": [
+          "test3_bike"
+        ],
+        "station_id": "test3_station_MADRID070",
+        "name": "Station 70",
+        "lon": -3.728631370051949,
+        "lat": 40.4048148151068,
+        "capacity": 38
+      },
+      {
+        "vehicle_type_ids": [
+          "test3_bike"
+        ],
+        "station_id": "test3_station_MADRID071",
+        "name": "Station 71",
+        "lon": -3.792309749979212,
+        "lat": 40.43985410989765,
+        "capacity": 42
+      },
+      {
+        "vehicle_type_ids": [
+          "test3_bike",
+          "test3_electric_bike"
+        ],
+        "station_id": "test3_station_MADRID072",
+        "name": "Station 72",
+        "lon": -3.7803759489122264,
+        "lat": 40.370806812196065,
+        "capacity": 23
+      },
+      {
+        "vehicle_type_ids": [
+          "test3_bike"
+        ],
+        "station_id": "test3_station_MADRID073",
+        "name": "Station 73",
+        "lon": -3.782222760989304,
+        "lat": 40.44777887689805,
+        "capacity": 29
+      },
+      {
+        "vehicle_type_ids": [
+          "test3_bike"
+        ],
+        "station_id": "test3_station_MADRID074",
+        "name": "Station 74",
+        "lon": -3.749249098634784,
+        "lat": 40.30486819386903,
+        "capacity": 15
+      },
+      {
+        "vehicle_type_ids": [
+          "test3_bike",
+          "test3_electric_bike"
+        ],
+        "station_id": "test3_station_MADRID075",
+        "name": "Station 75",
+        "lon": -3.635932729108904,
+        "lat": 40.45512062549437,
+        "capacity": 32
+      },
+      {
+        "vehicle_type_ids": [
+          "test3_bike",
+          "test3_electric_bike"
+        ],
+        "station_id": "test3_station_MADRID076",
+        "name": "Station 76",
+        "lon": -3.647278195722067,
+        "lat": 40.415684024994015,
+        "capacity": 18
+      },
+      {
+        "vehicle_type_ids": [
+          "test3_bike",
+          "test3_electric_bike"
+        ],
+        "station_id": "test3_station_MADRID077",
+        "name": "Station 77",
+        "lon": -3.6752874565194973,
+        "lat": 40.38422771405757,
+        "capacity": 43
+      },
+      {
+        "vehicle_type_ids": [
+          "test3_bike",
+          "test3_electric_bike"
+        ],
+        "station_id": "test3_station_MADRID078",
+        "name": "Station 78",
+        "lon": -3.620283337079156,
+        "lat": 40.41657590894635,
+        "capacity": 35
+      },
+      {
+        "vehicle_type_ids": [
+          "test3_bike",
+          "test3_electric_bike"
+        ],
+        "station_id": "test3_station_MADRID079",
+        "name": "Station 79",
+        "lon": -3.6572971577394795,
+        "lat": 40.484909550687604,
+        "capacity": 17
+      },
+      {
+        "vehicle_type_ids": [
+          "test3_bike",
+          "test3_electric_bike"
+        ],
+        "station_id": "test3_station_MADRID080",
+        "name": "Station 80",
+        "lon": -3.74795020985907,
+        "lat": 40.481534888577436,
+        "capacity": 38
+      },
+      {
+        "vehicle_type_ids": [
+          "test3_bike"
+        ],
+        "station_id": "test3_station_MADRID081",
+        "name": "Station 81",
+        "lon": -3.7680186227912924,
+        "lat": 40.40581069429576,
+        "capacity": 33
+      }
+    ]
+  },
+  "ttl": 180,
+  "version": "2.2"
+}
