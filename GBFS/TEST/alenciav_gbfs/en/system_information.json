@@ -1,0 +1,20 @@
+{
+  "last_updated": 1732446932,
+  "data": {
+    "timezone": "2010-06-10",
+    "system_id": "test",
+    "purchase_url": "https://www.exampleride.org",
+    "language": "en",
+    "operator": "TEST",
+    "url": "http://www.exampleride.org",
+    "name": "TEST",
+    "phone_number": "666777888",
+    "short_name": "test",
+    "feed_contact_email": "datafeed@test.es",
+    "license_url": "https://exampleride.org/data-license.html",
+    "email": "customerservice@test.es",
+    "start_date": "2010-06-10"
+  },
+  "ttl": 180,
+  "version": "2.2"
+}
