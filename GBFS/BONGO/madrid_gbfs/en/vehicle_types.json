@@ -1,5 +1,5 @@
 {
-  "last_updated": 1732468200,
+  "last_updated": 1732819783,
   "data": {
     "vehicle_types": [
       {
@@ -8,9 +8,9 @@
           "bongo_plan_2"
         ],
         "vehicle_type_id": "bongo_motorbike",
-        "propulsion_type": "combustion",
+        "propulsion_type": "electric",
         "default_pricing_plan_id": "bongo_plan_1",
-        "max_range_meters": 250000,
+        "max_range_meters": 200000,
         "form_factor": "moped"
       },
       {

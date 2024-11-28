@@ -1,15 +1,15 @@
 {
-  "last_updated": 1732468103,
+  "last_updated": 1732819783,
   "data": {
     "plans": [
       {
-        "price": 0.95,
+        "price": 1.65,
         "name": "Simple rate",
-        "description": "0.85 € per kilometer",
+        "description": "1.45 € per kilometer",
         "currency": "EUR",
         "per_km_pricing": [
           {
-            "rate": 0.85,
+            "rate": 1.45,
             "start": 0,
             "interval": 1
           }
@@ -18,28 +18,28 @@
         "is_taxable": false
       },
       {
-        "price": 2.75,
+        "price": 3.9,
         "name": "One-Way",
-        "description": "Includes 25km, overage fees apply after 25km",
+        "description": "Includes 29km, overage fees apply after 29km",
         "currency": "EUR",
         "per_km_pricing": [
           {
-            "rate": 1.5,
-            "start": 25,
+            "rate": 1.65,
+            "start": 29,
             "interval": 1,
-            "end": 53
+            "end": 56
           },
           {
-            "rate": 0.7,
-            "start": 53,
+            "rate": 0.8,
+            "start": 56,
             "interval": 1,
-            "end": 80
+            "end": 83
           },
           {
-            "rate": 6.85,
-            "start": 80,
+            "rate": 3.1,
+            "start": 83,
             "interval": 5,
-            "end": 105
+            "end": 109
           }
         ],
         "plan_id": "penguin_plan_2",
@@ -48,18 +48,18 @@
       {
         "per_min_pricing": [
           {
-            "rate": 1.05,
+            "rate": 1.45,
             "start": 0,
             "interval": 1
           }
         ],
-        "price": 2.5,
+        "price": 2.1,
         "name": "Simple rate",
-        "description": "2.50 € unlock fee, 1.45 € per kilometer and 1.05 € per minute.",
+        "description": "2.10 € unlock fee, 1.15 € per kilometer and 1.45 € per minute.",
         "currency": "EUR",
         "per_km_pricing": [
           {
-            "rate": 1.45,
+            "rate": 1.15,
             "start": 0,
             "interval": 1
           }

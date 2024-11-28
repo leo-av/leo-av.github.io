@@ -3,68 +3,68 @@
   "data": {
     "plans": [
       {
-        "price": 1.5,
+        "price": 1.55,
         "name": "Simple rate",
-        "description": "1.90 € per kilometer",
+        "description": "2.35 € per kilometer",
         "currency": "EUR",
         "per_km_pricing": [
           {
-            "rate": 1.9,
+            "rate": 2.35,
             "start": 0,
             "interval": 1
           }
         ],
-        "plan_id": "flash_plan_1",
+        "plan_id": "bicimood_plan_1",
         "is_taxable": false
       },
       {
-        "price": 1.95,
+        "price": 2.65,
         "name": "One-Way",
         "description": "Includes 25km, overage fees apply after 25km",
         "currency": "EUR",
         "per_km_pricing": [
           {
-            "rate": 1.65,
+            "rate": 1.9,
             "start": 25,
             "interval": 1,
-            "end": 50
+            "end": 53
           },
           {
-            "rate": 0.9,
-            "start": 50,
+            "rate": 0.75,
+            "start": 53,
             "interval": 1,
-            "end": 77
+            "end": 79
           },
           {
-            "rate": 4.6,
-            "start": 77,
+            "rate": 6.9,
+            "start": 79,
             "interval": 5,
-            "end": 106
+            "end": 108
           }
         ],
-        "plan_id": "flash_plan_2",
+        "plan_id": "bicimood_plan_2",
         "is_taxable": false
       },
       {
         "per_min_pricing": [
           {
-            "rate": 0.65,
+            "rate": 0.7,
             "start": 0,
             "interval": 1
           }
         ],
-        "price": 2.8,
+        "price": 2.25,
         "name": "Simple rate",
-        "description": "2.80 € unlock fee, 1.10 € per kilometer and 0.65 € per minute.",
+        "description": "2.25 € unlock fee, 1.05 € per kilometer and 0.70 € per minute.",
         "currency": "EUR",
         "per_km_pricing": [
           {
-            "rate": 1.1,
+            "rate": 1.05,
             "start": 0,
             "interval": 1
           }
         ],
-        "plan_id": "flash_plan_3",
+        "plan_id": "bicimood_plan_3",
         "is_taxable": true
       }
     ]

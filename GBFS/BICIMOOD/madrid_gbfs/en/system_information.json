@@ -1,16 +1,16 @@
 {
   "last_updated": 1732819783,
   "data": {
-    "system_id": "bongo",
+    "system_id": "bicimood",
     "timezone": "Europe/Paris",
-    "name": "BONGO",
+    "name": "BICIMOOD",
     "language": "en",
-    "short_name": "BONGO",
+    "short_name": "BICIMOOD",
     "phone_number": "666777888",
-    "feed_contact_email": "datafeed@bongo.es",
-    "operator": "BONGO",
+    "feed_contact_email": "datafeed@bicimood.es",
+    "operator": "BICIMOOD",
     "url": "http://www.exampleride.org",
-    "email": "customerservice@bongo.es",
+    "email": "customerservice@bicimood.es",
     "license_url": "https://exampleride.org/data-license.html",
     "start_date": "2010-06-10"
   },

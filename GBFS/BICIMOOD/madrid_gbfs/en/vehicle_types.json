@@ -4,22 +4,22 @@
     "vehicle_types": [
       {
         "pricing_plans": [
-          "free_streets_plan_1",
-          "free_streets_plan_3"
+          "bicimood_plan_1",
+          "bicimood_plan_3"
         ],
-        "vehicle_type_id": "free_streets_bike",
+        "vehicle_type_id": "bicimood_bike",
         "propulsion_type": "human",
-        "default_pricing_plan_id": "free_streets_plan_1",
+        "default_pricing_plan_id": "bicimood_plan_1",
         "form_factor": "bicycle"
       },
       {
         "pricing_plans": [
-          "free_streets_plan_1",
-          "free_streets_plan_3"
+          "bicimood_plan_1",
+          "bicimood_plan_3"
         ],
-        "vehicle_type_id": "free_streets_electric_bike",
+        "vehicle_type_id": "bicimood_electric_bike",
         "propulsion_type": "electric",
-        "default_pricing_plan_id": "free_streets_plan_1",
+        "default_pricing_plan_id": "bicimood_plan_1",
         "max_range_meters": 75000,
         "form_factor": "bicycle"
       }

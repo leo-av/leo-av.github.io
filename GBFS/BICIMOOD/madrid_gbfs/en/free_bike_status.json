@@ -1,0 +1,3687 @@
+{
+  "last_updated": 1732819783,
+  "data": {
+    "bikes": [
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.7561285134051134,
+        "bike_id": "bicimood_MADRID001",
+        "lat": 40.30631717056992,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 22526,
+        "lon": -3.7404341008958566,
+        "bike_id": "bicimood_MADRID002",
+        "lat": 40.47832141234382,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.788874676999206,
+        "bike_id": "bicimood_MADRID003",
+        "lat": 40.42299398198009,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.6882663313664135,
+        "bike_id": "bicimood_MADRID004",
+        "lat": 40.49185212264489,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 55819,
+        "lon": -3.6352411365929402,
+        "bike_id": "bicimood_MADRID005",
+        "lat": 40.375103232532155,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 53328,
+        "lon": -3.6849299177051735,
+        "bike_id": "bicimood_MADRID006",
+        "lat": 40.37442440172414,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 48519,
+        "lon": -3.640599724803824,
+        "bike_id": "bicimood_MADRID007",
+        "lat": 40.48034169643878,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.7540787716456436,
+        "bike_id": "bicimood_MADRID008",
+        "lat": 40.375898972776156,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.6185474774431134,
+        "bike_id": "bicimood_MADRID009",
+        "lat": 40.3229024922097,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.626049240829351,
+        "bike_id": "bicimood_MADRID010",
+        "lat": 40.383898970676775,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 53572,
+        "lon": -3.6395448442203424,
+        "bike_id": "bicimood_MADRID011",
+        "lat": 40.32215782139574,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.725574809260598,
+        "bike_id": "bicimood_MADRID012",
+        "lat": 40.376703485433495,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 49352,
+        "lon": -3.6623994881604442,
+        "bike_id": "bicimood_MADRID013",
+        "lat": 40.3078524268282,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 61818,
+        "lon": -3.6663421263205342,
+        "bike_id": "bicimood_MADRID014",
+        "lat": 40.40463933143147,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.629337052450378,
+        "bike_id": "bicimood_MADRID015",
+        "lat": 40.41045365650233,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 45159,
+        "lon": -3.6310970251114187,
+        "bike_id": "bicimood_MADRID016",
+        "lat": 40.498783665557006,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 77005,
+        "lon": -3.712935663810152,
+        "bike_id": "bicimood_MADRID017",
+        "lat": 40.362979729759125,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.605566661932342,
+        "bike_id": "bicimood_MADRID018",
+        "lat": 40.37385631015961,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 68574,
+        "lon": -3.603018224145372,
+        "bike_id": "bicimood_MADRID019",
+        "lat": 40.33706617693021,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 16127,
+        "lon": -3.6682207946261096,
+        "bike_id": "bicimood_MADRID020",
+        "lat": 40.37516913373474,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 21558,
+        "lon": -3.6441504267404756,
+        "bike_id": "bicimood_MADRID021",
+        "lat": 40.370265805493005,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.725903471738642,
+        "bike_id": "bicimood_MADRID022",
+        "lat": 40.39890207088755,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.795584877225486,
+        "bike_id": "bicimood_MADRID023",
+        "lat": 40.486166847859316,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 28699,
+        "lon": -3.724653469885594,
+        "bike_id": "bicimood_MADRID024",
+        "lat": 40.393035402416295,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.7764208391060756,
+        "bike_id": "bicimood_MADRID025",
+        "lat": 40.34699916053267,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 11709,
+        "lon": -3.681827340108836,
+        "bike_id": "bicimood_MADRID026",
+        "lat": 40.499553310613386,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.7625998409897936,
+        "bike_id": "bicimood_MADRID027",
+        "lat": 40.360819690214115,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 26359,
+        "lon": -3.603043335800291,
+        "bike_id": "bicimood_MADRID028",
+        "lat": 40.38637831783349,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 54079,
+        "lon": -3.6437656956891202,
+        "bike_id": "bicimood_MADRID029",
+        "lat": 40.358463885474634,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 49005,
+        "lon": -3.790240320995224,
+        "bike_id": "bicimood_MADRID030",
+        "lat": 40.4136838166235,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.7012161654616786,
+        "bike_id": "bicimood_MADRID031",
+        "lat": 40.391865491243884,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.7614875454368364,
+        "bike_id": "bicimood_MADRID032",
+        "lat": 40.342723542963164,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 64656,
+        "lon": -3.6895274575004806,
+        "bike_id": "bicimood_MADRID033",
+        "lat": 40.417390429464,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.7106915416994473,
+        "bike_id": "bicimood_MADRID034",
+        "lat": 40.4144914747786,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 33573,
+        "lon": -3.6839970723785607,
+        "bike_id": "bicimood_MADRID035",
+        "lat": 40.484005367570425,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 18591,
+        "lon": -3.766701701093486,
+        "bike_id": "bicimood_MADRID036",
+        "lat": 40.41329814102544,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 37257,
+        "lon": -3.678057379758596,
+        "bike_id": "bicimood_MADRID037",
+        "lat": 40.33073478114956,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.623337576946877,
+        "bike_id": "bicimood_MADRID038",
+        "lat": 40.35115853481784,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 78561,
+        "lon": -3.6798693571294274,
+        "bike_id": "bicimood_MADRID039",
+        "lat": 40.376595350633345,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.7525044042895033,
+        "bike_id": "bicimood_MADRID040",
+        "lat": 40.40849645677294,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 65446,
+        "lon": -3.650896611628621,
+        "bike_id": "bicimood_MADRID041",
+        "lat": 40.451116351055354,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.6688179516368193,
+        "bike_id": "bicimood_MADRID042",
+        "lat": 40.46810098814953,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 19139,
+        "lon": -3.631214802069429,
+        "bike_id": "bicimood_MADRID043",
+        "lat": 40.46276141318653,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.7831174776870604,
+        "bike_id": "bicimood_MADRID044",
+        "lat": 40.32821498289254,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 8664,
+        "lon": -3.7136363785457203,
+        "bike_id": "bicimood_MADRID045",
+        "lat": 40.35535829201064,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 39711,
+        "lon": -3.751912012758999,
+        "bike_id": "bicimood_MADRID046",
+        "lat": 40.468466328590296,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 20531,
+        "lon": -3.615577820009862,
+        "bike_id": "bicimood_MADRID047",
+        "lat": 40.33084153348969,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.630166200813571,
+        "bike_id": "bicimood_MADRID048",
+        "lat": 40.436966749260314,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 29030,
+        "lon": -3.699237302041165,
+        "bike_id": "bicimood_MADRID049",
+        "lat": 40.37505363175228,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.679840049109446,
+        "bike_id": "bicimood_MADRID050",
+        "lat": 40.38970626429125,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 26254,
+        "lon": -3.6591868825113463,
+        "bike_id": "bicimood_MADRID051",
+        "lat": 40.38073803905689,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 19168,
+        "lon": -3.6671296559361073,
+        "bike_id": "bicimood_MADRID052",
+        "lat": 40.460107269737044,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 52367,
+        "lon": -3.7994801317874125,
+        "bike_id": "bicimood_MADRID053",
+        "lat": 40.340203978620174,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 27715,
+        "lon": -3.7696913297897585,
+        "bike_id": "bicimood_MADRID054",
+        "lat": 40.36068640836738,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.6232981244381373,
+        "bike_id": "bicimood_MADRID055",
+        "lat": 40.49995557015208,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.6651590038184154,
+        "bike_id": "bicimood_MADRID056",
+        "lat": 40.44409052883993,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 69701,
+        "lon": -3.6994428692351184,
+        "bike_id": "bicimood_MADRID057",
+        "lat": 40.43407621726607,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 39432,
+        "lon": -3.6010862124384855,
+        "bike_id": "bicimood_MADRID058",
+        "lat": 40.44006979491303,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 53522,
+        "lon": -3.7795140779604592,
+        "bike_id": "bicimood_MADRID059",
+        "lat": 40.37122218151427,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 6222,
+        "lon": -3.618714442682832,
+        "bike_id": "bicimood_MADRID060",
+        "lat": 40.36507686498926,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.724229398762361,
+        "bike_id": "bicimood_MADRID061",
+        "lat": 40.37574163985214,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 20611,
+        "lon": -3.7043882012026113,
+        "bike_id": "bicimood_MADRID062",
+        "lat": 40.421905185759925,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.6638411639666577,
+        "bike_id": "bicimood_MADRID063",
+        "lat": 40.42177965379701,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 26700,
+        "lon": -3.6509261530581925,
+        "bike_id": "bicimood_MADRID064",
+        "lat": 40.32982927901618,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.6271573326620428,
+        "bike_id": "bicimood_MADRID065",
+        "lat": 40.40162139079672,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.6929858148410757,
+        "bike_id": "bicimood_MADRID066",
+        "lat": 40.361030165194876,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.6518083104974344,
+        "bike_id": "bicimood_MADRID067",
+        "lat": 40.346560700716104,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 21411,
+        "lon": -3.787984922613917,
+        "bike_id": "bicimood_MADRID068",
+        "lat": 40.30114652086133,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.6711234566104487,
+        "bike_id": "bicimood_MADRID069",
+        "lat": 40.42739833098836,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.6696817633339642,
+        "bike_id": "bicimood_MADRID070",
+        "lat": 40.406850049332036,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 29701,
+        "lon": -3.6241308661824925,
+        "bike_id": "bicimood_MADRID071",
+        "lat": 40.47571843421657,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 13765,
+        "lon": -3.753452505110654,
+        "bike_id": "bicimood_MADRID072",
+        "lat": 40.33911214292302,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 20487,
+        "lon": -3.611119354037723,
+        "bike_id": "bicimood_MADRID073",
+        "lat": 40.45828675129666,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.7068150019958366,
+        "bike_id": "bicimood_MADRID074",
+        "lat": 40.34376107692353,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 34356,
+        "lon": -3.765883688853245,
+        "bike_id": "bicimood_MADRID075",
+        "lat": 40.43845297255523,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.715472147988752,
+        "bike_id": "bicimood_MADRID076",
+        "lat": 40.302417126688376,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.769708264216973,
+        "bike_id": "bicimood_MADRID077",
+        "lat": 40.47125863149611,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 66652,
+        "lon": -3.6115100644649454,
+        "bike_id": "bicimood_MADRID078",
+        "lat": 40.43222762001425,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 8005,
+        "lon": -3.717081346015767,
+        "bike_id": "bicimood_MADRID079",
+        "lat": 40.399954817288176,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 11324,
+        "lon": -3.758842961018847,
+        "bike_id": "bicimood_MADRID080",
+        "lat": 40.48885837045217,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.6586733267890676,
+        "bike_id": "bicimood_MADRID081",
+        "lat": 40.32239363834475,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.626565928880812,
+        "bike_id": "bicimood_MADRID082",
+        "lat": 40.42575315960924,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 28785,
+        "lon": -3.650621909191753,
+        "bike_id": "bicimood_MADRID083",
+        "lat": 40.43908623047333,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 50493,
+        "lon": -3.7299943519327017,
+        "bike_id": "bicimood_MADRID084",
+        "lat": 40.40981311970909,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.796481634185779,
+        "bike_id": "bicimood_MADRID085",
+        "lat": 40.47878593515916,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.7713499850275376,
+        "bike_id": "bicimood_MADRID086",
+        "lat": 40.35551956519655,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.7210048630362587,
+        "bike_id": "bicimood_MADRID087",
+        "lat": 40.497474545454835,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 54362,
+        "lon": -3.7917381219391353,
+        "bike_id": "bicimood_MADRID088",
+        "lat": 40.4132678538108,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.619571304887909,
+        "bike_id": "bicimood_MADRID089",
+        "lat": 40.31349329373862,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 13198,
+        "lon": -3.7792719556676646,
+        "bike_id": "bicimood_MADRID090",
+        "lat": 40.46672370893515,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 58368,
+        "lon": -3.711931236832939,
+        "bike_id": "bicimood_MADRID091",
+        "lat": 40.44798187581285,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 61337,
+        "lon": -3.7526170919992903,
+        "bike_id": "bicimood_MADRID092",
+        "lat": 40.394604926074194,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 10081,
+        "lon": -3.79411039192697,
+        "bike_id": "bicimood_MADRID093",
+        "lat": 40.49657666010329,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.6964444831123724,
+        "bike_id": "bicimood_MADRID094",
+        "lat": 40.45541728692853,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 34200,
+        "lon": -3.721465897548554,
+        "bike_id": "bicimood_MADRID095",
+        "lat": 40.40950314317823,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 21280,
+        "lon": -3.661914206271012,
+        "bike_id": "bicimood_MADRID096",
+        "lat": 40.31863620413171,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.657773190319247,
+        "bike_id": "bicimood_MADRID097",
+        "lat": 40.41791296536835,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.7384133339626597,
+        "bike_id": "bicimood_MADRID098",
+        "lat": 40.35653111539067,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.6226354169147306,
+        "bike_id": "bicimood_MADRID099",
+        "lat": 40.45486272845197,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.7401641229145497,
+        "bike_id": "bicimood_MADRID100",
+        "lat": 40.37464771678673,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 25541,
+        "lon": -3.760625304402996,
+        "bike_id": "bicimood_MADRID101",
+        "lat": 40.44094256310264,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 52288,
+        "lon": -3.700394178179371,
+        "bike_id": "bicimood_MADRID102",
+        "lat": 40.32070253762034,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.6519091797681336,
+        "bike_id": "bicimood_MADRID103",
+        "lat": 40.33163254898629,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.6638994392366966,
+        "bike_id": "bicimood_MADRID104",
+        "lat": 40.448045626262825,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 17562,
+        "lon": -3.6329905884993448,
+        "bike_id": "bicimood_MADRID105",
+        "lat": 40.49912228560416,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.6195199527454487,
+        "bike_id": "bicimood_MADRID106",
+        "lat": 40.483778476320595,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 23399,
+        "lon": -3.631996863269827,
+        "bike_id": "bicimood_MADRID107",
+        "lat": 40.48279903396586,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 39610,
+        "lon": -3.725866522860912,
+        "bike_id": "bicimood_MADRID108",
+        "lat": 40.339555281686486,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.707843455278716,
+        "bike_id": "bicimood_MADRID109",
+        "lat": 40.43919415085888,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 63570,
+        "lon": -3.693839209179165,
+        "bike_id": "bicimood_MADRID110",
+        "lat": 40.36934612848813,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.7272472071659593,
+        "bike_id": "bicimood_MADRID111",
+        "lat": 40.341328384644974,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.6628038926583018,
+        "bike_id": "bicimood_MADRID112",
+        "lat": 40.33089958971722,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 11401,
+        "lon": -3.7023411061583804,
+        "bike_id": "bicimood_MADRID113",
+        "lat": 40.49289440030564,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.614713747984564,
+        "bike_id": "bicimood_MADRID114",
+        "lat": 40.36591002044252,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 70335,
+        "lon": -3.674963729638396,
+        "bike_id": "bicimood_MADRID115",
+        "lat": 40.43641202380452,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 46309,
+        "lon": -3.770210655691597,
+        "bike_id": "bicimood_MADRID116",
+        "lat": 40.317082348709725,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.630136851671473,
+        "bike_id": "bicimood_MADRID117",
+        "lat": 40.3077497546018,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.622698135064064,
+        "bike_id": "bicimood_MADRID118",
+        "lat": 40.439160995499854,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.7962040300106503,
+        "bike_id": "bicimood_MADRID119",
+        "lat": 40.4140639968174,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.733903956168801,
+        "bike_id": "bicimood_MADRID120",
+        "lat": 40.41007365021154,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 14121,
+        "lon": -3.6916628043477884,
+        "bike_id": "bicimood_MADRID121",
+        "lat": 40.31452269742247,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.75801960164726,
+        "bike_id": "bicimood_MADRID122",
+        "lat": 40.33966482041218,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.7407328664290915,
+        "bike_id": "bicimood_MADRID123",
+        "lat": 40.41542144180535,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.606219135529191,
+        "bike_id": "bicimood_MADRID124",
+        "lat": 40.40014627453189,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 5334,
+        "lon": -3.6101130877629335,
+        "bike_id": "bicimood_MADRID125",
+        "lat": 40.394057036336214,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.747918090317477,
+        "bike_id": "bicimood_MADRID126",
+        "lat": 40.32732147897314,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.7457189051036175,
+        "bike_id": "bicimood_MADRID127",
+        "lat": 40.3843204561283,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.7351691641618157,
+        "bike_id": "bicimood_MADRID128",
+        "lat": 40.42801117370397,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.793028395827526,
+        "bike_id": "bicimood_MADRID129",
+        "lat": 40.42237869368905,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 69379,
+        "lon": -3.6491306576433957,
+        "bike_id": "bicimood_MADRID130",
+        "lat": 40.461064068910915,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 49305,
+        "lon": -3.7788397924915897,
+        "bike_id": "bicimood_MADRID131",
+        "lat": 40.473087623138476,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 8784,
+        "lon": -3.6495400512706504,
+        "bike_id": "bicimood_MADRID132",
+        "lat": 40.37138620979795,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 73543,
+        "lon": -3.7961898054723857,
+        "bike_id": "bicimood_MADRID133",
+        "lat": 40.44533852390618,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.6904008837632962,
+        "bike_id": "bicimood_MADRID134",
+        "lat": 40.357292500847514,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 11607,
+        "lon": -3.6317606397572373,
+        "bike_id": "bicimood_MADRID135",
+        "lat": 40.441988780458864,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 38119,
+        "lon": -3.7842364849602355,
+        "bike_id": "bicimood_MADRID136",
+        "lat": 40.3437317269158,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 62602,
+        "lon": -3.7296165938727155,
+        "bike_id": "bicimood_MADRID137",
+        "lat": 40.3846762412158,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.641671867928197,
+        "bike_id": "bicimood_MADRID138",
+        "lat": 40.491017928127334,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.7382042484711326,
+        "bike_id": "bicimood_MADRID139",
+        "lat": 40.390241584874886,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 47373,
+        "lon": -3.67109508048878,
+        "bike_id": "bicimood_MADRID140",
+        "lat": 40.449712639789,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.7349763911946785,
+        "bike_id": "bicimood_MADRID141",
+        "lat": 40.42782138190312,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.693904077775919,
+        "bike_id": "bicimood_MADRID142",
+        "lat": 40.376815547812505,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.7269687235798865,
+        "bike_id": "bicimood_MADRID143",
+        "lat": 40.37675206023345,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 26888,
+        "lon": -3.7886971562480687,
+        "bike_id": "bicimood_MADRID144",
+        "lat": 40.38981615690327,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.6445600772066618,
+        "bike_id": "bicimood_MADRID145",
+        "lat": 40.40462944660838,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.6817745131770696,
+        "bike_id": "bicimood_MADRID146",
+        "lat": 40.48795830394431,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 48481,
+        "lon": -3.7357850324136987,
+        "bike_id": "bicimood_MADRID147",
+        "lat": 40.324316299475676,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 9896,
+        "lon": -3.797539293422877,
+        "bike_id": "bicimood_MADRID148",
+        "lat": 40.4805719346466,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.725176682304886,
+        "bike_id": "bicimood_MADRID149",
+        "lat": 40.45143968433338,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.734020991662632,
+        "bike_id": "bicimood_MADRID150",
+        "lat": 40.392298473728765,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 52294,
+        "lon": -3.6946155039749273,
+        "bike_id": "bicimood_MADRID151",
+        "lat": 40.47148098810306,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.768606582564602,
+        "bike_id": "bicimood_MADRID152",
+        "lat": 40.38890505714392,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.600443041625353,
+        "bike_id": "bicimood_MADRID153",
+        "lat": 40.424249895422975,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.7551552038656086,
+        "bike_id": "bicimood_MADRID154",
+        "lat": 40.45088738188122,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.625350778835998,
+        "bike_id": "bicimood_MADRID155",
+        "lat": 40.31606020981808,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.7625069852589665,
+        "bike_id": "bicimood_MADRID156",
+        "lat": 40.498154133380766,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 50274,
+        "lon": -3.6405339884363115,
+        "bike_id": "bicimood_MADRID157",
+        "lat": 40.34290765002272,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 77360,
+        "lon": -3.6718228694708626,
+        "bike_id": "bicimood_MADRID158",
+        "lat": 40.33233689228035,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.7237493822233128,
+        "bike_id": "bicimood_MADRID159",
+        "lat": 40.37720296926468,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 16512,
+        "lon": -3.779675285324983,
+        "bike_id": "bicimood_MADRID160",
+        "lat": 40.49980946782274,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.663475220478831,
+        "bike_id": "bicimood_MADRID161",
+        "lat": 40.419953260873896,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.7522765427772677,
+        "bike_id": "bicimood_MADRID162",
+        "lat": 40.47222470196883,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 18235,
+        "lon": -3.714420781225039,
+        "bike_id": "bicimood_MADRID163",
+        "lat": 40.35591263877255,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.67680917879785,
+        "bike_id": "bicimood_MADRID164",
+        "lat": 40.45491553170922,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.678686989454338,
+        "bike_id": "bicimood_MADRID165",
+        "lat": 40.3757075577077,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 11607,
+        "lon": -3.7370256011619762,
+        "bike_id": "bicimood_MADRID166",
+        "lat": 40.34437277600169,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.7153295415096963,
+        "bike_id": "bicimood_MADRID167",
+        "lat": 40.338938688136444,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.6594587247441988,
+        "bike_id": "bicimood_MADRID168",
+        "lat": 40.37744412541092,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 46749,
+        "lon": -3.6758240855847366,
+        "bike_id": "bicimood_MADRID169",
+        "lat": 40.32796362944225,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.6692983591365396,
+        "bike_id": "bicimood_MADRID170",
+        "lat": 40.30970646339475,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.7092820169025598,
+        "bike_id": "bicimood_MADRID171",
+        "lat": 40.3664649289905,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.677107388120078,
+        "bike_id": "bicimood_MADRID172",
+        "lat": 40.395949758235645,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.7582871276774696,
+        "bike_id": "bicimood_MADRID173",
+        "lat": 40.46724213730757,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 45998,
+        "lon": -3.7899985251434405,
+        "bike_id": "bicimood_MADRID174",
+        "lat": 40.375647565895974,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.783280622246607,
+        "bike_id": "bicimood_MADRID175",
+        "lat": 40.49849496697673,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.6497475892605835,
+        "bike_id": "bicimood_MADRID176",
+        "lat": 40.48250094782208,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 65049,
+        "lon": -3.75015538883391,
+        "bike_id": "bicimood_MADRID177",
+        "lat": 40.48044395719183,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 31067,
+        "lon": -3.6172866872413736,
+        "bike_id": "bicimood_MADRID178",
+        "lat": 40.43098695706176,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 33835,
+        "lon": -3.732690451899427,
+        "bike_id": "bicimood_MADRID179",
+        "lat": 40.49571828477098,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 14591,
+        "lon": -3.757853581874283,
+        "bike_id": "bicimood_MADRID180",
+        "lat": 40.454355352891966,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.7269638597309283,
+        "bike_id": "bicimood_MADRID181",
+        "lat": 40.3057016352639,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 11992,
+        "lon": -3.609342891955876,
+        "bike_id": "bicimood_MADRID182",
+        "lat": 40.4092282523654,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.799388688233828,
+        "bike_id": "bicimood_MADRID183",
+        "lat": 40.499485054027325,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 75480,
+        "lon": -3.7737676986522053,
+        "bike_id": "bicimood_MADRID184",
+        "lat": 40.39004669379856,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.6428366116805084,
+        "bike_id": "bicimood_MADRID185",
+        "lat": 40.44706059114961,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 62395,
+        "lon": -3.6799809628810407,
+        "bike_id": "bicimood_MADRID186",
+        "lat": 40.39339090808221,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.6103331725322425,
+        "bike_id": "bicimood_MADRID187",
+        "lat": 40.372622607852925,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.7064923984621307,
+        "bike_id": "bicimood_MADRID188",
+        "lat": 40.48163796310449,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 59234,
+        "lon": -3.706489995931371,
+        "bike_id": "bicimood_MADRID189",
+        "lat": 40.4957714752033,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.725776751098866,
+        "bike_id": "bicimood_MADRID190",
+        "lat": 40.354151184985234,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 29357,
+        "lon": -3.7388358329628706,
+        "bike_id": "bicimood_MADRID191",
+        "lat": 40.44633027896491,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 56991,
+        "lon": -3.6936731223893275,
+        "bike_id": "bicimood_MADRID192",
+        "lat": 40.432317414726604,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 62341,
+        "lon": -3.7367955283861822,
+        "bike_id": "bicimood_MADRID193",
+        "lat": 40.446197399052544,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.73130216366391,
+        "bike_id": "bicimood_MADRID194",
+        "lat": 40.48138182632,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.688219266384848,
+        "bike_id": "bicimood_MADRID195",
+        "lat": 40.47087648579422,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 57343,
+        "lon": -3.7332544692811798,
+        "bike_id": "bicimood_MADRID196",
+        "lat": 40.32613352501834,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.686482282272979,
+        "bike_id": "bicimood_MADRID197",
+        "lat": 40.37717506366201,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.7916231084262515,
+        "bike_id": "bicimood_MADRID198",
+        "lat": 40.45500794574601,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 63296,
+        "lon": -3.772081707452822,
+        "bike_id": "bicimood_MADRID199",
+        "lat": 40.36509216286352,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.744615879033529,
+        "bike_id": "bicimood_MADRID200",
+        "lat": 40.42980887631708,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.7659175403685734,
+        "bike_id": "bicimood_MADRID201",
+        "lat": 40.39723832870038,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 72107,
+        "lon": -3.678792442337539,
+        "bike_id": "bicimood_MADRID202",
+        "lat": 40.36199908790859,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.7751902489664193,
+        "bike_id": "bicimood_MADRID203",
+        "lat": 40.335983096715154,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 33778,
+        "lon": -3.6808014571880254,
+        "bike_id": "bicimood_MADRID204",
+        "lat": 40.44571171578804,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 61025,
+        "lon": -3.7263610861499195,
+        "bike_id": "bicimood_MADRID205",
+        "lat": 40.309297405753036,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 11328,
+        "lon": -3.7615213568641828,
+        "bike_id": "bicimood_MADRID206",
+        "lat": 40.3191004852337,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 10080,
+        "lon": -3.6096933572450975,
+        "bike_id": "bicimood_MADRID207",
+        "lat": 40.35660253787064,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 60885,
+        "lon": -3.79158180379756,
+        "bike_id": "bicimood_MADRID208",
+        "lat": 40.385464523745696,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 68047,
+        "lon": -3.715994410335339,
+        "bike_id": "bicimood_MADRID209",
+        "lat": 40.411047283828566,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 14993,
+        "lon": -3.6633979352225805,
+        "bike_id": "bicimood_MADRID210",
+        "lat": 40.42331288194658,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 5226,
+        "lon": -3.7075221972919827,
+        "bike_id": "bicimood_MADRID211",
+        "lat": 40.39001830998522,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.679036044665321,
+        "bike_id": "bicimood_MADRID212",
+        "lat": 40.40918690274308,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.7465208007893476,
+        "bike_id": "bicimood_MADRID213",
+        "lat": 40.39266081427494,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 42136,
+        "lon": -3.637785113597132,
+        "bike_id": "bicimood_MADRID214",
+        "lat": 40.3961374030621,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.7392112093245324,
+        "bike_id": "bicimood_MADRID215",
+        "lat": 40.48508866695599,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.72568661928115,
+        "bike_id": "bicimood_MADRID216",
+        "lat": 40.34086224605,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 73007,
+        "lon": -3.794062000751413,
+        "bike_id": "bicimood_MADRID217",
+        "lat": 40.468393777016075,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.7246590266745447,
+        "bike_id": "bicimood_MADRID218",
+        "lat": 40.481965131374466,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 12446,
+        "lon": -3.7347086774728053,
+        "bike_id": "bicimood_MADRID219",
+        "lat": 40.459857152094415,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 49567,
+        "lon": -3.720575513358568,
+        "bike_id": "bicimood_MADRID220",
+        "lat": 40.38399867250147,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 43219,
+        "lon": -3.6935880158055756,
+        "bike_id": "bicimood_MADRID221",
+        "lat": 40.41314651184907,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 77688,
+        "lon": -3.6832359469073817,
+        "bike_id": "bicimood_MADRID222",
+        "lat": 40.30582317294038,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.6954434739748834,
+        "bike_id": "bicimood_MADRID223",
+        "lat": 40.39185191925223,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.650082696676318,
+        "bike_id": "bicimood_MADRID224",
+        "lat": 40.34428174897648,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 17275,
+        "lon": -3.6345335202546756,
+        "bike_id": "bicimood_MADRID225",
+        "lat": 40.370801039096065,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.772507371461686,
+        "bike_id": "bicimood_MADRID226",
+        "lat": 40.39756409173932,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.716918815274603,
+        "bike_id": "bicimood_MADRID227",
+        "lat": 40.417795362553406,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 29446,
+        "lon": -3.7046968516379226,
+        "bike_id": "bicimood_MADRID228",
+        "lat": 40.34758498350525,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 4304,
+        "lon": -3.683437034011426,
+        "bike_id": "bicimood_MADRID229",
+        "lat": 40.47768770359344,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 47431,
+        "lon": -3.7369010255910875,
+        "bike_id": "bicimood_MADRID230",
+        "lat": 40.33512559157508,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.7723671156126457,
+        "bike_id": "bicimood_MADRID231",
+        "lat": 40.353816843376514,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 48934,
+        "lon": -3.6334012616269966,
+        "bike_id": "bicimood_MADRID232",
+        "lat": 40.4411010482864,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.607305261423802,
+        "bike_id": "bicimood_MADRID233",
+        "lat": 40.430508720660946,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.73685144073756,
+        "bike_id": "bicimood_MADRID234",
+        "lat": 40.310482260857704,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.7146828608165983,
+        "bike_id": "bicimood_MADRID235",
+        "lat": 40.309123044417795,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 6236,
+        "lon": -3.7635006207203205,
+        "bike_id": "bicimood_MADRID236",
+        "lat": 40.49999425709928,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.792970106888294,
+        "bike_id": "bicimood_MADRID237",
+        "lat": 40.32570509322965,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 23375,
+        "lon": -3.740255725772424,
+        "bike_id": "bicimood_MADRID238",
+        "lat": 40.427284217966495,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.740103386229647,
+        "bike_id": "bicimood_MADRID239",
+        "lat": 40.35135493417503,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.682194193063595,
+        "bike_id": "bicimood_MADRID240",
+        "lat": 40.30004825479344,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.771799701627395,
+        "bike_id": "bicimood_MADRID241",
+        "lat": 40.412882739987595,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.756392832288929,
+        "bike_id": "bicimood_MADRID242",
+        "lat": 40.4964250587528,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 34945,
+        "lon": -3.6311140642378583,
+        "bike_id": "bicimood_MADRID243",
+        "lat": 40.358136995121356,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 21969,
+        "lon": -3.673425260820551,
+        "bike_id": "bicimood_MADRID244",
+        "lat": 40.35795224623821,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 13143,
+        "lon": -3.661555247052821,
+        "bike_id": "bicimood_MADRID245",
+        "lat": 40.381567660138906,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.7165006478785374,
+        "bike_id": "bicimood_MADRID246",
+        "lat": 40.305708809662406,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.7783733007115297,
+        "bike_id": "bicimood_MADRID247",
+        "lat": 40.46582687679703,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 70972,
+        "lon": -3.7910303336185316,
+        "bike_id": "bicimood_MADRID248",
+        "lat": 40.377502797679995,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.6565313682077925,
+        "bike_id": "bicimood_MADRID249",
+        "lat": 40.305197286996595,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 4523,
+        "lon": -3.7012715687116793,
+        "bike_id": "bicimood_MADRID250",
+        "lat": 40.475155154486764,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 24733,
+        "lon": -3.6687130289760863,
+        "bike_id": "bicimood_MADRID251",
+        "lat": 40.42380025381966,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.620390384410738,
+        "bike_id": "bicimood_MADRID252",
+        "lat": 40.319494720110534,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 42693,
+        "lon": -3.695654414795042,
+        "bike_id": "bicimood_MADRID253",
+        "lat": 40.322591063088005,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 58330,
+        "lon": -3.7205511500800075,
+        "bike_id": "bicimood_MADRID254",
+        "lat": 40.3830982267139,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 23033,
+        "lon": -3.669033258926545,
+        "bike_id": "bicimood_MADRID255",
+        "lat": 40.46947106694143,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.7876605290476255,
+        "bike_id": "bicimood_MADRID256",
+        "lat": 40.430166105234164,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 13163,
+        "lon": -3.7713474445836987,
+        "bike_id": "bicimood_MADRID257",
+        "lat": 40.40413574396372,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 69639,
+        "lon": -3.799430916810023,
+        "bike_id": "bicimood_MADRID258",
+        "lat": 40.35025375462526,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 65608,
+        "lon": -3.7294818513548442,
+        "bike_id": "bicimood_MADRID259",
+        "lat": 40.436806508245404,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 38227,
+        "lon": -3.672896670588334,
+        "bike_id": "bicimood_MADRID260",
+        "lat": 40.33240274075781,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 50895,
+        "lon": -3.6397311260424177,
+        "bike_id": "bicimood_MADRID261",
+        "lat": 40.46868481061478,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.656277692383074,
+        "bike_id": "bicimood_MADRID262",
+        "lat": 40.489125509661655,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.6545365577941054,
+        "bike_id": "bicimood_MADRID263",
+        "lat": 40.35284835077823,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 19645,
+        "lon": -3.7081963551379373,
+        "bike_id": "bicimood_MADRID264",
+        "lat": 40.362759549496836,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 20718,
+        "lon": -3.774187172595344,
+        "bike_id": "bicimood_MADRID265",
+        "lat": 40.493235754562946,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 37949,
+        "lon": -3.683752499089414,
+        "bike_id": "bicimood_MADRID266",
+        "lat": 40.33770823933872,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.607987244624307,
+        "bike_id": "bicimood_MADRID267",
+        "lat": 40.38279984620707,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 71479,
+        "lon": -3.6525461579902627,
+        "bike_id": "bicimood_MADRID268",
+        "lat": 40.356039610252424,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.7070749639660017,
+        "bike_id": "bicimood_MADRID269",
+        "lat": 40.42458507668124,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.7833762193859273,
+        "bike_id": "bicimood_MADRID270",
+        "lat": 40.462365938245625,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.6698755978465267,
+        "bike_id": "bicimood_MADRID271",
+        "lat": 40.33438724697729,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 9847,
+        "lon": -3.7325730368279846,
+        "bike_id": "bicimood_MADRID272",
+        "lat": 40.49194461141368,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 15687,
+        "lon": -3.672246687913776,
+        "bike_id": "bicimood_MADRID273",
+        "lat": 40.41872151824764,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.6831999028159195,
+        "bike_id": "bicimood_MADRID274",
+        "lat": 40.322604681856674,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 78215,
+        "lon": -3.7003637507395792,
+        "bike_id": "bicimood_MADRID275",
+        "lat": 40.46501288193566,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.6127012255118722,
+        "bike_id": "bicimood_MADRID276",
+        "lat": 40.41151891701928,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.714133992473106,
+        "bike_id": "bicimood_MADRID277",
+        "lat": 40.37570525528829,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.6479646268580725,
+        "bike_id": "bicimood_MADRID278",
+        "lat": 40.38943490757965,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.6505772938454295,
+        "bike_id": "bicimood_MADRID279",
+        "lat": 40.33691843363783,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.6049216307440304,
+        "bike_id": "bicimood_MADRID280",
+        "lat": 40.33507421030367,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 14892,
+        "lon": -3.7875415537362445,
+        "bike_id": "bicimood_MADRID281",
+        "lat": 40.30822466545378,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.6682883365267545,
+        "bike_id": "bicimood_MADRID282",
+        "lat": 40.328796773929916,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.751201414423435,
+        "bike_id": "bicimood_MADRID283",
+        "lat": 40.421335657292246,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 32734,
+        "lon": -3.6282993125753675,
+        "bike_id": "bicimood_MADRID284",
+        "lat": 40.34652141037688,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.6813629680620252,
+        "bike_id": "bicimood_MADRID285",
+        "lat": 40.31287581064535,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 45769,
+        "lon": -3.738313877929801,
+        "bike_id": "bicimood_MADRID286",
+        "lat": 40.38491041750476,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 24517,
+        "lon": -3.7581985456538485,
+        "bike_id": "bicimood_MADRID287",
+        "lat": 40.37151493000695,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.6155800026934326,
+        "bike_id": "bicimood_MADRID288",
+        "lat": 40.31560692198605,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.795151590335491,
+        "bike_id": "bicimood_MADRID289",
+        "lat": 40.48201983080242,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.6970446258605234,
+        "bike_id": "bicimood_MADRID290",
+        "lat": 40.34308051536118,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 73103,
+        "lon": -3.7947181553338165,
+        "bike_id": "bicimood_MADRID291",
+        "lat": 40.391295974296234,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.719375864341345,
+        "bike_id": "bicimood_MADRID292",
+        "lat": 40.435695557668474,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 8790,
+        "lon": -3.768049227633709,
+        "bike_id": "bicimood_MADRID293",
+        "lat": 40.33626670171732,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 71368,
+        "lon": -3.7208361908684466,
+        "bike_id": "bicimood_MADRID294",
+        "lat": 40.34656922026992,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.7628706319558716,
+        "bike_id": "bicimood_MADRID295",
+        "lat": 40.45486042942682,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 77984,
+        "lon": -3.760292618218861,
+        "bike_id": "bicimood_MADRID296",
+        "lat": 40.43022432734193,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.709405722754636,
+        "bike_id": "bicimood_MADRID297",
+        "lat": 40.47656170694756,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.787571575191498,
+        "bike_id": "bicimood_MADRID298",
+        "lat": 40.4476295961485,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.747055685957432,
+        "bike_id": "bicimood_MADRID299",
+        "lat": 40.48041510138836,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 70779,
+        "lon": -3.631471889531579,
+        "bike_id": "bicimood_MADRID300",
+        "lat": 40.41697638831535,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.7280051800726612,
+        "bike_id": "bicimood_MADRID301",
+        "lat": 40.37299510145935,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.6735944758139527,
+        "bike_id": "bicimood_MADRID302",
+        "lat": 40.36514351812243,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 20617,
+        "lon": -3.67404990069524,
+        "bike_id": "bicimood_MADRID303",
+        "lat": 40.42249329370179,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.6702667620681777,
+        "bike_id": "bicimood_MADRID304",
+        "lat": 40.46580987164947,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.6459459572053836,
+        "bike_id": "bicimood_MADRID305",
+        "lat": 40.306665252943944,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.7703554458753703,
+        "bike_id": "bicimood_MADRID306",
+        "lat": 40.46905482370593,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.7782499886444176,
+        "bike_id": "bicimood_MADRID307",
+        "lat": 40.46454116912905,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 38157,
+        "lon": -3.717462356924449,
+        "bike_id": "bicimood_MADRID308",
+        "lat": 40.379997538407146,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 41451,
+        "lon": -3.725329190875329,
+        "bike_id": "bicimood_MADRID309",
+        "lat": 40.312712251919706,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 53944,
+        "lon": -3.6999305763034833,
+        "bike_id": "bicimood_MADRID310",
+        "lat": 40.439045847076414,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.7706949735975885,
+        "bike_id": "bicimood_MADRID311",
+        "lat": 40.3810303481247,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 49496,
+        "lon": -3.773959215878306,
+        "bike_id": "bicimood_MADRID312",
+        "lat": 40.49694199970694,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.793902734494582,
+        "bike_id": "bicimood_MADRID313",
+        "lat": 40.32703151438341,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 23096,
+        "lon": -3.6834735360804083,
+        "bike_id": "bicimood_MADRID314",
+        "lat": 40.3966973308495,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.7454310426847184,
+        "bike_id": "bicimood_MADRID315",
+        "lat": 40.414601731671006,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.627038334481311,
+        "bike_id": "bicimood_MADRID316",
+        "lat": 40.462684378012504,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 32206,
+        "lon": -3.6979953000346266,
+        "bike_id": "bicimood_MADRID317",
+        "lat": 40.411528985611824,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 52344,
+        "lon": -3.73672762762117,
+        "bike_id": "bicimood_MADRID318",
+        "lat": 40.35463086804952,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.7064602884250704,
+        "bike_id": "bicimood_MADRID319",
+        "lat": 40.444178872804656,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 38474,
+        "lon": -3.7459306005893227,
+        "bike_id": "bicimood_MADRID320",
+        "lat": 40.418511267785036,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.7858947259599014,
+        "bike_id": "bicimood_MADRID321",
+        "lat": 40.31718500716924,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 78572,
+        "lon": -3.6739238667972427,
+        "bike_id": "bicimood_MADRID322",
+        "lat": 40.305425439847006,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.720716133649969,
+        "bike_id": "bicimood_MADRID323",
+        "lat": 40.4887998190596,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 39958,
+        "lon": -3.6525366275805555,
+        "bike_id": "bicimood_MADRID324",
+        "lat": 40.397472645182496,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.7397957747095174,
+        "bike_id": "bicimood_MADRID325",
+        "lat": 40.49075344249792,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 15727,
+        "lon": -3.750085982712305,
+        "bike_id": "bicimood_MADRID326",
+        "lat": 40.31205571438886,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.751165585097988,
+        "bike_id": "bicimood_MADRID327",
+        "lat": 40.30766520958106,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.759950708694338,
+        "bike_id": "bicimood_MADRID328",
+        "lat": 40.470998852163675,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 71453,
+        "lon": -3.694941387869902,
+        "bike_id": "bicimood_MADRID329",
+        "lat": 40.31841794163105,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 32750,
+        "lon": -3.7135051517052635,
+        "bike_id": "bicimood_MADRID330",
+        "lat": 40.47483573348791,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 71120,
+        "lon": -3.62140260093017,
+        "bike_id": "bicimood_MADRID331",
+        "lat": 40.38205788121483,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 7877,
+        "lon": -3.7843474703889313,
+        "bike_id": "bicimood_MADRID332",
+        "lat": 40.37549941563393,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 38723,
+        "lon": -3.638235329692166,
+        "bike_id": "bicimood_MADRID333",
+        "lat": 40.43373003493794,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 24509,
+        "lon": -3.7817957539200253,
+        "bike_id": "bicimood_MADRID334",
+        "lat": 40.34360412026348,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 6708,
+        "lon": -3.7692553152152772,
+        "bike_id": "bicimood_MADRID335",
+        "lat": 40.326438295057855,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 42725,
+        "lon": -3.7346011731950037,
+        "bike_id": "bicimood_MADRID336",
+        "lat": 40.42646974802907,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 69440,
+        "lon": -3.6522339595535165,
+        "bike_id": "bicimood_MADRID337",
+        "lat": 40.46087219941789,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 13979,
+        "lon": -3.762924212688833,
+        "bike_id": "bicimood_MADRID338",
+        "lat": 40.35725388546874,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.690899249296538,
+        "bike_id": "bicimood_MADRID339",
+        "lat": 40.345429710691235,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.6344282416147884,
+        "bike_id": "bicimood_MADRID340",
+        "lat": 40.313864152841774,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.6052986830702967,
+        "bike_id": "bicimood_MADRID341",
+        "lat": 40.42664907746678,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.747445488929809,
+        "bike_id": "bicimood_MADRID342",
+        "lat": 40.35197192114291,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 20443,
+        "lon": -3.638775504380074,
+        "bike_id": "bicimood_MADRID343",
+        "lat": 40.40554561900258,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.7861317418243288,
+        "bike_id": "bicimood_MADRID344",
+        "lat": 40.42570931064674,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.636491507532729,
+        "bike_id": "bicimood_MADRID345",
+        "lat": 40.44403357236402,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 75788,
+        "lon": -3.6411168959234628,
+        "bike_id": "bicimood_MADRID346",
+        "lat": 40.450013290944106,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 9752,
+        "lon": -3.676793602562838,
+        "bike_id": "bicimood_MADRID347",
+        "lat": 40.490748489711116,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.6029629774774263,
+        "bike_id": "bicimood_MADRID348",
+        "lat": 40.3107323804064,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.71520211834136,
+        "bike_id": "bicimood_MADRID349",
+        "lat": 40.390380376632876,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 8911,
+        "lon": -3.73433886765929,
+        "bike_id": "bicimood_MADRID350",
+        "lat": 40.40681468253211,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.707828094411282,
+        "bike_id": "bicimood_MADRID351",
+        "lat": 40.37647104568542,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.695045738795102,
+        "bike_id": "bicimood_MADRID352",
+        "lat": 40.333209444686574,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 34944,
+        "lon": -3.6256687219145585,
+        "bike_id": "bicimood_MADRID353",
+        "lat": 40.43854585493381,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 61081,
+        "lon": -3.6994971923747846,
+        "bike_id": "bicimood_MADRID354",
+        "lat": 40.40597156590489,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 73248,
+        "lon": -3.789878362308418,
+        "bike_id": "bicimood_MADRID355",
+        "lat": 40.420352328311395,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.6755930449868885,
+        "bike_id": "bicimood_MADRID356",
+        "lat": 40.367571349639014,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 45376,
+        "lon": -3.629503268997855,
+        "bike_id": "bicimood_MADRID357",
+        "lat": 40.31522196021133,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.62071226830345,
+        "bike_id": "bicimood_MADRID358",
+        "lat": 40.37480348361374,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.6769128766639443,
+        "bike_id": "bicimood_MADRID359",
+        "lat": 40.37965730041281,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.725903481764568,
+        "bike_id": "bicimood_MADRID360",
+        "lat": 40.35128165393398,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 19346,
+        "lon": -3.7344618787791237,
+        "bike_id": "bicimood_MADRID361",
+        "lat": 40.34872372438493,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 40147,
+        "lon": -3.6047550459991133,
+        "bike_id": "bicimood_MADRID362",
+        "lat": 40.45885641514319,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 5846,
+        "lon": -3.628349823888366,
+        "bike_id": "bicimood_MADRID363",
+        "lat": 40.389590754332254,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 34815,
+        "lon": -3.7166377270619777,
+        "bike_id": "bicimood_MADRID364",
+        "lat": 40.45093362022674,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 59735,
+        "lon": -3.7411500778404263,
+        "bike_id": "bicimood_MADRID365",
+        "lat": 40.40120780653053,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 55077,
+        "lon": -3.6549019139742622,
+        "bike_id": "bicimood_MADRID366",
+        "lat": 40.424881605071946,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.7368947057535857,
+        "bike_id": "bicimood_MADRID367",
+        "lat": 40.40519096210907,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.6466282451127547,
+        "bike_id": "bicimood_MADRID368",
+        "lat": 40.32065744418925,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.609239461668384,
+        "bike_id": "bicimood_MADRID369",
+        "lat": 40.404993679900045,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.6815190256985644,
+        "bike_id": "bicimood_MADRID370",
+        "lat": 40.46905900412345,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 14806,
+        "lon": -3.6318999773921212,
+        "bike_id": "bicimood_MADRID371",
+        "lat": 40.38985711333859,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 6328,
+        "lon": -3.786285048608305,
+        "bike_id": "bicimood_MADRID372",
+        "lat": 40.32091345472484,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.6084798800321174,
+        "bike_id": "bicimood_MADRID373",
+        "lat": 40.304948771924934,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 51042,
+        "lon": -3.619825437526186,
+        "bike_id": "bicimood_MADRID374",
+        "lat": 40.44960344965261,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.6802734507218005,
+        "bike_id": "bicimood_MADRID375",
+        "lat": 40.39622200586738,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.695168828554648,
+        "bike_id": "bicimood_MADRID376",
+        "lat": 40.34773316795375,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": false,
+        "lon": -3.7668117757529767,
+        "bike_id": "bicimood_MADRID377",
+        "lat": 40.44816824137144,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 8900,
+        "lon": -3.790131597629749,
+        "bike_id": "bicimood_MADRID378",
+        "lat": 40.31440006612128,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 43634,
+        "lon": -3.6421747260026276,
+        "bike_id": "bicimood_MADRID379",
+        "lat": 40.37370500639619,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.7840951276754833,
+        "bike_id": "bicimood_MADRID380",
+        "lat": 40.428093761610405,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.7189326053891856,
+        "bike_id": "bicimood_MADRID381",
+        "lat": 40.3207858684168,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 46967,
+        "lon": -3.6201162083194287,
+        "bike_id": "bicimood_MADRID382",
+        "lat": 40.480282296373865,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 47218,
+        "lon": -3.6999913274288825,
+        "bike_id": "bicimood_MADRID383",
+        "lat": 40.323214996269,
+        "pricing_plan_id": "bicimood_plan_2"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.7262394204749345,
+        "bike_id": "bicimood_MADRID384",
+        "lat": 40.49373652705737,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": false,
+        "current_range_meters": 41738,
+        "lon": -3.6036271714379464,
+        "bike_id": "bicimood_MADRID385",
+        "lat": 40.48484802709934,
+        "pricing_plan_id": "bicimood_plan_1"
+      },
+      {
+        "is_reserved": true,
+        "vehicle_type_id": "bicimood_bike",
+        "is_disabled": true,
+        "lon": -3.6789338304743455,
+        "bike_id": "bicimood_MADRID386",
+        "lat": 40.31030472599022,
+        "pricing_plan_id": "bicimood_plan_3"
+      },
+      {
+        "is_reserved": false,
+        "vehicle_type_id": "bicimood_electric_bike",
+        "is_disabled": true,
+        "current_range_meters": 50212,
+        "lon": -3.6240218621190388,
+        "bike_id": "bicimood_MADRID387",
+        "lat": 40.49489854107621,
+        "pricing_plan_id": "bicimood_plan_2"
+      }
+    ]
+  },
+  "ttl": 180,
+  "version": "2.3"
+}

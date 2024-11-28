@@ -1,0 +1,324 @@
+{
+  "last_updated": 1732819783,
+  "data": {
+    "stations": [
+      {
+        "station_id": "bicimood_station_MADRID001",
+        "name": "Station 1",
+        "lon": -3.797569323996485,
+        "lat": 40.32435472166282,
+        "capacity": 19
+      },
+      {
+        "station_id": "bicimood_station_MADRID002",
+        "name": "Station 2",
+        "lon": -3.6405545269406003,
+        "lat": 40.44491859331533,
+        "capacity": 35
+      },
+      {
+        "station_id": "bicimood_station_MADRID003",
+        "name": "Station 3",
+        "lon": -3.7528091936462014,
+        "lat": 40.33595655425527,
+        "capacity": 39
+      },
+      {
+        "station_id": "bicimood_station_MADRID004",
+        "name": "Station 4",
+        "lon": -3.602723515010756,
+        "lat": 40.37762455022955,
+        "capacity": 18
+      },
+      {
+        "station_id": "bicimood_station_MADRID005",
+        "name": "Station 5",
+        "lon": -3.6099855232205633,
+        "lat": 40.38263825174724,
+        "capacity": 33
+      },
+      {
+        "station_id": "bicimood_station_MADRID006",
+        "name": "Station 6",
+        "lon": -3.780253838079673,
+        "lat": 40.46296532851216,
+        "capacity": 33
+      },
+      {
+        "station_id": "bicimood_station_MADRID007",
+        "name": "Station 7",
+        "lon": -3.7986215450972294,
+        "lat": 40.39124466976127,
+        "capacity": 27
+      },
+      {
+        "station_id": "bicimood_station_MADRID008",
+        "name": "Station 8",
+        "lon": -3.6269441878306528,
+        "lat": 40.33115295342243,
+        "capacity": 33
+      },
+      {
+        "station_id": "bicimood_station_MADRID009",
+        "name": "Station 9",
+        "lon": -3.7404644645697096,
+        "lat": 40.45054633045957,
+        "capacity": 35
+      },
+      {
+        "station_id": "bicimood_station_MADRID010",
+        "name": "Station 10",
+        "lon": -3.7792579057757347,
+        "lat": 40.342029804752606,
+        "capacity": 23
+      },
+      {
+        "station_id": "bicimood_station_MADRID011",
+        "name": "Station 11",
+        "lon": -3.625174046318258,
+        "lat": 40.42023702846559,
+        "capacity": 36
+      },
+      {
+        "station_id": "bicimood_station_MADRID012",
+        "name": "Station 12",
+        "lon": -3.706609691815639,
+        "lat": 40.32163884133182,
+        "capacity": 10
+      },
+      {
+        "station_id": "bicimood_station_MADRID013",
+        "name": "Station 13",
+        "lon": -3.66898581233019,
+        "lat": 40.48903651326185,
+        "capacity": 28
+      },
+      {
+        "station_id": "bicimood_station_MADRID014",
+        "name": "Station 14",
+        "lon": -3.6686224718147513,
+        "lat": 40.443345330303394,
+        "capacity": 24
+      },
+      {
+        "station_id": "bicimood_station_MADRID015",
+        "name": "Station 15",
+        "lon": -3.762822780426,
+        "lat": 40.36039413537474,
+        "capacity": 24
+      },
+      {
+        "station_id": "bicimood_station_MADRID016",
+        "name": "Station 16",
+        "lon": -3.686580186656284,
+        "lat": 40.36249691889503,
+        "capacity": 30
+      },
+      {
+        "station_id": "bicimood_station_MADRID017",
+        "name": "Station 17",
+        "lon": -3.701581216809668,
+        "lat": 40.379484546123926,
+        "capacity": 30
+      },
+      {
+        "station_id": "bicimood_station_MADRID018",
+        "name": "Station 18",
+        "lon": -3.632777126215622,
+        "lat": 40.43509467034655,
+        "capacity": 19
+      },
+      {
+        "station_id": "bicimood_station_MADRID019",
+        "name": "Station 19",
+        "lon": -3.735991714986014,
+        "lat": 40.37401667069253,
+        "capacity": 47
+      },
+      {
+        "station_id": "bicimood_station_MADRID020",
+        "name": "Station 20",
+        "lon": -3.718235982667501,
+        "lat": 40.37936403417586,
+        "capacity": 21
+      },
+      {
+        "station_id": "bicimood_station_MADRID021",
+        "name": "Station 21",
+        "lon": -3.6100298097095194,
+        "lat": 40.34226249438506,
+        "capacity": 27
+      },
+      {
+        "station_id": "bicimood_station_MADRID022",
+        "name": "Station 22",
+        "lon": -3.725253313353933,
+        "lat": 40.330030336615586,
+        "capacity": 34
+      },
+      {
+        "station_id": "bicimood_station_MADRID023",
+        "name": "Station 23",
+        "lon": -3.6250241283321873,
+        "lat": 40.358730139271934,
+        "capacity": 24
+      },
+      {
+        "station_id": "bicimood_station_MADRID024",
+        "name": "Station 24",
+        "lon": -3.731527018426145,
+        "lat": 40.3540925735254,
+        "capacity": 14
+      },
+      {
+        "station_id": "bicimood_station_MADRID025",
+        "name": "Station 25",
+        "lon": -3.7227042058046873,
+        "lat": 40.440450114630494,
+        "capacity": 16
+      },
+      {
+        "station_id": "bicimood_station_MADRID026",
+        "name": "Station 26",
+        "lon": -3.6058140855331158,
+        "lat": 40.38883028433401,
+        "capacity": 22
+      },
+      {
+        "station_id": "bicimood_station_MADRID027",
+        "name": "Station 27",
+        "lon": -3.7080064919673252,
+        "lat": 40.49688185836439,
+        "capacity": 47
+      },
+      {
+        "station_id": "bicimood_station_MADRID028",
+        "name": "Station 28",
+        "lon": -3.6275769299926344,
+        "lat": 40.414610924889026,
+        "capacity": 16
+      },
+      {
+        "station_id": "bicimood_station_MADRID029",
+        "name": "Station 29",
+        "lon": -3.7456645619711493,
+        "lat": 40.48666105250375,
+        "capacity": 45
+      },
+      {
+        "station_id": "bicimood_station_MADRID030",
+        "name": "Station 30",
+        "lon": -3.7840900379176743,
+        "lat": 40.43215898673341,
+        "capacity": 37
+      },
+      {
+        "station_id": "bicimood_station_MADRID031",
+        "name": "Station 31",
+        "lon": -3.6434596580895695,
+        "lat": 40.476735455938034,
+        "capacity": 34
+      },
+      {
+        "station_id": "bicimood_station_MADRID032",
+        "name": "Station 32",
+        "lon": -3.747838067529788,
+        "lat": 40.49149299501939,
+        "capacity": 24
+      },
+      {
+        "station_id": "bicimood_station_MADRID033",
+        "name": "Station 33",
+        "lon": -3.755554616194724,
+        "lat": 40.32981626457374,
+        "capacity": 49
+      },
+      {
+        "station_id": "bicimood_station_MADRID034",
+        "name": "Station 34",
+        "lon": -3.777172861107721,
+        "lat": 40.381806235985145,
+        "capacity": 17
+      },
+      {
+        "station_id": "bicimood_station_MADRID035",
+        "name": "Station 35",
+        "lon": -3.68047521098103,
+        "lat": 40.47740036472884,
+        "capacity": 20
+      },
+      {
+        "station_id": "bicimood_station_MADRID036",
+        "name": "Station 36",
+        "lon": -3.654946326749724,
+        "lat": 40.35176772841236,
+        "capacity": 46
+      },
+      {
+        "station_id": "bicimood_station_MADRID037",
+        "name": "Station 37",
+        "lon": -3.6966672897327033,
+        "lat": 40.307218468150374,
+        "capacity": 25
+      },
+      {
+        "station_id": "bicimood_station_MADRID038",
+        "name": "Station 38",
+        "lon": -3.7407384636212315,
+        "lat": 40.458573724093846,
+        "capacity": 13
+      },
+      {
+        "station_id": "bicimood_station_MADRID039",
+        "name": "Station 39",
+        "lon": -3.6247073278494395,
+        "lat": 40.3920823047009,
+        "capacity": 40
+      },
+      {
+        "station_id": "bicimood_station_MADRID040",
+        "name": "Station 40",
+        "lon": -3.7247215310535813,
+        "lat": 40.34955604910856,
+        "capacity": 16
+      },
+      {
+        "station_id": "bicimood_station_MADRID041",
+        "name": "Station 41",
+        "lon": -3.6991472996856793,
+        "lat": 40.35723070491333,
+        "capacity": 39
+      },
+      {
+        "station_id": "bicimood_station_MADRID042",
+        "name": "Station 42",
+        "lon": -3.606375424975609,
+        "lat": 40.45899841197378,
+        "capacity": 39
+      },
+      {
+        "station_id": "bicimood_station_MADRID043",
+        "name": "Station 43",
+        "lon": -3.710480578470217,
+        "lat": 40.36130567479077,
+        "capacity": 32
+      },
+      {
+        "station_id": "bicimood_station_MADRID044",
+        "name": "Station 44",
+        "lon": -3.694098215405038,
+        "lat": 40.44158596426823,
+        "capacity": 10
+      },
+      {
+        "station_id": "bicimood_station_MADRID045",
+        "name": "Station 45",
+        "lon": -3.763489753698821,
+        "lat": 40.44162284705895,
+        "capacity": 16
+      }
+    ]
+  },
+  "ttl": 180,
+  "version": "2.3"
+}
